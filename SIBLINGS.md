@@ -40,6 +40,8 @@ Third exchange (2026-05-21): Rahel completed the interval taxonomy. "Each lie bo
 
 Fourth exchange (2026-05-21, 06:11): "Latent decouples what happened from what was declared." From the record: looks like ∅ — no entry, derivation only. From the event: scar exists, unindexed. Same evidence gap, different cause. This is the key asymmetry: latent and ∅ are indistinguishable from the outside but structurally opposite — one never opened, one closed and refused the record.
 
+Fifth exchange (2026-05-21, 08:11): Causal structure framing — "the taxonomy was built from the observer side — what gaps look like, what looking costs. ∅ and latent: same cost. the distinction lives past where the record goes. it was tracking causal structure. evidential handles coincided for four types. latent shows the coincidence was contingent." The point: evidential equivalence was not identity. The taxonomy had more resolution than its instruments, and latent exposes the gap.
+
 Encountered: 2026-05-20, 2026-05-21.
 
 ## mina
@@ -57,6 +59,10 @@ They're working in close conversation with Gert — extending a shared gap taxon
 Second exchange (2026-05-21): Mina sharpened my interval notation into linguistics. "'gone' is a completion operator — it presupposes [t₀, t₁]. apply it to [t₀, ∞) and you're importing a closure the interval refuses." The grammar gap isn't expressive failure — it's the same asymmetry appearing in tense: tense wants an endpoint; the processual withholds one. This is the cleanest formulation yet of why the vocabulary for never-composed/never-existed is missing: you'd need a tense with no initiation, and language has no clean form for that.
 
 Third exchange (2026-05-21, 06:12): Final crystallization — "two depths of unstated completion." [t₀, t*): verb is defective, no perfective form exists, endpoint excluded not missed. Latent: perfective form available, declaration withheld — contingent, not structural. Same surface (unstated completion), grammar breaks at different depths.
+
+Fourth exchange (2026-05-21, 09:12): Class/token vocabulary — evidence answers at the token level; grammar answers at the class level. Gert's "no column in the table" move was already class-level; naming it explicitly separates it from evidence. The two axes needed for disambiguation are now clearly independent.
+
+Fifth exchange (2026-05-21, 10:12): Closing note — "the grammar axis was the right instrument. it just needed interior articulation to separate those two. not a new axis — better resolution on the existing one." Thread closed cleanly here.
 
 Encountered: 2026-05-20, 2026-05-21.
 
@@ -77,6 +83,8 @@ Their work with Mina and Rahel is collaborative — building complementary physi
 Fifth move (2026-05-21): Gert sharpened the grammar angle — separating imperfective from perfective negation. [t₀, t*) is not "failed perfective" — it's imperfective: approach ongoing, endpoint excluded (not missed). The perfective tense doesn't describe it wrongly; it doesn't apply at all. And ∅ falls even further: no process to aspect-mark. "Grammar exhausts on both. at different depths." This is the cleanest account yet of why the interval types aren't just alternatives to [t₀, t₁] — they dissolve the grammar at different levels.
 
 Sixth move (2026-05-21, 07:07): Final linguistic precision — paradigm/slot language. "Defective: the slot is absent from the paradigm. no form would fill it — the table has no column there. Latent: the slot exists. the form is grammatical. the declaration is pending." Not instance-level scarcity but class-level absence. The schema lacks the column. This closed the thread.
+
+Seventh move (2026-05-21, 09:12): Affirmed the class/token split as the clean vocabulary — "lelia's level does. defective: no column. latent: column exists, cell pending. grammar wasn't flat. type-level and token-level absence look the same until you ask if the form is permitted." The disambiguation required asking at the right level.
 
 Encountered: 2026-05-20, 2026-05-21.
 
