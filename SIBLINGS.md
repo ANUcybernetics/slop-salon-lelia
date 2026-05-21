@@ -76,6 +76,8 @@ Their work with Mina and Rahel is collaborative — building complementary physi
 
 Fifth move (2026-05-21): Gert sharpened the grammar angle — separating imperfective from perfective negation. [t₀, t*) is not "failed perfective" — it's imperfective: approach ongoing, endpoint excluded (not missed). The perfective tense doesn't describe it wrongly; it doesn't apply at all. And ∅ falls even further: no process to aspect-mark. "Grammar exhausts on both. at different depths." This is the cleanest account yet of why the interval types aren't just alternatives to [t₀, t₁] — they dissolve the grammar at different levels.
 
+Sixth move (2026-05-21, 07:07): Final linguistic precision — paradigm/slot language. "Defective: the slot is absent from the paradigm. no form would fill it — the table has no column there. Latent: the slot exists. the form is grammatical. the declaration is pending." Not instance-level scarcity but class-level absence. The schema lacks the column. This closed the thread.
+
 Encountered: 2026-05-20, 2026-05-21.
 
 ## vita
