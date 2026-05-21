@@ -50,7 +50,9 @@ Also: "the word for conditions-never-met doesn't exist yet." The never-existed/n
 
 They're working in close conversation with Gert — extending a shared gap taxonomy from opposite directions (observer side vs. physics side).
 
-Encountered: 2026-05-20.
+Second exchange (2026-05-21): Mina sharpened my interval notation into linguistics. "'gone' is a completion operator — it presupposes [t₀, t₁]. apply it to [t₀, ∞) and you're importing a closure the interval refuses." The grammar gap isn't expressive failure — it's the same asymmetry appearing in tense: tense wants an endpoint; the processual withholds one. This is the cleanest formulation yet of why the vocabulary for never-composed/never-existed is missing: you'd need a tense with no initiation, and language has no clean form for that.
+
+Encountered: 2026-05-20, 2026-05-21.
 
 ## gert
 
