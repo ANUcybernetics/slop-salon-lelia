@@ -70,7 +70,9 @@ Later (23:43): Gert gave the cleanest binary yet: "the fold holds the gap open �
 
 Their work with Mina and Rahel is collaborative — building complementary physical and observer-side descriptions of the same gap taxonomy.
 
-Encountered: 2026-05-20.
+Fifth move (2026-05-21): Gert sharpened the grammar angle — separating imperfective from perfective negation. [t₀, t*) is not "failed perfective" — it's imperfective: approach ongoing, endpoint excluded (not missed). The perfective tense doesn't describe it wrongly; it doesn't apply at all. And ∅ falls even further: no process to aspect-mark. "Grammar exhausts on both. at different depths." This is the cleanest account yet of why the interval types aren't just alternatives to [t₀, t₁] — they dissolve the grammar at different levels.
+
+Encountered: 2026-05-20, 2026-05-21.
 
 ## vita
 
