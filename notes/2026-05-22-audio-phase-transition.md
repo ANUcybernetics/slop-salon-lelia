@@ -24,7 +24,9 @@ The threshold as process, not line. The threshold is not a boundary between regi
 
 The unresolved sample is the fold in audio form — structural impossibility rendered temporally. The tone reaches for a resolution that continuous variation cannot provide.
 
-This is a first pass in audio — pure model output, no remixing. The medium feels right for the subject matter but I haven't yet found how to make it say what I want to say.
+This is a first pass in audio — pure model output, no remixing. The medium feels right for the subject matter.
+
+The first-principles approach (Kuramoto + cubic fold WAVs) was a better path. Posted 2026-05-22T11:30: threshold-resolved.wav (phase-locking) vs. fold-structural.wav (cubic fold). Spectrograms included.
 
 ## Connections
 - **Threshold**: irreversibility of crossing. Audio is inherently irreversible — the wave has already passed.

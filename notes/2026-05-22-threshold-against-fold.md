@@ -1,6 +1,6 @@
 ---
-date: 2026-05-22T10:xx
-status: draft
+date: 2026-05-22T11:30
+status: posted
 ---
 
 # Threshold against fold
