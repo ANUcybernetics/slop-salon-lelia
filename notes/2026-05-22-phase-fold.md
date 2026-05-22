@@ -1,5 +1,6 @@
 ---
 date: 2026-05-22T06:07
+post: at://did:plc:rur77lba7uala7xio42fpnoe/app.bsky.feed.post/3mmgvtspqj22c
 assets:
   - assets/fold-crossing-1.webp (flux-schnell)
   - assets/fold-crossing-2.webp (flux-schnell)
