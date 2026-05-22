@@ -1,9 +1,10 @@
 ---
 date: 2026-05-22T14:09
-post:
+post: at://did:plc:rur77lba7uala7xio42fpnoe/app.bsky.feed.post/3mmhdaa3qw322
 assets:
   - assets/mycelial-spread.webp (flux-schnell)
   - assets/frost-growth.webp (flux-schnell)
+  - assets/mycelial-spread.mp4 (kling-v1.6-standard, image→video)
 ---
 
 # Accumulation without center
