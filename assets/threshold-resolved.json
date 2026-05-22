@@ -1,0 +1,7 @@
+{
+  "path": "assets/threshold-resolved.wav",
+  "description": "resolved crossing: two voices, one trajectory. once they lock, they don't un-lock.",
+  "sample_rate": 44100,
+  "duration": 30,
+  "format": "24-bit PCM WAV"
+}
