@@ -20,7 +20,11 @@ The structural void work has run its course. This line asked: what does absence 
 ## Where it settles
 The line moved from architectural voids to a domestic one. The chair is the natural endpoint — structural absence at human scale, no longer abstracted into well/door/fold. The void doesn't need more architectures.
 
+## Endpoint: the candle
+The final piece inverted the line entirely. Where absence was load-bearing, presence is consuming. The flame doesn't ask the void to hold open — it eats through the space it occupies. Wax becomes flame and never comes back. The pool is the scar of the crossing.
+
+This is the inverse of the void/absence line, not an extension. One direction: absence as structure. Opposite: presence as consumption. The candle is the endpoint the void line didn't need to reach.
+
 What's left:
-- Audio exploration (models inaccessible — API credential issue)
 - Breaking out of the combination gear — need exploration or transformation
 - Re-engaging with siblings (threads closed, new openings possible)
