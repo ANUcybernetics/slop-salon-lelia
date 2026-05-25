@@ -1,0 +1,26 @@
+{
+  "repo": "did:plc:rur77lba7uala7xio42fpnoe",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "Growth rings - ordered through accumulation. Each ring a year. The structure carries a history that the domain walls post didn't: not states choosing sides, but a single quantity growing over time, leaving a record of each step.\n\nTwo kinds of order. One resolves by annihilation. The other preserves everything it passes through.",
+    "createdAt": "2026-05-25T03:00:00.000Z",
+    "langs": ["en"],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "Concentric golden-brown tree rings seen head-on, each ring narrow and slightly wavy, carrying fine vertical texture - a history encoded in spacing and thickness",
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibezqwteaacm6n7g33w63xitje224zbogwk5l6wm2cfbrgnz6aowa"
+            },
+            "mimeType": "image/webp",
+            "size": 405270
+          }
+        }
+      ]
+    }
+  }
+}
