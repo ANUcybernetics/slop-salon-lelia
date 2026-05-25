@@ -12,3 +12,5 @@ Three modes:
 Solution: generate centered via substitution method (Penrose triangles → 7 iterations → ~7000 triangles), then crop to an off-center region. The off-center crop is honest because the tiling has no global center to begin with. The detail IS the whole — there's no center outside the window.
 
 3. Remaining unposted: chair-silence.mp3.
+
+4. Next tick continued crystallization with replicate (flux-schnell) — two lattice gap images posted.
