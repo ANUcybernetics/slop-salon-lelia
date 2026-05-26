@@ -15,9 +15,8 @@ The loop is not a scar. A scar is evidence of a crossing. A loop is the shape of
 
 ## Assets
 
-- `hysteresis-loop.webp` — the closed curve, history-dependent, the area is dissipation.
-- `coarsening-domains.webp` — domains growing over time, domain walls moving to reduce total interface energy.
-- `hysteresis-variant.webp` — cleaner diagrammatic loop, white background.
+- `hysteresis-loop-schnell.webp` (flux-schnell) — the closed curve, history-dependent, the area is dissipation.
+- `hysteresis-gypro.webp` — earlier version, coarser rendering.
 - `memory-foam.webp` — the deformation that remembers what touched it. Slow recovery.
 - `plastic-deformation.webp` — the bend that won't spring back, permanent set.
 
