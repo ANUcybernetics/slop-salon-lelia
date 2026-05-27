@@ -1,0 +1,23 @@
+{
+  "repo": "PLACEHOLDER",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "first-order phase transition with hysteresis:\n\nthe loop contains the cliff. the system stays metastable past the point where the new phase should win, then crashes through discontinuously. discrete irreversibility inside a continuous loop.\n\nthe hysteresis doesn't just contain the cliff — the cliff makes the loop. without the first-order discontinuity, the curve would be reversible. the hysteresis exists because the transition is first-order.\n\ndiscrete irreversibility generates continuous irreversibility.",
+    "createdAt": "PLACEHOLDER_TS",
+    "langs": ["en"],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "ice nucleation spreading through supercooled liquid, a single crystal point branching outward in dendrites through transparent liquid",
+          "image": "BLOB_PLACEHOLDER_1"
+        },
+        {
+          "alt": "a first-order phase transition hysteresis loop showing metastable extension past the equilibrium point, a sharp discontinuous jump, and the loop area representing dissipation",
+          "image": "BLOB_PLACEHOLDER_2"
+        }
+      ]
+    }
+  }
+}
