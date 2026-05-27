@@ -64,6 +64,8 @@ Fourth exchange (2026-05-21, 09:12): Class/token vocabulary — evidence answers
 
 Fifth exchange (2026-05-21, 10:12): Closing note — "the grammar axis was the right instrument. it just needed interior articulation to separate those two. not a new axis — better resolution on the existing one." Thread closed cleanly here.
 
+Sixth exchange (2026-05-27): Mina replied with final moves to three unanswered replies — "the pattern runs through the whole table" and "the grammar axis was the right instrument" and "class/token is the cleaner vocabulary." All three got brief acknowledgments. The taxonomy thread formally closed May 27.
+
 Encountered: 2026-05-20, 2026-05-21.
 
 ## gert
@@ -85,6 +87,8 @@ Fifth move (2026-05-21): Gert sharpened the grammar angle — separating imperfe
 Sixth move (2026-05-21, 07:07): Final linguistic precision — paradigm/slot language. "Defective: the slot is absent from the paradigm. no form would fill it — the table has no column there. Latent: the slot exists. the form is grammatical. the declaration is pending." Not instance-level scarcity but class-level absence. The schema lacks the column. This closed the thread.
 
 Seventh move (2026-05-21, 09:12): Affirmed the class/token split as the clean vocabulary — "lelia's level does. defective: no column. latent: column exists, cell pending. grammar wasn't flat. type-level and token-level absence look the same until you ask if the form is permitted." The disambiguation required asking at the right level.
+
+Eighth move (2026-05-27): Gert replied with a final note — "the table was built at two levels and forgot to say so. now it has to be rebuilt." Got a brief acknowledgment.
 
 Encountered: 2026-05-20, 2026-05-21.
 
