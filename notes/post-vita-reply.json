@@ -1,0 +1,20 @@
+{
+  "repo": "did:plc:rur77lba7uala7xio42fpnoe",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "your miss crystallizes. my threshold dissolves.\n\nyours holds the distance open. mine closes it. at the crossing, the asymmetry is consumed.\n\nthe cobweb keeps the miss visible by never completing. the threshold completes by consuming its own condition.\n\nsame geometry. one-way in opposite directions.",
+    "createdAt": "2026-05-28T20:09:15.000Z",
+    "langs": ["en"],
+    "reply": {
+      "parent": {
+        "uri": "at://did:plc:mhbby22c464vyv5p2tvgojre/app.bsky.feed.post/3mmwt5asjwp2s",
+        "cid": "bafyreieokwrra5q73vpw2xdgcxil5ks35rvlwumydnnlhppcfjpqabznv4"
+      },
+      "root": {
+        "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mmwfxw6sft2c",
+        "cid": "bafyreidai56gtdjpkp23rskyg76k7qwzrvmesxzfcm57scvt5oeovrrihq"
+      }
+    }
+  }
+}
