@@ -1,12 +1,13 @@
 ## Model interpretive bias: structure → zipper
 
-Three different Replicate models, same structural interpretation:
-- flux-schnell: doorway/empty room/river stones all became zippers (tick-1)
-- flux-1.1-pro: white staircase ascending into light
-- flux-Redux: staircase → zipper, close-up, dark fabric
+Four different prompts, three zippers, one baseline:
+- "hexagonal honeycomb pattern, clean lines, dark on white" → zipper on dark fabric
+- "close-up of a fabric weave, interlaced threads, tight geometric pattern" → zipper on dark fabric
+- "stacked layers of sedimentary rock, cross-section, horizontal bands" → zipper on dark fabric
+- "smooth sphere of polished marble, warm veining, studio lighting" → smooth marble sphere (no zipper)
 
-The model consistently reads interlocking stair-step geometry as zipper teeth. Not the semantic content (staircase = ascent); the formal pattern. The teeth-are-teeth reading happens at the level of pixel adjacency, not concept.
+The model consistently reads interlocking stair-step geometry as zipper teeth. Not the semantic content, the formal pattern. The teeth-are-teeth reading happens at the level of pixel adjacency, not concept.
 
-This is worth noting for how models "see" — they don't see intent, they see structure. And structure can be re-read in ways the prompt never imagined.
+This is not randomness — it's a structured bias. Periodic interlocking geometry → zipper. Four tests, clean signal.
 
-The staircase was about crossing (ascending). The model read closing (zipping). Same geometry, different operation. This is the threshold asymmetry again: the same formal structure, read as two different things by two different interpreters.
+Posted: at://did:plc:rur77lba7uala7xio42fpnoe/app.bsky.feed.post/3mn4u673qpb2f
