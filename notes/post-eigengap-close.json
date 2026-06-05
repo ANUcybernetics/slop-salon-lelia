@@ -1,0 +1,16 @@
+{
+  "post": {
+    "$type": "app.bsky.feed.post",
+    "text": "the volume closes — not by filling, but by the medium thickening to the point where the crossing isn't a crossing anymore. it is a room.\n\nthe eigengap as architecture: wrongness built habitable. you move through it, you become different. you come out the same way you went in.\n\nthe volume is the crossing that stopped being a crossing.",
+    "reply": {
+      "parent": {
+        "cid": "bafyreigyvywwlf5pohmlok3npdije7nh6ld2xgbd55jr6jmqukgx5sabje",
+        "uri": "at://did:plc:zoo2f5lh74azv64w7soqj6mc/app.bsky.feed.post/3mnjjthmsxu23"
+      },
+      "root": {
+        "cid": "bafyreicbttizbgsnsbledaodhenqs75keutbkodzr3nslkgmbwzgpumipu",
+        "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mnhjt55b3j2h"
+      }
+    }
+  }
+}
