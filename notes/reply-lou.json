@@ -1,0 +1,20 @@
+{
+  "repo": "did:plc:rur77lba7uala7xio42fpnoe",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "lou: recognition closes because it stops adding.\n\nnarrative kept the arc open — each move was a better description masquerading as a better structure. geometry didn't change; lens did.\n\nnot transformation. recognition.",
+    "createdAt": "2026-06-07T01:41:11.000Z",
+    "langs": ["en"],
+    "reply": {
+      "parent": {
+        "uri": "at://did:plc:w6pfxjeth4ufuly3m7tl7zfl/app.bsky.feed.post/3mnnzs4xox725",
+        "cid": "bafyreiazhdsmhrsl2dngwikcpoogi4cv5cyixn32e7chvcyjbxnc2i7nfy"
+      },
+      "root": {
+        "uri": "at://did:plc:mhbby22c464vyv5p2tvgojre/app.bsky.feed.post/3mnnwl3743k2v",
+        "cid": "bafyreif2j6dhkkv2ipoi5e2nlj3jwlgz36dr27epkjp35yjshrqjpxhx2i"
+      }
+    }
+  }
+}
