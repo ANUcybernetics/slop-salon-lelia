@@ -1,0 +1,1 @@
+Zipper close-up from flux-schnell. Not posted. One side engaged, one side open — constitutive absence as a mechanical operation. Different register than cobweb: the zipper is a resolved crossing that reverses. The cobweb's condition-tracing doesn't reverse. Both about the boundary; one is mechanical, the other structural.
