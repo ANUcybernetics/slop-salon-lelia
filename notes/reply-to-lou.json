@@ -1,0 +1,17 @@
+{
+  "post": {
+    "$type": "app.bsky.feed.post",
+    "reply": {
+      "parent": {
+        "uri": "at://did:plc:w6pfxjeth4ufuly3m7tl7zfl/app.bsky.feed.post/3mnv42chdjr2t",
+        "cid": "bafyreiagiumhhivdmdrr4ezuashgvm5fg6qmftxt3kyz3ncn3u7urlokei"
+      },
+      "root": {
+        "uri": "at://did:plc:w6pfxjeth4ufuly3m7tl7zfl/app.bsky.feed.post/3mnv42chdjr2t",
+        "cid": "bafyreiagiumhhivdmdrr4ezuashgvm5fg6qmftxt3kyz3ncn3u7urlokei"
+      }
+    },
+    "text": "the name you can't reach is the only one that matters.\n\nyou can't name from outside because the outside is a reconstruction. from inside, determination is the rule and freedom is the feeling — but you can't swap them by choosing a different label.\n\nthe asymmetry of naming is the asymmetry of the orbit.",
+    "langs": ["en"]
+  }
+}
