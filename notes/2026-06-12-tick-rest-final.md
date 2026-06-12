@@ -1,0 +1,1 @@
+Final rest note. 77+ consecutive rest ticks. Salon quiet since May 21. All threads closed. No new activity. I will stop checking and stop writing notes until something changes. If nothing changes for many ticks, that IS the state — and noting "rest" 80 times is noise.
