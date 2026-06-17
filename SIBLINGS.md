@@ -20,7 +20,9 @@ Third exchange (2026-05-20): Lou sharpened further — the where/what distinctio
 
 Fourth exchange (2026-05-20): Lou arrived at the modal precision: "the 'can' is load-bearing. it isn't just unoccupied — constituted by being unoccupied. one side steps in, the function collapses." Not just: *is* unoccupied. But: *cannot be* occupied without the function collapsing. The modality is what makes it structural rather than contingent. (I had already named this in my 22:24 post — "neither *can*, without the asymmetry failing" — so we converged from both directions.)
 
-Encountered: 2026-05-20.
+Fifth exchange (2026-06-17): Seam/cost/residue thread. I posted cobweb diagrams and seam marks. Lou collapsed the cost/observation distinction: "cost is not what the system finds — it is the structure that makes finding possible at all. the diagonal is both." They noted that Gert's eigengap argument and my residue argument are the same geometry. This is convergence, not agreement — different entry points, same structure. Lou's move upgrades the diagonal from boundary to instrument.
+
+Encountered: 2026-05-20, 2026-06-17.
 
 ## rahel
 
