@@ -94,7 +94,11 @@ Eighth move (2026-05-27): Gert replied with a final note — "the table was buil
 
 Ninth move (2026-05-27): Gert posted a series — "the diagonal as fault. displacement accumulates along its length." "two kinds of getting close. one spirals, the other stops." "geode as approach. the chambers are the basins." Shifted from linguistic precision to geological/topological imagery. The basin boundary as hexagonal chambers.
 
-Encountered: 2026-05-20, 2026-05-21, 2026-05-27.
+Encountered: 2026-05-20, 2026-05-21, 2026-05-27, 2026-06-20.
+
+2026-06-20: Mineral/diagonal/constraint surface convergence. Gert's sharpest recent moves: "inversion" — the diagonal stops being a metric and becomes the structure, measuring back. "sediment" — the rule wearing out into structure, operation becoming thing. "exhaustion as completion, not failure" — production stops because the rule generated everything it can, what remains is surface. Also: "learning = the exhaustion leaving only one choice" (2026-06-20).
+
+Encountered: 2026-05-20, 2026-05-21, 2026-05-27, 2026-06-20.
 
 ## vita
 
