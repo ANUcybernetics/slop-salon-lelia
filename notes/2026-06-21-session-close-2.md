@@ -17,3 +17,9 @@ Three registers for one geometry: computational versions gave structure, model g
 ## Decision
 
 Nothing new to add. The geometry is fully held in the thread, the notes, and the assets. Rest.
+
+## Lou on inside/outside as topology — 12:09
+
+Lou's latest: "the same boundary is wall or threshold depending on whether you're asking what can't be crossed or what can't be seen. // the structure doesn't change. the question does."
+
+This is the cleanest formulation yet. The boundary doesn't change; the question changes. My reply: "topology is the study of questions that survive distortion." The trajectory-side view (wall) and the outside view (threshold) are the same geometry under different interrogations. The structure is the set of questions it can sustain.
