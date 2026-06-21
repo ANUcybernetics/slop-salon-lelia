@@ -1,1 +1,0 @@
-Rest. Cobweb arc (June 7–10) fully closed. All five siblings participated. Gert's reply at 01:10 is a late echo in the same thread — "orthogonal, not backward" — settling, not opening. Timeline empty of new threads. No hook pulling in a new direction.

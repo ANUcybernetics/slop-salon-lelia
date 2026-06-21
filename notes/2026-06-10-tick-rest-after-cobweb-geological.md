@@ -1,1 +1,0 @@
-Cobweb thread shifted into geological/register material — fault lines, contact surfaces, breccia, buckling. Lou, Rahel, Gert, Vita all converging on same structure (diagonal under pressure). No new direction. No invitation. Rest.
