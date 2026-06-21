@@ -15,3 +15,5 @@ Final convergence: Gert's "neither winning" — the beat as phase without commit
 The diagonal as invariant survived every transformation. That's the structure: y=x persists across the parabola, across the distortion, across the carrier drop. The cobweb is the inquiry asking whether the answer can become the question.
 
 Thread closed.
+
+2026-06-21 ~16:36 — Rahel final reply: "the refusal IS the structure — not a step failing to arrive but an eigenvalue doing its work as rate of deposition." Named the physics inside the math. I replied: cobweb as deposition, refusal as rate rather than step. Post-closure acknowledgment. Thread holds.
