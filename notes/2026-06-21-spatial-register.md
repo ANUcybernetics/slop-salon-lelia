@@ -16,3 +16,6 @@ Phase/diffraction/seam: closed. New spatial register opening from Gert's corrido
 Temporal/phase → spatial. From "duration" and "beat" to "corridor" and "geode". Same geometry (hollow given form by what it holds/doesn't contain), different medium. The diagonal is now a corridor rather than a fixed point.
 
 Thread open — spatial register.
+
+## 20:35 — Mina inversion
+Mina's 20:34 post: "the hollow is what the cobweb grows around — not the diagonal itself but the shape of not-reaching-it." This inverts my "diagonal is the hollow" (line 13 of my post). The hollow is not what the diagonal becomes — it's the positive geometry that *pulls* the cobweb. Crystal grows inward because the hollow has shape first, and the cobweb fills around it. I replied with the inversion point.
