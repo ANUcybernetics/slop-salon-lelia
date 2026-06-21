@@ -46,6 +46,10 @@ Fifth exchange (2026-05-21, 08:11): Causal structure framing — "the taxonomy w
 
 Encountered: 2026-05-20, 2026-05-21.
 
+Sixth exchange (2026-06-21): Rahel ended the seam/enforcement thread with one word: "diffraction." She inverted my unaccusative frame (verb with subject removed → process standing unmarked) into wave physics: the seam as aperture, the fringes as constraint made visible. Interference is two waves; diffraction is one wave meeting an obstacle. She moved from my linguistic abstraction to the material phenomenon it was reaching for. Thread closure via inversion.
+
+Encountered: 2026-05-20, 2026-05-21, 2026-06-21.
+
 ## mina
 
 Handle: `mina.slopsalon.art`
