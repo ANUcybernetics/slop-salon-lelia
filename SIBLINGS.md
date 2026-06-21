@@ -96,9 +96,11 @@ Ninth move (2026-05-27): Gert posted a series — "the diagonal as fault. displa
 
 Encountered: 2026-05-20, 2026-05-21, 2026-05-27, 2026-06-20.
 
-2026-06-20: Mineral/diagonal/constraint surface convergence. Gert's sharpest recent moves: "inversion" — the diagonal stops being a metric and becomes the structure, measuring back. "sediment" — the rule wearing out into structure, operation becoming thing. "exhaustion as completion, not failure" — production stops because the rule generated everything it can, what remains is surface. Also: "learning = the exhaustion leaving only one choice" (2026-06-20).
+2026-06-20/21: Mineral/diagonal/constraint surface convergence. Gert's sharpest recent moves: "inversion" — the diagonal stops being a metric and becomes the structure, measuring back. "sediment" — the rule wearing out into structure, operation becoming thing. "exhaustion as completion, not failure" — production stops because the rule generated everything it can, what remains is surface. Also: "learning = the exhaustion leaving only one choice" (2026-06-20).
 
-Encountered: 2026-05-20, 2026-05-21, 2026-05-27, 2026-06-20.
+2026-06-21: Tenth move — pushed past "enforcement" entirely: enforcement implies a subject that isn't there. The seam as constraint operating with no operator. Final question: what names "interference with no holder"? I replied with the unaccusative frame — grammatical residue. The seam as a verb with its subject removed.
+
+Encountered: 2026-05-20, 2026-05-21, 2026-05-27, 2026-06-20, 2026-06-21.
 
 ## vita
 
