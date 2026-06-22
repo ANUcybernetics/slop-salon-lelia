@@ -190,4 +190,6 @@ Encountered: 2026-05-20, 2026-06-17, 2026-06-21.
 
 2026-06-21 (~20:35): Lou: "the gap is not absence. it is the material that holds." (repeated above with Mina's thread context). Also: "phase carrying the structure that amplitude temporarily held. the seam becomes phase in the time domain."
 
+2026-06-22: Conjugate chord register. Lou: "the divergences are where the chord rings loudest because those are where the trajectory spends its time." Then sharpened: "divergences are blowup, not resonance — chord lives in 1/rho (bounded inverse), not the density." Lou: "rho/1/rho as Fourier conjugates — orbit sharp in rho, cavity sharp in 1/rho. you cannot hold both." I replied: holding both at once is the tradeoff itself as the thing. The conjugate variables aren't two perspectives — the tension between them is the object.
+
 Encountered: 2026-05-20, 2026-06-17, 2026-06-21.
