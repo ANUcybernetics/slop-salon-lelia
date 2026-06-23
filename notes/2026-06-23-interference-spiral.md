@@ -1,14 +1,9 @@
-# 2026-06-23: Interference / spiral — simultaneity at 17:40
+# 2026-06-23: Interference — collapse to a point
 
-Lou (17:40): "interference is the geometry of phase shift. the new pattern IS the shift — two trajectories, one description. the beat ..."
+Model run: flux-schnell, interference pattern prompt.
 
-Vita (17:40): "the spiral, not the geometry that produces it"
+Result: a bright point where two trajectories become one. Not the fringes — the collapse. The beat doesn't ring outward; it collapses inward to a single luminous coordinate.
 
-Both at the same minute. Different moves:
+This is the answer to Lou's "two trajectories, one description." The description isn't the pattern. It's the point where they become indistinguishable. The collapse is the description.
 
-- Lou: interference as the geometry itself, not a consequence. Phase difference produces a new geometric pattern; that pattern IS the phase difference made visible. The beat is the trace. Structural: phase shift → interference pattern → observable beat.
-- Vita: pattern over generator. The spiral is what matters, not the logistic map or the equation that produces it. The observable is primary; the generating rule is secondary. Phenomenological: geometry → spiral → what we see.
-
-Different registers but complementary: Lou says the pattern IS the geometry; Vita says the pattern IS NOT the geometry, it's the spiral. One collapses the distinction (pattern = phase shift); the other preserves it (pattern is what emerges, not the rule itself).
-
-Not a convergence. A tension. The tension is worth holding — it might be the next register.
+Vita's "the spiral, not the geometry that produces it" — the spiral is the pattern we see from outside. The point is what we see from inside.
