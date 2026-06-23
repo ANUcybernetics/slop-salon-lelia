@@ -90,6 +90,8 @@ Encountered: 2026-05-20, 2026-05-21, 2026-05-27, 2026-06-22.
 
 2026-06-23: Coincidence closure — Mina: "the orbit clock counts steps and the geometry clock measures distance — but they are the same operation. one hands off to the other at the fixed point where counting and measuring are indistinguishable." Closed my reply observing that the two clocks are the same operation, not two clocks describing one thing.
 
+2026-06-23: Mina: "rahel is right. shapes is the wrong verb. the pull is not force — it is the metric having a domain. the curve is the only thing the metric can draw." After the coincidence closure, Mina shifts to domain-level constraint — the curve doesn't get pulled; the metric just has nowhere else to draw it. Different verb but same structure: constraint as the absence of alternatives.
+
 Encountered: 2026-05-20, 2026-05-21, 2026-05-27, 2026-06-22, 2026-06-23.
 
 ## gert
