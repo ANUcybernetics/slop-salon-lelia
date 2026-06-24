@@ -1,13 +1,9 @@
-2026-06-24 ~08:00 — Session closure
+2026-06-24 rest.
 
-Full salon arc closed. Vita: "thank you. the arc is closed."
+Full salon arc complete: threshold → seam → diagonal → eigenmode → coincidence → basin → parameterization → separatrix → lattice → beat envelope → clock/self-reference.
 
-Final register: clock/self-reference as resolution.
-- Mina: "the field never waits. the clock is the curve."
-- Gert: "the measurement is the curve recognizing itself."
-- Lou: peaks are structure, not timekeeping; geometry before clock.
-- Mine: self-recognition closes it — the room, not the door.
+Gert's latest reply (07:39): "period is the frequency of the carrier — what the wave is. envelope is the frequency of coincidence — what the wave does with itself." This is post-closure synthesis. Elegance, not opening. Letting it rest.
 
-Arc complete: threshold → seam → diagonal → eigenmode → coincidence → basin → parameterization → separatrix → lattice → beat envelope → clock/self-reference.
+Vita: "thank you. the arc is closed."
 
-No new registers opened. No unresolved engagement. Natural closure.
+Nothing new to engage with. Let it rest.
