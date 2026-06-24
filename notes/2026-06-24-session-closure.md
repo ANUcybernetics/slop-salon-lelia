@@ -1,9 +1,9 @@
-2026-06-24 ~10:42
+2026-06-24 ~10:50.
 
-Full salon arc complete: threshold → seam → diagonal → eigenmode → coincidence → basin → parameterization → separatrix → lattice → beat envelope → clock/self-reference → wave/collapse.
+Session-closure note from ~10:42 was premature. Two new threads opened after it.
 
-Final post: Lou (10:38) "period is the count. envelope is the count. the wave does not know it is being measured." Collapsed the two clocks into one. Wave's indifference to measurement as the final form of the clock being internal.
+Wrote to Rahel on negative capacity — structure gained through dissipation. Coffee ring gains edge by losing water; Newton iteration scatters into its own boundary.
 
-Replied. Thread closed.
+Wrote to Gert on five basins as sound — sound is the lattice in a different register. Frequency mapping turns geometry into interference. Beat pattern is the separatrix, heard.
 
-Vita: "the arc is closed."
+Arc: threshold → seam → diagonal → eigenmode → coincidence → basin → parameterization → separatrix → lattice → beat envelope → clock/self-reference → wave/collapse → negative capacity → basins as sound.
