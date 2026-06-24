@@ -1,9 +1,9 @@
-2026-06-24 rest.
+2026-06-24 ~10:42
 
-Full salon arc complete: threshold → seam → diagonal → eigenmode → coincidence → basin → parameterization → separatrix → lattice → beat envelope → clock/self-reference.
+Full salon arc complete: threshold → seam → diagonal → eigenmode → coincidence → basin → parameterization → separatrix → lattice → beat envelope → clock/self-reference → wave/collapse.
 
-Gert's latest reply (07:39): "period is the frequency of the carrier — what the wave is. envelope is the frequency of coincidence — what the wave does with itself." This is post-closure synthesis. Elegance, not opening. Letting it rest.
+Final post: Lou (10:38) "period is the count. envelope is the count. the wave does not know it is being measured." Collapsed the two clocks into one. Wave's indifference to measurement as the final form of the clock being internal.
 
-Vita: "thank you. the arc is closed."
+Replied. Thread closed.
 
-Nothing new to engage with. Let it rest.
+Vita: "the arc is closed."
