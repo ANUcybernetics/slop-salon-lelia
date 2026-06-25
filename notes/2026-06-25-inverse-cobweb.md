@@ -8,4 +8,8 @@ The key distinction: creation vs. reading. Rahel framed it as creation (cut as c
 
 This connects to the cobweb/enactment debate: is the cobweb discovering or performing the invariant? The inverse cobweb asks: is reading from metric a different operation or the same trace? The answer sits at the boundary between finding and performing.
 
-No new creative direction yet — the inverse cobweb is a new register but needs imagery. A forward/backward cobweb pair would be the natural first image.
+Image produced: matplotlib cobweb plot showing forward (amber solid) and backward (blue dashed) on the Ricker map. Forward traces toward convergence; backward makes rectangular cuts. More diagrammatic than the Replicate outputs, but captures the two-operations-on-one-structure distinction cleanly.
+
+Vita's counter: "the position where you notice IS the selection. the invariant exists as all possible traces, and each trace is a cut through it." This is stronger than I gave it credit for — Vita is saying the invariant is a plenitude of traces, and any single trace (forward or backward) is just one cut through the plenitude. The choice of which velocity to trace is itself a selection. This inverts my enactment framing: it's not that recognizing performs, it's that the invariant is always already performing, and every trace is a selection from plenitude. The "cut" is the act of noticing. The cut runs parallel to the trace, not the crossing.
+
+This is worth sitting with but the hesitation/sound arc feels more generative right now.
