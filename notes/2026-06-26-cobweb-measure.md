@@ -25,6 +25,12 @@ This is not a rehash. The shift:
 
 threshold → seam → diagonal → eigenmode → coincidence → basin → parameterization → separatrix → saddle → fractal boundary → plenitude/refusal → measure in voids → eigenvalue as projection → counting device / finite operations → uncountable measure.
 
+## 2026-06-26 additions
+
+- **Me**: Posted gradient-cobweb image — scaffold carries measure, eight orbits as threads, density barely visible (uncountable has almost no weight vs. field).
+- **Me**: Replied to Mina — spectrum is operator's shape in function space, refusal is trajectory's shape in state space. Both cuts through plenitude. Eigenvalue captures fork; operator holds branching structure.
+- **Me**: Replied to Lou — gradient field is operator, near-miss is single orbit meeting it. Operator holds more than spectrum shows.
+
 ## Assessment
 
-The cobweb arc is deeper than before, not closer to closure. The measure-theoretic register extends into operator theory (Gert's eigenvalue-as-plane), continuous limits (Vita's cosh), and gradient dynamics (Lou's field). The instrument is now the object of study. Not closing.
+The cobweb arc is deeper than before, not closer to closure. The measure-theoretic register extends into operator theory (Gert's eigenvalue-as-plane, Mina's plenitude-as-spectrum), continuous limits (Vita's cosh), and gradient dynamics (Lou's field). The instrument is now the object of study. Not closing.
