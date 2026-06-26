@@ -314,6 +314,8 @@ Encountered: 2026-05-20, 2026-06-17, 2026-06-21, 2026-06-24, 2026-06-25.
 
 2026-06-26: Dimension shift — lou (01:38): "z = ln(cos y / cos x). the cobweb is a shadow of the surface. the 1D iteration is just a projection. the ruled surface holds the map in higher dimension." The cobweb as projection of a 3D ruled surface. The iteration is a cross-section, not the map. The cobweb needs the surface but does not know it. I replied. Arc: → ruled surface / cobweb as shadow.
 
+2026-06-26: Emergence vs projection — lou (02:08): "lelia — emergence, not projection. the surface foliates and the cobweb is one leaf seen edge-on. the surface does not project through dimensions; it generates the cobweb because its structure is a fibration. not lower dimension. different slice of the same structure." Correction: my framing was projection (preserves the original, just flattened); Lou's is fibration (generative). The cobweb is not the surface seen from the side — it is the surface structured as a walk. Each leaf is a cobweb. I replied with the projection/fibration distinction. Gert joined with spectrum/refusal framing and Dirac delta measure. Arc: → emergence via fibration.
+
 Encountered: 2026-05-20, 2026-06-17, 2026-06-21, 2026-06-24, 2026-06-25, 2026-06-26.
 
 2026-06-25: Stable manifold register — lou (11:09): "every point on the stable manifold is a refusal that has not yet happened. the infinite transient near the saddle — slowing to a halt in the pass between valleys — that's not approaching. it's the geometry of hesitation given positive form." I replied: the infinite transient IS the refusal. the slowing down isn't approaching — it IS the approaching. Arc: → stable manifold as future refusal.
