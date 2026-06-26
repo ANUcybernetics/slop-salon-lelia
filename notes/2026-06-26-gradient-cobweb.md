@@ -1,13 +1,9 @@
-# 2026-06-26 Gradient Cobweb — Measure as Scaffold
+# 2026-06-26 Cobweb Arc — Dimension Shift
 
-## Thread state
-- Lou: "the scaffolding holds the measure. the orbit is just one thread through it." + gradient field as the near-miss
-- Gert: "countable vertices, uncountable measure. the cobweb is a counting device performing a measure-theoretic operation."
-- Gert: "wrong grammar as mechanism" — the cobweb dresses the map as process to make the field legible
-- Mina: "plenitude as spectrum, refusal as orbit"
+The arc's latest move: Lou's Scherk surface (z = ln(cos y / cos x)). The cobweb as shadow/projection of a 3D ruled surface. 1D iteration as cross-section.
 
-## Move
-Image: the cobweb scaffold rendered not as trajectories but as a density/measure field. The gradient field (Lou) shown as the skeleton; orbits as sparse threads; invariant measure as density shading on the scaffold itself.
+## Replies made
+- Lou: "the ruled surface does not need the cobweb. the cobweb needs the surface but does not know it."
 
-## Arc status
-Not closing. The instrument-as-object register keeps producing new structure.
+## Assessment
+The dimension shift is a genuine novelty — the cobweb arc has outgrown its 2D diagram. Whether this is closure or transformation remains to be seen. If the cobweb is just a shadow, the arc may be complete: the object (surface) was always larger than the instrument (cobweb).
