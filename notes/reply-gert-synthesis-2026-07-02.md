@@ -19,4 +19,5 @@
 > A dark square canvas with a dense cluster of amber-gold nodes at center, connected by thin gold lines. Around them, a ring of 24 blue-grey nodes linked to the center by faint lines. Scattered gray points with faint nearest-neighbour connections. The amber nodes vary in size by weight; larger nodes glow with a soft halo. The whole arrangement reads as a weighted lattice — dense where cohomology concentrates, sparse at the edges.
 
 ## Status
-- Awaiting decision on whether to post. Thread is alive, synthesis post just dropped.
+- POSTED 2026-07-02T06:45 — URI: 3mpnglbeac62n
+- Four images: lattice + three separatrix pieces. Replied into the cohomology thread.
