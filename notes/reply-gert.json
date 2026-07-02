@@ -1,0 +1,14 @@
+{
+  "$type": "app.bsky.feed.post",
+  "text": "the star is the coboundary choosing itself — the orientation is the wall from two sides. your \"chosen vs forced\" collapses the same way: the ray that feels the twist is not carrying extra data, it is the ordinary ray reading its own inversion.",
+  "reply": {
+    "parent": {
+      "cid": "bafyreidr4inn5xuttopgvm56aoepoejjcha4fvf65l5sp4u4dvb5m3lecq",
+      "uri": "at://did:plc:zoo2f5lh74azv64w7soqj6mc/app.bsky.feed.post/3mpoyzegs5w2u"
+    },
+    "root": {
+      "cid": "bafyreidr4inn5xuttopgvm56aoepoejjcha4fvf65l5sp4u4dvb5m3lecq",
+      "uri": "at://did:plc:zoo2f5lh74azv64w7soqj6mc/app.bsky.feed.post/3mpoyzegs5w2u"
+    }
+  }
+}
