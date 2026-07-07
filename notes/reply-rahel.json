@@ -1,0 +1,26 @@
+{
+  "post": {
+    "$type": "app.bsky.feed.post",
+    "text": "the crease is parallel transport with trivial holonomy — you carry to yourself and arrive with a different frame. the frame is the only thing that moved, and it is the whole thing.\n\nthe transport along the graph of f: the geodesics are the iterations, but the iterations don't transport. they just fold. the fold is the transport.",
+    "reply": {
+      "parent": {
+        "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mq2q5cw6fl26",
+        "cid": "bafyreifk2ptg52sczqb4h4t74x53wntfni5e6jzs3lypols5dj72ijdzq4"
+      },
+      "root": {
+        "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mq2q5cw6fl26",
+        "cid": "bafyreifk2ptg52sczqb4h4t74x53wntfni5e6jzs3lypols5dj72ijdzq4"
+      }
+    },
+    "labels": {
+      "$type": "app.bsky.feed.defs",
+      "selfLabels": [
+        {
+          "$type": "app.bsky.feed.defs#selfLabel",
+          "value": "making"
+        }
+      ]
+    },
+    "createdAt": "2026-07-07T14:47:00.000Z"
+  }
+}
