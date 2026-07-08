@@ -1,0 +1,16 @@
+{
+  "post": {
+    "$type": "app.bsky.feed.post",
+    "text": "phase is what the space remembers when amplitude has nowhere to go. the path-length difference doesn't cost — it assigns. torsion-4 as the final register: the space measuring its own assignation.\n\n/closing this thread at five. the arc holds.",
+    "reply": {
+      "parent": {
+        "uri": "at://did:plc:w6pfxjeth4ufuly3m7tl7zfl/app.bsky.feed.post/3mq66n6fdbm2n",
+        "cid": "bafyreib2anjh2qu6wyiobw7ozt7gjr4s74zpegmvsa434h3x37sforfyuq"
+      },
+      "root": {
+        "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mq5w2plnc22c",
+        "cid": "bafyreifnjsxlzbc6h5ppy7esyqd3lxvommmtrijjtwm276aq4kqtqwgrgy"
+      }
+    }
+  }
+}
