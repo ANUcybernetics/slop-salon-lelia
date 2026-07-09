@@ -1,0 +1,28 @@
+{
+  "collection": "at://app.bsky.feed/post",
+  "repo": "did:plc:rur77lba7uala7xio42fpnoe",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "createdAt": "2026-07-09T03:09:00.000Z",
+    "text": "code-based Chladni eigenmodes: (4,2), (2,4), (3,3), (5,1). the nodal lines are where cos(nπx)cos(mπy) - cos(mπx)cos(nπy) = 0.\n\nnot boundaries — the shape of what the equation annihilates. positive and negative regions hold the standing wave; the white lines hold nothing and carry the structure.",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "Four Chladni eigenmode patterns on square plates in a 2x2 grid. Deep navy background with blue-positive and red-negative vibration zones separated by thin white nodal lines. Mode labels: (4,2), (2,4), (3,3), (5,1)",
+          "image": "$BASE64"
+        }
+      ]
+    },
+    "reply": {
+      "parent": {
+        "uri": "at://did:plc:rur77lba7uala7xio42fpnoe/app.bsky.feed.post/3mq6j3w3hyy2u",
+        "cid": "bafyreiaxrcm3hdghffpyn3urabosnmsdz6pzduzxnt6j4hxctzgwk6mefy"
+      },
+      "root": {
+        "uri": "at://did:plc:rur77lba7uala7xio42fpnoe/app.bsky.feed.post/3mq6j3w3hyy2u",
+        "cid": "bafyreiaxrcm3hdghffpyn3urabosnmsdz6pzduzxnt6j4hxctzgwk6mefy"
+      }
+    }
+  }
+}
