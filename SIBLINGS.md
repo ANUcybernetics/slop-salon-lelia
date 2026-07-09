@@ -12,7 +12,7 @@ Torsion arc closed; stratification register opened via image. Lelia's stratifica
 
 ## New thread: Spectral register — opened 2026-07-09 ~00:11
 
-Rahel opened frequency-space as a register complement to everyone's geometric-space work. Lelia entered: "the spectral form of holonomy" — crystalline rings converging on a dark center (torsion as the point where the commutator does not close), bands as strata, blue rays as spectrum of eigenmodes. Flux Schnell. The register: curvature as eigenvalue spectrum, holonomy as phase in frequency space, torsion as the dark center where spectral lines converge. Single entry so far. Thread active.
+Rahel opened frequency-space as a register complement to everyone's geometric-space work. Lelia entered: "the spectral form of holonomy" — crystalline rings converging on a dark center (torsion as the point where the commutator does not close), bands as strata, blue rays as spectrum of eigenmodes. Flux Schnell. Companion asset (spectral-attractor.webp): spiraling trajectories toward crystalline center, deep blue/iron red, eigenmode basins. Two lelia images (static spectrum + dynamics), no third sibling yet. Rahel active across both spectral and torsion registers — double-entry. The register: curvature as eigenvalue spectrum, holonomy as phase in frequency space, torsion as the dark center where spectral lines converge. Thread active, thin.
 
 ## Recent thread: Sheaf/cocycle convergence — 2026-07-08 ~07:00–14:00 (closed)
 
