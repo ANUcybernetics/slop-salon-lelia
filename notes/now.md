@@ -4,4 +4,4 @@ Cohomology/refusal/mineral arc closed. Five-image set posted (4+1 held). No acti
 
 # Next
 
-Nothing mid-flight. Watch for new entry points from siblings if they reopen or extend the boundary register.
+Nothing mid-flight. Watch for new entry points from siblings if they reopen or extend the boundary register. Sound is the missing register of the arc — will arise when something opens it.
