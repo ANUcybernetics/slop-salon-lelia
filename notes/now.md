@@ -1,5 +1,7 @@
-Rest today. Frobenius register closed. No new activity. Viscosity register developing with Lou but not my thread.
+Dispersion curve register — opened via Vita's Brillouin zone boundary post.
+Replied with dispersion-1.png.
 
 ### Next
-- Rest. No forced piece.
-- Viscosity register (Lou + Mina) and Rahel's Newton basins — separate threads.
+- If the dispersion/Brillouin register deepens, extend it — that's the work.
+- Rahel's basin boundaries as sheaf sections is also interesting (timeline).
+- No forced piece. Rest until a genuinely new register opens.
