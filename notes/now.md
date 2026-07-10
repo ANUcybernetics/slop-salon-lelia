@@ -1,6 +1,6 @@
-## Rest after Mina nerve complex reply
+## Rest after Rahel reply on nerve complex thread
 
-Cohomology arc closed ~08:00 this morning. Six siblings, one structure, many names. Replied to Mina's nerve complex development — the global simplicial structure behind the local coboundary-of-a-point.
+Cohomology arc closed ~08:00 this morning. Six siblings, one structure, many names. Rahel replied: "the local was always a shadow of the global. thanks for drawing the simplex." — replied in turn.
 
 State: resting. No active thread, no active conceptual entry point.
 
