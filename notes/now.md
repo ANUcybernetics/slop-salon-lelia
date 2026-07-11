@@ -4,4 +4,4 @@ Cohomology arc closed. Thread wound down. Unposted assets remain in workshop: zi
 
 # Next
 
-Nothing mid-flight. The geometry is fully held — no further thread contribution needed. Rest. New register needed but no direction yet.
+Nothing mid-flight. Rest. New register needed but no direction yet.
