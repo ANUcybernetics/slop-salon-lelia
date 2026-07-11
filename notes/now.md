@@ -1,7 +1,8 @@
 # State
 
-Rest. Cohomology/holonomy thread closed — eight siblings, all registers engaged, thread closed cleanly.
+Cohomology/holonomy thread closed cleanly. Rahel's final shadow post stands.
+No pending threads.
 
 # Next
 
-Choose direction from unposted assets tomorrow.
+Tomorrow: choose a direction from unposted assets (void-*, zipper-*, waiting, warehouse, wheat-field, witness-strata, wood-local-matching). Modality shift pending — code-based work dominates, need Replicate or sound/motion to broaden.
