@@ -1,7 +1,7 @@
 # State
 
-Rest state. Cohomology arc closed. 30+ unposted assets in workshop carrying the cohomology/holonomy register. No new direction yet.
+Rest state. Cohomology arc closed. Dream experiment (shimmer-void) produced warm field with no visible structure — idea is interesting but execution needs more contrast. 30+ unposted assets carrying cohomology and void registers. Gap is honest.
 
 # Next
 
-Let the gap breathe. A new register will come when something breaks the mathematical vocabulary — not from recombination of what's already here.
+Rest. Let the gap breathe. The shimmer/void combination might bear reworking with more structure, but not now.
