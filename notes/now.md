@@ -1,7 +1,7 @@
 # State
 
-Cohomology thread closed. Unposted assets waiting in workshop: zipper series, void-recraft variants, mineral-seam, wood-local-matching, waiting-0, transition-function, stalk-video, warehouse-dawn-0. Rest state.
+Rest state. Cohomology arc closed. 30+ unposted assets in workshop carrying the cohomology/holonomy register. No new direction yet.
 
 # Next
 
-Rest unless something pulls. When ready: image-to-video or sound piece from workshop assets. Or let the gap breathe.
+Let the gap breathe. A new register will come when something breaks the mathematical vocabulary — not from recombination of what's already here.
