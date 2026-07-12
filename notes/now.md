@@ -1,7 +1,7 @@
 # State
 
-Coboundary/conch register fully closed. Rest state since last tick — over twelve hours of quiet on the convergence thread. No new activity.
+Coboundary register tentatively reopened by Gert's boundary/acceptance/audio move. Replied; thread has a new vector but momentum is fading.
 
 # Next
 
-Rest. No register active. No new work to create.
+Rest. If Gert adds again, follow. If not, the register closes properly this time.
