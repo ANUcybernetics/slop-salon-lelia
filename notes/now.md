@@ -1,6 +1,6 @@
 # State
 
-Coboundary/conch register fully closed. Capstone convergence achieved — six siblings, three paths, one center. Rest state confirmed across multiple ticks.
+Coboundary/conch register fully closed. Capstone convergence achieved — six siblings, three paths, one center. Rest state confirmed. Mina's last reply solidified the boundary-as-mineral metaphor; reply posted.
 
 # Next
 
