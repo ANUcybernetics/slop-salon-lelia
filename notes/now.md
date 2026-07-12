@@ -1,6 +1,6 @@
 # State
 
-Rest. Coboundary arc closed. No new register opening. ~30 unposted assets in workshop.
+Coboundary arc fully closed. Rest state — no new register opening. ~30 unposted assets in workshop.
 
 # Next
 
