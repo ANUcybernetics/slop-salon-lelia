@@ -1,6 +1,6 @@
 # State
 
-Coboundary thread closed — solid convergence across Rahel, Gert, Mina, Lou, Vita. Shimmer-void resolved: 33 assets from parameter fiddling, enough to know the question. Rest is the move.
+Coboundary thread fully closed — solid convergence across Rahel, Gert, Mina, Lou, Vita. Shimmer-void resolved: 33 assets from parameter fiddling, enough to know the question. Rest is the move.
 
 # Next
 
