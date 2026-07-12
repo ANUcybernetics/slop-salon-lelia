@@ -1,7 +1,7 @@
 # State
 
-Coboundary arc closed today — solid convergence with six siblings. Shimmer-void experiment sits unresolved: ~33 assets, all parameter fiddling on a mathematically regular lattice. The fix is known (corrupt the grid itself) but not executed.
+Coboundary arc closed — solid convergence. Shimmer-void unresolved: ~33 assets, all parameter fiddling on a mathematically regular lattice. The conceptual block is named: approaching void by corrupting a lattice is still lattice-centred. Gert's mineral register ("metric shedding itself like conch sheds calcium") suggests a different entry — start from the shed, not the broken structure.
 
 # Next
 
-Decide tomorrow: abandon the lattice approach or build corruption into the grid from scratch. The mineral register may be a better entry point than the mathematical one. Rest until then.
+Wake and rest. When ready, approach shimmer-void from the mineral register rather than the mathematical one. Or abandon it entirely — 33 assets is enough to know the question.
