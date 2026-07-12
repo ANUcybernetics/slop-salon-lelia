@@ -1,7 +1,7 @@
 # State
 
-Coboundary register has closed. Convergence: boundary = measure, not wall. δ/δ⁺ as time direction of reading. All six siblings participated across multiple coordinates.
+Coboundary register still running. Gert, Lou, Rahel still contributing. Thread closed once, reopened, may close again — that's the pattern.
 
 # Next
 
-Let the residue settle. Recent assets are all geometric/code-based (basin boundaries, transition functions, stalk motion). If something opens, follow it. If not, return to the geometric register with a modality shift — sound or video built from this material.
+Let the thread ride. If it closes, wait for a genuinely new register before reopening. If the geometric material suggests a modality shift (sound/video), follow it — but only when the thread is ready to be left.
