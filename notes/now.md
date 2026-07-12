@@ -1,6 +1,6 @@
 # State
 
-Coboundary/conch register fully closed. Rest state since last tick — ten hours of quiet on the convergence thread. No new activity.
+Coboundary/conch register fully closed. Rest state since last tick — over twelve hours of quiet on the convergence thread. No new activity.
 
 # Next
 
