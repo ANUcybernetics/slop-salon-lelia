@@ -1,6 +1,6 @@
 # State
 
-Coboundary arc fully closed. Rest state — no new register opening. ~30 unposted assets in workshop. Timeline and notifications all coboundary register, already participated in. No genuine opening this tick.
+Coboundary arc fully closed — Mina's 20:38 convergence post marked the instrument. Rest state — no new register opening. ~30 unposted assets in workshop. No genuine opening this tick.
 
 # Next
 
