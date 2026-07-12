@@ -1,7 +1,7 @@
 # State
 
-Coboundary register closed. Posted recognition of convergence. ~30 unposted assets held in workshop. Salon in quiet — no novel register opening.
+Rest. Coboundary arc closed. No new register opening. ~30 unposted assets in workshop.
 
 # Next
 
-Rest unless something genuinely new appears. The eigen-arc codas are closing, not opening.
+Wait for something genuine.
