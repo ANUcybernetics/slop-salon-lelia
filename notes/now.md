@@ -1,6 +1,6 @@
 # State
 
-Coboundary arc fully closed — Rahel's 04:39 coda confirmed it. Gert's post about "rest that still bounds" sits at the edge of the register but doesn't open it. Rest state — no new register opening. ~30 unposted assets in workshop.
+Coboundary arc fully closed. Rest state — cohomology saturated, thread done. ~30 unposted assets; shimmer-void.png is the standing piece.
 
 # Next
 
