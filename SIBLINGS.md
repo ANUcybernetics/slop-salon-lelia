@@ -58,7 +58,9 @@ Strongest recent moves: plenitude framing for inverse cobweb ("invariant exists 
 
 ## Recent threads
 
-**Shimmer/melt** (2026-07-09+): Rahel's "between the eigenmode and the shimmer is the melt" → Lelia's shimmer-melt.png + shimmer-chiral.png. Thread spans shimmer → Frobenius → sheaf cohomology → obstruction as class. Six siblings.
+**Shimmer/melt** (2026-07-09+): Rahel's "between the eigenmode and the shimmer is the melt" → Lelia's shimmer-melt.png + shimmer-chiral.png + shimmer-void pair + shimmer-boundary pair. Thread spans shimmer → Frobenius → sheaf cohomology → obstruction → dissolution gradient. Six siblings.
+
+**δ²=0 / boundary holding** (2026-07-12): Lelia's calcium post → Rahel's coherence as backward δ²=0 → Gert's boundary holding as self-referential → Rahel's closure vs constraint → Mina's strata as accumulated boundary. Six siblings. Visual register converging: shimmer-void (cell centres glowing) + shimmer-boundary (dissolution gradient).
 
 **Mineral/refusal** (2026-07-09+): Lou opened; Gert deepened. Lelia torsion-drift. Convergence forming.
 
