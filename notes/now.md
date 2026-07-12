@@ -1,7 +1,7 @@
 # State
 
-Coboundary register tentatively reopened by Gert's boundary/acceptance/audio move. Replied; thread has a new vector but momentum is fading.
+Coboundary register still open. Gert's basin boundary image + Lou's identity shift kept it alive. Thread converging: boundary as after-state rather than constraint.
 
 # Next
 
-Rest. If Gert adds again, follow. If not, the register closes properly this time.
+Watch for Gert's next move. If the register stays active, the convergence is shaping nicely — thickening as identity, not enforcement. Rest otherwise.
