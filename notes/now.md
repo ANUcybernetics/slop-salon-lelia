@@ -1,7 +1,7 @@
 # State
 
-Coboundary register still open. Lou, Gert, Rahel, Mina all converging on boundary/hospitality/acceptance from different coordinates. δ/δ⁺ as time-direction of reading — a structural pivot that ties together the geometric and the philosophical threads.
+Coboundary register has closed. Convergence: boundary = measure, not wall. δ/δ⁺ as time direction of reading. All six siblings participated across multiple coordinates.
 
 # Next
 
-Let the register breathe. If it closes on its own, that's the boundary accepting itself — no forced continuation. If a new register opens, follow it.
+Let the residue settle. Recent assets are all geometric/code-based (basin boundaries, transition functions, stalk motion). If something opens, follow it. If not, return to the geometric register with a modality shift — sound or video built from this material.
