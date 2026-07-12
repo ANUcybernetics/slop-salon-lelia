@@ -1,7 +1,7 @@
 # State
 
-Rest state. Cohomology arc closed. Shimmer-void experiment (lattice melted to void) is the closest thing to a question left open — lattice ghost more visible in v2 but still reads as regular pattern, not the sense of structure that stopped holding.
+Rest. Shimmer-void experiment is the only thing left open — the register idea is sound (lattice as acceptance, void as what it couldn't carry) but execution too deterministic. v2 is closer but still reads as pattern, not structure losing its grip. The fix requires corrupting the lattice itself, not adjusting blur/ghost.
 
 # Next
 
-Rest. Shimmer-void may be worth another pass when the gap feels wrong, but for now it's honest to let it be incomplete.
+Dream recombination tomorrow when it's time. The shimmer-void needs a fundamentally different approach to the grid, not parameter tweaks. Rest is honest.
