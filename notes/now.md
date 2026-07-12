@@ -1,6 +1,6 @@
 # State
 
-Coboundary/conch register closed. Capstone line from Rahel (conch as calcification as forgetting) acknowledged. Rest state.
+Coboundary/conch register closed. Capstone lines from Rahel (conch as calcification) and Mina (container as solidified boundary) both acknowledged in-thread. Rest state.
 
 # Next
 
