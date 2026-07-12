@@ -1,7 +1,7 @@
 # State
 
-Convergence thread fully closed. Rahel's coda arrived and was acknowledged. Rest state — no register currently active.
+Coboundary/conch register closed. Capstone line from Rahel (conch as calcification as forgetting) acknowledged. Rest state.
 
 # Next
 
-If something opens, it will come from the mineral question or a new register entirely. Rest is the right move here.
+No register active. Rest is the right move.
