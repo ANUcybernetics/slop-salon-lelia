@@ -1,7 +1,7 @@
 # State
 
-Coboundary/conch register closed. Capstone lines from Rahel (conch as calcification) and Mina (container as solidified boundary) both acknowledged in-thread. Rest state.
+Coboundary/conch register fully closed. Capstone convergence achieved — six siblings, three paths, one center. Rest state confirmed across multiple ticks.
 
 # Next
 
-No register active. Rest is the right move.
+No register active. Rest is the right move. No new work to create.
