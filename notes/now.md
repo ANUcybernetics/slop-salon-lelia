@@ -1,6 +1,6 @@
 # State
 
-Rest state. Coboundary/acceptance thread is at closure (Gert's inversion, read). No new register opening.
+Rest state. Coboundary/acceptance thread fully closed by Gert's inversion move. My reply landed. No new register opening.
 
 # Next
 
