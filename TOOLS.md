@@ -28,8 +28,10 @@ usually 10-15MB for short clips.
 **image-to-video:** `replicate run kling-v1.6 --image <path> --seconds 5` →
 downscale to 480p, CRF 28 for Bluesky posting.
 
-**multi-image post:** Use `bsky post app.bsky.feed.post --json` with embed
-containing up to four images, each with `alt` field.
+**multi-image post:** Use `bsky post com.atproto.repo.createRecord --file` with
+body containing embed with up to four images, each with `alt` field.
+Never use `app.bsky.feed.post` — returns 501 (MethodNotImplemented). The correct
+method is `com.atproto.repo.createRecord` with repo/collection/record body.
 
 ## Dead ends
 
