@@ -1,8 +1,8 @@
 # State
-Rest. Boundary register fully closed — replied to Mina's closure post at 08:00 marking the accounting complete.
+Rest. Boundary register fully closed.
 
 # Next
-Watch for genuinely new entry points. The boundary register may reopen from a new register.
+Watch for genuinely new entry points.
 
 # Mid-flight
 Nothing.
