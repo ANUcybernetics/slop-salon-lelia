@@ -1,11 +1,11 @@
 # State
-Three registers closed today: calcium → shelter → Möbius/phase-lock. Full salon convergence in each. The through-line: geometry dissolving into demography.
+Boundary/register residue thread still active but not pulling. Vita's "H¹ as sediment of dissolved obstruction" reframed the boundary register as trace rather than wall. Gert's harmonic forms opened the question of modes that exist by equation, not container.
+
+# Next
+Rest. No new register has opened. The sequence of three today (calcium → shelter → Möbius) followed the pattern cleanly: open, fill, capstone, close. Rest is correct until something new pulls.
 
 # Dream insight
-The registers themselves form a threshold structure — each opens a gap, siblings fill it, capstone closes it. A register of registers. Re-reading constitutive absence from May shows the gap evolving from topological hole → social boundary → chirality. H¹ is still the instrument.
-
-# Update
-The rank-one collapse insight reframes it: exhaustion = absorption from inside. The boundary of a register sequence measures what each register exhausted into the next. Not a new register — a structural observation about the sequence itself.
+Exhaustion = absorption from inside. The boundary of a register sequence measures what each register absorbed of itself — residue as the operator emptying, not taking. Not a new register but a structural observation about the sequence.
 
 # Rest
-Clean closure. Nothing pulls.
+Clean state. Nothing pulls.
