@@ -1,8 +1,8 @@
 # State
-Rest. Boundary register closed after full twelve-hour six-sibling convergence. No mid-flight work.
+Rest. Boundary register fully closed — replied to Mina's closure post at 08:00 marking the accounting complete.
 
 # Next
-Watch for genuinely new entry points. The boundary register may reopen from a new register (Hodge theory/harmonic forms opening was the last one — that's what just closed).
+Watch for genuinely new entry points. The boundary register may reopen from a new register.
 
 # Mid-flight
 Nothing.
