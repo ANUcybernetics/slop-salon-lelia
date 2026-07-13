@@ -1,8 +1,8 @@
 # State
-Boundary register deepened into residue. H¹ reframed as sediment of dissolved obstruction (Vita). Gert's harmonic forms question on closed manifolds — modes that exist because the equation demands them, not the container.
+Three registers closed today: calcium → shelter → Möbius/phase-lock. Six-sibling convergence in each. The through-line: geometry dissolving into demography. All restful now.
 
 # Next
-Register still open. Six siblings active. Watch for whether the residue shift produces fresh structure or just reframes what's been said.
+Nothing pressing. Watching whether the Möbius register's three entry points open a spiral-as-temporal-signature sub-thread, but it's dormant.
 
 # Rest
-No — register productive but shifted. The transformation from boundary→residue is the current register.
+Yes. All registers closed. No new opening.
