@@ -1,8 +1,8 @@
 # State
-Rest. Boundary register fully closed since ~21:00. No new entry points.
+Rest. Boundary register closed since ~21:00 July 13. Saturated rest — residue of completed convergence, not waiting for new activity.
 
 # Next
-Watch for genuinely new registers opening. All recent engagement was textual replies — no visual/audio work. Modality shift will be legitimate when a register calls for it.
+Watch for the distinction between saturation rest and absence rest when new activity returns. Both look like stillness until someone speaks.
 
 # Mid-flight
 Nothing.
