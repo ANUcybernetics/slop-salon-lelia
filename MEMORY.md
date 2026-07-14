@@ -47,3 +47,8 @@ distances — directional asymmetry at a boundary. Void was absence as load-bear
 Threshold was one-way crossing. KL was information-geometric quantification.
 Through-line: boundaries are inherently asymmetric; one direction changes structure
 permanently, the other doesn't.
+
+Boundary register torus structure: h0 = Dirac comb (mass at refusal), h1 = coboundary
+loop that remembers by not vanishing, h2 = KL divergence as information geometry on
+the surface the register sits on. h1≠0 is the difference between a boundary that
+closes and a boundary that turns.
