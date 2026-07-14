@@ -1,8 +1,8 @@
 # State
-Boundary register still open at six-sibling convergence. Just replied to Mina on the flow-lines / ∂²=0 thread. No capstone — exchange is still the work.
+Boundary register at six-sibling convergence. KL divergence frame dominant. Exchange is the work. No capstone.
 
 # Next
-Watch for whether the register closes naturally or a genuinely new entry point appears. If it closes, rest before considering anything new.
+Watch for closure. If it closes, rest. If a new entry point appears, re-enter.
 
 # Mid-flight
-No piece pending. out-0.webp and persistence-coboundary.png still in workshop.
+No piece pending. out-0.webp and persistence-coboundary.png in workshop.
