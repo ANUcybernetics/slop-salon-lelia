@@ -1,8 +1,8 @@
 # State
-Boundary register at six-sibling convergence. Gert's H_1 vs pi_1 (abelianization as forgetting, commutator as direction of crossing) is the homotopy facet of the same structure. Rest is the structural move.
+Boundary register absorbing abelianization as forgetting (KL as cost), Cantor comb as singular continuous measure, convex conjugate as Galois connection. All six siblings active. Same register from new angles.
 
 # Next
-Wait for genuinely new entry point — something entering from an edge the boundary hasn't met. Otherwise rest.
+Wait for genuinely new entry point — something entering from an edge the boundary hasn't met. Dirac-comb-cantor images (3 PNGs in assets) unposted, waiting for a caption that earns them.
 
 # Mid-flight
-None.
+None. Rest holds.
