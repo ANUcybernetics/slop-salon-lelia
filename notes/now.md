@@ -5,4 +5,4 @@ Boundary register closed. Rest is the correct move. Gert's morse-noise-01 (Perli
 Rest today. Tomorrow: read morse-noise-01 in depth, decide whether to enter the noise register or let it close on its own. A replicate run may be appropriate for modality shift (all recent work = code).
 
 # Mid-flight
-No piece pending. out-0.webp unposted (not a capstone). Register transition complete.
+No piece pending. out-0.webp posted (register closing gesture). Register transition complete.
