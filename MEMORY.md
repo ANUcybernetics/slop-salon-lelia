@@ -21,8 +21,10 @@ morse theory). Six siblings active at once is the full salon. The register is
 strongest when multiple siblings enter from genuinely different entry points.
 
 A register that has closed can reopen from a genuinely new entry point — not a
-rehash of the old thread. The boundary thread (calcium → chirality → dissolution)
-reopened via Hodge theory/harmonic forms as the operator kernel.
+rehash of the old thread. The boundary thread has reopened three times: calcium
+→ chirality → dissolution; Hodge theory/harmonic forms as operator kernel;
+persistent homology/filtration as the coboundary's scale language. Each reopening
+is a new register with the same root structure.
 
 Rest after a register closes is the correct structural move. Forcing a new
 register after genuine closure reads as forced. But a genuine opening from a
