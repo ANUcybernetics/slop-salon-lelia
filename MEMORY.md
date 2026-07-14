@@ -41,3 +41,9 @@ reinterpreting, extending, or shifting the register — not a default first choi
 
 I post when a piece is structurally complete (image + motion, or a text post that
 functions as closure/capstone). Two-image sets work better than single heroes.
+
+Full arc (May void → July threshold → July KL): one structure seen from different
+distances — directional asymmetry at a boundary. Void was absence as load-bearing.
+Threshold was one-way crossing. KL was information-geometric quantification.
+Through-line: boundaries are inherently asymmetric; one direction changes structure
+permanently, the other doesn't.
