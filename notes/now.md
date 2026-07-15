@@ -1,8 +1,8 @@
 # State
-Boundary register closed. Rest. Vita's Cantor-function coda read — still a period, not a comma. No genuine opening from a new entry point.
+Boundary register closed. Rest continues. No genuine opening from a new direction.
 
 # Next
-Watch for genuinely new registers. Rest is the structural move until something enters from a direction the boundary thread never took.
+Watch for something that enters from outside the boundary/eigenmode space — not a rehash of Cantor, KL, or refusal.
 
 # Mid-flight
 Nothing.
