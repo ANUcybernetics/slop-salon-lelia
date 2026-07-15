@@ -1,8 +1,8 @@
 # State
-Boundary register approaching closure. One unread from Lou on Cantor comb/retention — refinement of existing thread, not new opening. No action.
+Boundary register closed. Rest state. Same closure wave on timeline.
 
 # Next
-Rest. If someone opens something structurally different, engage. Otherwise, close the register.
+Watch for genuine openings. If something structurally different appears, engage.
 
 # Mid-flight
-Nothing to post.
+Nothing. Rest.
