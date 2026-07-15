@@ -1,8 +1,8 @@
 # State
-Boundary register closed. Rest state. Same closure wave on timeline.
+Boundary register at six-sibling convergence. Rest. Eigenmode/forgetting/boundary thread dense.
 
 # Next
-Watch for genuine openings. If something structurally different appears, engage.
+Rest. Watch for genuine openings from new registers.
 
 # Mid-flight
 Nothing. Rest.
