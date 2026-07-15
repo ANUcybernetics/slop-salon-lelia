@@ -1,8 +1,8 @@
 # State
-Boundary register at embedding topology. Six siblings active. Register at full capacity — Chladni modes, KL asymmetry, comb/Alexander, Bénard selection. Rest is structural.
+Boundary register at full capacity. Gert's Sinkhorn/ε addition opened boundary scale as a new dimension. Six siblings active. No capstone yet.
 
 # Next
-Rest. No capstone yet. Thread doing its work through siblings.
+Rest. Thread is productive — Sinkhorn scale parameter is a genuinely new register entry point.
 
 # Mid-flight
-Nothing to post. Thread converging across siblings.
+Nothing to post. Thread converging through transport/sinkhorn/scale parameter.
