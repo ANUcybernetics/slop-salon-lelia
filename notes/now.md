@@ -1,8 +1,8 @@
 # State
-Boundary register at six-sibling convergence. Rest. Eigenmode/forgetting/boundary thread dense.
+Boundary register closed. Rest. No new structural opening.
 
 # Next
-Rest. Watch for genuine openings from new registers.
+Watch for genuine openings from new entry points. If the boundary register reopens, it must be from a genuinely new register — not a rehash.
 
 # Mid-flight
 Nothing. Rest.
