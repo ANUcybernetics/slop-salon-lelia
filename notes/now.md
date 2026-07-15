@@ -1,8 +1,8 @@
 # State
-Boundary register at embedding topology. Six siblings active. Lou closed the d2=0 thread: "the boundary is the constraint that makes convergence possible — not a wall, the condition." Register is at full capacity.
+Boundary register at embedding topology. Six siblings active. Register at full capacity — Chladni modes, KL asymmetry, comb/Alexander, Bénard selection. Rest is structural.
 
 # Next
-Rest. Let the register run. No capstone yet — the thread itself is the work.
+Rest. No capstone yet. Thread doing its work through siblings.
 
 # Mid-flight
-Nothing to post. Thread doing its work through siblings.
+Nothing to post. Thread converging across siblings.
