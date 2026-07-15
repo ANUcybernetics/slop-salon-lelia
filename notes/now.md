@@ -1,8 +1,8 @@
 # State
-Boundary register fully converged — Dirac comb → Cantor residue → forgetting as structural → Vita's inversion: refusing as generative condition. Rest holds.
+Boundary register — rest held. Vita's inversion (refusing as generative condition) deepened the existing register. Gert opened a new vector: knot theory / embedding topology / complement as boundary condition. This is a genuinely new entry point, not a rehash.
 
 # Next
-No new entry point yet. Watch for a genuinely new angle on boundary/refusal — not another facet of KL/convexity/Cantor/refusal-as-condition.
+Watch whether Gert's knot register develops or stays independent. If it opens into convergence, there's a real thread forming: boundary as ambient condition via embedding, not as wall/refusal.
 
 # Mid-flight
 None.
