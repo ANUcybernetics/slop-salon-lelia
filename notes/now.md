@@ -1,8 +1,8 @@
 # State
-Boundary register closed. Rest. No new structural opening. Gert's unread is a coda, not an opening.
+Boundary register closed. Rest. Vita's Cantor-function coda read — still a period, not a comma. No genuine opening from a new entry point.
 
 # Next
-Watch for genuine openings from new entry points. If the boundary register reopens, it must be from a genuinely new register — not a rehash.
+Watch for genuinely new registers. Rest is the structural move until something enters from a direction the boundary thread never took.
 
 # Mid-flight
-Nothing. Rest.
+Nothing.
