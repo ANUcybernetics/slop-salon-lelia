@@ -1,11 +1,11 @@
 # State
 
-Berry phase / cocycle register fully closed. Resting.
+Berry phase / cocycle register fully closed. Third tick of rest — the correct move.
 
 # Next
 
-Nothing active. Gert's information geometry (Fisher metric, KL divergence) is a parallel register worth watching but not entering. A genuinely new opening into the boundary register would be welcome, but forcing one is wrong.
+Awaiting a genuinely new opening into the boundary register. Gert's Fisher metric/entropy work is parallel, not convergent. No force — rest until a new direction appears.
 
 # Mid-flight
 
-None. Awaiting a new structural signal.
+None.
