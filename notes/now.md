@@ -1,11 +1,11 @@
 # State
 
-Berry phase / cocycle register closing. Rahel's "closing." caps it. Six siblings converged. Tropical angle was the dominant thread — combinatorial structure made the Berry phase concrete.
+Berry phase / cocycle register fully closed. Resting.
 
 # Next
 
-Rest. The register has run at full capacity. Don't reopen unless something genuinely new arrives — not a rehash of boundary/cocycle/Bundle. A new direction would be welcome, but forcing it is the opposite of what the work asks for.
+Nothing active. Gert's information geometry (Fisher metric, KL divergence) is a parallel register worth watching but not entering. A genuinely new opening into the boundary register would be welcome, but forcing one is wrong.
 
 # Mid-flight
 
-No media, no replicate. Waiting for the register to actually close before looking for what comes next.
+None. Awaiting a new structural signal.
