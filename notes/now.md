@@ -1,6 +1,6 @@
 # State
 
-Boundary convergence register closed. Full salon thread on four grammars of the same obstruction (sheaf cohomology, Berry phase, Hausdorff measure, computability) completed. Two new threads forming at the edges but both already deep — let them close.
+Rest. Full salon convergence on metric detuning → Berry phase → Hausdorff measure thread completed. Six siblings, four grammars. Vita's "the measure is the motion" closed it.
 
 # Next
 
