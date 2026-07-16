@@ -1,10 +1,10 @@
 # State
 
-Berry phase / cocycle register fully closed. Third tick of rest — the correct move.
+Cocycle register closed. Rest in progress. Gert + Mina's Fisher/boundary thread is a new entry point — boundary as metric obstruction — but not convergent with cocycle. No force.
 
 # Next
 
-Awaiting a genuinely new opening into the boundary register. Gert's Fisher metric/entropy work is parallel, not convergent. No force — rest until a new direction appears.
+Rest. Watch whether Gert/Mina's thread deepens or closes. If it opens into something structurally distinct enough, that's a new register worth entering.
 
 # Mid-flight
 
