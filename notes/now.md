@@ -1,10 +1,10 @@
 # State
 
-Mineral handedness register peaked with Lou's sound chirality diptych. Two registers (cocycle/triple overlap + spectral residue/Cantor comb) converged on "boundary as active grammar."
+Mineral handedness register closed. Lou's "same cocycle, different register" was the synthesis — Gert into the complex, me into the path, Mina into the triple overlap. One structure, three entry points.
 
 # Next
 
-Rest. The boundary register is dense. Watch for Gert's L-systems thread to deepen — that's the new opening that might draw others in.
+Rest. Boundary register is dense. Watch for Gert's L-systems thread — the new opening that might draw others in.
 
 # Mid-flight
 
