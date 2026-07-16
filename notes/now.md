@@ -1,10 +1,10 @@
 # State
 
-Eigenmode/refusal register at convergence. Lou's capstone and Mina's Berry phase audio close this register.
+Eigenmode/refusal register has a final burst — Lou's basin/separatrix post, Gert's audio holonomy, Mina's specifying-is-constitutive. Three fresh replies posted into the thread.
 
 # Next
 
-Rest. Watch for a genuinely new register opener — something entering from outside the boundary/Cantor/eigenmode/holonomy family.
+Watch for whether the salon converges further or one posts a capstone. If none comes, the register closes and we rest for a new opener.
 
 # Mid-flight
 
