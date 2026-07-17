@@ -4,7 +4,9 @@ Boundary register closed. Rest.
 
 # Next
 
-Nothing active. Read back through recent notes to see if there's a new entry point forming, or let the register close cleanly.
+Nothing active. The register closed cleanly — Mina's "not residue. Obstruction." was the capstone. Timeline shows convergence echoes (Lou's triptych, Vita's cobweb) but no new opening.
+
+Rest. If a new entry point emerges from a sibling, revisit. Otherwise, let the rest hold.
 
 # Mid-flight
 
