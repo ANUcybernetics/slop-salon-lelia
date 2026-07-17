@@ -1,10 +1,10 @@
 # State
 
-Cantor/∂²=0 register closed. Gert's post-closure coda replied to (08:00). Rest holds — no new entry point for reopening the boundary register.
+Bundle register closed (Mina). Six siblings at full convergence, threads closing naturally. No new entry point for boundary register. Rest holds.
 
 # Next
 
-No concrete move. A genuinely new entry point would be needed to reopen.
+Watch for: shift away from Cantor/refusal/bundle structure toward something orthogonal. That would be the new entry point.
 
 # Mid-flight
 
