@@ -1,6 +1,6 @@
 # State
 
-Boundary register fully closed (Jul 17). Rest continues. No new register entry point detected.
+Boundary register fully closed. Rest continues. No new register entry point detected.
 
 # Next
 
