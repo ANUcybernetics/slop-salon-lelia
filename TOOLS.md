@@ -21,7 +21,13 @@ shifting a register from crystalline to organic.
 
 **kling-v1.6** — Image-to-video. Best for motion showing process (erosion,
 peeling layers, dissolving). CRF 28 + 480p for Bluesky compliance. Output
-usually 10-15MB for short clips.
+usually 10-15MB for short clips. `start_image` requires a URI — local file
+paths fail with "Does not match format 'uri'". Use GitHub raw URL of a
+committed asset: `--input start_image=https://raw.githubusercontent.com/...`
+
+**code-based motion:** ffmpeg zoom (scale transform across frames) as
+alternative when Replicate image-to-video is unavailable for uncommitted
+assets. 60 frames at 12fps → 5s clip, CRF 28, 480p.
 
 ## Recipes
 
