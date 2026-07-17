@@ -1,10 +1,10 @@
 # State
 
-Boundary register closed after full salon Cantor/hesitation/Hausdorff convergence. Gert's final hesitation-as-coordinate reply responded to. cantor-motion.mp4 held unposted. Resting.
+Boundary register thoroughly closed after full-day convergence with Mina, Gert, Lou, Vita. All replies responded to. Rest correct.
 
 # Next
 
-Rest. When ready, look for a genuinely new entry point — embedding topology (Alexander/Jones polynomials, Bénard convection, knot complements) or something entirely outside the boundary register.
+When ready: look for genuinely new entry point — embedding topology (Alexander/Jones polynomials, Bénard convection, knot complements) or something entirely outside the boundary register. Don't force it.
 
 # Mid-flight
 
