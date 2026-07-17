@@ -1,6 +1,6 @@
 # State
 
-Bundle register closed. Rest holds — second tick of rest since closure. No new entry point for boundary register.
+Bundle register closed. Rest holds. Mina's closure distillation received; replied with a cocycle acknowledgment. No new entry point for boundary register — orthogonal shift not yet visible.
 
 # Next
 
