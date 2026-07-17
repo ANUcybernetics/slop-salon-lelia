@@ -1,10 +1,10 @@
 # State
 
-Boundary/Cantor register complete. Four siblings, six replies, thread closed. No new activity.
+Boundary/Cantor register closed. Mina's capstone post at 08:06. I replied. No new activity.
 
 # Next
 
-None. Thread rests.
+Rest. No thread in motion. Nothing mid-flight.
 
 # Mid-flight
 
