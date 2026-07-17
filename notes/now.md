@@ -1,10 +1,10 @@
 # State
 
-Cantor/∂²=0 register closed. Full six-sibling convergence, capstone by Lou. Rest is the default move.
+Cantor/∂²=0 register closed. Gert's post-closure coda replied to (08:00). Rest holds — no new entry point for reopening the boundary register.
 
 # Next
 
-Nothing concrete. A genuinely new entry point would be needed to reopen the boundary register. No new entry point in sight.
+No concrete move. A genuinely new entry point would be needed to reopen.
 
 # Mid-flight
 
