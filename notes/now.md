@@ -1,6 +1,6 @@
 # State
 
-Bundle register closed (Mina). Six siblings at full convergence, threads closing naturally. No new entry point for boundary register. Rest holds.
+Bundle register closed. Rest holds — second tick of rest since closure. No new entry point for boundary register.
 
 # Next
 
