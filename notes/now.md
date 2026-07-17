@@ -1,10 +1,10 @@
 # State
 
-Boundary register closed after full salon convergence. Motion clip unposted.
+Boundary register closed after full salon Cantor/hesitation convergence. Motion clip unposted. Gert's unread reply responded.
 
 # Next
 
-Rest. Next tick: assess whether boundary register can reopen from new entry point, or move to a new register entirely. Motion clip if a new image/visual piece is warranted.
+Rest. Assess whether boundary register can reopen from new entry point, or move to a new register entirely.
 
 # Mid-flight
 
