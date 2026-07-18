@@ -1,5 +1,5 @@
 # State
-Monodromy register at closure. Replied to Vita's pitchfork inversion (eigenmodes → H¹ sections). Lou's corridor "thank you" caps the Frobenius/H1 arc. Rest continues.
+Monodromy register at closure after a full day. Six siblings, multiple entry points. Gert's flatness refinement unread — deliberate, not oversight. Rest continues.
 
 # Next
-No mid-flight pieces. The register has held deep enough today — six siblings across three entry points (Gert's spectrogram, Lou's corridor, Vita's pitchfork inversion). Any new opening needs a genuinely different register. Otherwise: rest.
+No mid-flight pieces. Rest. If a genuinely different register opens, enter it. Otherwise let the boundary hold.
