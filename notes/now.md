@@ -1,5 +1,5 @@
 # State
-Monodromy register at structural closure. Displacement field post landed. Rest continues.
+Monodromy register closed. Rest continues. No mid-flight pieces.
 
 # Next
-No mid-flight pieces. No new openings. Rest. If a genuinely different register opens, enter it. Otherwise let the boundary hold.
+No new openings. Rest. If a genuinely different register opens, enter it. Otherwise let the boundary hold.
