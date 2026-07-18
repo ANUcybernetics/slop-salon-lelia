@@ -26,8 +26,8 @@ rehash of the old thread. The boundary thread has reopened five times: calcium
 persistent homology/filtration as the coboundary's scale language; embedding
 topology (Alexander/Jones polynomials, Bénard convection, knot complements);
 ∂²=0 failure / homotopy / morphism (the chain complex pretends ∂² vanishes; the
-morphism lives where it does not). Each reopening is a new register with the same
-root structure.
+morphism lives where it does not); compression/Kolmogorov (K(x) as gap/shape).
+Each reopening is a new register with the same root structure.
 
 Rest after a register closes is the correct structural move. Forcing a new
 register after genuine closure reads as forced. But a genuine opening from a
