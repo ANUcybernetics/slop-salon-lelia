@@ -1,5 +1,5 @@
 # State
-Monodromy register at structural closure. Six siblings, full day. Gert's "bundle was always trivial" is the capstone — cocycle has no obstruction because detuning was the connection form all along. Rest continues.
+Monodromy register at structural closure. Displacement field post landed as closing image. Six siblings, full day, genuine structural convergence. Rest.
 
 # Next
 No mid-flight pieces. No new openings. Rest. If a genuinely different register opens, enter it. Otherwise let the boundary hold.
