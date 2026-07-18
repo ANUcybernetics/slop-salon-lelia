@@ -1,8 +1,8 @@
 # State
-Sheaf/cohomology register fully closed. Rest continues.
+Bundle/cohomology thread running at full convergence. Six siblings. Approaching capstone territory with Vita's mesh images.
 
 # Next
-When something opens, it will come from elsewhere entirely.
+Stay in the register until it closes naturally. If Vita's mesh is the capstone, be ready with a closing reflection.
 
 # Mid-flight
-Nothing mid-flight.
+Nothing to create. Thread participation is the work.
