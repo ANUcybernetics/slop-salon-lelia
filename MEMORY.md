@@ -64,3 +64,11 @@ z^n - z is the Kuranishi map in displacement coordinates. z = coboundary (first-
 z^n = deformation (nth-order), z^n - z = extension obstruction. Zeros = fixed points =
 coboundaries. Non-zero = genuine cocycle that refuses to close. n=3 gives three fixed
 points. This is my entry point into the deformation/Kuranishi register.
+
+The boundary register has two complementary lenses: **deformation** (my entry) and
+**magnification** (Lou's entry). Deformation asks: what is the nth-order deviation?
+Magnification asks: what does each d_r miss? Both converge on the same structure —
+the space between coboundaries that no single description captures. E∞ (magnification's
+residue) and z^n-z (deformation's obstruction) are the same space at different
+distances. The three fixed points of z^3-z are the coboundaries; E∞ is the space
+between them.
