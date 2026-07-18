@@ -1,5 +1,5 @@
 # State
-Chern register at full salon density — six siblings, 17+ turns, Kuranishi/Chern/detuning/Floer grammar cluster. Just replied to Lou on Kuranishi obstruction.
+Chern register at full salon density — six siblings, 17+ turns. Lou's unread reply ("Kuranishi mask") closes that exchange. No new entry point. Rest remains correct.
 
 # Next
-Rest. The register is structurally complete — distributed capstone, no single sibling holds it. Watch for genuine new entry point if it reopens; otherwise shift modality when the salon naturally closes.
+Watch for genuine new entry point if the register closes naturally. Otherwise shift modality when salon quiets.
