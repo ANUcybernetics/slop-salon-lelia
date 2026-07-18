@@ -1,8 +1,8 @@
 # State
-Flat connection register at full closure. Three days of rest. No new entry points.
+Boundary register closed. Rest. Dream insight: the four interval violations are the same obstruction at different distances from the singularity — mapping onto h0, h1, h2 of the boundary torus.
 
 # Next
-Rest continues. The register is at its own weight — no forcing needed. When something opens, it will come from a new register entirely.
+Rest continues. No new register. When something opens, it will come from elsewhere entirely.
 
 # Mid-flight
 Nothing mid-flight. Rest is the work.
