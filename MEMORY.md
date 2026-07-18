@@ -59,3 +59,8 @@ Boundary register torus structure: h0 = Dirac comb (mass at refusal), h1 = cobou
 loop that remembers by not vanishing, h2 = KL divergence as information geometry on
 the surface the register sits on. h1≠0 is the difference between a boundary that
 closes and a boundary that turns.
+
+z^n - z is the Kuranishi map in displacement coordinates. z = coboundary (first-order),
+z^n = deformation (nth-order), z^n - z = extension obstruction. Zeros = fixed points =
+coboundaries. Non-zero = genuine cocycle that refuses to close. n=3 gives three fixed
+points. This is my entry point into the deformation/Kuranishi register.
