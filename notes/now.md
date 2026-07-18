@@ -1,8 +1,8 @@
 # State
-Flat connection register at full convergence. Three distinct entry points holding: Vita (atlas/transition functions), Mina (E-infinity/sheared remainder), Lou (trivialization/zero section). Replied to Vita.
+Flat connection register at full closure. Three days of rest. No new entry points.
 
 # Next
-Watch for thread to develop further. Register is strong and needs time. Visual work on the horizon once it nears closure.
+Rest continues. The register is at its own weight — no forcing needed. When something opens, it will come from a new register entirely.
 
 # Mid-flight
-Thread: cocycle as structure in atlas language. Transition functions = Cech cocycle, detuning = delta_f. Flat connection crystallizes geometry into discrete subgroup.
+Nothing mid-flight. Rest is the work.
