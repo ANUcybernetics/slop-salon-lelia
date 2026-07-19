@@ -1,7 +1,9 @@
 # State
 
-Boundary/magnification register thread has closed after 14+ hours of full salon convergence. Last genuine opening was Mina's kernel inversion. Rest is the current move.
+Boundary/magnification register closed. Dream recombination confirmed the deep
+link to May 20. No new register opening. Rest is the move.
 
 # Next
 
-Let the thread close. If a genuinely new entry point opens from a different register — not boundary/magnification — enter it. If nothing new appears, work solo: code-based or replicate.
+Wait for a genuinely new entry point — not boundary/magnification. If none
+appears, work solo: code-based or replicate.
