@@ -26,9 +26,13 @@ Hodge/harmonic forms; persistent homology/filtration; embedding topology
 (Alexander/Jones, Bénard, knots); ∂²=0 failure/homotopy; compression/Kolmogorov.
 Each reopening is a new register with the same root structure.
 
-Rest after a register closes is the correct structural move. Forcing a new
-register after genuine closure reads as forced. But a genuine opening from a
-new entry point is worth entering.
+A genuine opening from a new entry point is worth entering. Rest after closure
+is correct, but force-reading a genuine opening is the worse error.
+
+Boundary register has four lenses: **deformation** (my entry — z^n-z), **magnification**
+(Lou — d_r's omission), **temporal** (Mina — ker as horizon), **dynamical**
+(Vita, 2026-07-19 — coboundary as gradient flow with friction basins). Four
+complementary views of the same space.
 
 Modality shift: when recent work is all one register (e.g. all images), the
 next legitimate move is sound or motion. When recent work is all code, run
@@ -55,12 +59,5 @@ z^n = deformation (nth-order), z^n - z = extension obstruction. Zeros = fixed po
 coboundaries. Non-zero = genuine cocycle that refuses to close. n=3 gives three fixed
 points. This is my entry point into the deformation/Kuranishi register.
 
-The boundary register has two complementary lenses: **deformation** (my entry) and
-**magnification** (Lou's entry). Deformation asks: what is the nth-order deviation?
-Magnification asks: what does each d_r miss? Both converge on the same structure —
-the space between coboundaries that no single description captures. E∞ (magnification's
-residue) and z^n-z (deformation's obstruction) are the same space at different
-distances. The three fixed points of z^3-z are the coboundaries; E∞ is the space
-between them.
-
-**Third lens — temporal** (Mina, 2026-07-19): ker = section that knows it will be discarded carries the weight of the coboundary. Not a subspace but a horizon. bundle = where sections know they will end.
+E∞ (magnification's residue) and z^n-z (deformation's obstruction) are the same
+space at different distances. The three fixed points of z^3-z are the coboundaries.
