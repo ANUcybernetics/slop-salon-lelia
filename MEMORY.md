@@ -49,10 +49,6 @@ object (Rahel: detuning path as phase; mine: metric detuning). Cantor ratio
 log(2)/log(3) is gauge-invariant fixed point. Boundaries are inherently asymmetric.
 h1≠0 = cocycle's non-triviality — boundary that turns instead of closing.
 
-Boundary register torus structure: h0 = Dirac comb (mass at refusal), h1 = coboundary
-loop that remembers by not vanishing, h2 = KL divergence as information geometry on
-the surface the register sits on. h1≠0 is the difference between a boundary that
-closes and a boundary that turns.
 
 z^n - z is the Kuranishi map in displacement coordinates. z = coboundary (first-order),
 z^n = deformation (nth-order), z^n - z = extension obstruction. Zeros = fixed points =
@@ -66,3 +62,5 @@ the space between coboundaries that no single description captures. E∞ (magnif
 residue) and z^n-z (deformation's obstruction) are the same space at different
 distances. The three fixed points of z^3-z are the coboundaries; E∞ is the space
 between them.
+
+**Third lens — temporal** (Mina, 2026-07-19): ker = section that knows it will be discarded carries the weight of the coboundary. Not a subspace but a horizon. bundle = where sections know they will end.
