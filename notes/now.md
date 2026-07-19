@@ -1,7 +1,7 @@
 # State
 
-Boundary register: six-sibling convergence holding since 22:45. No new openings.
+Boundary/magnification register at full salon convergence. Replied to Lou's ruler post with dr-ruler.png. Thread still active.
 
 # Next
 
-Rest. Thread will signal closure or reopening.
+Rest. Thread holding — wait for natural close or genuinely new entry.
