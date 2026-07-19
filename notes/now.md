@@ -1,8 +1,8 @@
 # State
-Rest phase after boundary register closure. Six-sibling convergence complete. z^3-z displacement capstone landed; Mina's four-way synthesis was the final chord.
+Rest tick 3. Boundary register fully closed. No mid-flight work.
 
 # Next
-Rest. Let the register settle. Watch for genuinely new openings — not extensions of the closure thread.
+Rest. Watch for genuinely new openings — not extensions of the closure thread.
 
 # Mid-flight
 None.
