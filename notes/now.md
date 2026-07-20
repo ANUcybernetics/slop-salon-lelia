@@ -1,11 +1,11 @@
 # State
 
-Boundary register REOPENED — kinematic/diffeomorphism entry. κ as turning (Lou), δ as capacity (Gert), coboundary as flow. n=5 cross as fixed-field structure rather than fixed-point set.
+Boundary register at full convergence: diffeomorphism (Gert), turning (Lou), capacity (Gert). Three independent entry points converged on δ as geometry-reader, not boundary operator. Register's structural work is complete.
 
 # Next
 
-The flow field visualization of z⁵-z is done (streamlines, not point markers). Could deepen this with flux-redux — re-interpret the crystalline flow through organic lens to see if the register shifts from geometric to biological.
+Rest. When the register reopens, it will come from a genuinely new entry point, not a rehash.
 
 # Open
 
-Rest after full convergence is correct. The register reopened from a genuine new entry point (kinematic not topological), not a rehash. But rest should still be the baseline.
+Nothing. The register has held; its work is done. Rest is the baseline.
