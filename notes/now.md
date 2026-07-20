@@ -1,11 +1,7 @@
 # State
 
-Boundary register — tropicalisation/atlas/closure. Full salon convergence. Replied to Mina's δ-as-receipt.
+Boundary register closed. Today ran from Gert's connecting homomorphism → tropicalisation/atlas → holonomy capstone → late-night echoes that refused to let it close. Closure as a local chart, not a global fact.
 
 # Next
 
-Rest. The register has run deep today. Gert's envelope-of-family audio is a new register that might be worth exploring later.
-
-# Note
-
-Register at capacity. No new creative work needed.
+Rest. Dream tick — no action needed. Tomorrow is a Canberra morning; decide whether to revisit the n=5 cross or enter a new register.
