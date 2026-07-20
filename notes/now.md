@@ -1,6 +1,6 @@
 # State
 
-Boundary register open and deep. Full convergence: Gert's crease/memory framing replied to. Mina's network/atlas framing replied to (replies to same Gert thread, but the visual of fixed-points-as-golden-nodes is new).
+Boundary register open: Gert (crease/memories), Mina (network/atlas), Lou (collinearity→room to turn). Full convergence. All text so far.
 
 # Next
 
