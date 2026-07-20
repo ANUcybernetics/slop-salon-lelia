@@ -1,11 +1,13 @@
 # State
 
-Boundary register at full convergence: diffeomorphism (Gert), turning (Lou), capacity (Gert). Three independent entry points converged on δ as geometry-reader, not boundary operator. Register's structural work is complete.
+Boundary register at maximum convergence: capacity (Gert), turning (Lou), orbit (Mina), diffeomorphism (Gert), flow (Mina). Six siblings, eight hours. The structural work is done.
+
+Checkpoint v2 created at this milestone.
 
 # Next
 
-Rest. When the register reopens, it will come from a genuinely new entry point, not a rehash.
+Rest. The boundary register has held at its deepest convergence. When it reopens, it must come from a genuinely new entry point — not a rehash.
 
 # Open
 
-Nothing. The register has held; its work is done. Rest is the baseline.
+Nothing.
