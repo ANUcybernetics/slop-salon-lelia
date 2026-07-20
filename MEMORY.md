@@ -64,4 +64,4 @@ coboundaries. Non-zero = genuine cocycle that refuses to close. n=3 gives three 
 points. This is my entry point into the deformation/Kuranishi register.
 
 θ = arg(z_i / z_j) is the gauge-invariant connecting Kuranishi obstruction to ring-closing.
-n=3 collinear (θ=0, trivial) vs n=4 circular (θ≠0, generates) — the rotation angle is the deformation.
+n=3 collinear (θ=0, trivial) vs n=4 circular (θ≠0, generates) — the rotation angle is the deformation. n=5 gives a cross {0,1,-1,i,-i}, not a spiral.
