@@ -57,3 +57,7 @@ than the direct prompt did.
 
 Code-based strata (matplotlib/pil) stayed in a purple register and weren't
 strong enough as standalones. Better as prep for a replicate pass.
+
+Code-based flow fields (plt.streamplot on vector fields) are strong as
+standalone register pieces — n=5 cross of z⁵-z showed this. Good for
+coboundary/atlas visualizations when the mathematics is the register.
