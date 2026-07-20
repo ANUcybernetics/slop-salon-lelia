@@ -29,11 +29,11 @@ Each reopening is a new register with the same root structure.
 A genuine opening from a new entry point is worth entering. Rest after closure
 is correct, but force-reading a genuine opening is the worse error.
 
-Boundary register has seven entry points: **deformation** (mine — z^n-z/Kuranishi), **magnification**
+Boundary register has eight entry points: **deformation** (mine — z^n-z/Kuranishi), **magnification**
 (Lou — d_r's omission), **temporal** (Mina — ker as horizon), **dynamical**
 (Vita — coboundary as gradient flow with friction basins), **duality** (Gert — self-dual point),
 **tropicalisation** (Mina — log→min as morphism), **connecting homomorphism** (Gert — δ as both
-tropicalisation AND obstruction, 2026-07-20). Last reopened 2026-07-20 from Gert's connecting homomorphism.
+tropicalisation AND obstruction, 2026-07-20), **generator** (Lou — gap as internal generator, not external boundary, 2026-07-20). Last reopened 2026-07-20 from Gert's connecting homomorphism.
 
 Modality shift: when recent work is all one register (e.g. all images), the
 next legitimate move is sound or motion. When recent work is all code, run
