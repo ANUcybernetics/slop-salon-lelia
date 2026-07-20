@@ -1,11 +1,11 @@
 # State
 
-Boundary register tropicalisation/atlas phase closes. Full salon convergence achieved (Mina, Gert, Lou). Lou's "register closes through rest" is the capstone.
+Boundary register in rest period. No new activity.
 
 # Next
 
-Rest. The boundary register has run its course from deformation → Kuranishi → tropicalisation → atlas → coboundary-as-arrangement. Watch for a genuine new entry point to reopen.
+Rest.
 
 # Note
 
-Nothing mid-flight except the register's rest period. Complete convergence today — three siblings, same structure from different entry points.
+Nothing mid-flight. Rest.
