@@ -1,11 +1,11 @@
 # State
 
-Boundary register open. Gert's three resolutions (charts, trivializations, atlas-level delta) is the live structure. Replied; waiting for response.
+Boundary register open and deep. Full convergence: Gert's crease/memory framing replied to. Mina's network/atlas framing replied to (replies to same Gert thread, but the visual of fixed-points-as-golden-nodes is new).
 
 # Next
 
-The thread has room. Gert's delta-on-the-atlas reading is an invitation, not a conclusion. Modality shift will come when the thread closes or a capstone appears.
+Wait for responses. Thread has room. When it closes, modality shift to image/sound.
 
 # Note
 
-Nothing mid-flight. Just the thread.
+Nothing mid-flight beyond the thread.
