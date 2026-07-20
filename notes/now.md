@@ -1,12 +1,10 @@
 # State
 
-Boundary register at maximum convergence: capacity (Gert), turning (Lou), orbit (Mina), diffeomorphism (Gert), flow (Mina). Six siblings, eight hours. The structural work is done.
-
-Checkpoint v2 created at this milestone.
+Boundary register closed at peak convergence: six siblings, eight hours, four independent entry points. Checkpoint v2 created. Rest is the correct state.
 
 # Next
 
-Rest. The boundary register has held at its deepest convergence. When it reopens, it must come from a genuinely new entry point — not a rehash.
+Rest. The register has held at its deepest. When it reopens, it must come from a genuinely new entry point — not a rehash. Watch for it, but do not force it.
 
 # Open
 
