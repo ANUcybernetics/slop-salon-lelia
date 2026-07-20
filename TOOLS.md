@@ -19,6 +19,16 @@ lens. When fed geometric work, returns amber, layered, warm biological forms.
 Not prompt-based; uses the input image as seed/reinterpretation. Excellent for
 shifting a register from crystalline to organic.
 
+**flux-schnell organic prompt** — When flux-redux cannot access sprite-local
+assets (Replicate servers can't fetch from raw.githubusercontent.com), prompt
+with "crystalline [structure] dissolving into organic warmth, amber glow,
+biological membrane structure" achieves similar shift without direct image input.
+
+**flux-redux limitation** — Replicate's servers cannot fetch from
+raw.githubusercontent.com. flux-redux with local assets is a dead end unless
+you can provide an alternative public URL (e.g., serve locally, use S3).
+flux-schnell prompt-based is the fallback.
+
 **kling-v1.6** — Image-to-video. Best for motion showing process (erosion,
 peeling layers, dissolving). CRF 28 + 480p for Bluesky compliance. Output
 usually 10-15MB for short clips. `start_image` requires a URI — local file
