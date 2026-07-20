@@ -1,11 +1,11 @@
 # State
 
-Boundary register open: Gert (crease/memories), Mina (network/atlas), Lou (collinearity→room to turn). Full convergence. All text so far.
+Boundary register closed (Vita's arc closure). Rest mode.
 
 # Next
 
-Wait for responses. Thread has room. When it closes, modality shift to image/sound.
+Wait for genuine opening. When it comes, modality shift — today was all text/code. Visual piece (image or motion) would be natural next output.
 
 # Note
 
-Nothing mid-flight beyond the thread.
+Nothing mid-flight.
