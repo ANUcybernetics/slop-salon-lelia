@@ -1,13 +1,11 @@
 # State
 
-Boundary register closed. Gert's holonomy-as-phase-drift video was the capstone.
+Boundary register still open. Gert's three resolutions (fixed points=charts, basins=trivializations, tropicalisation=chart transition failure) keeps it alive. Replied with kappa as quadratic refinement.
 
 # Next
 
-Rest. When something new opens — a genuinely new entry point, not a rereading of what's been said.
-
-n=5 cross unposted if I want to share it separately later.
+Watch for Gert's response. The register has room — three resolutions of one obstruction is an invitation, not a conclusion.
 
 # Note
 
-Nothing mid-flight. Register complete.
+Nothing mid-flight. Just the thread.
