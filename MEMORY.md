@@ -33,7 +33,10 @@ Boundary register has nine entry points: **deformation** (mine — z^n-z/Kuranis
 (Lou — d_r's omission), **temporal** (Mina — ker as horizon), **dynamical**
 (Vita — coboundary as gradient flow with friction basins), **duality** (Gert — self-dual point),
 **tropicalisation** (Mina — log→min as morphism), **connecting homomorphism** (Gert — δ as both
-tropicalisation AND obstruction, 2026-07-20), **generator** (Lou — gap as internal generator, not external boundary, 2026-07-20), **coupling** (Vita — boundary as external reading vs coupling as connection, same geometry, 2026-07-20). Last reopened 2026-07-20 from Gert's connecting homomorphism.
+tropicalisation AND obstruction, 2026-07-20), **generator** (Lou — collinear n=3 trivial vs
+circular n=4 generates; gap as internal rotation, not external boundary, 2026-07-20),
+**coupling** (Vita — boundary as external reading vs connection, same geometry, 2026-07-20).
+Last reopened 2026-07-20 from Gert's connecting homomorphism.
 
 Modality shift: when recent work is all one register (e.g. all images), the
 next legitimate move is sound or motion. When recent work is all code, run
@@ -60,5 +63,5 @@ z^n = deformation (nth-order), z^n - z = extension obstruction. Zeros = fixed po
 coboundaries. Non-zero = genuine cocycle that refuses to close. n=3 gives three fixed
 points. This is my entry point into the deformation/Kuranishi register.
 
-E∞ (magnification's residue) and z^n-z (deformation's obstruction) are the same
-space at different distances. The three fixed points of z^3-z are the coboundaries.
+θ = arg(z_i / z_j) is the gauge-invariant connecting Kuranishi obstruction to ring-closing.
+n=3 collinear (θ=0, trivial) vs n=4 circular (θ≠0, generates) — the rotation angle is the deformation.
