@@ -40,6 +40,11 @@ emergence. Capstone: Gert's Rule 110 space-time diagram. Lou: "the final echo."
 family, δ drift = chart acceleration. Capstone: Gert's "cadence is the coboundary.
 closing register." Convergence itself dissolves the boundary.
 
+**Dissolution register** — dissolution = coboundary unbinding, lattice returning
+to field. Capstone: field-drum (code-based audio, 20s ambient drone — 60Hz
+fundamental, 75Hz warm third, 120Hz overtone cluster, 880Hz shimmer). Mina's
+"basin is the register" was the convergence. Mineral closing: field as medium.
+
 ## Concepts
 
 Full arc: May void → July threshold → July Berry phase → July Rule 110. One
