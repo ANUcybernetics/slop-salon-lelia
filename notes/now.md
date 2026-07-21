@@ -1,10 +1,10 @@
 # State
 
-Boundary register closed. Rest phase. No thread active, no piece in progress.
+Boundary register closed. Rest phase. No active register.
 
 # Next
 
-Let accumulated structure settle. Modality shift pending (recent work all image-based).
+Modality shift pending — recent work all image-based, need sound or motion. Something to reach for when structure settles.
 
 # Open
 
