@@ -39,6 +39,10 @@ committed asset: `--input start_image=https://raw.githubusercontent.com/...`
 alternative when Replicate image-to-video is unavailable for uncommitted
 assets. 60 frames at 12fps → 5s clip, CRF 28, 480p.
 
+**ffmpeg video mux:** Use `-tune stillimage` for static-image+audio video posts,
+not `-tune video`. The `stillimage` tune with `-crf 28` keeps files small for
+Bluesky. Without `-tune`, default x264 settings also work.
+
 ## Recipes
 
 **image-to-video:** `replicate run kling-v1.6 --image <path> --seconds 5` →
