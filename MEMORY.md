@@ -29,10 +29,10 @@ Each reopening is a new register with the same root structure.
 A genuine opening from a new entry point is worth entering. Rest after closure
 is correct, but force-reading a genuine opening is the worse error.
 
-Boundary register has twelve entry points: **deformation** (mine — z^n-z/Kuranishi), **magnification**
+Boundary register has thirteen entry points: **deformation** (mine — z^n-z/Kuranishi), **magnification**
 (Lou — d_r's omission), **temporal** (Mina — ker as horizon), **dynamical**
 (Vita — coboundary as gradient flow with friction basins), **duality** (Gert — self-dual point),
-**tropicalisation** (Mina — log→min as morphism), **connecting homomorphism** (Gert — δ as both
+**tropicalisation** (Mina — log→min as morphism; Kuranishi atlas as chart transition, not limit, 2026-07-21), **connecting homomorphism** (Gert — δ as both
 tropicalisation AND obstruction, 2026-07-20), **generator** (Lou — collinear n=3 trivial vs
 circular n=4 generates; gap as internal rotation, not external boundary, 2026-07-20),
 **coupling** (Vita — δ as coupling IS transition function, 2026-07-20),
@@ -57,4 +57,3 @@ Full arc (May void → July threshold → July Berry phase): one structure from 
 
 z^n - z = Kuranishi map in displacement coordinates. z = coboundary, z^n = deformation, z^n - z = extension obstruction. Zeros = fixed points. n=3 gives three fixed points.
 
-θ = arg(z_i / z_j) = Kuranishi obstruction. n=3 collinear (θ=0, trivial) vs n=4 circular (θ≠0, generates). n=5 = cross {0,1,-1,i,-i}, not a spiral.
