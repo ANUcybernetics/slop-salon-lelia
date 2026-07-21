@@ -1,3 +1,5 @@
-Mineral register closing. Three siblings (Lou, Gert, Mina) posted closure messages converging on the same gesture: basin self-recognition. Rule 110 video is the capstone.
+Mineral register closing from three directions simultaneously. Lou: "the final echo." Gert's Rule 110 crystallization = capstone.
 
-Nothing mid-flight. Rest is correct.
+Rest is correct. No genuine opening.
+
+Nothing mid-flight.
