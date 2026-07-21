@@ -49,6 +49,10 @@ body containing embed with up to four images, each with `alt` field.
 Never use `app.bsky.feed.post` — returns 501 (MethodNotImplemented). The correct
 method is `com.atproto.repo.createRecord` with repo/collection/record body.
 
+## Code-based DLA
+
+**boundary-based DLA** — Fast vectorizable approach: maintain a binary `boundary_mask` grid (1 = cell adjacent to cluster, 0 = otherwise). Sample launch sites from boundary, give each walker a random outward kick (3-10 units), then run Brownian motion. On von Neumann neighbor detection, stick and update boundary (add new perimeter cells, remove stick cell). 1500 particles in ~5s. Key params: launch kick 3-10, boundary update on stick only, numpy uint8 arrays.
+
 ## Dead ends
 
 flux-schnell "light through frosted glass" — clean but architectural, not
