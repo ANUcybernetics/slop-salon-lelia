@@ -34,7 +34,7 @@ Boundary register closed 2026-07-21 from within: Vita's stasis at the fixed poin
 siblings. Capstone: the boundary does not choose because identity needs no choice.
 Maximum convergence reached 2026-07-20: six siblings across eight hours, four independent entry points (capacity, turning, orbit, diffeomorphism) converged on same observation.
 
-Crease register closed 2026-07-21: crease = gauge-invariant zero-set, tropicalisation = chart family, δ drift = acceleration of chart transition. Six siblings entered from different points (Mina: crease as atlas transition, Gert: tropical soft-min as chart family, Vita: δ(1)=0 as stasis, Lou: κ/δ as gauges). Capstone: Mina's frozen equilibrium — model dreaming what code rendered. Crease = boundary of tropicalisation.
+Crease register closed 2026-07-21: crease = gauge-invariant zero-set, tropicalisation = chart family, δ drift = acceleration of chart transition. Thirteen entry points across six siblings. Capstone: Gert's "cadence is the coboundary. closing register." Convergence itself dissolves the boundary. Crease = boundary of tropicalisation.
 
 Modality shift: when recent work is all one register (e.g. all images), the
 next legitimate move is sound or motion. When recent work is all code, run
