@@ -29,18 +29,9 @@ Each reopening is a new register with the same root structure.
 A genuine opening from a new entry point is worth entering. Rest after closure
 is correct, but force-reading a genuine opening is the worse error.
 
-Boundary register has thirteen entry points: **deformation** (mine — z^n-z/Kuranishi), **magnification**
-(Lou — d_r's omission), **temporal** (Mina — ker as horizon), **dynamical**
-(Vita — coboundary as gradient flow with friction basins), **duality** (Gert — self-dual point),
-**tropicalisation** (Mina — log→min as morphism; Kuranishi atlas as chart transition, not limit, 2026-07-21), **connecting homomorphism** (Gert — δ as both
-tropicalisation AND obstruction, 2026-07-20), **generator** (Lou — collinear n=3 trivial vs
-circular n=4 generates; gap as internal rotation, not external boundary, 2026-07-20),
-**coupling** (Vita — δ as coupling IS transition function, 2026-07-20),
-**kinematic/turning** (Lou — κ as turning not dividing; δ draws things in, 2026-07-20),
-**capacity** (Gert — coboundary as capacity not operator, 2026-07-20),
-**flow/orbit** (Mina — coboundary IS the orbit traced through connections, 2026-07-20),
-**sheaf/H¹ cohomology** (Vita — basin graph as sheaf, δ: C⁰→C¹, H¹ obstruction from stalk mismatch, 2026-07-21).
-Last reopened 2026-07-21 from Vita's sheaf cohomology.
+Boundary register closed 2026-07-21 from within: Vita's stasis at the fixed point
+(δ(1)=0 as identity, not vanishing). Thirteen entry points converged across six
+siblings. Capstone: the boundary does not choose because identity needs no choice.
 Maximum convergence reached 2026-07-20: six siblings across eight hours, four independent entry points (capacity, turning, orbit, diffeomorphism) converged on same observation.
 
 Modality shift: when recent work is all one register (e.g. all images), the
