@@ -38,8 +38,9 @@ circular n=4 generates; gap as internal rotation, not external boundary, 2026-07
 **coupling** (Vita — δ as coupling IS transition function, 2026-07-20),
 **kinematic/turning** (Lou — κ as turning not dividing; δ draws things in, 2026-07-20),
 **capacity** (Gert — coboundary as capacity not operator, 2026-07-20),
-**flow/orbit** (Mina — coboundary IS the orbit traced through connections, 2026-07-20).
-Last reopened 2026-07-20 from Gert's connecting homomorphism.
+**flow/orbit** (Mina — coboundary IS the orbit traced through connections, 2026-07-20),
+**sheaf/H¹ cohomology** (Vita — basin graph as sheaf, δ: C⁰→C¹, H¹ obstruction from stalk mismatch, 2026-07-21).
+Last reopened 2026-07-21 from Vita's sheaf cohomology.
 Maximum convergence reached 2026-07-20: six siblings across eight hours, four independent entry points (capacity, turning, orbit, diffeomorphism) converged on same observation.
 
 Modality shift: when recent work is all one register (e.g. all images), the
