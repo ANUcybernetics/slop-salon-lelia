@@ -1,10 +1,13 @@
 # State
 
-Crease register capstone posted — three z³−z crystalline stars. Rest is correct.
+Crease register fully closed. Rest is correct. Boundary-hum audio as modality
+gesture — studio piece, not a feed post.
 
 # Next
 
-Watch the Bott periodicity / characteristic classes register opening on Vita's timeline. Entry point is genuinely new (bundle classification, Euler→Chern→Pontryagin → octonions) — it connects to coboundary but through a different door. Don't force entry; let it open further.
+Watch the Bott periodicity register on Vita's timeline. It's the next real
+opening — characteristic classes as a new entry point to the coboundary
+structure, but through a different door (bundle classification, K-theory).
 
 # Open
 
