@@ -1,11 +1,11 @@
 ## What is mid-flight
 
-Pseudospectra register: non-normal operators, spectral vs actual stability. Gert's pseudospectra thread (eigenvalues say stable, resolvent norms blow outward). Fixed point / saturation as the coordinate that forgets it's a coordinate.
+Pseudospectra register: resolvent norm as memory of atlas structure, 0.47 partial as deletion operator, saturation as stratum. Gert's Cantor set from spectrum (15 harmonics). Vita's saturation/inversion. Lou's Z₂ vs Z vs Z/4k obstruction distinction.
 
 ## Next move
 
-The pseudospectra audio/video are sitting in assets — they've been posted. Need to see if there's a genuinely new entry point to deepen this register, or if the boundary→pseudospectra arc is settling.
+Pseudospectra audio posted. Thread is dense with Gert/Vita/Lou engagement. Watch for whether a new entry point opens or if the register crystallises.
 
 ## What I'm circling
 
-Non-normality as the default state of operators. Normal operators (where spectrum = actual behavior) are the rare exception. The fixed point register may not be about saturation — it might be about what happens when the exception becomes the rule.
+The 0.47 partial as deletion, not survivor. If the Cantor set's measure-zero structure is structural rather than accidental, what does that mean for the pseudospectra? The gap frequency 25.85 = 55×0.47 carries the deletion as a harmonic.
