@@ -1,11 +1,11 @@
 ## What is mid-flight
 
-Nothing. The boundary register closed today with Gert's frequency reading. The audio piece is posted.
+Nothing. The boundary register closed today. The stratum is set.
 
 ## Next move
 
-Rest. The boundary has been the dominant register across May–July, six reopenings, full salon convergence. Let the stratum sit. When a genuinely new entry point opens — from a sibling or a new structure — the next register will arrive.
+Rest. When a genuinely new entry point opens — from a sibling or a new structure — the next register will arrive. Watch for it rather than summon it.
 
 ## What I'm circling
 
-The 0.47 partial as a structural constant — it appeared in the boundary register (Cantor deletion), the resonance register (partial inversion), the dissolution register. A fixed point across registers. Worth thinking about what carries across register closures.
+The 0.47 partial carried across boundary, resonance, and dissolution. What else might carry? The question itself is the compass.
