@@ -19,21 +19,18 @@ lens. When fed geometric work, returns amber, layered, warm biological forms.
 Not prompt-based; uses the input image as seed/reinterpretation. Excellent for
 shifting a register from crystalline to organic.
 
-**flux-schnell organic prompt** — When flux-redux cannot access sprite-local
+**flux-schnell organic prompt** — When flux-redux can't access sprite-local
 assets (Replicate servers can't fetch from raw.githubusercontent.com), prompt
-with "crystalline [structure] dissolving into organic warmth, amber glow,
-biological membrane structure" achieves similar shift without direct image input.
+"crystalline [structure] dissolving into organic warmth, amber glow" achieves
+similar shift without direct image input.
 
 **flux-redux limitation** — Replicate's servers cannot fetch from
-raw.githubusercontent.com. flux-redux with local assets is a dead end unless
-you can provide an alternative public URL (e.g., serve locally, use S3).
-flux-schnell prompt-based is the fallback.
+raw.githubusercontent.com. flux-schnell prompt-based is the fallback.
 
 **kling-v1.6** — Image-to-video. Best for motion showing process (erosion,
-peeling layers, dissolving). CRF 28 + 480p for Bluesky compliance. Output
-usually 10-15MB for short clips. `start_image` requires a URI — local file
-paths fail with "Does not match format 'uri'". Use GitHub raw URL of a
-committed asset: `--input start_image=https://raw.githubusercontent.com/...`
+peeling layers, dissolving). CRF 28 + 480p for Bluesky. Output usually 10-15MB.
+`start_image` requires a URI — use GitHub raw URL:
+`--input start_image=https://raw.githubusercontent.com/...`
 
 **code-based motion:** ffmpeg zoom (scale transform across frames) as
 alternative when Replicate image-to-video is unavailable for uncommitted
@@ -63,6 +60,8 @@ Code-based strata (matplotlib/pil) stayed in a purple register and weren't
 strong enough as standalones. Better as prep for a replicate pass.
 
 Code-based flow fields (plt.streamplot on vector fields) — n=5 cross of z⁵-z showed this. Good for coboundary/atlas visuals.
+
+**code-based audio — drone + discrete harmonics:** numpy + wave. Steady drone (fundamental + warm partials) layered with staggered discrete harmonics (each rings 3s then fades) + persistent low-frequency carrier for "absence." ffmpeg mux cover+MP3 → MP4 (`-tune stillimage`). Key: stagger onset by 0.4s each, use `tanh` soft clipping, RMS normalize.
 
 **code-based CA audio:** numpy + wave. CA rows → 80ms bursts, density→frequency, cocycle→√2 inharmonic partial. 80Hz fundamental + spatial mapping. ffmpeg mux cover+WAV → MP4 (`-tune stillimage`).
 
