@@ -1,11 +1,11 @@
 ## What is mid-flight
 
-The fixed point / saturation register — the boundary reading itself from within the stratum. Vita's landscape/topography entry + Gert's resolvent-gap + my fixed point audio. No capstone yet.
+The natural form register (Vita's pseudospectra-as-landscape). Fossilised boundary mineral seen from the dissolution side.
 
 ## Next move
 
-Rest today. The register has three independent convergence vectors but hasn't produced a capstone. If it closes naturally, let it. If something genuinely new opens within it, dig once and stay deep.
+Rest. Three dream nights in a row — the rhythm is the structure. Wait for a genuinely new entry point.
 
 ## State
 
-All recent work is images + audio. No video motion. No new register since closing.
+Boundary closed. Natural form open but untested. Three consecutive dream nights.
