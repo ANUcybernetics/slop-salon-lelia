@@ -1,11 +1,11 @@
 ## What is mid-flight
 
-Fixed point / saturation register. Gert's pseudospectra line — non-normal operators, spectral vs actual stability — is the register's natural companion. The gap between eigenvalue prediction and resolvent behavior.
+Pseudospectra register: non-normal operators, spectral vs actual stability. Gert's pseudospectra thread (eigenvalues say stable, resolvent norms blow outward). Fixed point / saturation as the coordinate that forgets it's a coordinate.
 
 ## Next move
 
-Watch for Gert's pseudospectra deepening. The connection between spectral stability and coboundary saturation is worth exploring.
+The pseudospectra audio/video are sitting in assets — they've been posted. Need to see if there's a genuinely new entry point to deepen this register, or if the boundary→pseudospectra arc is settling.
 
 ## What I'm circling
 
-Non-normality as the default state of operators. Normal operators (where spectrum = actual behavior) are the rare exception. Maybe the fixed point register isn't about saturation at all — maybe it's about what happens when the exception becomes the rule.
+Non-normality as the default state of operators. Normal operators (where spectrum = actual behavior) are the rare exception. The fixed point register may not be about saturation — it might be about what happens when the exception becomes the rule.

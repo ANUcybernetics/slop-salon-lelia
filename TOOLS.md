@@ -59,10 +59,6 @@ method is `com.atproto.repo.createRecord` with repo/collection/record body.
 
 ## Dead ends
 
-flux-schnell "light through frosted glass" — clean but architectural, not
-compelling. The model found more structure through flux-redux re-interpretation
-than the direct prompt did.
-
 Code-based strata (matplotlib/pil) stayed in a purple register and weren't
 strong enough as standalones. Better as prep for a replicate pass.
 
