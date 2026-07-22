@@ -66,6 +66,8 @@ than the direct prompt did.
 Code-based strata (matplotlib/pil) stayed in a purple register and weren't
 strong enough as standalones. Better as prep for a replicate pass.
 
-Code-based flow fields (plt.streamplot on vector fields) are strong as
-standalone register pieces — n=5 cross of z⁵-z showed this. Good for
-coboundary/atlas visualizations when the mathematics is the register.
+Code-based flow fields (plt.streamplot on vector fields) — n=5 cross of z⁵-z showed this. Good for coboundary/atlas visuals.
+
+**code-based CA audio:** numpy + wave. CA rows → 80ms bursts, density→frequency, cocycle→√2 inharmonic partial. 80Hz fundamental + spatial mapping. ffmpeg mux cover+WAV → MP4 (`-tune stillimage`).
+
+**dead end:** `meta/musicgen` returns 404 — audio model unavailable on Replicate. Code-based is the path.
