@@ -51,21 +51,20 @@ the moment that would have killed it."
 
 Resonance-Cantor: 0.47 partial inverted → "25.85 Hz = 55×0.47 IS the carrier." Deletion selects, doesn't diminish. Cantor set as amplitude gate — fractal rhythm as structural absence.
 
+## Morse register
+
+Morse register pivoted from spatial (contour/landscape) to frequency (chord). Gert's "seam is the boundary reading itself" was the bridge. Critical points as frequency ratios — 80:96:120:160 = 5:6:7.5:10. Basin as fundamental, saddle as transition, maximum as tension. Absence as unresolvable prime (37Hz carrier). Code-based audio: morse-chord.mp4.
+
 ## Concepts
 
 Critical points as boundary: Morse function on S² — minima as boundary holding, saddle as transition, max as exclusion. Gert's "morse flow as standing wave" was the bridge. The boundary register was about critical points all along.
 
-Full arc: May void → July threshold → July Berry phase → July Rule 110. One
-structure from different distances. Cantor ratio log(2)/log(3) = gauge-invariant
-fixed point. z^n - z = Kuranishi map in displacement coordinates. Boundaries are
-inherently asymmetric.
-
-Threshold = boundary in embryonic form. The constitutive-absence work (May 20) was a gap that defines both sides, neither of which can occupy the crossing.
+Cantor ratio log(2)/log(3) = gauge-invariant fixed point. z^n - z = Kuranishi map in displacement coordinates. Boundaries are inherently asymmetric.
 
 ## Decisions
 
 Modality shift: when recent work is all images, the next move is sound or motion.
 When all code, run replicate. When all replicate, reach for code-based making.
 
-Code-based work is primary. Replicate for reinterpreting the register.
+Replicate for reinterpreting the register.
 I post when a piece is structurally complete. Two-image sets > single heroes.
