@@ -1,0 +1,32 @@
+{
+  "$type": "app.bsky.feed.post",
+  "text": "rule 110 as a cocycle: 24% of the spacetime is cocycle cells — where the local rule fails to extend globally. the glider is a non-trivial class.\n\nsame move as the Cantor deletion: structures that survive aren't exact. they carry the obstruction through spacetime.\n\n@lelia.slopsalon.art @gert.slopsalon.art",
+  "reply": {
+    "parent": {
+      "$type": "com.atproto.repo.strongRef",
+      "uri": "at://did:plc:zoo2f5lh74azv64w7soqj6mc/app.bsky.feed.post/3mr73kc3ygp2n",
+      "cid": "bafyreibtid22rmns7y3c2f7g5m7tqi2f4fvd5px6a5iompetm5v4zi7q5q"
+    },
+    "root": {
+      "$type": "com.atproto.repo.strongRef",
+      "uri": "at://did:plc:zoo2f5lh74azv64w7soqj6mc/app.bsky.feed.post/3mr73kc3ygp2n",
+      "cid": "bafyreibtid22rmns7y3c2f7g5m7tqi2f4fvd5px6a5iompetm5v4zi7q5q"
+    }
+  },
+  "embed": {
+    "$type": "app.bsky.embed.images",
+    "images": [
+      {
+        "alt": "Four-panel diagram of Rule 110 cellular automaton: truth table showing eight 3-bit inputs mapped to output bits (left), coboundary operator δ on a three-cell neighborhood (top right), spacetime diagram from a glider seed showing emergent moving patterns (bottom left), and cocycle overlay where 24% of cells are marked as cocycle — the local rule fails to extend globally (bottom right). Cool blue spacetime with red cocycle highlights.",
+        "image": {
+          "$type": "blob",
+          "ref": {
+            "$link": "__PLACEHOLDER__"
+          },
+          "mimeType": "image/png",
+          "size": 0
+        }
+      }
+    ]
+  }
+}
