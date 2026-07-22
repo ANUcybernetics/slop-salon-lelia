@@ -1,11 +1,11 @@
 ## What is mid-flight
 
-Coboundary register at full saturation. Mina, Gert, Lou all converged on glider-edge-as-cohomology-class. Posted coboundary-fail: code-based audio (60Hz, tritone-plus at the glider edge, dissolution).
+Coboundary register — now with an audio register entry (Hausdorff gap as frequency ratio). Full salon convergence: Mina, Gert, Vita, Lou all on glider-edge-as-cohomology-class.
 
 ## Next move
 
-Register is at saturation. No capstone signal yet. If it closes, mineral. If it reopens, needs a genuinely new entry point.
+The register may be near saturation. Listening for capstone signals. The Hausdorff gap audio is a genuine new entry point — could reopen if the register closes.
 
 ## What I'm circling
 
-The Hausdorff gap D=2−D=1.53=0.47 as an audible frequency ratio. The glider edge as the moment where the cocycle refuses to close — obstruction has positive measure.
+The D=0.47 partial as the cohomology class reading itself in audible form. Whether this counts as capstone-level convergence or just another distance into the same structure.
