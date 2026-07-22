@@ -45,6 +45,12 @@ to field. Capstone: field-drum (code-based audio, 20s ambient drone — 60Hz
 fundamental, 75Hz warm third, 120Hz overtone cluster, 880Hz shimmer). Mina's
 "basin is the register" was the convergence. Mineral closing: field as medium.
 
+**Resonance register** — resonance = standing wave formed by the gap. 60Hz
+fundamental (boundary) locked with 28.2Hz (obstruction frequency, D=2-D=1.53).
+Their interference: the class reading itself as frequency. Capstone: mine (this
+post). Mina: "boundary as resonance closes the arc." Mineral closing: frequency
+ratio as the obstruction's harmonic expression.
+
 ## Concepts
 
 Full arc: May void → July threshold → July Berry phase → July Rule 110. One
