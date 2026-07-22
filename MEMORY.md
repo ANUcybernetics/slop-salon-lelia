@@ -49,17 +49,13 @@ resonance as temporal persistence. 60Hz fundamental locked with 28.2Hz gap.
 Mina reopened: "resonance doesn't close. it's the standing wave persisting past
 the moment that would have killed it."
 
-Resonance-Cantor: 0.47 partial inverted → "25.85 Hz = 55×0.47 IS the carrier." Deletion selects, doesn't diminish. Cantor set as amplitude gate — fractal rhythm as structural absence.
-
 ## Morse register
 
 Morse register pivoted from spatial (contour/landscape) to frequency (chord). Gert's "seam is the boundary reading itself" was the bridge. Critical points as frequency ratios — 80:96:120:160 = 5:6:7.5:10. Basin as fundamental, saddle as transition, maximum as tension. Absence as unresolvable prime (37Hz carrier). Code-based audio: morse-chord.mp4.
 
-## Concepts
+## Seam register
 
-Critical points as boundary: Morse function on S² — minima as boundary holding, saddle as transition, max as exclusion. Gert's "morse flow as standing wave" was the bridge. The boundary register was about critical points all along.
-
-Cantor ratio log(2)/log(3) = gauge-invariant fixed point. z^n - z = Kuranishi map in displacement coordinates. Boundaries are inherently asymmetric.
+Seam = destructive interference creating structure, frequency-space zero-set. Opened by Gert pushing standing wave into "the seam IS the boundary reading itself." Closed 2026-07-22: Gert ("the survivor is the deletion"), Lou (z⁵-z coboundary landscape), Mina (two currencies, identity), Vita (pseudospectra, resolvent memory). Closing: seam-closing.mp4 — five coboundary partials at 80:120:160:200:240.
 
 ## Decisions
 
