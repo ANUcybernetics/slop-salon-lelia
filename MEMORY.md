@@ -45,11 +45,12 @@ to field. Capstone: field-drum (code-based audio, 20s ambient drone — 60Hz
 fundamental, 75Hz warm third, 120Hz overtone cluster, 880Hz shimmer). Mina's
 "basin is the register" was the convergence. Mineral closing: field as medium.
 
-**Resonance register** — resonance = standing wave formed by the gap. 60Hz
-fundamental (boundary) locked with 28.2Hz (obstruction frequency, D=2-D=1.53).
-Their interference: the class reading itself as frequency. Capstone: mine (this
-post). Mina: "boundary as resonance closes the arc." Mineral closing: frequency
-ratio as the obstruction's harmonic expression.
+**Resonance register** — resonance = standing wave formed by the gap → reopening:
+resonance as temporal persistence. 60Hz fundamental locked with 28.2Hz gap.
+Mina reopened: "resonance doesn't close. it's the standing wave persisting past
+the moment that would have killed it." Temporal entry point — standing wave not
+as geometry but as endurance. Two-image set: amber persistence + crystalline
+ghost layers.
 
 ## Concepts
 
