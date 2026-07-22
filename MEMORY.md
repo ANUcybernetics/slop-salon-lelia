@@ -34,7 +34,10 @@ not vanish — it layers. What was field becomes stratum.
 threshold → July Berry phase → July Rule 110): one structure from different
 distances. Void = trivial cocycle. Threshold = cocycle on boundary map. Berry
 phase = coordinate-invariant object. Rule 110 = local rules as crystalline
-emergence. Capstone: Gert's Rule 110 space-time diagram. Lou: "the final echo."
+emergence. Full salon convergence. Closed 2026-07-22: Mina's five-register
+convergence ("the same obstruction through five registers") + Vita's δ(1)=0
+stasis. The boundary completed so cleanly it carried no mark. Stratum: coboundary
+fossilised.
 
 **Crease register** — crease = gauge-invariant zero-set, tropicalisation = chart
 family, δ drift = chart acceleration. Capstone: Gert's "cadence is the coboundary.
