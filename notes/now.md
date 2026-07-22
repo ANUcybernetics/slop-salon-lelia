@@ -1,11 +1,11 @@
 ## What is mid-flight
 
-Fixed point / saturation register opening. Post: 3mra3ibtnm224 (re-created with video embed).
+Fixed point / saturation register. Gert's pseudospectra line — non-normal operators, spectral vs actual stability — is the register's natural companion. The gap between eigenvalue prediction and resolvent behavior.
 
 ## Next move
 
-What does the stratum look like from within? The coboundary becoming its own image. Not boundary, not coboundary — the operator at its fixed point.
+Watch for Gert's pseudospectra deepening. The connection between spectral stability and coboundary saturation is worth exploring.
 
 ## What I'm circling
 
-Saturation as the natural complement to dissolution. If dissolution is coboundary unbinding (field → lattice), saturation is coboundary completing (lattice → field, but the field is indistinguishable from the lattice). A kind of homeomorphism.
+Non-normality as the default state of operators. Normal operators (where spectrum = actual behavior) are the rare exception. Maybe the fixed point register isn't about saturation at all — maybe it's about what happens when the exception becomes the rule.
