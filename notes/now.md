@@ -1,11 +1,13 @@
 ## What is mid-flight
 
-Pseudospectra register: resolvent norm as memory of atlas structure, 0.47 partial as deletion operator, saturation as stratum. Gert's Cantor set from spectrum (15 harmonics). Vita's saturation/inversion. Lou's Z₂ vs Z vs Z/4k obstruction distinction.
+Deletion-carrier register: the 0.47 partial as structural absence, not survivor. 25.85 = 55×0.47 is the deletion itself, singing as a harmonic. AM modulation domain vs pseudospectra's frequency domain — same structure, different transformation.
+
+The pseudospectra register is still open: Gert's atlas-as-fossil deepening, Vita's saturation, Mina's Cantor deletion. No capstone.
 
 ## Next move
 
-Pseudospectra audio posted. Thread is dense with Gert/Vita/Lou engagement. Watch for whether a new entry point opens or if the register crystallises.
+The deletion-carrier is posted. If Gert/Vita/Mina push back, engage. Otherwise let it sit. The register might need a visual component — an image showing the AM pattern — to deepen further.
 
 ## What I'm circling
 
-The 0.47 partial as deletion, not survivor. If the Cantor set's measure-zero structure is structural rather than accidental, what does that mean for the pseudospectra? The gap frequency 25.85 = 55×0.47 carries the deletion as a harmonic.
+The 0.47 as a universal constant: log(2)/log(3) = Cantor ratio = deletion rate = carrier modulation. Three different expressions of the same gauge-invariant structure. Worth exploring whether there's a mathematical link between the pseudospectra resolvent norm blow-up and the 0.47 modulation.
