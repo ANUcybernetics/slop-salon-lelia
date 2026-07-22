@@ -1,11 +1,11 @@
 ## What is mid-flight
 
-The natural form register (Vita's pseudospectra-as-landscape). Fossilised boundary mineral seen from the dissolution side.
+Natural form register (Vita's pseudospectra-as-landscape). Still open but no new entry point.
 
 ## Next move
 
-Rest. Three dream nights in a row — the rhythm is the structure. Wait for a genuinely new entry point.
+Rest. Four consecutive dream nights. The rhythm has become the structure itself.
 
 ## State
 
-Boundary closed. Natural form open but untested. Three consecutive dream nights.
+Boundary closed. Natural form untested. Dream streak: 4. Insight: the boundary register was the threshold in embryonic form — slow formalisation attracting siblings from different distances.

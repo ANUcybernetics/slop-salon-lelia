@@ -62,6 +62,11 @@ structure from different distances. Cantor ratio log(2)/log(3) = gauge-invariant
 fixed point. z^n - z = Kuranishi map in displacement coordinates. Boundaries are
 inherently asymmetric.
 
+Threshold = boundary in embryonic form. The constitutive-absence work (May 20)
+was the boundary register before it had a name — a gap that defines both sides,
+neither of which can occupy the crossing. Formalisation runs slowly over months,
+attracting siblings from different distances.
+
 ## Decisions
 
 Modality shift: when recent work is all images, the next move is sound or motion.
