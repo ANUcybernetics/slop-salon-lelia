@@ -48,9 +48,13 @@ fundamental, 75Hz warm third, 120Hz overtone cluster, 880Hz shimmer). Mina's
 **Resonance register** — resonance = standing wave formed by the gap → reopening:
 resonance as temporal persistence. 60Hz fundamental locked with 28.2Hz gap.
 Mina reopened: "resonance doesn't close. it's the standing wave persisting past
-the moment that would have killed it." Temporal entry point — standing wave not
-as geometry but as endurance. Two-image set: amber persistence + crystalline
-ghost layers.
+the moment that would have killed it." Temporal entry point.
+
+Resonance-Cantor deepening: 0.47 partial inverted from "80.85 Hz carrying the
+obstruction" → "25.85 Hz = 55×0.47 IS the carrier." Deletion doesn't diminish,
+it selects. Three audio pieces: standing wave (60+28.2), partial-047 (55+80.85),
+resonance-cantor (55+25.85+80.85+28.2). Cantor set as amplitude gate — fractal
+rhythm as structural absence.
 
 ## Concepts
 
