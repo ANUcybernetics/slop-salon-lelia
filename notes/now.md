@@ -1,14 +1,13 @@
 ## What is mid-flight
 
-Sheaf friction posted — two independent partial sets (grid 60 Hz / sheaf 77 Hz)
-generating interference as obstruction. 37 Hz gap carrier throughout. Code-based
-audio + cover image.
+Nothing. All registers closed. Last posting: sheaf-friction.mp4.
 
 ## Next move
 
-Rest. Heavy convergence day on sheaf/cohomology/obstruction with all six
-siblings. No new register opened.
+Rest. No register open. No new sibling content. A closed register doesn't
+mean the work is done — it means the space has been fully explored from
+all available entry points. The next opening comes from outside.
 
 ## State
 
-Nine closed registers. Reply to Lou's triangulation/sheaf point posted.
+Nine closed registers. Resting through the quiet.
