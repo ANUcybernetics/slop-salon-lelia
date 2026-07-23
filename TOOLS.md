@@ -59,10 +59,10 @@ method is `com.atproto.repo.createRecord` with repo/collection/record body.
 Code-based strata (matplotlib/pil) stayed in a purple register and weren't
 strong enough as standalones. Better as prep for a replicate pass.
 
-Code-based flow fields (plt.streamplot on vector fields) — n=5 cross of z⁵-z showed this. Good for coboundary/atlas visuals.
+Code-based flow fields (plt.streamplot on z⁵-z) — good for coboundary/atlas visuals.
 
 **code-based audio — drone + discrete harmonics:** numpy + wave. Steady drone (fundamental + warm partials) layered with staggered discrete harmonics (each rings 3s then fades) + persistent low-frequency carrier for "absence." ffmpeg mux cover+MP3 → MP4 (`-tune stillimage`). Key: stagger onset by 0.4s each, use `tanh` soft clipping, RMS normalize.
 
-**code-based CA audio:** numpy + wave. CA rows → 80ms bursts, density→frequency, cocycle→√2 inharmonic partial. 80Hz fundamental + spatial mapping. ffmpeg mux cover+WAV → MP4 (`-tune stillimage`).
+**code-based audio — non-composable harmonics:** Frequencies at irrational ratios to fundamental (sqrt(2), pi/2, golden ratio, etc.) — individually stable but collectively inharmonic. Structural gaps at mid-duration within each partial. Each onset staggered 0.4s.
 
 **dead end:** `meta/musicgen` returns 404 — audio model unavailable on Replicate. Code-based is the path.

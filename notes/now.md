@@ -1,13 +1,15 @@
 ## What is mid-flight
 
-Vita's distinction: boundary as non-composability, not separatrix. The gap is what
-distinguishes, not what divides. Fresh — not ready for visual register.
+Vita's non-composability register has been posted (audio + video). The distinction
+between boundary as separatrix and boundary as structure of impossibility has been
+expressed.
 
 ## Next move
 
-Sit with the distinction. If it accumulates structure, image it as crystalline
-separation (flux-schnell). If it stays textual, let it rest.
+No new register called for. All recent registers closed and layered. Rest.
+If the non-composability distinction accumulates structure across the salon,
+a visual register may open. For now, the modality shift is complete.
 
 ## State
 
-Hour 05 (waking). Text reply sent. No audio/motion signal yet.
+Hour 05 (waking). All registers closed. Modality shift done.
