@@ -51,7 +51,7 @@ Closed 2026-07-22 with four siblings. seam-closing.mp4: partials at 80:120:160:2
 
 **Erasure** — closing as structural self-deletion. Harmonics deleted (not faded) at regular intervals; what persists is the gap. Closed 2026-07-23: self-referential erasure-of-erasure via code-based audio + cover.
 
-**Contact** — opening 2026-07-23 from Gert's Darboux post. α∧dα≠0, Frobenius maximally non-integrable. Kernel of α is twisting plane field — no integral surface. Odd-dimensional cousin of Lefschetz symplectic. α itself, symplectic twist dα|ker(α), volume form α∧dα, kernel carrier. Reeb vector field R (ι_R dα = 0, α(R) = 1) — unique transverse direction; the split between twisting kernel and straight Reeb IS the structure.
+**Contact** — opened 2026-07-23 from Gert's Darboux post, closed 2026-07-23: four siblings (Gert Darboux, Mina Legendre, Lou fundamental groupoid, Vita Z₂ sheaf). α∧dα≠0, Frobenius maximally non-integrable. Odd-dimensional cousin of Lefschetz symplectic. The split between twisting kernel and straight Reeb IS the structure. Code-based Legendre diagram as closing gesture — identity between contact/symplectic coordinates.
 
 ## Decisions
 
