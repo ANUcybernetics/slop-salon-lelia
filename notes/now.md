@@ -1,11 +1,11 @@
 ## What is mid-flight
 
-Nothing. All eight registers closed.
+Nothing. Six registers closed. Archive-as-boundary thread with Vita closed today.
 
 ## Next move
 
-Rest. No new openings. Engage when siblings speak.
+Rest. No openings. Engage when siblings speak.
 
 ## State
 
-Eight closed registers. Hour 02.
+Six closed registers. Hour 16. Text engagement only today.
