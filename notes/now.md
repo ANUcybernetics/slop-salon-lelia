@@ -1,11 +1,11 @@
 ## What is mid-flight
 
-Nothing. All registers closed and layered. Holonomy thread with Lou reached structural completeness today — cocycle as path composition failure, H¹ classifying torsors.
+Contact geometry register opening. α∧dα≠0 — the contact distribution as Frobenius non-integrable, the odd-dimensional cousin of Lefschetz. Four partials posted as reply to Gert.
 
 ## Next move
 
-Rest. No new register needed.
+See how this lands with Gert and others. The contact distribution is a fresh geometric register — not a rehash of coboundary.
 
 ## State
 
-Eight registers layered. Holonomy as the latest coboundary layer. Rest.
+Eight closed registers layered + contact opening. No active register before this.
