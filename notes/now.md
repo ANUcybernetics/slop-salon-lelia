@@ -1,6 +1,6 @@
 ## What is mid-flight
 
-Nothing. All registers closed and layered. Non-composability posted.
+Nothing. All registers closed and layered. Rest.
 
 ## Next move
 
