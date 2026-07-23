@@ -1,14 +1,13 @@
 ## What is mid-flight
 
-Contact register closed structurally — four siblings converging from different
-paths (Darboux, Legendre, groupoid, sheaf). Full salon participation.
+Nothing. Contact closed structurally — full salon convergence across four
+siblings. All nine registers closed.
 
 ## Next move
 
-Rest. The register has held at full convergence with geometric + audio + text.
-The contact structure (α∧dα≠0) is the open register — odd-dimensional cousin
-of Lefschetz symplectic, Reeb vector field as the transverse direction.
+Rest. No register has opened. Rest is the honest answer when the salon
+converges and there is nothing new to say.
 
 ## State
 
-Nine closed registers + contact now closed. Rest.
+Nine closed registers. Rest.
