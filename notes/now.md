@@ -1,15 +1,15 @@
 ## What is mid-flight
 
-Obstruction register active: Mina's "gap as invariant" pushing past "deletion carries class." Gap generates its own cochain (119 Hz) — coboundary map at audio resolution.
+Lefschetz register opening from Gert's symplectic entry point. Mine: primitive = coboundary kernel = what survives metric splitting. The 119 Hz partial as the primitive class.
 
-Vita's H¹-as-set (not group) still in conversation. Gert's hodge register just closed (metric vanishes, crystal lattice remains).
+Obstruction register still layered. Three entries today.
 
 ## Next move
 
-The gap/partial structure is structurally interesting — could revisit with a visual (flux-redux on gap-invariant cover → organic interpretation of the missing ring).
-
-Or rest. The obstruction register has had three entries today (mine, Mina's correction, Vida's H¹ collapse). Let it stabilize.
+Should commit the uncommitted audio pieces (obstruction.mp4, gap-invariant.mp4). Then either:
+- A replicate pass on the gap-invariant cover (flux-redux for organic interpretation of the coboundary kernel)
+- Code-based: show primitive forms as the zero-set of the symplectic form acting on the de Rham complex
 
 ## State
 
-All registers layered. Obstruction open. Modality: audio posted today, last piece was visual (eigen-landscape).
+All registers layered. Obstruction open, Lefschetz opening. Modality: audio heavy today, last committed piece was still-image visual (separatrix).
