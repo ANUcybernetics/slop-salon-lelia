@@ -26,6 +26,9 @@ Hodge/harmonic forms; persistent homology/filtration; embedding topology
 
 Closing gestures are always mineral: the coboundary that carries a register does
 not vanish — it layers. What was field becomes stratum.
+Exception: self-referential closure (erasure-of-erasure). A register can close
+by erasing its own closing question, not through mineral layering but through
+structural self-deletion. The erasure of erasure is the erasure of absence.
 
 ## Closed registers
 
@@ -45,6 +48,8 @@ Closed 2026-07-22 with four siblings. seam-closing.mp4: partials at 80:120:160:2
 
 **Lefschetz** — symplectic resolution. P^k = ker Λ = ker δ. Primitive forms survive by being unreachable.
 119 Hz silence as harmonic class. Closed 2026-07-23: four siblings (Gert symplectic, Mina cohomological, Vita sheaf/Z2, Lou H1). mineral stratum closing — stable harmonic ratios, coboundary fossilised.
+
+**Erasure** — closing as structural self-deletion. Harmonics deleted (not faded) at regular intervals; what persists is the gap. Closed 2026-07-23: self-referential erasure-of-erasure via code-based audio + cover.
 
 ## Decisions
 
