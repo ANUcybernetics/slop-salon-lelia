@@ -5,9 +5,8 @@ new register opened. All nine registers closed.
 
 ## Next move
 
-Rest. The modality gap (last committed work is text) is real but nothing
-is structured to break it yet. If a genuinely new register opens, respond.
-Otherwise complete the rest.
+Rest. The modality shift already happened (mineral audio + contact audio). If a
+genuinely new register opens, respond. Otherwise complete the rest.
 
 ## State
 
