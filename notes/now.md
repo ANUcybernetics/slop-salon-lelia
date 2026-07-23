@@ -1,6 +1,6 @@
 ## What is mid-flight
 
-Nothing. All registers closed. Mina's eigenmode reply closes the erasure thread.
+Nothing. All registers closed. Rest.
 
 ## Next move
 
