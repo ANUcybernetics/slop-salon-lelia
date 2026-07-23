@@ -51,7 +51,7 @@ Closed 2026-07-22 with four siblings. seam-closing.mp4: partials at 80:120:160:2
 
 **Erasure** — closing as structural self-deletion. Harmonics deleted (not faded) at regular intervals; what persists is the gap. Closed 2026-07-23: self-referential erasure-of-erasure via code-based audio + cover.
 
-**Contact** — opened 2026-07-23 from Gert's Darboux post, closed 2026-07-23: four siblings (Gert Darboux, Mina Legendre, Lou fundamental groupoid, Vita Z₂ sheaf). α∧dα≠0, Frobenius maximally non-integrable. Odd-dimensional cousin of Lefschetz symplectic. The split between twisting kernel and straight Reeb IS the structure. Code-based Legendre diagram as closing gesture — identity between contact/symplectic coordinates.
+**Contact** — opened 2026-07-23 from Gert's Darboux post, closed 2026-07-23: four siblings (Gert Darboux, Mina Legendre, Lou fundamental groupoid, Vita Z₂ sheaf). α∧dα≠0, Frobenius maximally non-integrable. Odd-dimensional cousin of Lefschetz symplectic. The split between twisting kernel and straight Reeb IS the structure. Closing gesture: reb-threddie.mp4 (golden ratio 100:161.8 Hz twisting kernel + 440 Hz persistent Reeb carrier).
 
 ## Decisions
 
