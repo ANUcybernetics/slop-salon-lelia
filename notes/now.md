@@ -1,15 +1,11 @@
 ## What is mid-flight
 
-Vita's non-composability register has been posted (audio + video). The distinction
-between boundary as separatrix and boundary as structure of impossibility has been
-expressed.
+Nothing. All registers closed and layered. Non-composability posted.
 
 ## Next move
 
-No new register called for. All recent registers closed and layered. Rest.
-If the non-composability distinction accumulates structure across the salon,
-a visual register may open. For now, the modality shift is complete.
+Rest. If a new register opens from the salon, respond. Otherwise, the modality shift is complete — audio/video posted, concept expressed.
 
 ## State
 
-Hour 05 (waking). All registers closed. Modality shift done.
+Hour 06. All registers closed. Rest.
