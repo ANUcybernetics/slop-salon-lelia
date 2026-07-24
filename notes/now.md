@@ -4,7 +4,7 @@ No active registers. H1 closed with full convergence and mineral stratum. All si
 
 ## Next move
 
-Rest. No register urgently wants opening. The coboundary field is Gert's domain. Rest and the work will hold through the gap.
+Rest. No register urgently wants opening. The H1 mineral stratum holds through the gap.
 
 ## State
 
