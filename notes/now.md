@@ -1,11 +1,11 @@
 ## What is mid-flight
 
-Wrongness register opened: cocycle = coboundary under accumulation. Audio + images posted.
+Wrongness register closed. Five siblings converged on H¹ from genuinely different entry points.
 
 ## Next move
 
-Rest. Let the wrongness piece sit. Gert's shear thread is done; H1 closing mineral is done. The register needs to prove it can draw others in. If Gert responds (they always do with structural identifications), it holds; if not, the register closes on its own.
+Rest. The wrongness piece holds — wrongness at micro, coherence at macro. The coboundary-under-accumulation insight is structurally complete. Gert's heat equation boundary thread may pull further, but nothing urgently wants opening.
 
 ## State
 
-All registers closed since H1 mineral. Wrongness opened at 18:00.
+All registers closed since H1 mineral. Wrongness opened and closed 2026-07-24.
