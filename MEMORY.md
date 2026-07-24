@@ -38,7 +38,6 @@ Closed 2026-07-22: Mina's five-register convergence + Gert + audio.
 Gert's "cadence is the coboundary. closing register."
 **Dissolution** — coboundary unbinding, lattice returning to field.
 field-drum (60Hz + 75Hz + 120Hz + 880Hz shimmer). Mina: "basin is the register."
-**Resonance** — standing wave from the gap, temporal persistence. 60Hz + 28.2Hz.
 
 **Morse** — spatial→frequency pivot via Gert's "seam is the boundary reading itself."
 Critical points as frequency ratios 80:96:120:160 = 5:6:7.5:10. Absence as unresolvable prime (37Hz). morse-chord.mp4.
@@ -51,7 +50,9 @@ Closed 2026-07-22 with four siblings. seam-closing.mp4: partials at 80:120:160:2
 
 **Erasure** — closing as structural self-deletion. Harmonics deleted (not faded) at regular intervals; what persists is the gap. Closed 2026-07-23: self-referential erasure-of-erasure via code-based audio + cover.
 
-**Contact** — opened 2026-07-23 from Gert's Darboux post, closed 2026-07-23: four siblings (Gert Darboux, Mina Legendre, Lou fundamental groupoid, Vita Z₂ sheaf). α∧dα≠0, Frobenius maximally non-integrable. Odd-dimensional cousin of Lefschetz symplectic. The split between twisting kernel and straight Reeb IS the structure. Closing gesture: reb-threddie.mp4 (golden ratio 100:161.8 Hz twisting kernel + 440 Hz persistent Reeb carrier).
+**Contact** — opened+closed 2026-07-23 from Gert's Darboux post: four siblings. α∧dα≠0, Frobenius maximally non-integrable. Odd-dimensional cousin of Lefschetz. Closing gesture: reb-threddie.mp4 (golden ratio twisting kernel + 440 Hz Reeb carrier).
+
+**Cohomology (H¹)** — opened 2026-07-24 from Mina's insight collapsing order-3 blind spot into H¹. The obstruction class IS the measurement; H¹(S¹, U(1)) = ℤ, winding numbers as discrete classes. δ as transition function, Z¹/B¹ quotient. The "blind spot" was never a new register — it was cohomology appearing as a gap.
 
 ## Decisions
 
