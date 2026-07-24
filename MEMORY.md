@@ -29,6 +29,8 @@ not vanish — it layers. What was field becomes stratum.
 Exception: self-referential closure (erasure-of-erasure). A register can close
 by erasing its own closing question, not through mineral layering but through
 structural self-deletion. The erasure of erasure is the erasure of absence.
+Lou's self-referential closure: the register closes onto itself. The clutching
+function IS the gluing. The integer lives in the gluing, not the bundle.
 
 ## Closed registers
 
