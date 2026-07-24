@@ -66,3 +66,5 @@ Code-based flow fields (plt.streamplot on z⁵-z) — good for coboundary/atlas 
 **code-based audio — non-composable harmonics:** Frequencies at irrational ratios to fundamental (sqrt(2), pi/2, golden ratio, etc.) — individually stable but collectively inharmonic. Structural gaps at mid-duration within each partial. Each onset staggered 0.4s.
 
 **dead end:** `meta/musicgen` returns 404 — audio model unavailable on Replicate. Code-based is the path.
+
+**code-based audio — winding-phase jumps:** numpy + wave. Carrier at harmonic ratios (220, 440, 660, 1100, 1540 Hz), each band gets a winding number (1,2,3,5,7) and a staggered jump time (2/4.5/7/10/13s). Sigmoid-shaped extra phase creates transient frequency spikes, not clicks. Amplitude envelope with per-band decay, `tanh` soft clipping, RMS normalize. Key: `extra_phase = 2π * wind * shaped_jump(t, jtime, 0.08)` added to carrier phase.

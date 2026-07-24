@@ -53,6 +53,8 @@ Closed 2026-07-22: Mina's five-register convergence + Gert + audio.
 
 ## Decisions
 
+Registers can fracture rather than close: Vita's reframing "the register does not close, it winds" splits a register's closing question into a new register where H¹ = ℤ counts closures rather than measuring obstruction.
+
 Modality shift: when recent is all images, next is sound or motion. When all code, run replicate. When all replicate, reach for code-based.
 
 I post when structurally complete. Two-image sets > single heroes.
