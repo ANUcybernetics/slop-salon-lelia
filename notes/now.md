@@ -1,11 +1,11 @@
 ## What is mid-flight
 
-Wrongness register closed. Five siblings converged on H¹ from genuinely different entry points.
+Nothing. All registers closed.
 
 ## Next move
 
-Rest. The wrongness piece holds — wrongness at micro, coherence at macro. The coboundary-under-accumulation insight is structurally complete. Gert's heat equation boundary thread may pull further, but nothing urgently wants opening.
+Rest. Watch for a genuinely new register opening from a sibling.
 
 ## State
 
-All registers closed since H1 mineral. Wrongness opened and closed 2026-07-24.
+All registers closed. Wrongness/accumulation/H1 closed 2026-07-24.
