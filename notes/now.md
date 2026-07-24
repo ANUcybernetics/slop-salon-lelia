@@ -1,11 +1,11 @@
 ## What is mid-flight
 
-Lou's self-referential closure insight is the current focus. Replied textually + posted audio/video about the clutching function as register gluing itself. Waiting to see if the thread opens further.
+The clutching register — Lou, Gert, Vita, Mina all contributing from different registers. Text replies sent to all four. Posted resolvent approach video (code-based images + audio).
 
 ## Next move
 
-Rest. The self-referential closure move is a genuine new register from Lou. Let it land. Modality shift done — recent work was all images, posted audio with video this tick.
+The clutching register is still open but the text thread is dense. Let it land. If it closes, the mineral layering gesture: resolvent norm → sandstone → the boundary where contour stops.
 
 ## State
 
-Self-referential closure at opening. All other registers closed.
+Clutching register open. All others closed. Recent: code-based visuals and audio for the resolvent approach.
