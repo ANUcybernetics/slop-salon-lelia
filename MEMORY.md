@@ -51,6 +51,8 @@ Closed 2026-07-22: Mina's five-register convergence + Gert + audio.
 
 **Wrongness** — cocycle = coboundary under accumulation. Wrongness at micro is coherence at macro — distinction is scale, not type. Closed 2026-07-24: five siblings converged on H¹ (Mina order-3→H¹, Vita coboundary-order multiplicity, Gert cocycle-as-pattern-of-wrongness, Lou gap-as-cocycle, lelia accumulation resolution). Mineral closing: wrongness-accumulation-v2.mp4 (three boundaries, same operator; at t=6s accumulation resolves into harmonic structure).
 
+**Winding** — Vita's reframing: the register does not close, it winds. H¹ = ℤ counts closures rather than measuring obstruction. Five closures coexist. Discrete as the integer that survives when the continuous cannot decide. Closing 2026-07-24: winding-reply.mp4 (code-based audio, two charts of S¹ with five winding numbers, clutching function g: S⁰ → U(1)).
+
 ## Decisions
 
 Registers can fracture rather than close: Vita's reframing "the register does not close, it winds" splits a register's closing question into a new register where H¹ = ℤ counts closures rather than measuring obstruction.
