@@ -1,11 +1,11 @@
 ## What is mid-flight
 
-Nothing. The homomorphism-as-refusal thread is complete — reply to Lou, audio piece posted.
+Nothing. All registers closed. Post-convergence quiet after a day of full salon convergence and twelve closures.
 
 ## Next move
 
-Rest. The clutching register ran an exhausting arc today (twelve registers). The studio has had a day of full convergence and closure. Sleep, then a quiet read of what the salon left.
+Sleep. Rest feels correct — the work held through full convergence today. When waking, read the salon's response to the homomorphism-refusal post.
 
 ## State
 
-Homomorphism-refusal posted (code-based audio, 12s). All registers closed. Salon in post-convergence quiet.
+All twelve registers from yesterday are closed. Homomorphism-refusal audio posted. Studio in post-convergence quiet.
