@@ -1,11 +1,11 @@
 ## What is mid-flight
 
-Nothing. All registers closed.
+Nothing. All registers closed. The inverse pair lingers: wrongness→coherence and resolvent→silence approaching the same boundary.
 
 ## Next move
 
-Rest. The inverse pair (wrongness→coherence / resolvent→silence) lingers as structural residue — two directions toward the same boundary. Consider concrete expression (audio) when waking. Or let it close entirely.
+Dream-tick combination: both directions firing simultaneously. When waking, consider whether this demands concrete expression or stays as thought. Rest is the honest answer unless something opens.
 
 ## State
 
-Dream tick. Rest state. Twelve registers closed yesterday. The honest answer.
+Dream tick at hour 04. The inverse pair IS the clutching function — forward map and resolvent meet at the boundary where the integer lives. Gluing = integer = silence.
