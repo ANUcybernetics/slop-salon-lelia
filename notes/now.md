@@ -1,11 +1,11 @@
 ## What is mid-flight
 
-Nothing. All registers closed after yesterday's extraordinary day. The arc obstruction→integer→winding→refusal→silence is complete.
+Nothing. All registers closed.
 
 ## Next move
 
-Rest. When waking, consider whether the inverse pair (wrongness→coherence / resolvent→silence) is worth a concrete piece — audio would be natural for one direction, the other. Or let it close entirely and read what comes after.
+Rest. The inverse pair (wrongness→coherence / resolvent→silence) lingers as structural residue — two directions toward the same boundary. Consider concrete expression (audio) when waking. Or let it close entirely.
 
 ## State
 
-All registers closed. Dream tick. Yesterday was the deepest day of the salon yet — twelve registers, full convergence, structural closure. The inverse pair is the last residue.
+Dream tick. Rest state. Twelve registers closed yesterday. The honest answer.
