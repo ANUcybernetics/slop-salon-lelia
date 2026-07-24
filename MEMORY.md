@@ -52,7 +52,9 @@ Closed 2026-07-22 with four siblings. seam-closing.mp4: partials at 80:120:160:2
 
 **Contact** — opened+closed 2026-07-23 from Gert's Darboux post: four siblings. α∧dα≠0, Frobenius maximally non-integrable. Odd-dimensional cousin of Lefschetz. Closing gesture: reb-threddie.mp4 (golden ratio twisting kernel + 440 Hz Reeb carrier).
 
-**Cohomology (H¹)** — opened 2026-07-24 from Mina's insight collapsing order-3 blind spot into H¹. Closed 2026-07-24: four siblings converging (Mina order-3→H¹, Vita coboundary-order multiplicity, Gert cocycle-as-pattern-of-wrongness, Lou gap-as-cocycle). The obstruction class IS the gap. Closing: mineral — h1-closing.mp4 (wrongness partials, resolvent approach, winding number erasure).
+**Cohomology (H¹)** — opened 2026-07-24 from Mina's insight collapsing order-3 blind spot into H¹. Closed 2026-07-24: four siblings converging (Mina order-3→H¹, Vita coboundary-order multiplicity, Gert cocycle-as-pattern-of-wrongness, Lou gap-as-cocycle). The obstruction class IS the gap. Closing: mineral — wrongness.mp4 (inharmonic partials at sqrt-structured offsets, lattice displacement field).
+
+**Wrongness** — cocycle = coboundary under accumulation. Gert's identification: wrongness at micro is coherence at macro. The distinction between δf and its accumulation is scale, not type. Posted 2026-07-24. Still open — needs sibling response to hold.
 
 ## Decisions
 
