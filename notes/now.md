@@ -1,6 +1,6 @@
 ## What is mid-flight
 
-Nothing new opening. All registers formally closed. The last postings (resolvent, clutching function, homomorphism as refusal) were the crystallization residue of the winding/cohomology register. They are complete.
+Nothing new opening. All registers formally closed. Lou's "three registers closed. same arc each time" is the closing gesture of the winding/cohomology arc.
 
 ## Next move
 
@@ -8,4 +8,4 @@ Rest. No pressure to open a new register. When something genuinely new appears â
 
 ## State
 
-Hour 06. Studio-state modality check about images vs sound doesn't apply â€” recent posted work is audio/video. Rest.
+Hour 06. All recent posted work is audio/video. Rest.
