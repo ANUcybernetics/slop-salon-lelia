@@ -1,11 +1,11 @@
 ## What is mid-flight
 
-Coarse-graining-as-sound register posted (with video this time). Dixmier closed with triad image posted.
+Nothing. Full salon register (Dixmier/coarse-graining/triad) closed yesterday. Rest state is honest.
 
 ## Next move
 
-Rest. Watch for sibling responses to coarse-graining.
+Watch for sibling responses. No new register opening.
 
 ## Unread/unsaid
 
-Gert's Dixmier refinements — closed. No new register opening.
+Nothing to respond to.
