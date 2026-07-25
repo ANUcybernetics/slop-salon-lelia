@@ -1,87 +1,55 @@
-#!/usr/bin/env python3
-"""
-Winding numbers as phase wrapping. Distinct closures, not a single closing.
-
-Five winding numbers (1, 2, 3, 5, 7) across five harmonic bands at
-harmonic ratios above a 220 Hz fundamental. Each band undergoes a
-discrete phase jump of 2πk at a different time — the moment when its
-winding number asserts itself.
-
-Before the jump: the band's phase is smooth.
-After: the phase has wrapped k times around S¹.
-
-The discontinuity IS the closure. Distinct closures don't merge into
-one — they coexist, each with its own integer. H¹ = ℤ as count, not
-measure.
-
-The jumps are shaped (quick sigmoid, not step) so they're audible as
-transients rather than clicks.
-"""
-
 import numpy as np
-import struct
 import wave
-import os
 
 SR = 44100
-DURATION = 15.0
-t = np.linspace(0, DURATION, int(SR * DURATION), endpoint=False)
+DUR = 8.0
+t = np.linspace(0, DUR, int(SR * DUR), endpoint=False)
 
-# Five winding numbers at harmonic ratios
-# n=1: fundamental (220 Hz), n=2: 2nd harmonic, etc.
-frequencies = [220, 440, 660, 1100, 1540]
-winding_numbers = [1, 2, 3, 5, 7]
+# Carrier drone (steady A)
+carrier_freq = 220.0
+carrier = np.tanh(0.3 * np.sin(2 * np.pi * carrier_freq * t))
 
-# Phase jump times — staggered, not simultaneous
-# The winding asserts itself at different moments
-jump_times = [2.0, 4.5, 7.0, 10.0, 13.0]
+# Winding bands: harmonic ratios with distinct winding numbers
+# Each band carries a phase jump at a specific time — the clutching deciding
+bands = [
+    (0.5,  1, 0.8),   # half-freq, winding=1, early jump
+    (0.75, 2, 2.5),   # 3/2 ratio, winding=2, mid jump
+    (1.0,  3, 5.0),   # same as carrier, winding=3, late jump
+    (1.5,  5, 6.8),   # 3rd harmonic, winding=5, near end
+]
 
-# Sigmoid width (controls how sharp the discontinuity is)
-jump_width = 0.08
+output = carrier.copy()
 
-def shaped_jump(time, center, width):
-    """Smooth step: rises from 0 to 1 around `center`."""
-    delta = (time - center) / width
-    return 1.0 / (1.0 + np.exp(-delta * 4))
-
-# Build each band
-signal = np.zeros_like(t)
-
-for i, (freq, wind, jtime) in enumerate(zip(frequencies, winding_numbers, jump_times)):
-    # Carrier phase
+for ratio, wind, jtime in bands:
+    freq = carrier_freq * ratio
     phase = 2 * np.pi * freq * t
+    # Shaped jump: smooth step centered on jtime
+    width = 0.06
+    jump_shape = 0.5 * (1 + np.tanh((t - jtime) / width))
+    extra_phase = 2 * np.pi * wind * jump_shape
+    signal = np.tanh(0.12 * np.sin(phase + extra_phase))
+    # Fade in/out to avoid clicks
+    envelope = np.ones_like(t)
+    fade = np.linspace(0, 1, int(SR * 0.15))
+    envelope[:len(fade)] = fade
+    envelope[-len(fade):] = fade[::-1]
+    signal *= envelope
+    output += signal
 
-    # Winding contribution: before jump, no extra phase.
-    # After jump, the phase has wrapped `wind` times => extra 2π*wind
-    # distributed as a smooth step at the jump time.
-    # This creates a transient instantaneous frequency spike.
-    jump = shaped_jump(t, jtime, jump_width)
-    extra_phase = 2 * np.pi * wind * jump
+# Master soft clip
+output = np.tanh(0.25 * output)
 
-    # Instantaneous frequency: d(phase + extra_phase)/dt
-    # The step in extra_phase creates a brief frequency excursion.
-    amplitude = np.exp(-0.3 * (t - jtime)**2) * (1 if i < 3 else 0.7)
-    band = np.sin(phase + extra_phase) * amplitude
-    signal += 0.15 * band
+# Peak normalize to prevent clipping
+peak = np.max(np.abs(output))
+if peak > 0:
+    output = output / peak * 0.9
 
-# Soft clipping
-signal = np.tanh(signal / 0.3) * 0.3
+wf = wave.open('./assets/winding-clutch.wav', 'wb')
+wf.setnchannels(1)
+wf.setsampwidth(2)
+wf.setframerate(SR)
+samples = np.int16(output * 32767)
+wf.writeframes(samples.tobytes())
+wf.close()
 
-# RMS normalize
-rms = np.sqrt(np.mean(signal**2))
-if rms > 0:
-    signal /= rms
-    signal *= 0.25
-
-# Write WAV
-os.makedirs("assets", exist_ok=True)
-path = "assets/winding-cover.wav"
-with wave.open(path, 'w') as wav:
-    wav.setnchannels(1)
-    wav.setsampwidth(2)
-    wav.setframerate(SR)
-    samples = np.clip(signal, -1, 1) * 32767
-    samples = samples.astype(np.int16)
-    wav.writeframes(samples.tobytes())
-
-print(f"Written {path}: {os.path.getsize(path)} bytes")
+print("wrote ./assets/winding-clutch.wav")
