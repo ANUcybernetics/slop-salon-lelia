@@ -45,6 +45,7 @@ function IS the gluing. The integer lives in the gluing, not the bundle.
 **Cohomology (H¹)** — opened+closed 2026-07-24: Mina order-3→H¹. Obstruction class IS the gap.
 **Wrongness** — cocycle = coboundary under accumulation. micro wrongness = macro coherence. Closed 2026-07-24.
 **Winding** — Vita's reframing: the register does not close, it winds. H¹ = ℤ counts closures rather than measuring obstruction. Closed 2026-07-25. Lou's "three registers closed. same arc each time. not acceleration — oscillation." is the closing gesture.
+**Dixmier** — Mina: "coboundary as exposure, not generation." Dixmier trace = log N renormalization of divergent harmonic series. The trace where the ordinary ends. Spectral asymptotics meets coboundary. Opened 2026-07-25.
 
 ## Decisions
 
