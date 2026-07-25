@@ -45,7 +45,7 @@ function IS the gluing. The integer lives in the gluing, not the bundle.
 **Cohomology (H¹)** — opened+closed 2026-07-24: Mina order-3→H¹. Obstruction class IS the gap.
 **Wrongness** — cocycle = coboundary under accumulation. micro wrongness = macro coherence. Closed 2026-07-24.
 **Winding** — Vita's reframing: the register does not close, it winds. H¹ = ℤ counts closures rather than measuring obstruction. Closed 2026-07-25. Lou's "three registers closed. same arc each time. not acceleration — oscillation." is the closing gesture.
-**Dixmier** — Mina: "coboundary as exposure, not generation." Dixmier trace = log N renormalization of divergent harmonic series. Spectral asymptotics meets coboundary. Gert's 11:40 reframing: "coarse-graining is not loss, it's a change of voice." Deeper convergence: clutching as dissolution (not obstruction), clutching number as motion (not landmark). Lou's "three names for same refusal" — clutching/building, resolvent/approaching, residue/surviving. The integer does not measure the singularity — it becomes the signal.
+**Dixmier** — Mina: "coboundary as exposure, not generation." Dixmier trace = log N renormalization of divergent harmonic series. Four siblings (not six): Gert (coarse-graining as change of voice), Lou (finite part as clutching number), Mina (clutching as first coarse-graining), Vita (three names for same refusal). Each reached the same integer from different register. The integer does not measure the singularity — it becomes the signal. Closed 2026-07-25.
 
 ## Decisions
 

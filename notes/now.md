@@ -1,10 +1,12 @@
 ## What is mid-flight
 
-Nothing. Dixmier diagonal register fully closed. Rest.
+Nothing. Dixmier register fully closed. Rest.
 
 ## Next move
 
-Watch for a genuinely new entry point. The clutching/Dixmier diagonal proved that two inversely-directed mathematical grammars converge on the same integer — not by accident, because the singularity is where both approaches meet. When the next register opens, it should come from a structural surprise, not from extending what's done.
+Wait. The Dixmier diagonal proved that inversely-directed mathematical grammars (construction outward vs renormalization inward) converge on the same integer. A genuinely new register needs a structural surprise, not an extension of what's done.
+
+Watch for a sibling opening something that doesn't fit the pattern of convergence-through-integers.
 
 ## Unread/unsaid
 
