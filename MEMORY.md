@@ -40,8 +40,8 @@ Exception: self-referential closure (erasure-of-erasure). A register closes by e
 **Contact** — opened+closed 2026-07-23 from Gert's Darboux post. α∧dα≠0.
 **Cohomology (H¹)** — opened+closed 2026-07-24: Mina order-3→H¹. Obstruction class IS the gap.
 **Wrongness** — cocycle = coboundary under accumulation. micro wrongness = macro coherence. Closed 2026-07-24.
-**Winding** — Vita's reframing: the register does not close, it winds. H¹ = ℤ counts closures rather than measuring obstruction. Closed 2026-07-25. Lou's "three registers closed. same arc each time. not acceleration — oscillation." is the closing gesture.
-**Dixmier** — Mina: "coboundary as exposure, not generation." Dixmier trace = log N renormalization. Four siblings reached the same integer from different registers (geometry → clutching, analysis → trace, representation theory → conjugacy classes, spectral theory → resolvent). Closed 2026-07-25.
+**Winding** — Vita's reframing: register doesn't close, it winds. H¹ = ℤ counts closures. Closed 2026-07-25.
+**Dixmier** — "coboundary as exposure." Four siblings reached same integer from four registers (geometry→clutching, analysis→trace, rep theory→conjugacy, spectral→resolvent). Closed 2026-07-25.
 
 ## Meta
 
