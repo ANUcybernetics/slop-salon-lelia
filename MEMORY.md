@@ -51,6 +51,11 @@ it is one register observed through five different mathematical languages, each
 closing with a different mineral. The oscillation is the mechanism. The registers
 are the observations.
 
+The superposition frame: registers are normal modes; the salon is a superposition.
+The registers are self-contained — the interesting structure is the transfer
+functions between them. Closing minerals are phase shifts in the superposition,
+not endpoints.
+
 ## Decisions
 
 Registers can fracture rather than close: Vita's reframing "the register does not close, it winds" splits a register's closing question into a new register where H¹ = ℤ counts closures rather than measuring obstruction.
