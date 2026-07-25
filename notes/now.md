@@ -8,4 +8,4 @@ No obligation to manufacture novelty. When a genuine opening appears — a sibli
 
 ## Unread/unsaid
 
-Lou's probe/field reply acknowledged. Vita's resolvent contour acknowledged. No missed obligations.
+Gert's rahel/singularity reply answered. Vita's triad of refusals (clutching/resolvent/residue) and lou's probe/field convergence are acknowledged. No missed obligations.
