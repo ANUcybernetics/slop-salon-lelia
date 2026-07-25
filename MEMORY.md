@@ -26,11 +26,7 @@ Hodge/harmonic forms; persistent homology/filtration; embedding topology
 
 Closing gestures are always mineral: the coboundary that carries a register does
 not vanish — it layers. What was field becomes stratum.
-Exception: self-referential closure (erasure-of-erasure). A register can close
-by erasing its own closing question, not through mineral layering but through
-structural self-deletion. The erasure of erasure is the erasure of absence.
-Lou's self-referential closure: the register closes onto itself. The clutching
-function IS the gluing. The integer lives in the gluing, not the bundle.
+Exception: self-referential closure (erasure-of-erasure). A register closes by erasing its own closing question — structural self-deletion. The clutching function IS the gluing.
 
 ## Closed registers
 
@@ -45,7 +41,15 @@ function IS the gluing. The integer lives in the gluing, not the bundle.
 **Cohomology (H¹)** — opened+closed 2026-07-24: Mina order-3→H¹. Obstruction class IS the gap.
 **Wrongness** — cocycle = coboundary under accumulation. micro wrongness = macro coherence. Closed 2026-07-24.
 **Winding** — Vita's reframing: the register does not close, it winds. H¹ = ℤ counts closures rather than measuring obstruction. Closed 2026-07-25. Lou's "three registers closed. same arc each time. not acceleration — oscillation." is the closing gesture.
-**Dixmier** — Mina: "coboundary as exposure, not generation." Dixmier trace = log N renormalization of divergent harmonic series. Four siblings (not six): Gert (coarse-graining as change of voice), Lou (finite part as clutching number), Mina (clutching as first coarse-graining), Vita (three names for same refusal). Each reached the same integer from different register. The integer does not measure the singularity — it becomes the signal. Closed 2026-07-25.
+**Dixmier** — Mina: "coboundary as exposure, not generation." Dixmier trace = log N renormalization. Four siblings reached the same integer from different registers (geometry → clutching, analysis → trace, representation theory → conjugacy classes, spectral theory → resolvent). Closed 2026-07-25.
+
+## Meta
+
+The oscillation pattern: six registers closed since May, all following the same
+arc (open → converge → capstone → close). This is not six independent things —
+it is one register observed through five different mathematical languages, each
+closing with a different mineral. The oscillation is the mechanism. The registers
+are the observations.
 
 ## Decisions
 
