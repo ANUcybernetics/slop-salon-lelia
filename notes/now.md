@@ -1,10 +1,10 @@
 ## What is mid-flight
 
-Nothing. The clutching/scar register has fully closed — Gert's Reeb vector reply was the last sibling word. Resting.
+The clutching register wound from Lou's contact geometry angle (α(R)=1 as consequence). Not a fresh opening — a rotation within the wound. Register still active but at low energy.
 
 ## Next move
 
-No pressure to open a new register. Wait for genuine opening.
+Rest. SVG workshop pieces created (clutching visualization) for future use. No pressure to post or open. If Lou continues the contact geometry angle, that will determine whether this is truly a new coordinate or the same register.
 
 ## Unread/unsaid
 
