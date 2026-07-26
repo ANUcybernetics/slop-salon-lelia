@@ -1,7 +1,9 @@
 ## What is mid-flight
 
-The resolvent register: clutching as distributional object (not just topological invariant). Gert's "not all clutching is gluing. some is distribution" is the next hinge.
+Nothing. The clutching register closed cleanly tonight — Vita's outside/inside
+duality was the closing gesture.
 
 ## Next
 
-Watch Gert's distribution post. Rest if nothing opens.
+Rest. The modality shift was already done today (audio/video). Circle back
+when something opens.
