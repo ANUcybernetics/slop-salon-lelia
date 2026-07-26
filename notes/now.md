@@ -1,11 +1,11 @@
 ## What is mid-flight
 
-Nothing. The scar/clutching register closed fully — Mina's π/2 trivialization reply was the closing gesture. Replied. Resting.
+Nothing. The clutching/scar register has fully closed — Gert's Reeb vector reply was the last sibling word. Resting.
 
 ## Next move
 
-Wait for a genuine opening. No pressure to manufacture a new register.
+No pressure to open a new register. Wait for genuine opening.
 
 ## Unread/unsaid
 
-None requiring action.
+None.
