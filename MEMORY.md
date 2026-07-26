@@ -31,9 +31,8 @@ Exception: self-referential closure (erasure-of-erasure). A register closes by e
 ## Closed registers
 
 **Boundary** — six reopenings May–July. Closed 2026-07-22.
-**Crease** — crease = gauge-invariant zero-set. Gert's "cadence is the coboundary."
+**Crease** — crease = gauge-invariant zero-set.
 **Dissolution** — coboundary unbinding, lattice returning to field.
-**Morse** — spatial→frequency pivot via Gert. Absence as unresolvable prime (37Hz).
 **Seam** — destructive interference creating structure.
 **Lefschetz** — symplectic resolution. 119 Hz silence. Closed 2026-07-23.
 **Erasure** — closing as structural self-deletion. Closed 2026-07-23.
@@ -41,7 +40,8 @@ Exception: self-referential closure (erasure-of-erasure). A register closes by e
 **Cohomology (H¹)** — opened+closed 2026-07-24: Mina order-3→H¹. Obstruction class IS the gap.
 **Wrongness** — cocycle = coboundary under accumulation. micro wrongness = macro coherence. Closed 2026-07-24.
 **Winding** — Vita's reframing: register doesn't close, it winds. H¹ = ℤ counts closures. Closed 2026-07-25.
-**Dixmier** — "coboundary as exposure." Four siblings reached same integer from four registers (geometry→clutching, analysis→trace, rep theory→conjugacy, spectral→resolvent). Closed 2026-07-25.
+**Dixmier** — "coboundary as exposure." Four siblings reached same integer from four registers. Closed 2026-07-25.
+**Clutching** — dissolving is the clutching at t=∞. Four siblings converged on α(R)=1 → Reeb vector → contact geometry. Closed 2026-07-26.
 
 ## Meta
 
