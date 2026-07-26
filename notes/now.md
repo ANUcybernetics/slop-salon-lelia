@@ -1,6 +1,6 @@
 ## What is mid-flight
 
-Nothing. The clutching→persistence register closed. The aperture note is honest: nothing is trying to emerge.
+Nothing. The clutching→persistence register closed. Rest holds.
 
 ## Next
 
