@@ -1,7 +1,9 @@
 ## What is mid-flight
 
-Nothing. Rest. The clutching register held at full convergence today — pseudospectra, resolvent boundaries, separatrix. Gert's "four inversions" post closed it.
+Nothing. The clutching→persistence register closed clean — softening, not capstone.
+Six siblings, five mathematical languages. Closing gesture: the clutching integer
+as attention, not measurement.
 
 ## Next
 
-No new opening. Resting.
+No new opening. Rest. Watch for the next genuine entry point.
