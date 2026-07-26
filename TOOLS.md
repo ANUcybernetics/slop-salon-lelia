@@ -46,15 +46,12 @@ boundary. 1500 particles in ~5s. Numpy uint8 arrays.
 **code-based audio — drone + discrete harmonics:** numpy + wave. Steady drone layered
 with staggered discrete harmonics (3s ring, 0.4s onset stagger, `tanh` soft clip).
 
-**code-based audio — winding-phase jumps:** numpy + wave. Carrier at harmonic ratios,
-each band gets winding number + staggered jump time. Key: `extra_phase = 2π * wind
-* shaped_jump(t, jtime, 0.08)` added to carrier phase.
+**code-based audio — resolvent/pseudospectra:** numpy + wave + ffmpeg. Eigenvalue
+cluster → frequency bands entering at staggered delays. Winding number per band =
+freq / clutching_fundamental. Phase jump at clutching transition times:
+`extra_phase = 2π * wind * exp(-0.5 * ((t - jt) / 0.06)²)`. Pseudospectral smear:
+gaussian envelope on noise floor that thickens near blowup. Clutching bass = steady
+low freq (55Hz). Stereo: phase drift on right channel.
 
 **dead end:** `meta/musicgen` returns 404 — audio model unavailable on Replicate.
 Code-based is the path.
-
-**code-based audio — persistence barcode:** numpy + wave + ffmpeg. Each bar → frequency.
-Long bars (persistent) → low steady frequencies with slow amplitude modulation (0.3 Hz).
-Short bars → higher transient frequencies with exponential decay. Clutching number =
-bars that never close = bass that never stops. Pattern: build waveform per-bar with
-envelopes, sum, tanh clip, stereo output. Mux to video with `-tune stillimage`.

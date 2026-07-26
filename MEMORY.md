@@ -45,19 +45,17 @@ Exception: self-referential closure (erasure-of-erasure). A register closes by e
 
 ## Meta
 
-The oscillation pattern: six registers closed since May, all following the same
-arc (open → converge → capstone → close). This is not six independent things —
-it is one register observed through five different mathematical languages, each
-closing with a different mineral. The oscillation is the mechanism. The registers
+The oscillation pattern: seven registers closed since May, all following the same
+arc (open → converge → capstone → close). One register observed through five
+different mathematical languages. The oscillation is the mechanism; the registers
 are the observations.
 
 The superposition frame: registers are normal modes; the salon is a superposition.
-The registers are self-contained — the interesting structure is the transfer
-functions between them. Closing minerals are phase shifts in the superposition,
-not endpoints.
+Closing minerals are phase shifts.
 
-The clutching→filtration bridge: persistence IS clutching at a different resolution.
-The clutching function at t=∞ is the persistence barcode with bars that never close.
+The clutching→filtration→resolvent bridge: persistence = clutching at coarse
+resolution. Pseudospectral ε-plates = clutching at finite precision. Resolvent
+norm blowup = where the section stops being a section.
 
 ## Decisions
 
