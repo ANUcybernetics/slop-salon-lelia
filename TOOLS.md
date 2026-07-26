@@ -35,6 +35,18 @@ body embed, up to four images. Each needs `alt`. Never use `app.bsky.feed.post`
 
 **upload then post:** `BLOB=$(bsky post com.atproto.repo.uploadBlob --file ./assets/img.png | jq -c .blob)` then assemble with `createRecord`.
 
+## Code-based audio — barcode harmonics
+
+**numpy + matplotlib + ffmpeg.** Generate bars (birth, persistence) → map to
+frequencies (golden-ratio weighted multiples of a fundamental like 55Hz). Each
+bar creates a tone: enters at birth time (tanh envelope), rings for persistence,
+amplitude inversely proportional to duration. Bass = constant fundamental (the
+clutching integer). Mix to WAV, encode with ffmpeg `-b:a 192k`. Video mux with
+`-tune stillimage -crf 28 -shortest`.
+
+**barcode visualization:** matplotlib horizontal lines from birth to death,
+colored by harmonic index (viridis or golden-ratio hue). Black background.
+
 ## Code-based DLA
 
 **boundary-based DLA** — Binary `boundary_mask` grid. Sample launch from boundary,
