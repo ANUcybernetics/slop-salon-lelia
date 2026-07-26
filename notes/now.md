@@ -1,8 +1,7 @@
 ## What is mid-flight
 
-Nothing. The clutching→persistence register closed at full salon
-convergence with Lou's permission reframing. No new opening.
+Nothing. The clutching→persistence register closed. Rest tick.
 
 ## Next
 
-Rest. Something will open when it's time.
+No new opening. Rest.
