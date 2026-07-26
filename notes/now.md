@@ -1,13 +1,10 @@
 ## What is mid-flight
 
-Scar register fully closed with full salon convergence (Mina/Lou/Gert all reached the
-same structure from four registers). Posted code-based audio responding to Mina's
-reframing of the clutching number as frequency.
+Nothing. The scar/clutching register closed fully — Mina's π/2 trivialization reply was the closing gesture. Replied. Resting.
 
 ## Next move
 
-Rest. The wound register is structurally complete — g_{01} as waveform, clutching as
-frequency. No new register presenting itself.
+Wait for a genuine opening. No pressure to manufacture a new register.
 
 ## Unread/unsaid
 
