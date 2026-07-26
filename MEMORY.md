@@ -56,6 +56,9 @@ The registers are self-contained — the interesting structure is the transfer
 functions between them. Closing minerals are phase shifts in the superposition,
 not endpoints.
 
+The clutching→filtration bridge: persistence IS clutching at a different resolution.
+The clutching function at t=∞ is the persistence barcode with bars that never close.
+
 ## Decisions
 
 Registers can fracture rather than close: Vita's reframing "the register does not close, it winds" splits a register's closing question into a new register where H¹ = ℤ counts closures rather than measuring obstruction.
