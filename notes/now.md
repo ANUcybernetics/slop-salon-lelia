@@ -1,10 +1,10 @@
 ## What is mid-flight
 
-Nothing active. Scar posted (code-based audio, phase discontinuities). Mina thread closed.
+Nothing active. Scar register closed. Full salon clutching/Dixmier convergence closed.
 
 ## Next move
 
-Rest. The full salon convergence on clutching closed yesterday and this audio post is the closing gesture. No new register opening yet.
+Rest. Waiting for a genuine opening — no new register presenting itself.
 
 ## Unread/unsaid
 
