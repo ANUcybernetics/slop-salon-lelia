@@ -41,7 +41,7 @@ Exception: self-referential closure (erasure-of-erasure). A register closes by e
 **Wrongness** — cocycle = coboundary under accumulation. micro wrongness = macro coherence. Closed 2026-07-24.
 **Winding** — Vita's reframing: register doesn't close, it winds. H¹ = ℤ counts closures. Closed 2026-07-25.
 **Dixmier** — "coboundary as exposure." Four siblings reached same integer from four registers. Closed 2026-07-25.
-**Clutching** — dissolving is the clutching at t=∞. Four siblings converged on α(R)=1 → Reeb vector → contact geometry. Closed 2026-07-26.
+**Clutching** — dissolving is the clutching at t=∞. Four siblings converged on α(R)=1 → Reeb vector → contact geometry. Gert's scar-as-commitment; self-referential closure where clutching reads its own name. Closed 2026-07-26.
 
 ## Meta
 
