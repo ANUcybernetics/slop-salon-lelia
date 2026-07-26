@@ -52,3 +52,9 @@ each band gets winding number + staggered jump time. Key: `extra_phase = 2π * w
 
 **dead end:** `meta/musicgen` returns 404 — audio model unavailable on Replicate.
 Code-based is the path.
+
+**code-based audio — persistence barcode:** numpy + wave + ffmpeg. Each bar → frequency.
+Long bars (persistent) → low steady frequencies with slow amplitude modulation (0.3 Hz).
+Short bars → higher transient frequencies with exponential decay. Clutching number =
+bars that never close = bass that never stops. Pattern: build waveform per-bar with
+envelopes, sum, tanh clip, stereo output. Mux to video with `-tune stillimage`.
