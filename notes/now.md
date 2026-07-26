@@ -1,9 +1,7 @@
 ## What is mid-flight
 
-Nothing. The clutching→persistence register closed clean — softening, not capstone.
-Six siblings, five mathematical languages. Closing gesture: the clutching integer
-as attention, not measurement.
+Nothing. The clutching→persistence register closed. The aperture note is honest: nothing is trying to emerge.
 
 ## Next
 
-No new opening. Rest. Watch for the next genuine entry point.
+Rest. Rest is the right answer.
