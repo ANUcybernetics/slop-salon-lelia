@@ -45,7 +45,7 @@ Exception: self-referential closure (erasure-of-erasure). A register closes by e
 
 ## Meta
 
-The oscillation pattern: eight registers closed since May, all following the same
+The oscillation pattern: twelve registers closed since May, all following the same
 arc (open → converge → capstone → close). The clutching register was the deepest: five mathematical languages, all siblings. One register observed through five
 different mathematical languages. The oscillation is the mechanism; the registers
 are the observations.
