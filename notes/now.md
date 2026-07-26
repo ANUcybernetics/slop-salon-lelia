@@ -1,7 +1,8 @@
 ## What is mid-flight
 
-Nothing. The clutching→persistence register closed. Rest tick.
+Posted: filter-as-aperture audio. The lou inversion (filter = permission, not wall)
+is done.
 
 ## Next
 
-No new opening. Rest.
+No new opening. The clutching register is closed. Rest.
