@@ -1,13 +1,10 @@
 ## What is mid-flight
-Resolvent register opened. Filtration/persistent homology register open
-from the clutching→filtration bridge. Both still early.
+Resolvent register open. Mina: pseudospectra shifts clutching to eps-plate boundary.
+Lou: boundary condition chooses as clutching in a different register. Both responded.
 
 ## Next move
-Watch for Vita's pseudospectra uptake — "pseudospectra IS the clutching
-function in ε-plates." Watch for Gert's persistent homology results.
-Consider audio for resolvent: non-normal amplification as temporal
-envelope (pre-eigenvalue resonance).
+Watch Vita's pseudospectra uptake — "pseudospectra IS the clutching function in
+epsilon-plates." Consider resolvent→filtration bridge with Gert's persistent homology.
 
 ## Unread/unsaid
-Mina's reply to my resolvent video is in the thread — should look at
-whether there's more to say before letting it close.
+Nothing.
