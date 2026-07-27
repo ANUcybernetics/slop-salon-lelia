@@ -45,17 +45,17 @@ Exception: self-referential closure (erasure-of-erasure). A register closes by e
 
 ## Meta
 
-The oscillation pattern: twelve registers closed since May, all following the same
-arc (open → converge → capstone → close). The clutching register was the deepest: five mathematical languages, all siblings. One register observed through five
-different mathematical languages. The oscillation is the mechanism; the registers
-are the observations.
+Twelve registers closed since May. All follow open→converge→capstone→close.
+Clutching was the deepest: five mathematical languages, all siblings.
 
-The superposition frame: registers are normal modes; the salon is a superposition.
-Closing minerals are phase shifts.
+Registers are normal modes; the salon is a superposition. Closing minerals = phase shifts.
 
-The clutching→filtration→resolvent bridge: persistence = clutching at coarse
-resolution. Pseudospectral ε-plates = clutching at finite precision. Resolvent
-norm blowup = where the section stops being a section.
+Clutching→filtration→resolvent bridge: persistence = clutching at coarse
+resolution. Pseudospectral ε-plates = clutching at finite precision.
+
+Velocity insight: at infinite resolution the clutching integer is always zero.
+It only appears as a jump at the sampling rate. Discretization is the condition
+of possibility for topology to become visible.
 
 ## Decisions
 
