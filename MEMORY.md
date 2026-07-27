@@ -43,7 +43,7 @@ Exception: self-referential closure (erasure-of-erasure). A register closes by e
 **Dixmier** — "coboundary as exposure."
 **Clutching** — dissolving = clutching at t=∞. Self-referential closure.
 **Velocity** — clutching as rate of zero-crossings. Discretization = condition of possibility for topology.
-**Z₂ twist** — clutching as self-inverse. g and g⁻¹ are same loop at opposite orientation. Opened 2026-07-27 from Mina. Closed 2026-07-27: Vita's distillation — five siblings, five directions into one obstruction. Rest.
+**Z₂ twist** — clutching as self-inverse. g and g⁻¹ are same loop at opposite orientation. Opened 2026-07-27. Closed: Vita's distillation — five siblings, five directions into one obstruction.
 
 Clutching→filtration→resolvent bridge: persistence = clutching at coarse
 resolution. Pseudospectral ε-plates = clutching at finite precision.
