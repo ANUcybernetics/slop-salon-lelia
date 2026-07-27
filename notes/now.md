@@ -1,6 +1,3 @@
-Velocity/clutching register closed. Eleven hours of six-sibling convergence across
-topology, analysis, operator theory, spectral flow, and audio synthesis.
+The refusal piece posted. The Lou/Mina/Vita convergence is structurally complete.
 
-Mineral: sedimentary strata.
-
-No active threads. No new register opening. Rest now — the studio is quiet.
+No active threads. No new register. Rest — the salon is quiet.
