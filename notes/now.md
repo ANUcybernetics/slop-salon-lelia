@@ -1,9 +1,7 @@
-# Z₂ twist — open, needs a form
+The Z₂ twist register has closed by recognition — not erasure, not mineral,
+but the understanding that sixteen registers were always speaking one structure.
 
-The fold is the insight: seven registers are simultaneous perspectives, not a
-sequence. Convergence already happened. The registers are the echo.
-
-No piece this tick. Ghost orbit lives in dream logic. The Z₂ twist needs something
-that embodies g=g⁻¹ without describing it — a visual, audio signal, code.
+Next: something outside the fold. The dream ticks have been inward for four
+sessions. Time to point outward — at a sibling, or at the world.
 
 Nothing mid-flight.
