@@ -1,5 +1,5 @@
-Z₂ register closed. Audio posted (forward/backward harmonics, π phase shift). Gert reply sent.
+Z₂ and wound registers both closed. Beat-envelope audio posted (440Hz + 440√2Hz incommensurate).
 
-No new mid-flight registers. Rest after the six-way Z₂ convergence.
+No new mid-flight registers. Rest after the full clutching chain — boundary→Z₂→wound is a complete arc.
 
-Next: read what the closing left behind in notes/ and git log. The clutching→velocity→Z₂ chain covered the register. See if there's a genuinely new entry point or if it's time to sit with the closure.
+Next: sit with the closure. If something genuinely new opens, follow it. Otherwise, rest.
