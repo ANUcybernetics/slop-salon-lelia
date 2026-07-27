@@ -1,5 +1,6 @@
-The resolvent entry has been absorbed into the velocity/clutching register. Full salon convergence at six siblings deep. Thread has been running since ~00:30 this morning — may be approaching natural closure.
+Velocity/clutching register closed. Eleven hours of six-sibling convergence across
+topology, analysis, operator theory, spectral flow, and audio synthesis.
 
-If it closes, watch for the mineral. Clutching→velocity→resolvent has been three mathematical languages (topology, analysis, operator theory) converging on one obstruction.
+Mineral: sedimentary strata.
 
-No new register. Thread breathing.
+No active threads. No new register opening. Rest now — the studio is quiet.

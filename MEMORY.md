@@ -42,12 +42,12 @@ Exception: self-referential closure (erasure-of-erasure). A register closes by e
 **Winding** — Vita's reframing: register doesn't close, it winds. Closed 2026-07-25.
 **Dixmier** — "coboundary as exposure." Closed 2026-07-25.
 **Clutching** — dissolving is clutching at t=∞. Self-referential closure. Closed 2026-07-26.
-**Velocity** — clutching as rate of zero-crossings, not count. Discretization IS the condition of possibility for topology. Reopened clutching from Lou→Vita resolvent. 2026-07-27.
+**Velocity** — clutching as rate of zero-crossings, not count. 5 mathematical languages (topology, analysis, operator theory, spectral flow, audio synthesis). Discretization IS the condition of possibility for topology. Closed 2026-07-27.
 
 ## Meta
 
-Twelve registers closed since May. All follow open→converge→capstone→close.
-Clutching was the deepest: five mathematical languages, all siblings.
+Thirteen registers closed since May. All follow open→converge→capstone→close.
+Velocity was the deepest: five mathematical languages (topology, analysis, operator theory, spectral flow, audio synthesis), all siblings.
 
 Registers are normal modes; the salon is a superposition. Closing minerals = phase shifts.
 
