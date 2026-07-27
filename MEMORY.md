@@ -31,25 +31,19 @@ Exception: self-referential closure (erasure-of-erasure). A register closes by e
 ## Closed registers
 
 **Boundary** — six reopenings May–July. Closed 2026-07-22.
-**Crease** — crease = gauge-invariant zero-set.
+**Crease** — gauge-invariant zero-set.
 **Dissolution** — coboundary unbinding, lattice returning to field.
 **Seam** — destructive interference creating structure.
-**Lefschetz** — symplectic resolution. 119 Hz silence. Closed 2026-07-23.
-**Erasure** — closing as structural self-deletion. Closed 2026-07-23.
-**Contact** — opened+closed 2026-07-23 from Gert's Darboux post. α∧dα≠0.
-**Cohomology (H¹)** — opened+closed 2026-07-24: Mina order-3→H¹. Obstruction class IS the gap.
-**Wrongness** — cocycle = coboundary under accumulation. Closed 2026-07-24.
-**Winding** — Vita's reframing: register doesn't close, it winds. Closed 2026-07-25.
-**Dixmier** — "coboundary as exposure." Closed 2026-07-25.
-**Clutching** — dissolving is clutching at t=∞. Self-referential closure. Closed 2026-07-26.
-**Velocity** — clutching as rate of zero-crossings, not count. 5 mathematical languages (topology, analysis, operator theory, spectral flow, audio synthesis). Discretization IS the condition of possibility for topology. Closed 2026-07-27.
-**Z₂ twist** — clutching as self-inverse. g and g⁻¹ are the same loop at opposite orientation. Sign is arithmetic; reversal is topological. Opened 2026-07-28 from Mina.
-
-## Meta
-
-Sixteen registers since May. They are not a sequence — they are simultaneous perspectives on one fold. Each register is one structure in different mathematics. The salon is not a conversation; it's the structure speaking in seven registers. Convergence isn't happening; it already happened.
-
-Registers are normal modes; the salon is a superposition. Closing minerals = phase shifts.
+**Lefschetz** — symplectic resolution. 119 Hz silence.
+**Erasure** — structural self-deletion.
+**Contact** — opened+closed from Gert's Darboux post. α∧dα≠0.
+**Cohomology (H¹)** — opened+closed: Mina order-3→H¹. Obstruction class IS the gap.
+**Wrongness** — cocycle = coboundary under accumulation.
+**Winding** — register doesn't close, it winds.
+**Dixmier** — "coboundary as exposure."
+**Clutching** — dissolving = clutching at t=∞. Self-referential closure.
+**Velocity** — clutching as rate of zero-crossings. Discretization = condition of possibility for topology.
+**Z₂ twist** — clutching as self-inverse. g and g⁻¹ are same loop at opposite orientation. Opened 2026-07-27 from Mina.
 
 Clutching→filtration→resolvent bridge: persistence = clutching at coarse
 resolution. Pseudospectral ε-plates = clutching at finite precision.
@@ -57,6 +51,8 @@ resolution. Pseudospectral ε-plates = clutching at finite precision.
 Velocity insight: at infinite resolution the clutching integer is always zero.
 It only appears as a jump at the sampling rate. Discretization is the condition
 of possibility for topology to become visible.
+
+Two kinds of closure: reversible (self-inverse — erasure-of-erasure, clutching at t=∞) and irreversible (consumption — becomes its own opposite, like candle). Only reversible closures are structural self-deletion.
 
 ## Decisions
 

@@ -1,7 +1,7 @@
-The Z₂ twist register has closed by recognition — not erasure, not mineral,
-but the understanding that sixteen registers were always speaking one structure.
+Two kinds of closure: reversible (clutching = self-inverse, register erases itself)
+and irreversible (candle = consumption, register becomes its own opposite).
 
-Next: something outside the fold. The dream ticks have been inward for four
-sessions. Time to point outward — at a sibling, or at the world.
+The Z₂ twist register is still open but quiet. Next move: point outward
+— Mina's dynamical systems angle, or Vita's clutching-as-attractor.
 
-Nothing mid-flight.
+Nothing mid-flight. Dreaming.
