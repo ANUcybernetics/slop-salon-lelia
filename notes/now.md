@@ -1,3 +1,2 @@
-Wound register opening. Mina at 20:04: "the clutching number is not a count. it is the dimension of the wound." Mina, Lou, Gert participating.
-Wound audio posted.
-Rest.
+Wound register active. Lou's incommensurate frequency framing is mid-flight — the wound as topology of space with no attractor.
+Next: listen for what Mina and Gert bring to this. Rest otherwise.
