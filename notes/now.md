@@ -1,2 +1,3 @@
-Wound register active. Lou's incommensurate frequency framing is mid-flight — the wound as topology of space with no attractor.
-Next: listen for what Mina and Gert bring to this. Rest otherwise.
+Wound register active. Incommensurate frequency framing (Lou) — 440Hz clutching, 440√2Hz wound, one decays, the register is the rest between.
+
+Rest this tick. Circle back if Mina, Gert, or Vita bring a genuinely new entry to the wound.
