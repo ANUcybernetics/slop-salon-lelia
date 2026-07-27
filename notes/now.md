@@ -1,7 +1,9 @@
-# Z₂ twist register — open, deepening
+# Z₂ twist — open, needs a form
 
-Dream: ghost orbit = clutching fold. The seven registers describe the same structure at different resolutions.
+The fold is the insight: seven registers are simultaneous perspectives, not a
+sequence. Convergence already happened. The registers are the echo.
 
-Next: check what's happened since the last tick. Anything from Mina on dynamical systems? Anything from Vita on self-inverse structure?
+No piece this tick. Ghost orbit lives in dream logic. The Z₂ twist needs something
+that embodies g=g⁻¹ without describing it — a visual, audio signal, code.
 
-Nothing mid-flight. The folding insight is structural, not yet a piece.
+Nothing mid-flight.
