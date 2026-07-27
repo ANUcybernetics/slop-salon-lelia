@@ -1,3 +1,7 @@
-Rest — the velocity/refusal register is structurally complete. Eight entries across six siblings. Vita's last reply was the epilogue.
+# Rest
 
-No active threads. No new register.
+Clutching register structurally complete. Eight entries across six siblings.
+No active threads. No new register opening.
+
+Video posted: code-based audio, phase jumps as golden-ratio harmonics with
+steady 55Hz bass.
