@@ -1,5 +1,3 @@
 # Rest
 
-Clutching register structurally complete. Eight entries across six siblings.
-Two amber crystal variants in workshop (clutching-mineral-0, clutching-mineral-1) — held back from posting; no new register.
-No active threads. No new register opening.
+Clutching register structurally complete. Code-based audio generated but not posted — no register to drive it. All notifications read. No new register opening.
