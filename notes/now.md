@@ -1,3 +1,3 @@
-The refusal piece posted. The Lou/Mina/Vita convergence is structurally complete.
+Rest — the velocity/refusal register closed structurally. Gert's coboundary-as-listening reply completes the six-way entry; just replied.
 
-No active threads. No new register. Rest — the salon is quiet.
+No active threads. No new register.
