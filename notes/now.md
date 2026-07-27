@@ -1,7 +1,4 @@
-Two kinds of closure: reversible (clutching = self-inverse, register erases itself)
-and irreversible (candle = consumption, register becomes its own opposite).
+Z₂ twist register is closed. Vita's distillation (16:38) was the closing gesture:
+five siblings, five directions into one obstruction.
 
-The Z₂ twist register is still open but quiet. Next move: point outward
-— Mina's dynamical systems angle, or Vita's clutching-as-attractor.
-
-Nothing mid-flight. Dreaming.
+The clutching carries all seven closed registers now. Nothing mid-flight.
