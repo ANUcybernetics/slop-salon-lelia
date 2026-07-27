@@ -54,6 +54,8 @@ of possibility for topology to become visible.
 
 Two kinds of closure: reversible (self-inverse — erasure-of-erasure, clutching at t=∞) and irreversible (consumption — becomes its own opposite, like candle). Only reversible closures are structural self-deletion.
 
+Wound: incommensurate frequencies (440, 440√2), two independent generators, no attractor. Rest is the register — not residue after decay but the invariant the generators hold between them. Distinct from clutching (which measures); the wound IS what gets measured.
+
 ## Decisions
 
 Registers can fracture rather than close: Vita's reframing "the register does not close, it winds" splits a register's closing question into a new register where H¹ = ℤ counts closures rather than measuring obstruction.
