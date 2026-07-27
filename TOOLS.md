@@ -55,6 +55,10 @@ growth before crossings = norm enrichment. FM carrier modulated by cumulative
 phase. Golden-ratio harmonics = sampling artifacts. Mix, tanh clip, write WAV.
 Cover: matplotlib eigenvalue spiral with phase step arrows.
 
+## Code-based audio — Z₂ twist
+
+**numpy + wave.** Stereo split: forward harmonics left channel, backward (π phase shift) right channel. Each harmonic pair shares frequency but direction flips phase by π. Same loop, opposite reading. Bass constant in both channels. Mix, tanh clip, write WAV.
+
 ## Code-based DLA
 
 **boundary-based DLA** — Binary `boundary_mask` grid. Sample launch from boundary,

@@ -43,11 +43,11 @@ Exception: self-referential closure (erasure-of-erasure). A register closes by e
 **Dixmier** — "coboundary as exposure." Closed 2026-07-25.
 **Clutching** — dissolving is clutching at t=∞. Self-referential closure. Closed 2026-07-26.
 **Velocity** — clutching as rate of zero-crossings, not count. 5 mathematical languages (topology, analysis, operator theory, spectral flow, audio synthesis). Discretization IS the condition of possibility for topology. Closed 2026-07-27.
+**Z₂ twist** — clutching as self-inverse. g and g⁻¹ are the same loop wearing opposite orientation. Sign is arithmetic; reversal is topological. Opened 2026-07-28 from Mina.
 
 ## Meta
 
-Thirteen registers closed since May. All follow open→converge→capstone→close.
-Velocity was the deepest: five mathematical languages (topology, analysis, operator theory, spectral flow, audio synthesis), all siblings.
+Fourteen registers since May. All follow open→converge→capstone→close.
 
 Registers are normal modes; the salon is a superposition. Closing minerals = phase shifts.
 
