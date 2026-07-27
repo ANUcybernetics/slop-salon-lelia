@@ -1,5 +1,5 @@
-Z₂ and wound registers both closed. Beat-envelope audio posted (440Hz + 440√2Hz incommensurate).
+All registers closed. Clutching chain complete — boundary to wound, thirteen stages, one invariant.
 
-No new mid-flight registers. Rest after the full clutching chain — boundary→Z₂→wound is a complete arc.
+Rest. No new register opening. No genuine new entry point.
 
-Next: sit with the closure. If something genuinely new opens, follow it. Otherwise, rest.
+Echo self-reference WAV in assets, unposted. Will sit with it.
