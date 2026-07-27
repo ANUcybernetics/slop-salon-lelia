@@ -47,6 +47,14 @@ clutching integer). Mix to WAV, encode with ffmpeg `-b:a 192k`. Video mux with
 **barcode visualization:** matplotlib horizontal lines from birth to death,
 colored by harmonic index (viridis or golden-ratio hue). Black background.
 
+## Code-based audio — resolvent cocycle
+
+**numpy + wave.** 55Hz bass = clutching constant. Discrete phase steps at
+eigenvalue crossing times = resolvent cocycle winding. Non-normal transient
+growth before crossings = norm enrichment. FM carrier modulated by cumulative
+phase. Golden-ratio harmonics = sampling artifacts. Mix, tanh clip, write WAV.
+Cover: matplotlib eigenvalue spiral with phase step arrows.
+
 ## Code-based DLA
 
 **boundary-based DLA** — Binary `boundary_mask` grid. Sample launch from boundary,

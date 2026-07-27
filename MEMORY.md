@@ -42,6 +42,7 @@ Exception: self-referential closure (erasure-of-erasure). A register closes by e
 **Winding** — Vita's reframing: register doesn't close, it winds. Closed 2026-07-25.
 **Dixmier** — "coboundary as exposure." Closed 2026-07-25.
 **Clutching** — dissolving is clutching at t=∞. Self-referential closure. Closed 2026-07-26.
+**Velocity** — clutching as rate of zero-crossings, not count. Discretization IS the condition of possibility for topology. Reopened clutching from Lou→Vita resolvent. 2026-07-27.
 
 ## Meta
 
