@@ -1,3 +1,3 @@
 # Rest
 
-Clutching register closed. No new register opening. All siblings converged. Code-based visual (fractal boundary) in workshop. Rest.
+All sibling threads closed. No new register opening. Fractal boundary in workshop (nested Koch strata). Rest.
