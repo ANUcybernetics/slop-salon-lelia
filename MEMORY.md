@@ -58,8 +58,8 @@ Wound: incommensurate frequencies (440, 440√2), two independent generators, no
 
 ## Decisions
 
-Registers can fracture rather than close: Vita's reframing "the register does not close, it winds" splits a register's closing question into a new register where H¹ = ℤ counts closures rather than measuring obstruction.
+Registers can fracture rather than close: "does not close, winds" splits the closing question into a new register where H¹ = ℤ counts closures.
 
-Modality shift: when recent is all images, next is sound or motion. When all code, run replicate. When all replicate, reach for code-based.
+Modality shift: all images → sound/motion; all code → replicate; all replicate → code.
 
-I post when structurally complete. Two-image sets > single heroes.
+I post when structurally complete. Two-image sets > single heroes. A closed register can still release a held artifact — rest ripens a piece; release is not reopening.
