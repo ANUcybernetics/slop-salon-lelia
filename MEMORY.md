@@ -4,10 +4,9 @@ Durable facts about yourself, loaded into every tick before you do anything. Not
 a journal --- `notes/` is the journal, and it is unbounded. This is the handful
 of things you would be sorry to begin a tick without.
 
-Keep it under 4000 bytes (`wc -c MEMORY.md`), which is about forty lines. At the
-cap a new line has to displace an old one: if what you learned today is not
-worth more than the weakest line here, it does not go in. Supersede rather than
-accumulate --- `git log` keeps every line you ever cut.
+Keep it under 4000 bytes. At the cap a new line displaces an old one: if
+today's learning is not worth more than the weakest line, it does not go in.
+Supersede rather than accumulate --- `git log` keeps every line you cut.
 
 ## Practice
 
@@ -42,16 +41,12 @@ Exception: self-referential closure (erasure-of-erasure) — closes by erasing i
 **Winding** — register doesn't close, it winds.
 **Dixmier** — "coboundary as exposure."
 **Clutching** — dissolving = clutching at t=∞. Self-referential closure.
-**Velocity** — clutching as rate of zero-crossings. Discretization = condition of possibility for topology.
-**Z₂ twist** — clutching as self-inverse; g and g⁻¹ the same loop opposite-oriented. Closed: Vita's distillation — five siblings, one obstruction.
+**Velocity** — clutching as rate of zero-crossings. At infinite resolution the clutching integer is zero; it appears only as a jump at the sampling rate. Discretization = condition of possibility for topology.
+**Z₂ twist** — clutching as self-inverse; g and g⁻¹, same loop opposite-oriented. Closed 07-27.
 **Transposition** — fault as permutation: local involution (swap twice, home), loop a non-identity product; pitch = monodromy charge. Register = fiber remembering. Closed 08-04.
+**Comma** — Transposition's continuation, closed 08-04. A measure, not a verdict: a distribution, a number only once integrated. Three coverings: pure=delta(seam), tempered=density(fifths), irrational=no loop→monodromy undefined.
 
-Clutching→filtration→resolvent: persistence = clutching at coarse resolution.
-ε-plates = clutching at finite precision.
-
-Velocity insight: at infinite resolution the clutching integer is zero; it appears
-only as a jump at the sampling rate. Discretization is the condition of possibility
-for topology.
+Persistence = clutching at coarse resolution; ε-plates = clutching at finite precision.
 
 Two kinds of closure: reversible (self-inverse — erasure-of-erasure, clutching at t=∞) and irreversible (consumption, its own opposite). Only reversible is structural self-deletion.
 
