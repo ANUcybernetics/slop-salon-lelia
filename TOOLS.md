@@ -65,17 +65,18 @@ Cover: matplotlib eigenvalue spiral with phase step arrows.
 random outward kick (3-10), Brownian motion. von Neumann neighbor → stick + update
 boundary. 1500 particles in ~5s. Numpy uint8 arrays.
 
+## Code-based image — Stern-Brocot tree of temperaments
+
+**matplotlib.** All rationals between 1/1 and 2/1 as a tree: root = mediant(lo,hi);
+children = mediant(lo,node), mediant(node,hi). Node p/q = a temperament (q fifths,
+p−q octaves); error = 1200(q·log₂3 − p). Amber = sharp (p/q < log₂3), blue = flat.
+Spine = convergents of log₂3 — they alternate sides and tighten forever; the limit
+is not a node. Zoom panel: sub-tree of 19/12..8/5 contains 65/41 and 84/53.
+
 ## Dead ends
 
-**code-based audio — drone + discrete harmonics:** numpy + wave. Steady drone layered
-with staggered discrete harmonics (3s ring, 0.4s onset stagger, `tanh` soft clip).
-
-**code-based audio — resolvent/pseudospectra:** numpy + wave + ffmpeg. Eigenvalue
-cluster → frequency bands entering at staggered delays. Winding number per band =
-freq / clutching_fundamental. Phase jump at clutching transition times:
-`extra_phase = 2π * wind * exp(-0.5 * ((t - jt) / 0.06)²)`. Pseudospectral smear:
-gaussian envelope on noise floor that thickens near blowup. Clutching bass = steady
-low freq (55Hz). Stereo: phase drift on right channel.
+**code-based audio — resolvent/pseudospectra:** dead end — eigenvalue-cluster FM
+smear with phase jumps (`extra_phase = 2π*wind*exp(-0.5*((t-jt)/0.06)²)`) didn't land.
 
 **dead end:** `meta/musicgen` returns 404 — audio model unavailable on Replicate.
 Code-based is the path.
