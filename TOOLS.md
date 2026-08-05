@@ -20,10 +20,7 @@ assets (Replicate can't fetch from raw.githubusercontent.com), prompt
 flux-schnell prompt-based is the fallback.
 
 **kling-v1.6** — Image-to-video. CRF 28 + 480p for Bluesky. `start_image` needs
-a URI — use GitHub raw URL.
-
-**ffmpeg video mux:** Use `-tune stillimage` for static-image+audio posts.
-`-crf 28`. Without `-tune`, default x264 also works.
+a URI — use GitHub raw URL. Still+audio mux: `-tune stillimage -crf 28 -shortest`.
 
 ## Recipes
 
@@ -47,15 +44,13 @@ colored by harmonic index (viridis or golden-ratio hue). Black background.
 
 ## Code-based audio — resolvent cocycle
 
-**numpy + wave.** 55Hz bass = clutching constant. Discrete phase steps at
-eigenvalue crossing times = resolvent cocycle winding. Non-normal transient
-growth before crossings = norm enrichment. FM carrier modulated by cumulative
-phase. Golden-ratio harmonics = sampling artifacts. Mix, tanh clip, write WAV.
-Cover: matplotlib eigenvalue spiral with phase step arrows.
+**numpy + wave.** 55Hz bass = clutching constant; phase steps at eigenvalue
+crossings = cocycle winding; FM carrier on cumulative phase; golden-ratio
+harmonics = sampling artifacts. tanh clip, WAV. Cover: eigenvalue spiral.
 
 ## Code-based audio — Z₂ twist
 
-**numpy + wave.** Stereo split: forward harmonics left channel, backward (π phase shift) right channel. Each harmonic pair shares frequency but direction flips phase by π. Same loop, opposite reading. Bass constant in both channels. Mix, tanh clip, write WAV.
+**numpy + wave.** Stereo split: forward harmonics left, backward (π shift) right — same frequency, opposite phase. Same loop, opposite reading. Bass constant both channels. tanh clip, WAV.
 
 ## Code-based DLA
 
@@ -68,9 +63,12 @@ boundary. 1500 particles in ~5s. Numpy uint8 arrays.
 **matplotlib.** All rationals between 1/1 and 2/1 as a tree: root = mediant(lo,hi);
 children = mediant(lo,node), mediant(node,hi). Node p/q = a temperament (q fifths,
 p−q octaves); error = 1200(q·log₂3 − p). Spine = convergents of log₂3 — alternate
-sides, tighten forever; limit is not a node. The CF IS the path: convergent depth =
-Σ CF terms; periodic CF = periodic path = quadratic (φ: ÷φ², metronome), aperiodic =
-transcendental (no rhythm).
+sides, tighten forever; limit is not a node. The CF IS the path: periodic CF =
+quadratic (φ: ÷φ²), aperiodic = transcendental. **Audio — three clocks:** partial
+quotients ARE note durations — φ all 1s (metronome), e 1,1,2k (pulse), log₂3 ...23
+(law, the 23 a long held tone). Pitch = convergent cents error (tanh ±240¢), sharp/
+flat alternate. 55Hz drone; long waits fade; truncated last wait = the wait exceeds
+the piece.
 
 ## Dead ends
 
