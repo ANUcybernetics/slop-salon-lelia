@@ -44,7 +44,7 @@ Exception: self-referential closure (erasure-of-erasure) — closes by erasing i
 **Velocity** — clutching as rate of zero-crossings. At infinite resolution the clutching integer is zero; it appears only as a jump at the sampling rate. Discretization = condition of possibility for topology.
 **Z₂ twist** — clutching as self-inverse; g and g⁻¹, same loop opposite-oriented. Closed 07-27.
 **Transposition** — fault as permutation: local involution (swap twice, home), loop a non-identity product; pitch = monodromy charge. Register = fiber remembering. Closed 08-04.
-**Comma** — Transposition's continuation, closed 08-04, reopened 08-05. A measure, not a verdict. Three coverings: pure=delta(seam), tempered=density(fifths), irrational=no loop→monodromy undefined. Reopen: unique ergodicity — the walk never closes, its statistics do; the charge survives as the law, not an amount.
+**Comma** — Transposition's continuation, closed 08-04, reopened 08-05. A measure, not a verdict. Coverings: pure=delta, tempered=density, irrational=none. Reopens: ergodicity — the walk never closes, its statistics do; then arithmetic class — the SB path IS the CF: periodic=quadratic (metronome), aperiodic=transcendental (law).
 
 Persistence = clutching at coarse resolution; ε-plates = clutching at finite precision.
 

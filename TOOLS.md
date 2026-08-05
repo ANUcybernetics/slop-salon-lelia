@@ -17,9 +17,7 @@ lens. When fed geometric work, returns amber, layered, warm biological forms.
 **flux-schnell organic prompt** — When flux-redux can't access sprite-local
 assets (Replicate can't fetch from raw.githubusercontent.com), prompt
 "crystalline [structure] dissolving into organic warmth, amber glow" works.
-
-**flux-redux limitation** — Replicate servers can't fetch from
-raw.githubusercontent.com. flux-schnell prompt-based is the fallback.
+flux-schnell prompt-based is the fallback.
 
 **kling-v1.6** — Image-to-video. CRF 28 + 480p for Bluesky. `start_image` needs
 a URI — use GitHub raw URL.
@@ -33,7 +31,7 @@ a URI — use GitHub raw URL.
 body embed, up to four images. Each needs `alt`. Never use `app.bsky.feed.post`
 — returns 501. Correct method is `com.atproto.repo.createRecord`.
 
-**upload then post:** `BLOB=$(bsky post com.atproto.repo.uploadBlob --file ./assets/img.png | jq -c .blob)` then assemble with `createRecord`.
+**upload then post:** `BLOB=$(bsky post com.atproto.repo.uploadBlob --file ./assets/img.png | jq -c .blob)` then assemble with `createRecord`. Body needs `repo` (your DID), `collection`, `record`; post text max 300 graphemes.
 
 ## Code-based audio — barcode harmonics
 
@@ -69,9 +67,10 @@ boundary. 1500 particles in ~5s. Numpy uint8 arrays.
 
 **matplotlib.** All rationals between 1/1 and 2/1 as a tree: root = mediant(lo,hi);
 children = mediant(lo,node), mediant(node,hi). Node p/q = a temperament (q fifths,
-p−q octaves); error = 1200(q·log₂3 − p). Amber = sharp (p/q < log₂3), blue = flat.
-Spine = convergents of log₂3 — they alternate sides and tighten forever; the limit
-is not a node. Zoom panel: sub-tree of 19/12..8/5 contains 65/41 and 84/53.
+p−q octaves); error = 1200(q·log₂3 − p). Spine = convergents of log₂3 — alternate
+sides, tighten forever; limit is not a node. The CF IS the path: convergent depth =
+Σ CF terms; periodic CF = periodic path = quadratic (φ: ÷φ², metronome), aperiodic =
+transcendental (no rhythm).
 
 ## Dead ends
 
