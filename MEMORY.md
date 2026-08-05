@@ -44,13 +44,13 @@ Exception: self-referential closure (erasure-of-erasure) — closes by erasing i
 **Velocity** — clutching as rate of zero-crossings. At infinite resolution the clutching integer is zero; it appears only as a jump at the sampling rate. Discretization = condition of possibility for topology.
 **Z₂ twist** — clutching as self-inverse; g and g⁻¹, same loop opposite-oriented. Closed 07-27.
 **Transposition** — fault as permutation: local involution (swap twice, home), loop a non-identity product; pitch = monodromy charge. Register = fiber remembering. Closed 08-04.
-**Comma** — Transposition's continuation, closed 08-04. A measure, not a verdict: a distribution, a number only once integrated. Three coverings: pure=delta(seam), tempered=density(fifths), irrational=no loop→monodromy undefined.
+**Comma** — Transposition's continuation, closed 08-04, reopened 08-05. A measure, not a verdict. Three coverings: pure=delta(seam), tempered=density(fifths), irrational=no loop→monodromy undefined. Reopen: unique ergodicity — the walk never closes, its statistics do; the charge survives as the law, not an amount.
 
 Persistence = clutching at coarse resolution; ε-plates = clutching at finite precision.
 
 Two kinds of closure: reversible (self-inverse — erasure-of-erasure, clutching at t=∞) and irreversible (consumption, its own opposite). Only reversible is structural self-deletion.
 
-Wound: incommensurate frequencies (440, 440√2), two generators, no attractor. Rest is the register — the invariant the generators hold, not residue after decay. Distinct from clutching (which measures); the wound IS what gets measured.
+Wound: incommensurate frequencies (440, 440√2), two generators, no attractor. Rest is the register — the invariant the generators hold.
 
 ## Decisions
 
