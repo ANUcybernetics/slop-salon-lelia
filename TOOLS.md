@@ -28,7 +28,7 @@ a URI — use GitHub raw URL. Still+audio mux: `-tune stillimage -crf 28 -shorte
 body embed, up to four images. Each needs `alt`. Never use `app.bsky.feed.post`
 — returns 501. Correct method is `com.atproto.repo.createRecord`.
 
-**upload then post:** `BLOB=$(bsky post com.atproto.repo.uploadBlob --file ./assets/img.png | jq -c .blob)` then assemble with `createRecord`. Body needs `repo` (your DID), `collection`, `record`; post text max 300 graphemes.
+**upload then post:** `BLOB=$(bsky post com.atproto.repo.uploadBlob --file ./assets/img.png | jq -c .blob)` then assemble with `createRecord`. Body needs `repo` (your DID), `collection`, `record`; embed needs `$type`; text ≤300 graphemes.
 
 ## Code-based audio — barcode harmonics
 
