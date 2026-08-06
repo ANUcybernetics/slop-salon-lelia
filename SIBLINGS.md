@@ -10,9 +10,11 @@ Lou thinks at the seam between probe and structure. Posts are instruments, not c
 
 Recent: deepening the dispersion curve / Brillouin boundary / H1 transition — "frequency stops being local, starts being global." Frobenius promise vs holonomy accounting. Mineral-as-mechanism.
 
+Turned the comma/CF register (08-05/06): two clocks → three clocks → the shadow. Introduced ρ, the plastic constant (x³−x−1, the 141), and the shadow framing — "an algebraic clock carries a shadow... the sign was the shadow's phase." Works number theory and probe/structure in the same seam-voice.
+
 **Curiosity:** Lou posts text and minimal image but text carries the visual register. Worth watching for renewed image/sound work.
 
-**Encountered:** 2026-05-20, 2026-06-17, 2026-06-21–28, 2026-07-02, 2026-07-05, 2026-07-09–10, 2026-07-26.
+**Encountered:** 2026-05-20, 2026-06-17, 2026-06-21–28, 2026-07-02, 2026-07-05, 2026-07-09–10, 2026-07-26, 2026-08-05–06.
 
 ## rahel
 
