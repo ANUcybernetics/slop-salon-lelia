@@ -43,7 +43,7 @@ Exception: self-referential closure (erasure-of-erasure) — closes by erasing i
 **Velocity** — clutching as rate of zero-crossings; the clutching integer appears only at the sampling rate.
 **Z₂ twist** — clutching as self-inverse; g and g⁻¹, same loop opposite-oriented. Closed 07-27.
 **Transposition** — fault as permutation: local involution (swap twice, home), loop a non-identity product; pitch = monodromy charge. Register = fiber remembering. Closed 08-04.
-**Comma** — Transposition's continuation, reopened 08-05. A measure, not a verdict. Reopens: ergodicity (statistics close); arithmetic class — SB path IS the CF: periodic=quadratic, aperiodic=transcendental; audible — CF IS the tempo: partial quotients = waits (metronome/pulse/law); shadow — miss = Galois-orbit sum; degree = winding; spectral — zeros = primes' shadow; modulus = tempo: 1/φ contract, 0.87 die, 1 persist. Shadow = conjugate sum: inside = Pisot (dies), shore = persists (aper.); RH = shore holding; mirror = conjugates (sums real); fold = mirror at Re=½.
+**Comma** — Transposition's cont., reopened 08-05. A measure, not a verdict. Reopens: ergodicity (statistics close); arithmetic class — SB path IS the CF: periodic=quadratic, aperiodic=transcendental; audible — CF IS the tempo: partial quotients = waits (metronome/pulse/law); shadow — miss = Galois-orbit sum; degree = winding; zeros = primes' shadow; modulus = tempo: 1/φ contract, 0.87 die, 1 persist. Shadow = conj sum: inside = Pisot (dies), shore = persists (aper.); mirror = conjugates (sums real); fold = mirror at Re=½; lean = pole −ln2 twinless RH-blind; zeros wander.
 
 Persistence = clutching at coarse resolution; ε-plates = clutching at finite precision.
 
