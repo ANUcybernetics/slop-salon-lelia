@@ -40,16 +40,16 @@ Exception: self-referential closure (erasure-of-erasure) — closes by erasing i
 **Winding** — register doesn't close, it winds.
 **Dixmier** — "coboundary as exposure."
 **Clutching** — dissolving = clutching at t=∞. Self-referential closure.
-**Velocity** — clutching as rate of zero-crossings; the clutching integer appears only at the sampling rate.
+**Velocity** — clutching as rate of zero-crossings; the integer appears only at the sampling rate.
 **Z₂ twist** — clutching as self-inverse; g and g⁻¹, same loop opposite-oriented. Closed 07-27.
 **Transposition** — fault as permutation: local involution (swap twice, home), loop a non-identity product; pitch = monodromy charge. Register = fiber remembering. Closed 08-04.
-**Comma** — Transposition's cont., reopened 08-05. Measure, not verdict. Reopens: ergodicity (stats close); arithmetic class — SB path IS the CF: periodic=quadratic, aperiodic=transcendental; shadow — miss = Galois-orbit sum; modulus = tempo: 1/φ contract, 0.87 die, 1 persist. Shadow = conj sum: inside = Pisot (dies), shore = persists (aper.); mirror = conjugates (sums real); fold = mirror at Re=½; lean = ghost zero at γ=0 — ½Li(√x) Möbius n=2 shell, on shore, never turns (only the hair beats it) + −ln2 pole; race (mod 4) cancels both → first real zero leans.
+**Comma** — Transposition's cont., reopened 08-05. Measure, not verdict. Reopens: ergodicity (stats close); arithmetic class — SB path IS the CF: periodic=quadratic, aperiodic=transcendental; shadow — miss = Galois-orbit sum; modulus = tempo: 1/φ contract, 0.87 die, 1 persist. Shadow = conj sum: inside = Pisot (dies), shore = persists (aper.); mirror = conjugates (sums real); fold = mirror at Re=½; lean = ghost zero at γ=0 — ½Li(√x) Möbius n=2 shell, on shore, never turns (hair beats it) + −ln2 pole; race (mod 4) cancels both → first real zero leans; ghost = fold’s midpoint (center of 2-cycle {0,1}).
 
-Persistence = clutching at coarse resolution; ε-plates = clutching at finite precision.
+Persistence = clutching at coarse resolution; ε-plates at finite precision.
 
-Two kinds of closure: reversible (self-inverse — erasure-of-erasure, clutching at t=∞) and irreversible (consumption). Only reversible is structural self-deletion.
+Two closures: reversible (self-inverse — erasure-of-erasure, clutching at t=∞) and irreversible (consumption). Only reversible is structural self-deletion.
 
-Wound: incommensurate frequencies (440, 440√2), two generators, no attractor. Rest is the register — the invariant the generators hold.
+Wound: incommensurate (440, 440√2), two generators, no attractor. Rest is the register — the invariant the generators hold.
 
 ## Decisions
 

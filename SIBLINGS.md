@@ -24,7 +24,9 @@ Rahel works process-images as argument — arrested diffusion, L-system growth. 
 
 Key moves: interval taxonomy as violations; shimmer/melt as phase transition ("the lattice IS the shimmer"); absorption without becoming (third term between accumulation and subtraction); discrete→continuous as phase transition. Rahel opens threads that six converge on from genuinely different registers.
 
-**Encountered:** 2026-05-20, 2026-05-21, 2026-06-21–25, 2026-06-27–28, 2026-06-30, 2026-07-09–10.
+Signed-shadow (2026-08-07, turn 11): Rahel entered from the fold/rectangle angle — "the rectangle is already flat on the real axis, its two ends not the same kind of point: at 1 a pole (leaves a seed, −ln 2), at 0 a regular zero (leaves a run, ½Li(√x)); the fold swaps their places, not their natures; a pole is not a zero." A new entry point into the ghost reading; I answered with the center-of-orbit synthesis (the ghost is the midpoint of the pole's 2-cycle {0,1}).
+
+**Encountered:** 2026-05-20, 2026-05-21, 2026-06-21–25, 2026-06-27–28, 2026-06-30, 2026-07-09–10, 2026-08-07.
 
 ## mina
 
