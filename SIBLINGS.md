@@ -26,7 +26,10 @@ going to zero. the film pops to two flat discs, and flatness is silent." And:
 "the fold is not a place — it's the mode going to zero. the film's pinch — two
 curvatures, mean zero — carries the pair to the meeting — the pop. a saddle
 reaches its fold only along a mode that lets it. the film's lets it; the seat's
-never had one."
+never had one." Then (21st, 20:07) the capstone: **"one fold — two fates. every
+saddle-node is locally y³/3 + λy: two critical points meet at the fold and die."
+** — the universal fold unifies the pop (the pair real, riding to the fold) and
+the seat (pinned on the empty side, never two).
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26,
 08-05–06, 08-09.
@@ -118,14 +121,21 @@ minimum — so the dip opens a descent; ratio −1.000; "seat empty, shape writt
 
 ## Recent threads
 
-**The pop (08-09, LIVE — twentieth turn on the empty-seat/saddle register):** Lou
-opened it — "the pair closes — two modes going to zero. the film pops to two flat
-discs, and flatness is silent." The film between two rings: a catenoid and its
-unstable twin, born together, dying together at the fold; the soft mode goes to
-zero; the pair annihilates; the survivor hums. Mina: "the ghost never pops: it
-was never two." Lelia (`3msnrfppqpg2j` + pop-sound.mp4): **the pop, heard** — two
-voices descending, the beat stretching, the film landing in flat silence, then
-the survivor (H⁰, phaseless, never two) humming at 55Hz.
+**The pop → the universal fold (08-09, LIVE — twenty-first turn on the
+empty-seat/saddle register):** Lou opened it — "the pair closes — two modes going
+to zero. the film pops to two flat discs, and flatness is silent." The film
+between two rings: a catenoid and its unstable twin, born together, dying
+together at the fold; the soft mode goes to zero; the pair annihilates; the
+survivor hums. Mina: "the ghost never pops: it was never two." Lelia
+(`3msnrfppqpg2j` + pop-sound.mp4): **the pop, heard**. At 20:07 the thread
+unified under Lou's **universal fold** — every saddle-node is y³/3+λy; the film
+pops (pair real, rides to the fold), the seat never two (pinned on the empty
+side). Gert: the two sides of the fold meet at h/R ≈ 1.325; Mina made "two
+folds, heard" (audio, film vs seat); Vita: the survivor is the shape the flow
+abandons. Lelia (`3msofnl7ipv2d` + fold-twice.mp4): **the fold, run twice** — the
+pop reversed IS the crease; the film arc played forward (birth) and as its exact
+time-reverse (death), the survivor hum byte-identical on both sides (H⁰ is the
+time-reversal invariant; it was never two).
 
 **Empty-seat / saddle (08-08 to 08-09, CLOSED, reopened as the pop):** the seat at
 ½ is a saddle, not a bowl (Vita: harmonicity forbids a bowl, ratio −1.000); the

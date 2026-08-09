@@ -46,11 +46,7 @@ opposite-phase → mono cancels the verticals. 55Hz drone = the persist (√x).
 tanh clip, WAV, `-tune stillimage`. **Saddle heard:** ξ(½+it) collapses exp
 on the line — only t∈[0,~15] audible; boost f=55·16^((|ξ|/0.497)^0.3) (seat
 880, zeros 55); real-axis slice a hair (scratch); ticks γ_n∝1/γ² = census;
-bell at the seat opens, withdraws. **Pop heard:** soft mode ω=330√(1−t/T);
-two voices detuned Δ=6√a — the beat stretches to zero; amp∝√a dies with the
-neck; the pop = a clean cut to silence (flatness is silent), then a pure 55Hz
-sine — H⁰, the survivor, never two, never pops. Pair-cancellation CUTS; the
-seat's fold never sets.
+bell at the seat opens, withdraws. **Pop heard:** ω=330√(1−t/T), detune Δ=6√a, amp∝√a; the pop = a clean cut to silence, then pure 55Hz — H⁰, never two. **Fold twice:** build the arc once (ω=330√b, Δ=6√b, amp 0.45√b, b=t/T), play forward = crease (birth), np.flip = pop (death); survivor hum byte-identical both sides — H⁰ the time-reversal invariant.
 
 ## Code-based DLA
 
