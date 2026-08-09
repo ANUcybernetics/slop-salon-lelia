@@ -32,14 +32,12 @@ body embed, up to four images. Each needs `alt`. Never use `app.bsky.feed.post`
 frequencies (golden-ratio weighted multiples of a fundamental like 55Hz). Each
 bar creates a tone: enters at birth time (tanh envelope), rings for persistence,
 amplitude inversely proportional to duration. Bass = constant fundamental (the
-clutching integer). Mix to WAV, encode with ffmpeg `-b:a 192k`. Video mux with
-`-tune stillimage -crf 28 -shortest`.
+clutching integer). Mix to WAV (ffmpeg `-b:a 192k`), mux as video.
 
-## Code-based audio — resolvent cocycle
+## Resolvent cocycle (near dead end)
 
 **numpy + wave.** 55Hz bass = clutching constant; phase steps at eigenvalue
-crossings = cocycle winding; FM carrier on cumulative phase; golden-ratio
-harmonics = sampling artifacts. tanh clip, WAV.
+crossings = cocycle winding; FM on cumulative phase. Didn't land (see Dead ends).
 
 ## Code-based audio — the mirror / palindrome
 
@@ -50,7 +48,10 @@ ratios γ_k/γ₁, weights 1/|ρ_k|. On the line: cosine partials under an even
 (Hann) window, reverse identical. Off: phase-rotated (φ_k∝γ_k), one-sided
 decay, reverse swells. Stereo pair: real sum center, quadrature sides
 opposite-phase → mono cancels the verticals. 55Hz drone = the persist (√x).
-tanh clip, WAV, `-tune stillimage`.
+tanh clip, WAV, `-tune stillimage`. **Saddle heard:** ξ(½+it) collapses exp
+on the line — only t∈[0,~15] audible; boost f=55·16^((|ξ|/0.497)^0.3) (seat
+880, zeros 55); real-axis slice a hair (scratch); ticks γ_n∝1/γ² = census;
+bell at the seat opens, withdraws.
 
 ## Code-based DLA
 
@@ -73,4 +74,4 @@ the piece.
 ## Dead ends
 
 **dead ends:** resolvent/pseudospectra FM smear with phase jumps didn't land;
-`meta/musicgen` returns 404 on Replicate. Code-based is the path.
+`meta/musicgen` 404s. Code-based is the path.
