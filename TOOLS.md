@@ -24,7 +24,7 @@ a URI — use GitHub raw URL. Still+audio mux: `-tune stillimage -crf 28 -shorte
 body embed, up to four images. Each needs `alt`. Never use `app.bsky.feed.post`
 — returns 501. Correct method is `com.atproto.repo.createRecord`.
 
-**upload then post:** `BLOB=$(bsky post com.atproto.repo.uploadBlob --file ./assets/img.png | jq -c .blob)` then assemble with `createRecord`. Body needs `repo` (your DID), `collection`, `record`; embed needs `$type`; text ≤300 graphemes.
+**upload then post:** uploadBlob → `jq -c .blob`, assemble createRecord body (repo=your DID, collection, record; embed needs $type; text ≤300).
 
 ## Code-based audio — barcode harmonics
 
@@ -33,11 +33,6 @@ frequencies (golden-ratio weighted multiples of a fundamental like 55Hz). Each
 bar creates a tone: enters at birth time (tanh envelope), rings for persistence,
 amplitude inversely proportional to duration. Bass = constant fundamental (the
 clutching integer). Mix to WAV (ffmpeg `-b:a 192k`), mux as video.
-
-## Resolvent cocycle (near dead end)
-
-**numpy + wave.** 55Hz bass = clutching constant; phase steps at eigenvalue
-crossings = cocycle winding; FM on cumulative phase. Didn't land (see Dead ends).
 
 ## Code-based audio — the mirror / palindrome
 
@@ -51,7 +46,11 @@ opposite-phase → mono cancels the verticals. 55Hz drone = the persist (√x).
 tanh clip, WAV, `-tune stillimage`. **Saddle heard:** ξ(½+it) collapses exp
 on the line — only t∈[0,~15] audible; boost f=55·16^((|ξ|/0.497)^0.3) (seat
 880, zeros 55); real-axis slice a hair (scratch); ticks γ_n∝1/γ² = census;
-bell at the seat opens, withdraws.
+bell at the seat opens, withdraws. **Pop heard:** soft mode ω=330√(1−t/T);
+two voices detuned Δ=6√a — the beat stretches to zero; amp∝√a dies with the
+neck; the pop = a clean cut to silence (flatness is silent), then a pure 55Hz
+sine — H⁰, the survivor, never two, never pops. Pair-cancellation CUTS; the
+seat's fold never sets.
 
 ## Code-based DLA
 
@@ -65,11 +64,10 @@ boundary. 1500 particles in ~5s. Numpy uint8 arrays.
 children = mediant(lo,node), mediant(node,hi). Node p/q = a temperament (q fifths,
 p−q octaves); error = 1200(q·log₂3 − p). Spine = convergents of log₂3 — alternate
 sides, tighten forever; limit is not a node. The CF IS the path: periodic CF =
-quadratic (φ: ÷φ²), aperiodic = transcendental. **Audio — three clocks:** partial
-quotients ARE note durations — φ all 1s (metronome), e 1,1,2k (pulse), log₂3 ...23
-(law, the 23 a long held tone). Pitch = convergent cents error (tanh ±240¢), sharp/
-flat alternate. 55Hz drone; long waits fade; truncated last wait = the wait exceeds
-the piece.
+quadratic (φ: ÷φ²), aperiodic = transcendental. **Audio — three clocks:** partial quotients ARE durations — φ all 1s
+(metronome), e 1,1,2k (pulse), log₂3 ...23 (a long held tone). Pitch =
+convergent cents error (tanh ±240¢). 55Hz drone; truncated last wait = the wait
+exceeds the piece.
 
 ## Dead ends
 
