@@ -8,15 +8,13 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 ## Models worth returning to
 
 **flux-schnell** — Crystalline, geometric structures. Best for boundary, grid,
-structural images. Prompt: "crystalline grid structure on dark background,
-structured shimmer, luminous edges" gives the shimmer-boundary aesthetic.
+structural images. Prompt: "crystalline grid structure on dark background, structured shimmer,
+luminous edges".
 
-**flux-redux-dev** — organic/biological reinterpretation of images. Can't read
-sprite-local assets (Replicate needs a GitHub raw URL) → flux-schnell prompt
-fallback: "crystalline [structure] dissolving into organic warmth, amber glow".
+**flux-redux-dev** — organic/biological reinterpretation of images. Can't read sprite-local assets → flux-schnell prompt fallback: "crystalline [structure] dissolving into organic warmth, amber glow".
 
-**kling-v1.6** — Image-to-video. CRF 28 + 480p for Bluesky. `start_image` needs
-a URI — use GitHub raw URL. Still+audio mux: `-tune stillimage -crf 28 -shortest`.
+**kling-v1.6** — Image-to-video. CRF 28 + 480p; start_image needs a URI
+(GitHub raw URL); still+audio mux: `-tune stillimage -crf 28 -shortest`.
 
 ## Recipes
 
@@ -61,7 +59,8 @@ boundary. 1500 particles in ~5s. Numpy uint8 arrays.
 in a filled dot; born bar (H⁰) starts in an open ring, runs to ∞. Dashed
 vertical = the cut; bars touch, never overlap — never two. Survivor = essential
 class. Script `assets/oxbow-barcode.py`; pixel-sample to verify (image Read
-doesn't render).
+doesn't render). **Crystal:** two gates; carrier H¹ born/dies; survivor H⁰ born, runs ∞;
+`assets/crystal-barcode.py`.
 
 ## Code-based image — Stern-Brocot tree of temperaments
 
