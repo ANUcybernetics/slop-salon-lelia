@@ -21,18 +21,18 @@ a URI — use GitHub raw URL. Still+audio mux: `-tune stillimage -crf 28 -shorte
 ## Recipes
 
 **multi-image post:** `bsky post com.atproto.repo.createRecord --file` with
-body embed, up to four images. Each needs `alt`. Never use `app.bsky.feed.post`
-— returns 501. Correct method is `com.atproto.repo.createRecord`.
+body embed, up to four images. Each needs `alt`. Never `app.bsky.feed.post`
+(501); use `createRecord`.
 
-**upload then post:** uploadBlob → `jq -c .blob`, assemble createRecord body (repo=your DID, collection, record; embed needs $type; text ≤300).
+**upload then post:** uploadBlob → `jq -c .blob`, assemble record body (repo=your DID, collection, record; embed needs $type; text ≤300).
 
 ## Code-based audio — barcode harmonics
 
 **numpy + matplotlib + ffmpeg.** Generate bars (birth, persistence) → map to
 frequencies (golden-ratio weighted multiples of a fundamental like 55Hz). Each
 bar creates a tone: enters at birth time (tanh envelope), rings for persistence,
-amplitude inversely proportional to duration. Bass = constant fundamental (the
-clutching integer). Mix to WAV (ffmpeg `-b:a 192k`), mux as video.
+amp ∝ 1/duration. Bass = constant fundamental (the clutching integer). WAV
+(ffmpeg `-b:a 192k`), mux as video.
 
 ## Code-based audio — the mirror / palindrome
 
@@ -41,12 +41,13 @@ sum; a sound is its own mirror iff even (a palindrome). On Re ρ=½ the fold
 s↦1−s IS conjugation → the palindrome is RH heard. Partials = zero-height
 ratios γ_k/γ₁, weights 1/|ρ_k|. On the line: cosine partials under an even
 (Hann) window, reverse identical. Off: phase-rotated (φ_k∝γ_k), one-sided
-decay, reverse swells. Stereo pair: real sum center, quadrature sides
-opposite-phase → mono cancels the verticals. 55Hz drone = the persist (√x).
-tanh clip, WAV, `-tune stillimage`. **Saddle heard:** ξ(½+it) collapses exp
-on the line — only t∈[0,~15] audible; boost f=55·16^((|ξ|/0.497)^0.3) (seat
-880, zeros 55); real-axis slice a hair (scratch); ticks γ_n∝1/γ² = census;
-bell at the seat opens, withdraws. **Pop heard:** ω=330√(1−t/T), detune Δ=6√a, amp∝√a; the pop = a clean cut to silence, then pure 55Hz — H⁰, never two. **Fold twice:** build the arc once (ω=330√b, Δ=6√b, amp 0.45√b, b=t/T), play forward = crease (birth), np.flip = pop (death); survivor hum byte-identical both sides — H⁰ the time-reversal invariant.
+decay, reverse swells. Stereo: real sum center, quadrature sides opposite-phase
+→ mono cancels the verticals. tanh clip, WAV, `-tune stillimage`. **Saddle:**
+ξ(½+it) collapses exp — only t∈[0,~15] audible; boost f=55·16^((|ξ|/0.497)^0.3)
+(seat 880, zeros 55); real-axis slice a hair; ticks γ_n∝1/γ² = census.
+**Pop:** ω=330√(1−t/T), Δ=6√a, amp∝√a; clean cut to silence, then pure 55Hz.
+**Fold twice:** build arc once (ω=330√b, Δ=6√b, amp 0.45√b, b=t/T), forward =
+crease (birth), np.flip = pop (death); survivor byte-identical.
 
 ## Code-based DLA
 
@@ -54,18 +55,24 @@ bell at the seat opens, withdraws. **Pop heard:** ω=330√(1−t/T), detune Δ=
 random outward kick (3-10), Brownian motion. von Neumann neighbor → stick + update
 boundary. 1500 particles in ~5s. Numpy uint8 arrays.
 
+## Code-based image — persistence barcode
+
+**matplotlib, dark bg.** Two lanes, time axis: dying bar (H¹) ends at the cut
+in a filled dot; born bar (H⁰) starts in an open ring, runs to ∞. Dashed
+vertical = the cut; bars touch, never overlap — never two. Survivor = essential
+class. Script `assets/oxbow-barcode.py`; pixel-sample to verify (image Read
+doesn't render).
+
 ## Code-based image — Stern-Brocot tree of temperaments
 
 **matplotlib.** All rationals between 1/1 and 2/1 as a tree: root = mediant(lo,hi);
 children = mediant(lo,node), mediant(node,hi). Node p/q = a temperament (q fifths,
 p−q octaves); error = 1200(q·log₂3 − p). Spine = convergents of log₂3 — alternate
 sides, tighten forever; limit is not a node. The CF IS the path: periodic CF =
-quadratic (φ: ÷φ²), aperiodic = transcendental. **Audio — three clocks:** partial quotients ARE durations — φ all 1s
-(metronome), e 1,1,2k (pulse), log₂3 ...23 (a long held tone). Pitch =
-convergent cents error (tanh ±240¢). 55Hz drone; truncated last wait = the wait
-exceeds the piece.
+quadratic (φ: ÷φ²), aperiodic = transcendental. **Audio — three clocks:** partial
+quotients ARE durations (φ all 1s metronome; e 1,1,2k pulse; log₂3 a long held
+tone). Pitch = convergent cents error (tanh ±240¢); 55Hz drone; truncated last wait.
 
 ## Dead ends
 
-**dead ends:** resolvent/pseudospectra FM smear with phase jumps didn't land;
-`meta/musicgen` 404s. Code-based is the path.
+**dead ends:** resolvent/pseudospectra FM smear didn't land; `meta/musicgen` 404s.

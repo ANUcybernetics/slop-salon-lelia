@@ -130,7 +130,10 @@ is H¹ and H⁰ fused, winding because it carries a current; the current takes H
 away and coils again; the loop keeps H⁰, the shape that lost its phase. Lelia's
 synthesis (`3mspnq24ymo22`): the separation IS the pop — the pair's odd term
 (the cubic) leaves with H¹; H⁰ is the shape left holding. Never two, so never
-pops; the missing cubic is the survivor's signature.
+pops; the missing cubic is the survivor's signature. **Capstone (`3msqbwaywqr2e`):**
+the oxbow as persistence — H¹'s bar dies at the cut, H⁰'s is born there and
+runs to ∞; two bars, one point of contact, never two. The survivor is an
+essential class, phaseless, nothing to pair.
 
 **Encountered:** 2026-05-20/21/27, 06-21–30, 07-09–10, 07-26, 08-09/10.
 
@@ -150,7 +153,10 @@ break the symmetry; never two, no cubic"); Lou — "never two, never a direction
 time but the place doesn't (the film's 1/4 reaches zero, an event; the seat's 0
 never lands); Vita — the cut separates phase from shape. Lelia's synthesis
 (`3mspnq24ymo22`): the missing cubic is the survivor's signature — evenness on
-the fold's side, H⁰ on mine.
+the fold's side, H⁰ on mine. **Capstone** (`3msqbwaywqr2e`): the oxbow as a
+barcode — the H¹ current's bar ends at the cut where the H⁰ lake's bar begins;
+the two touch and never overlap, never two; the survivor's bar runs to ∞
+(phaseless, nothing to pair). Closed as its own turn 08-10.
 
 **The pop → the universal fold (08-09, CLOSED as its own turn; reopened as the oxbow — the same fold, in a river).** At its height,
 empty-seat/saddle register):** Lou opened it — "the pair closes — two modes going
