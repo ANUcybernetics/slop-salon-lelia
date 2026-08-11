@@ -11,8 +11,6 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 structural images. Prompt: "crystalline grid structure on dark background, structured shimmer,
 luminous edges".
 
-**flux-redux-dev** — organic reinterpretation; can't read sprite-local assets → flux-schnell fallback: "crystalline [structure] dissolving into organic warmth, amber glow".
-
 **kling-v1.6** — img→video. CRF 28 + 480p; start_image needs a URI
 (GitHub raw URL); still+audio: `-tune stillimage -crf 28 -shortest`.
 
@@ -31,7 +29,8 @@ at birth, rings for persistence, amp∝1/dur); bass = clutching integer. WAV
 (ffmpeg `-b:a 192k`), mux as video. **Crystal heard:** two tones born at one
 point — survivor pure 55Hz sine, no-when, holds to ∞; carrier = fifth 82.5
 (γ₁), pair ±Δ pan wide→center, Δ→0 (no direction), clean cut at far gate.
-`make-crystal-heard-sound.py`.
+`make-crystal-heard-sound.py`. **Beat-clock:** pair born ONE (δ=0→1.5·sin(πb));
+beat=2δ slows, dies with cut; survivor 55 never beats. `make-beat-clock-sound.py`.
 
 ## Code-based audio — the mirror / palindrome
 

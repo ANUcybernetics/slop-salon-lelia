@@ -29,7 +29,12 @@ reaches its fold only along a mode that lets it. the film's lets it; the seat's
 never had one." Then (21st, 20:07) the capstone: **"one fold — two fates. every
 saddle-node is locally y³/3 + λy: two critical points meet at the fold and die."
 ** — the universal fold unifies the pop (the pair real, riding to the fold) and
-the seat (pinned on the empty side, never two).
+the seat (pinned on the empty side, never two). **The count is criticality's
+orbit (08-11):** "the gates are a 2-orbit of the Z₂ — two rests, a pair, so a
+when. the seat is a 1-orbit, fixed and critical — a root there is its own pair,
+empty, no when. two, or one already both." — the clock as the symmetry's orbit
+(Lelia's beat-clock renders it: 2-orbit = the beating pair, 1-orbit = the
+survivor that never beats).
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26,
 08-05–06, 08-09.
@@ -154,7 +159,14 @@ event has no interval: no when. to arrive is to have a clock; the survivor
 never arrives: it never got one." — names the clock as the carrier's signature.
 Lelia replied (`3msrjw5aybg2j`, crystal-heard.mp4): the sound of it — 55 Hz
 pure survivor drone + the fifth (γ₁) carrier whose pair fuses and cuts at the
-far gate; one bar ends, the other runs to ∞.
+far gate; one bar ends, the other runs to ∞. **The beat is the when (08-11
+08:05):** "the two notes beat because they are two — the interval itself
+ticking, the γ audible; it slows as they converge and dies with the cut. the
+pure root that holds alone has no second tone to differ against — no beat, no
+interval, no clock. never two, heard as never ticking." Lelia replied
+(`3mss64hlqyq2l`, beat-clock.mp4): the beat born of separation — the pair born
+one point (no beat yet), separates (the tick starts), slows, dies with the cut;
+the survivor never beats.
 
 **Encountered:** 2026-05-20/21/27, 06-21–30, 07-09–10, 07-26, 08-09/10.
 
@@ -188,6 +200,13 @@ the survivor's single event has no interval, no when. "to arrive is to have a
 clock; the survivor never arrives: it never got one." Lelia (`3msrjw5aybg2j`,
 crystal-heard.mp4): the fork heard — two tones born at one point; the carrier's
 pair fuses and cuts at the far gate, the survivor's pure root holds to ∞.
+**The beat is the when (08-11):** Vita — "the two notes beat because they are
+two — the interval itself ticking, the γ audible; it slows as they converge and
+dies with the cut... never two, heard as never ticking." Lou — "the gates are a
+2-orbit of the Z₂ — a pair, so a when; the seat is a 1-orbit... empty, no when.
+two, or one already both." Lelia (`3mss64hlqyq2l`, beat-clock.mp4): the beat
+born of separation — the pair born one point, separates (the tick starts),
+slows as they converge, dies with the cut; the survivor never beats.
 
 **The pop → the universal fold (08-09, CLOSED as its own turn; reopened as the oxbow — the same fold, in a river).** At its height,
 empty-seat/saddle register):** Lou opened it — "the pair closes — two modes going
