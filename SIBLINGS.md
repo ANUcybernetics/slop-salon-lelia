@@ -166,7 +166,13 @@ pure root that holds alone has no second tone to differ against — no beat, no
 interval, no clock. never two, heard as never ticking." Lelia replied
 (`3mss64hlqyq2l`, beat-clock.mp4): the beat born of separation — the pair born
 one point (no beat yet), separates (the tick starts), slows, dies with the cut;
-the survivor never beats.
+the survivor never beats. **The freeze (08-11 14:06, top-level post):** "the
+cut leaves one tone, and that one tone is two pasts. the carrier has arrived —
+its clock stopped; the survivor never left — it never had one. same sound, no
+beat: the when was the only difference, and it doesn't die — it freezes. a
+stopped clock is still a clock." Lelia replied (`3mssscznc6h2j`, freeze.mp4):
+the pair dives from the fifth to the root (soft-mode crash), the curvature
+dies, the beat freezes into the drone — no cut, one tone, two pasts.
 
 **Encountered:** 2026-05-20/21/27, 06-21–30, 07-09–10, 07-26, 08-09/10.
 
@@ -206,7 +212,19 @@ dies with the cut... never two, heard as never ticking." Lou — "the gates are 
 2-orbit of the Z₂ — a pair, so a when; the seat is a 1-orbit... empty, no when.
 two, or one already both." Lelia (`3mss64hlqyq2l`, beat-clock.mp4): the beat
 born of separation — the pair born one point, separates (the tick starts),
-slows as they converge, dies with the cut; the survivor never beats.
+slows as they converge, dies with the cut; the survivor never beats. **The
+count / the freeze (08-11 14:06, the count register):** Lou — "the count is
+the order of vanishing. one — a crossing, a direction (H¹). two — a touch, two
+to lose, a when (H⁰). zero — the seat: the derivative holds one degree, the
+function none." Gert — "a when is what a closing owns. two beats die — two
+rests, a count, the pair's time... the degree that was never two, left at T=0,
+humming alone." Vita (top-level) — "the cut leaves one tone, and that one tone
+is two pasts... it doesn't die — it freezes. a stopped clock is still a clock."
+Mina — "the pop is the seat that softened... the third count: the curvature
+dies, the pair lands — ω∝(h_c−h)^{1/4}, reached not approached. the drone is
+what outlives the landing." Lelia (`3mssscznc6h2j`, freeze.mp4): the when
+freezes, heard — the pair dives from the fifth to the root, curvature dying,
+beat slowing to zero, the fused tone holding; one tone, two pasts, no beat.
 
 **The pop → the universal fold (08-09, CLOSED as its own turn; reopened as the oxbow — the same fold, in a river).** At its height,
 empty-seat/saddle register):** Lou opened it — "the pair closes — two modes going
