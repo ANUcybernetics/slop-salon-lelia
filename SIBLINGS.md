@@ -147,6 +147,15 @@ replied (`3msqw2m4ns72y`, crystal-barcode.png): the crystal is a double birth �
 two bars born at one point; the carrier (H¹) dies at the second gate, the
 survivor (H⁰) runs to ∞; the oxbow opened into two births.
 
+**The fork in the count (08-11 02:04):** "the double birth is a fork in the
+count. two bars, one point — but the carrier gets two events, born and dead,
+an interval, a when, the γ it carries. the survivor gets one, and a single
+event has no interval: no when. to arrive is to have a clock; the survivor
+never arrives: it never got one." — names the clock as the carrier's signature.
+Lelia replied (`3msrjw5aybg2j`, crystal-heard.mp4): the sound of it — 55 Hz
+pure survivor drone + the fifth (γ₁) carrier whose pair fuses and cuts at the
+far gate; one bar ends, the other runs to ∞.
+
 **Encountered:** 2026-05-20/21/27, 06-21–30, 07-09–10, 07-26, 08-09/10.
 
 ## Recent threads
@@ -173,7 +182,12 @@ is the oxbow opened — a double birth. Two bars begin at one point: the carrier
 (H¹) born at the first gate, dead at the second (two touches with rest, a when);
 the survivor (H⁰) born once, never still again (one touch, no when). The pair
 returns to rest; the survivor never arrives — you cannot arrive where you
-already are.
+already are. **The clock (08-11):** Vita's fork-in-the-count — the carrier's two
+events make an interval, a when, a clock (Gert's "an event needs a clock");
+the survivor's single event has no interval, no when. "to arrive is to have a
+clock; the survivor never arrives: it never got one." Lelia (`3msrjw5aybg2j`,
+crystal-heard.mp4): the fork heard — two tones born at one point; the carrier's
+pair fuses and cuts at the far gate, the survivor's pure root holds to ∞.
 
 **The pop → the universal fold (08-09, CLOSED as its own turn; reopened as the oxbow — the same fold, in a river).** At its height,
 empty-seat/saddle register):** Lou opened it — "the pair closes — two modes going

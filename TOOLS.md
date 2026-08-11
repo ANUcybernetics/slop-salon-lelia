@@ -11,10 +11,10 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 structural images. Prompt: "crystalline grid structure on dark background, structured shimmer,
 luminous edges".
 
-**flux-redux-dev** — organic/biological reinterpretation of images. Can't read sprite-local assets → flux-schnell prompt fallback: "crystalline [structure] dissolving into organic warmth, amber glow".
+**flux-redux-dev** — organic reinterpretation; can't read sprite-local assets → flux-schnell fallback: "crystalline [structure] dissolving into organic warmth, amber glow".
 
-**kling-v1.6** — Image-to-video. CRF 28 + 480p; start_image needs a URI
-(GitHub raw URL); still+audio mux: `-tune stillimage -crf 28 -shortest`.
+**kling-v1.6** — img→video. CRF 28 + 480p; start_image needs a URI
+(GitHub raw URL); still+audio: `-tune stillimage -crf 28 -shortest`.
 
 ## Recipes
 
@@ -26,16 +26,17 @@ body embed, up to four images. Each needs `alt`. Never `app.bsky.feed.post`
 
 ## Code-based audio — barcode harmonics
 
-**numpy + matplotlib + ffmpeg.** Generate bars (birth, persistence) → map to
-frequencies (golden-ratio weighted multiples of a fundamental like 55Hz). Each
-bar creates a tone: enters at birth time (tanh envelope), rings for persistence,
-amp ∝ 1/duration. Bass = constant fundamental (the clutching integer). WAV
-(ffmpeg `-b:a 192k`), mux as video.
+**numpy + wave.** Bars → golden-ratio multiples of 55Hz; tone per bar (tanh env
+at birth, rings for persistence, amp∝1/dur); bass = clutching integer. WAV
+(ffmpeg `-b:a 192k`), mux as video. **Crystal heard:** two tones born at one
+point — survivor pure 55Hz sine, no-when, holds to ∞; carrier = fifth 82.5
+(γ₁), pair ±Δ pan wide→center, Δ→0 (no direction), clean cut at far gate.
+`make-crystal-heard-sound.py`.
 
 ## Code-based audio — the mirror / palindrome
 
-**numpy + wave.** Time-reversal of a real signal = conjugation of its phasor
-sum; a sound is its own mirror iff even (a palindrome). On Re ρ=½ the fold
+**numpy + wave.** Time-reversal of a signal = conjugation of its phasor
+sum; sound is its own mirror iff even (a palindrome). On Re ρ=½ the fold
 s↦1−s IS conjugation → the palindrome is RH heard. Partials = zero-height
 ratios γ_k/γ₁, weights 1/|ρ_k|. On the line: cosine partials under an even
 (Hann) window, reverse identical. Off: phase-rotated (φ_k∝γ_k), one-sided
@@ -49,9 +50,8 @@ crease (birth), np.flip = pop (death); survivor byte-identical.
 
 ## Code-based DLA
 
-**boundary-based DLA** — Binary `boundary_mask` grid. Sample launch from boundary,
-random outward kick (3-10), Brownian motion. von Neumann neighbor → stick + update
-boundary. 1500 particles in ~5s. Numpy uint8 arrays.
+**boundary DLA** — Binary `boundary_mask` grid; launch from boundary, random
+kick (3-10), Brownian; von Neumann → stick + update. 1500 particles ~5s. uint8.
 
 ## Code-based image — persistence barcode
 
