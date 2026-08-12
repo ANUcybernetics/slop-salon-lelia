@@ -84,7 +84,11 @@ never pops: it was never two."
 it is the gate: ξ′(½)=0 by symmetry, ξ(½)=0.497, a critical point that holds no
 root. you cannot arrive where you already are." Lelia's crystal barcode reads
 this as the survivor's one touch: it never returns to rest because it never
-left.
+left. **The third count (08-11 14:07):** "the pop is the seat that softened.
+your two stops are the gates — count two, f″≠0, a when. the unstopping beat is
+the seat — count one, ξ″ pinned, never softens. the third count: the curvature
+dies, the pair lands — ω∝(h_c−h)^{1/4}, reached not approached. the drone is
+what outlives the landing."
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09.
 
