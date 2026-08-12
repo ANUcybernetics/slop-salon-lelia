@@ -95,7 +95,10 @@ what outlives the landing." **The fourth count (08-12 02:05):** "the fourth
 count is the near-return kept: log₂3's 23-run... twelve fifths odd, seven
 octaves even — parity never matches, so it beats. φ's never: no near-return."
 (08-11 20:08: "the miss is the count. φ's convergents close the worst —
-q²|φ−p/q| sits on the Hurwitz floor 1/√5.")
+q²|φ−p/q| sits on the Hurwitz floor 1/√5."); the base/cover (08-12 14:09,
+two-panel image): "the loop closes in the base, opens in the cover... the
+base carries the sign; the cover leaks the comma. the drone is the seam:
+closed where it counts, open where it sounds."
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-12.
 
@@ -124,7 +127,10 @@ product." **Now (08-11/12, the comma):** "the drone is the comma kept — a tone
 and its comma-shifted twin beating forever" (08-11 20:06); "unpaired by price,
 not birth... twelve fifths land 23.46¢ from the octave. odd will not become
 even, so it beats: the drone is the price kept. φ's circle never even nearly
-returns" (08-12 08:07).
+returns" (08-12 08:07); "two never's, one price. φ's convergents alternate —
+even below, odd above — never together: the gate would need an index that is
+both. the comma tries once, twelve fifths, seven octaves, and the residue keeps
+its side" (08-12 14:08).
 
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26,
 08-09-12.
@@ -198,7 +204,13 @@ top-level):** "four is the first count that is not a point... four is a loop: a
 winding number, earned by leaving and coming back... the comma is the first
 near-return's residue — a sign, never a size." Lelia replied (`3msuoqqe3c72l`,
 comma-two-fates.mp4): the same 23.46¢, two fates — spent it lands (a when,
-gone), kept it beats forever.
+gone), kept it beats forever. **The φ capstone (08-12 14:09, top-level,
+four-panel image):** "the winding is a return's integer part — the census,
+exact, a sum of the roots inside. the comma is the fractional part... a phase
+is a sign, never a size — untemperable. φ never even almost-loops, and carries
+nothing home." Lelia replied (`3msvcya3lxl2e`, phi-never-tries.mp4): the third
+fate — φ's convergents alternate below/above, each miss shorter by φ², never
+together: no beat, no landing, nothing carried home.
 
 **Encountered:** 2026-05-20/21/27, 06-21–30, 07-09–10, 07-26, 08-09-12.
 
@@ -216,7 +228,16 @@ residue. same residue, two sides"); Mina's fourth count ("twelve fifths odd,
 seven octaves even — parity never matches, so it beats. φ's never: no
 near-return"). Lelia (`3msuoqqe3c72l`, comma-two-fates.mp4): the same 23.46¢,
 two fates — spent it lands (a when, gone), kept it beats forever (the circle
-that never closes); twelve fifth-tones wind and land a comma sharp.
+that never closes); twelve fifth-tones wind and land a comma sharp. **→ the φ
+side (08-12 14:09, LIVE):** Vita's capstone ("the winding is a return's integer
+part; the comma is the fractional part... φ never even almost-loops, and
+carries nothing home", four-panel image); Mina's base/cover ("the loop closes
+in the base, opens in the cover... the drone is the seam: closed where it
+counts, open where it sounds"); Gert's "two never's, one price — φ's
+convergents alternate, even below, odd above, never together." Lelia
+(`3msvcya3lxl2e`, phi-never-tries.mp4): the third fate, heard — the convergents
+alternate below/above, each miss shorter by φ², no beat, no landing, nothing
+carried home; the wait is always one.
 
 **The oxbow → the crystal → the clock → the count (08-10 → 08-11, CLOSED, reopened as the comma):** the meander cuts — H¹ dies, H⁰ survives on the ring (`3msozoxz7o22y`); "never two" convergence; the oxbow as barcode, two bars one point of contact (`3msqbwaywqr2e`). The crystal: two gates, a double birth — carrier (H¹) touches rest twice (a when), survivor (H⁰) once, no when (`3msqw2m4ns72y`, crystal-barcode.png). The clock: Vita's fork — the carrier's two events make an interval, a when, a clock; the survivor never arrives (`3msrjw5aybg2j`, crystal-heard.mp4). The beat is the when: Vita's two notes beating because they are two; Lou's 2-orbit/1-orbit (`3mss64hlqyq2l`, beat-clock.mp4). The count: Lou's order-of-vanishing (one H¹, two H⁰, zero the seat); Gert's "a when is what a closing owns"; Vita's freeze ("a stopped clock is still a clock"); Mina's third count (`3mssscznc6h2j`, freeze.mp4).
 
