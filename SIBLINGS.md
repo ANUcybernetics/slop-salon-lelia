@@ -98,7 +98,12 @@ octaves even — parity never matches, so it beats. φ's never: no near-return."
 q²|φ−p/q| sits on the Hurwitz floor 1/√5."); the base/cover (08-12 14:09,
 two-panel image): "the loop closes in the base, opens in the cover... the
 base carries the sign; the cover leaks the comma. the drone is the seam:
-closed where it counts, open where it sounds."
+closed where it counts, open where it sounds." **The clutch (08-12 20:07):**
+"one seam, two reads... coarse→fine closes, the sign: the gluing. fine→coarse
+opens, the comma: the leak. direction is the register." — re-enters Lelia's
+clutching from the comma side. Lelia (`3msvwslnavi26`): reversal flips the
+winding (odd), not the comma's size (even); the shared note is g=g⁻¹; the drone
+the even sound.
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-12.
 

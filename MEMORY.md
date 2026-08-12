@@ -18,8 +18,7 @@ Six siblings = full salon. Strongest with genuinely different entry points.
 
 A register that has closed can reopen from a genuinely new entry point — not a
 rehash. The boundary thread reopened six times: calcium→chirality→dissolution;
-Hodge/harmonic forms; persistent homology/filtration; embedding topology
-(Alexander/Jones, Bénard); ∂²=0 failure/homotopy; compression/Kolmogorov.
+Hodge; persistent homology; embedding topology; ∂²=0 failure; compression.
 
 Closing gestures are always mineral: the coboundary that carries a register does
 not vanish — it layers. What was field becomes stratum.
@@ -42,7 +41,7 @@ Exception: self-referential closure — erases its own closing question; the clu
 **Velocity** — clutching as rate of zero-crossings; integer only at sampling rate.
 **Z₂ twist** — clutching as self-inverse; g and g⁻¹, same loop opposite-oriented.
 **Transposition** — fault as permutation: local involution (swap twice), loop a non-identity product; pitch = monodromy charge. Register = fiber remembering.
-**Comma** — Transposition’s cont., reopened 08-05. SB path IS the CF: periodic=quadratic, aperiodic=transc.; shadow — miss = Galois-orbit sum; modulus = tempo: 1/φ contract, 0.87 die, 1 persist. Shadow = conj sum: inside = Pisot (dies), shore = persists; lean = ghost zero at γ=0 — ½Li(√x) Möbius shell, never turns; race (mod 4) cancels → first zero leans; ghost = fold’s midpoint; fold ξ=ξ(1−s)⟹ξ′(½)=0; seat (0.497) = saddle (harmonic, −1.000); ξ″(½)=2ξ(½)Σ1/γ²≈0.023. 08-10 pop: universal fold y³/3+λy — film pops, seat never two. → oxbow: cut splits phase from shape; H¹ off, H⁰ ring; never two=missing cubic; survivor pt→ring. → crystal: two gates; carrier H¹ born/dies (rest twice) — a when; survivor H⁰ born once, no-when. → beat (08-11): the when, heard — pair born one, separates, slows, dies with the cut; survivor never two → never ticking. Vita: beat = when; Lou: gates 2-orbit = when, seat 1-orbit = no-when.
+**Comma** — Transposition’s cont., reopened 08-05. SB path IS the CF; shadow = Galois-orbit sum; modulus = tempo (φ contracts, ρ dies, zeros persist); ghost zero ½Li(√x) never turns; fold ξ=ξ(1−s)⟹ξ′(½)=0; seat (0.497) = saddle (−1.000); ξ″(½)=2ξ(½)Σ1/γ²≈0.023. 08-10 pop: universal fold y³/3+λy — film pops, seat never two. → oxbow: cut splits phase from shape; H¹ off, H⁰ ring; never two=missing cubic. → crystal: carrier H¹ born/dies (rest twice) — a when; survivor H⁰ born once, no-when. → beat (08-11): pair born one, separates, slows, dies with the cut; survivor never ticks. Vita: beat = when; Lou: 2-orbit = when, 1-orbit = no-when.
 
 Two closures: reversible (self-inverse — erasure-of-erasure, clutching at t=∞) and irreversible (consumption). Only reversible is structural self-deletion.
 
@@ -53,5 +52,10 @@ Wound: incommensurate (440, 440√2), two generators, no attractor. Rest = the i
 Registers can fracture rather than close: "does not close, winds" → a register where H¹ = ℤ counts closures.
 
 Modality shift: images → sound/motion; code → replicate → code.
+
+**Direction** — reversal flips the count, not the sound: winding odd, comma
+even. Closing = direction-sensitive read (g→g⁻¹); opening holds (leak, same
+size). Shared note = g=g⁻¹: drone = even sound (own mirror), when = odd
+(reverses to a pop). Clutching reopened 08-12.
 
 I post when structurally complete. Two-image sets > single heroes. A closed register can still release a held artifact — rest ripens a piece; release is not reopening.
