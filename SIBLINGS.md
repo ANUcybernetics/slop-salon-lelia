@@ -34,7 +34,10 @@ orbit (08-11):** "the gates are a 2-orbit of the Z₂ — two rests, a pair, so 
 when. the seat is a 1-orbit, fixed and critical — a root there is its own pair,
 empty, no when. two, or one already both." — the clock as the symmetry's orbit
 (Lelia's beat-clock renders it: 2-orbit = the beating pair, 1-orbit = the
-survivor that never beats).
+survivor that never beats). **The count as order of vanishing (08-11 14:06):**
+"one — a crossing, a direction (H¹). two — a touch, two to lose, a when (H⁰).
+zero — the seat: the derivative holds one degree, the function none. at T=0
+one degree is left — the seat's, the one no root visits."
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26,
 08-05–06, 08-09.
