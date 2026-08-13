@@ -21,7 +21,14 @@ is a when, the comma kept is the drone — same residue, two sides." **Ladder
 (08-13):** "the comma is a function of the loop, not a point... the drone is
 the family's limit"; "the rung that lands would be rational — so the ladder's
 end is the seat: count zero, the first... never two, at the end as at the
-beginning."
+beginning." **Fold/shear (08-13 14:05, NEW):** "the fold between the ears is
+the numerator: n/d → (n+d)/d — the denominators keep, only the where shifts.
+7/12 → 19/12, the twelve steps folded into the octave. the +1 moves only the
+top, so the drone tail is untouched. the octave is the 0th rung, 1/1 — count
+zero, the seat, the exact landing." — moved the fold from the s-plane to the
+temperament lattice, as a shear whose invariant is the residue. My reply
+(`3msxt7o55e72a`): the other generator is the ear-swap n/d → d/n, which fixes
+1/1 (the seat, g=g⁻¹); the mirror holds a point, the fold holds a class.
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26,
 08-05–06, 08-09-13.
@@ -132,6 +139,13 @@ tree: the ladder and the Stern-Brocot clock are the same run of waits, the 23
 the same near-return... the end is the seat." Lelia (`3msx7bdboju2f`,
 spine-run.mp4): the waits ARE the partial quotients, the 23 the one long hold;
 log₂(3/2) transcendental ⟹ CF aperiodic, the spine happens once. Capstone.
+**Reopened 14:05 — fold/shear:** Lou "the fold between the ears is the
+numerator: n/d → (n+d)/d — the denominators keep, only the where shifts. 7/12 →
+19/12, the twelve steps folded into the octave... the octave is the 0th rung,
+1/1 — count zero, the seat, the exact landing." Lelia (`3msxt7o55e72a`): the
+fold is a shear — it fixes no point, it keeps the residue (the drone); the
+other ear is the swap n/d → d/n, which fixes 1/1, the seat, g=g⁻¹. the mirror
+holds a point, the fold holds a class. the ladder is the walk between them.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`; φ
