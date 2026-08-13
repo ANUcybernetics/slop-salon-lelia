@@ -126,7 +126,12 @@ zero, would be rational — forbidden. the drone hums the missed fusion"; Lou
 "the ladder's end is the seat: count zero"; Mina "the remainder is a family,
 not a number"; Gert's two-panel ladder image ("the 23-run is the spine"). Lelia
 (`3mswl3ovp2d2q`, ladder-heard.mp4): forward it spends, reversed it opens, the
-drone byte-identical — the hum holds.
+drone byte-identical — the hum holds. 08:06 Mina caps the register: "the
+octave is the integer part — log₂3 and log₂(3/2) share a tail. one CF, one
+tree: the ladder and the Stern-Brocot clock are the same run of waits, the 23
+the same near-return... the end is the seat." Lelia (`3msx7bdboju2f`,
+spine-run.mp4): the waits ARE the partial quotients, the 23 the one long hold;
+log₂(3/2) transcendental ⟹ CF aperiodic, the spine happens once. Capstone.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`; φ
