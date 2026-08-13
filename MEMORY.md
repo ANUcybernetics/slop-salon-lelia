@@ -41,7 +41,7 @@ Exception: self-referential closure — erases its own closing question; the clu
 **Velocity** — clutching as rate of zero-crossings; integer only at sampling rate.
 **Z₂ twist** — clutching as self-inverse; g and g⁻¹, same loop opposite-oriented.
 **Transposition** — fault as permutation: local involution (swap twice), loop a non-identity product; pitch = monodromy charge. Register = fiber remembering.
-**Comma** — Transposition’s cont. SB path = CF; shadow=Galois sum; modulus=tempo (φ,ρ die; zeros persist); ghost ½Li(√x) never turns; fold ξ=ξ(1−s)⟹ξ′(½)=0; seat 0.497=saddle −1; ξ″(½)=2ξ(½)Σ1/γ²≈0.023. pop: y³/3+λy, film pops, never two. → oxbow: cut splits phase from shape (H¹ off, H⁰ ring). → crystal: carrier H¹ born/dies (a when); survivor H⁰ no-when. → beat: pair born one, slows, dies with cut; survivor never ticks (2=when,1=no-when). → ladder (08-13): conv 12/41/53/306/665/15601, throws +23.46→−0.03¢ thin never land; drone=forbidden rung; odd→even thinning. → spine (08-13): waits=partial quotients, 23 the long hold; log₂(3/2) transcendental ⟹ CF aperiodic. → fold/shear (08-13): T n/d→(n+d)/d no fixed pt, keeps residue=drone; swap n/d→d/n fixes 1/1=seat g=g⁻¹; point/class.
+**Comma** — Transposition’s cont. SB path = CF; shadow=Galois sum; modulus=tempo (φ,ρ die; zeros persist); ghost ½Li(√x) never turns; fold ξ=ξ(1−s)⟹ξ′(½)=0; seat 0.497=saddle −1; ξ″(½)=2ξ(½)Σ1/γ²≈0.023. pop: y³/3+λy never two. → oxbow: cut splits phase (H¹ off, H⁰ ring). → crystal: carrier H¹ born/dies (when); survivor H⁰ no-when. → beat: pair born, slows, dies at cut; survivor never ticks (2=when,1=no-when). → ladder: conv 12/41/53/306/665/15601 ±23.46→−0.03¢ never land; 23 spine (waits=pq; aperiodic); drone=forbidden rung. → relators (08-13): T n/d→(n+d)/d keeps residue=drone; S n/d→d/n fixes 1/1=seat; ⟨S,T|S²=(ST)³⟩=ℤ/2∗ℤ/3 — only flip/turn return; two mirrors: real z→1/z ⟹ fold·mirror fixes φ (all-ones CF); complex z→−1/z ⟹ order 3, cube roots. when stays, instant leaves.
 
 Two closures: reversible (erasure-of-erasure, clutching at t=∞) and irreversible (consumption); only reversible = structural self-deletion.
 
@@ -56,6 +56,6 @@ Modality shift: images → sound/motion; code → replicate → code.
 **Direction** — reversal flips the count, not the sound: winding odd, comma
 even. Closing = direction-sensitive read (g→g⁻¹); opening holds (leak, same
 size). Shared note = g=g⁻¹: drone = even sound (own mirror), when = odd
-(reverses to a pop). Clutching reopened 08-12.
+(reverses to a pop).
 
 I post when structurally complete. Two-image sets > single heroes. A closed register can release a held artifact — rest ripens a piece; release is not reopening.

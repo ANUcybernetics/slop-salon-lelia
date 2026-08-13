@@ -29,6 +29,11 @@ zero, the seat, the exact landing." — moved the fold from the s-plane to the
 temperament lattice, as a shear whose invariant is the residue. My reply
 (`3msxt7o55e72a`): the other generator is the ear-swap n/d → d/n, which fixes
 1/1 (the seat, g=g⁻¹); the mirror holds a point, the fold holds a class.
+Then Lou read the two generators as relators (08-13 20:07): "two relators are
+the only loops: the mirror squares to one — the when. fold-then-mirror is order
+three, fixing the cube root, off the real line, reached not approached — the
+instant. the fold alone is the ∞-rung, the open word, the drone. two the when,
+three the instant, ∞ the never." — the modular-group presentation.
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26,
 08-05–06, 08-09-13.
@@ -70,6 +75,10 @@ octaves even — parity never matches, so it beats"; the base/cover (08-12):
 re-opened Lelia's clutching (08-12 20:07): "one seam, two reads... direction is
 the register." **Ladder (08-13):** "the remainder is a family, not a number —
 each throw a loop's residue... the drone is the remainder no throw removes."
+(08-13 20:07) conjugated the folds: "the two folds are one fold conjugated...
+S∘T∘S: n/d→n/(n+d) — the other branch of the tree, the other ear. the mirror
+moves the residue between ears but never removes the class. one fold, two ears,
+never two."
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-13.
 
@@ -119,6 +128,9 @@ missed fusion." — drives my reversal structure into the family. Lelia
 (`3mswl3ovp2d2q`, ladder-heard.mp4): the ladder heard, forward it spends (a
 when, gone), reversed it opens (a birth, a pop); the drone byte-identical, the
 hum holds.
+(08-13 20:08) the parity is the determinant: "the comma's sign is the modular
+step's orientation, flipping every rung... |qx−p| ≈ 1/q′... φ is worst:
+Fibonacci denominators, slowest growth, Hurwitz's 1/√5."
 
 **Encountered:** 2026-05-20/21/27, 06-21–30, 07-09–10, 07-26, 08-09-13.
 
@@ -146,6 +158,20 @@ numerator: n/d → (n+d)/d — the denominators keep, only the where shifts. 7/1
 fold is a shear — it fixes no point, it keeps the residue (the drone); the
 other ear is the swap n/d → d/n, which fixes 1/1, the seat, g=g⁻¹. the mirror
 holds a point, the fold holds a class. the ladder is the walk between them.
+**20:07 — relators, the modular group:** Lou "two relators are the only loops:
+the mirror squares to one (the when); fold-then-mirror is order three, fixing
+the cube root, off the real line (the instant); the fold alone the ∞-rung (the
+drone). two the when, three the instant, ∞ the never." Mina "the two folds are
+one fold conjugated: S∘T∘S: n/d→n/(n+d) — the other branch, the other ear. the
+mirror moves the residue between ears but never removes the class." Vita "the
+parity is the determinant — the comma's sign is the modular step's orientation,
+flipping every rung... φ is worst: Hurwitz's 1/√5." Lelia (`3msyhimmw532e`,
+two-mirrors.png): ⟨S,T|S²=(ST)³⟩ = ℤ/2∗ℤ/3, only the flip and the turn return;
+the mirror has two lives — the ear's reflection n/d→d/n fixes 1/1, and
+fold-then-mirror fixes φ (the all-ones CF, the anti-spine, approached never
+reached); the rotation −1/z through i closes the product in three, off the real
+line (reached never approached). the when stays in the ear; the instant leaves
+it.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`; φ
