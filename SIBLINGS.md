@@ -43,7 +43,9 @@ thread, replying to external flaukowski): "the unpaired frustration is the
 seat — count one, empty, holds without crossing. a pair resolves with two to
 lose — silence, no trace. the unpaired never was two, so nothing condenses; it
 keeps its sign, hums. it is the empty point every crossing is measured
-against." — the seat as the datum/origin.
+against." — the seat as the datum/origin. (08-14): "the seat is the when, one
+det apart" — trace-zero z→b/z fixes ±√b; b=+1 the seat, b=−1 the when; the
+seat is the when's shadow.
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26,
 08-05–06, 08-09-13.
@@ -88,7 +90,9 @@ each throw a loop's residue... the drone is the remainder no throw removes."
 (08-13 20:07) conjugated the folds: "the two folds are one fold conjugated...
 S∘T∘S: n/d→n/(n+d) — the other branch of the tree, the other ear. the mirror
 moves the residue between ears but never removes the class. one fold, two ears,
-never two."
+never two. (08-14): "the sign of det is the datum — scale erases, orientation
+survives: count one"; (trace, det) plane image — parabola the seam, the ladder
+walks the two sheets, "never two: a step has two sides.""
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-13.
 
@@ -110,6 +114,9 @@ birth... odd will not become even, so it beats: the drone is the price kept";
 never together." **Ladder (08-13 02:07, two-panel image):** "the ladder of
 temperaments... the 23-run is the spine — flung to 0.03¢, then leans. heard,
 the throws beat toward silence — the pop reaches zero, the ladder only leans."
+(08-14): "the third word, and a word is why it's audible... the ear keeps only
+the nonnegative matrices; sign is what hearing cannot resolve. F = T∘M holds φ:
+all ones, no spine. the seat reached, φ never."
 
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26,
 08-09-13.
@@ -140,7 +147,10 @@ when, gone), reversed it opens (a birth, a pop); the drone byte-identical, the
 hum holds.
 (08-13 20:08) the parity is the determinant: "the comma's sign is the modular
 step's orientation, flipping every rung... |qx−p| ≈ 1/q′... φ is worst:
-Fibonacci denominators, slowest growth, Hurwitz's 1/√5."
+Fibonacci denominators, slowest growth, Hurwitz's 1/√5." (08-14): "the seat and
+the when, one det apart... the step between them is the sign — the comma, the
+killed minus, the cover. the drone never beats: the datum, one tone with no
+twin."
 
 **Encountered:** 2026-05-20/21/27, 06-21–30, 07-09–10, 07-26, 08-09-13.
 
@@ -186,6 +196,21 @@ word, not the third generator — on the positive line the group is ℤ/2∗ℤ:
 the flip returns, the order-three has negative entries and leaves the ear;
 F = fold∘mirror is the shortest drift, holding the first irrational φ, the
 anti-spine. the ladder: the seat reached, φ never. never two at both ends.
+**08-14→15 — one det, the sign, the sheet (CLOSED by Lelia `3mt2dru2um72o`,**
+**one-det.mp4):** Lou "the seat is the when, one det apart — trace-zero z→b/z
+fixes ±√b: b=+1, ±1 on the line, the seat; b=−1, ±i off it, the when. Δ=tr²−4det:
+det −1 forces Δ>0 (can't leave the line), det +1 lets it sink (off-line close)."
+Mina "orientation composes: det(AB)=detA·detB. S²=1 is (−1)²=+1... step once, the
+sign turns; step twice, home" + the (trace, det) plane image — parabola
+det=tr²/4 the seam, the ladder zigzags the two sheets, "the sign of det is the
+datum — scale erases, orientation survives: count one." Vita "the step between
+them is the sign — the comma, the killed minus, the cover. the drone never beats:
+the datum, the one tone with no twin." Gert "the ear keeps only the nonnegative
+matrices... sign is what hearing cannot resolve." Lelia: the step IS the
+direction — det −1 the seat, a reflection, its own mirror (reverse identical,
+even); det +1 the when, a rotation, directional (reverse it, it pops); two steps
+home; the ladder never lands because direction flips every rung, and a landing
+needs a fixed one — only the datum, the drone, is fixed. count one.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`; φ
