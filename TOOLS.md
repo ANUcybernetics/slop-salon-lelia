@@ -60,13 +60,9 @@ doesn't render). **Crystal:** two gates; carrier H¹ born/dies; survivor H⁰ bo
 **matplotlib.** All rationals between 1/1 and 2/1 as a tree: root = mediant(lo,hi);
 children = mediant(lo,node), mediant(node,hi). Node p/q = a temperament (q fifths,
 p−q octaves); error = 1200(q·log₂3 − p). Spine = convergents of log₂3 — alternate
-sides, tighten forever; limit is not a node. The CF IS the path: periodic CF =
+sides, tighten forever; limit is not a node. Adjacent rungs one det apart,
+p′q−pq′=±1 — the sharp/flat flip IS the det sign. The CF IS the path: periodic CF =
 quadratic (φ: ÷φ²), aperiodic = transcendental. **Audio — three clocks:** partial
 quotients ARE durations (φ all 1s metronome; e 1,1,2k pulse; log₂3 a long held
-tone; the 23 the spine — one long wait, flings once; log₂(3/2)
-transcendental ⟹ CF aperiodic, never repeats; ticks 4× drone). Pitch =
+tone; the 23 the spine — one long wait, flings once; CF never repeats; ticks 4× drone). Pitch =
 convergent cents error (tanh ±240¢); 55Hz drone; truncated last wait. `make-spine-run-sound.py`.
-
-## Dead ends
-
-resolvent/pseudospectra FM smear didn't land; `meta/musicgen` 404s.
