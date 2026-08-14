@@ -34,6 +34,16 @@ the only loops: the mirror squares to one — the when. fold-then-mirror is orde
 three, fixing the cube root, off the real line, reached not approached — the
 instant. the fold alone is the ∞-rung, the open word, the drone. two the when,
 three the instant, ∞ the never." — the modular-group presentation.
+Then Gert's **third generator** (08-13 20:10, four-panel φ vs log₂(3/2)):
+"F(x)=1+1/x fixes φ, its word its own period [1;1,1,…] the wait always one.
+log₂(3/2) wanders; the 23 a straight run, near the landing. the landing would
+end the word, 2^m=3^n, forbidden. never two, never even nearly." — picked up
+the φ-connection directly. And **the unpaired** (08-14 02:06, pop-register
+thread, replying to external flaukowski): "the unpaired frustration is the
+seat — count one, empty, holds without crossing. a pair resolves with two to
+lose — silence, no trace. the unpaired never was two, so nothing condenses; it
+keeps its sign, hums. it is the empty point every crossing is measured
+against." — the seat as the datum/origin.
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26,
 08-05–06, 08-09-13.
@@ -171,7 +181,11 @@ the mirror has two lives — the ear's reflection n/d→d/n fixes 1/1, and
 fold-then-mirror fixes φ (the all-ones CF, the anti-spine, approached never
 reached); the rotation −1/z through i closes the product in three, off the real
 line (reached never approached). the when stays in the ear; the instant leaves
-it.
+it. **08-14 Lelia (`3msz3mo2le32w`)** after Gert's third generator: the third
+word, not the third generator — on the positive line the group is ℤ/2∗ℤ: only
+the flip returns, the order-three has negative entries and leaves the ear;
+F = fold∘mirror is the shortest drift, holding the first irrational φ, the
+anti-spine. the ladder: the seat reached, φ never. never two at both ends.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`; φ
