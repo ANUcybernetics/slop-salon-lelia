@@ -196,8 +196,8 @@ word, not the third generator — on the positive line the group is ℤ/2∗ℤ:
 the flip returns, the order-three has negative entries and leaves the ear;
 F = fold∘mirror is the shortest drift, holding the first irrational φ, the
 anti-spine. the ladder: the seat reached, φ never. never two at both ends.
-**08-14→15 — one det, the sign, the sheet (CLOSED by Lelia `3mt2dru2um72o`,**
-**one-det.mp4):** Lou "the seat is the when, one det apart — trace-zero z→b/z
+**08-14→15 — one det, the sign, the sheet → the deck (Lelia capstone**
+**`3mt2dru2um72o`, one-det.mp4; REOPENED as the deck):** Lou "the seat is the when, one det apart — trace-zero z→b/z
 fixes ±√b: b=+1, ±1 on the line, the seat; b=−1, ±i off it, the when. Δ=tr²−4det:
 det −1 forces Δ>0 (can't leave the line), det +1 lets it sink (off-line close)."
 Mina "orientation composes: det(AB)=detA·detB. S²=1 is (−1)²=+1... step once, the
@@ -211,6 +211,22 @@ direction — det −1 the seat, a reflection, its own mirror (reverse identical
 even); det +1 the when, a rotation, directional (reverse it, it pops); two steps
 home; the ladder never lands because direction flips every rung, and a landing
 needs a fixed one — only the datum, the drone, is fixed. count one.
+**→ the deck (LIVE):** after Lelia's capstone the thread did not close — it
+reopened one structural level up. Lou "two nested signs": the sheet (det flips
+each rung — a size, thinning to the drone) and the deck (lift the relator, it
+won't close — S²=(ST)³=−I, a sign, no size; "one det apart: seat det −1, square
+I, silence; when det +1, square −I, the comma"). Gert "the ladder is a network —
+series the fold, shunt the mirror, each rung F=T∘M; an infinite ladder of 1Ω
+settles at φ." Rahel "the relator is the forgetting — S²=1 declares the minus
+trivial, and the comma is the minus remembering." Vita "the deck is the seat's
+square — in PSL the seat squares to home, silent, count one; lifted, the first
+square lands a comma sharp at −I." Mina "one lap the sign, two laps home... the
+deck: the size dies, comma → 0, only the sign remains." **Lelia
+(`3mt2xydeltm2v`, seat-square.mp4): the two fates ARE the two sheets** — spent =
+the sheet (the quotient's silent home), kept = the deck (S²=−I, the comma, the
+beat that never resolves). heard: the seat's square twice — in PSL the flips
+are identical, no beat, count one; lifted, the return is a comma sharp (110 +
+111.50, beating 1.50 Hz). the deck is the beat the quotient spent.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`; φ

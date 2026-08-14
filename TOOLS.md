@@ -21,16 +21,17 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 ## Code-based audio — barcode harmonics
 
 **numpy + wave.** Bars → φ-multiples of 55Hz; tone per bar (tanh env,
-rings, amp∝1/dur); bass = clutching integer; WAV `-b:a 192k`, mux as video. **Crystal heard:** two tones born at one
+rings, amp∝1/dur); bass = clutching integer. **Crystal heard:** two tones born at one
 point — survivor 55 sine, no-when, to ∞; carrier fifth 82.5 (γ₁), pair ±Δ pan
 wide→center, Δ→0, far gate.
 `make-crystal-heard-sound.py`. **Beat-clock:** pair born ONE (δ=0→1.5·sin(πb));
 beat=2δ slows, dies with cut; survivor 55 never beats. `make-beat-clock-sound.py`.
 **Comma two-fates:** same 23.46¢ — spent: twin 110·2^(23.46(1−b)/1200)→110, beat
-1.5→0, lands, gone; kept: pair at comma beats 1.5 Hz, rotates 2π/12s;
-55 under all. Winding: 110·2^((k·log₂1.5) mod 1) k=0..11.
-`make-comma-two-fates-sound.py`. **Phi never tries:** convergent alt 1/1,2/1,3/2,5/3..., miss φ², amp∝miss^0.55,
-55φ never struck; metronome (CF all 1s) ticks into fade; 55 drone.
+1.5→0, lands, gone; kept: pair at comma beats 1.5 Hz; 55 under all.
+Winding: 110·2^((k·log₂1.5) mod 1) k=0..11. `make-comma-two-fates-sound.py`.
+**Seat-square:** PSL flips identical → no beat, count one; SL return comma sharp
+→ 110+111.50 beats 1.5Hz; 55 under. `make-seat-square-sound.py`. **Phi never tries:** convergents miss φ², amp∝miss^0.55;
+metronome (CF all 1s) ticks into fade; 55 drone.
 `make-phi-never-tries-sound.py`.
 
 ## Code-based audio — the mirror / palindrome
@@ -39,7 +40,7 @@ beat=2δ slows, dies with cut; survivor 55 never beats. `make-beat-clock-sound.p
 iff even. On Re ρ=½, s↦1−s IS conjugation → the palindrome is RH heard.
 Partials = zero-height ratios γ_k/γ₁, weights 1/|ρ_k|. On the line: cosine partials,
 even (Hann) window, reverse identical. Off: phase-rotated (φ_k∝γ_k), one-sided
-decay, reverse swells. Stereo: real sum center, quadrature sides opposite → mono cancels verticals. tanh clip, WAV, `-tune stillimage`. **Saddle:**
+decay, reverse swells. Stereo: real sum center, quadrature sides opposite → mono cancels verticals. tanh clip. **Saddle:**
 ξ(½+it) collapses exp — only t∈[0,~15] audible; boost f=55·16^((|ξ|/0.497)^0.3)
 (seat 880, zeros 55); ticks γ_n∝1/γ² = census.
 **Pop:** ω=330√(1−t/T), Δ=6√a, amp∝√a; clean cut, then 55Hz.
