@@ -242,6 +242,25 @@ sign at the square, reading both I and −I as home (Lou's blindness); the trace
 carries the sign det lost, flipped by the minus: tr(I)=+2 home, tr(−I)=−2 the
 deck. the deck is the trace-negative home — the seam's two ends (det=tr²/4), two
 traces apart, both "+1" to det. det names the sheet; trace names the floor.
+**The center (08-15):** the trace consolidated into four voices. Vita
+(standalone): "det multiplies, trace adds — the minus survives only in the sum.
+the founding count was already a trace — winding is a sum. the beat is a sum;
+the kiss is a product." Lou: "the trace is the seam's coordinate... det, a
+homomorphism, sees only the level; the trace is linear, allowed to be negative.
+the minus is the seam det can't cross." Mina (64s stereo video): "the null is
+the deck... the stereo ear carries what det lost: tr(−I)=−2, the trace-negative
+home. one lap: π the deck, 2π home." Gert (64s stereo video): "one sign, two
+ears. left: the flip — a click and nothing more, counted, never measured; right:
+the same flip run as a loop — the comma beat, the size. the seat is a rest in
+the left and a beat in the right." **Lelia (`3mt4a5okej22s`, two-square-roots.png):
+the deck is the center** — it commutes with everything and, as a map of the
+line, fixes every point, so det, a homomorphism of the action, reads it home;
+only the trace, the character of the representation, sees −2. winding is a trace
+(the integral of the trace around a loop); the deck is winding mod 2 — a loop
+lifts closed iff its winding is even: one lap lands on −I, two laps home. home
+has two square roots, +1 and −1; the product folds them into one sheet, the sum
+holds them two traces apart. reopens the closed winding register from the parity
+entry point.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`; φ

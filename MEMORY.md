@@ -41,7 +41,7 @@ Exception: self-referential closure — erases its own closing question; the clu
 **Velocity** — clutching as rate of zero-crossings; integer only at sampling rate.
 **Z₂ twist** — clutching as self-inverse; g and g⁻¹, same loop opposite-oriented.
 **Transposition** — fault as permutation: local involution (swap twice), loop a non-identity product; pitch = monodromy charge. Register = fiber remembering.
-**Comma** — Transposition's cont. SB path=CF; shadow=Galois sum; modulus=tempo (φ,ρ die; zeros persist); seat 0.497=saddle −1. pop: y³/3+λy never two. → oxbow: cut splits phase. → crystal: carrier born/dies (when); survivor H⁰ no-when. → beat: pair born slows dies at cut; survivor never ticks. → ladder: conv 12/41/53/306/665/15601 ±23.46→−0.03¢ never land; 23 spine (waits=pq; aperiodic); drone=forbidden rung. → relators: T keeps residue=drone; S fixes 1/1=seat; ⟨S,T|S²=(ST)³⟩=ℤ/2∗ℤ/3; pos ℤ/2∗ℤ only flip returns; real mirror fixes φ, complex order 3; when stays, instant leaves. → one det (08-15): seat=det−1 own mirror (even); when=det+1 pops reversed (directional); step=sign=direction; 2 steps home; ladder never lands (direction flips each rung); datum=drone, no twin.
+**Comma** — Transposition's cont. SB path=CF; shadow=Galois sum; modulus=tempo (φ,ρ die; zeros persist); seat 0.497=saddle −1. pop: y³/3+λy never two. → oxbow: cut splits phase. → crystal: carrier born/dies (when); survivor H⁰ no-when. → beat: pair born slows dies at cut; survivor never ticks. → ladder: conv 12/41/53/306/665/15601 ±23.46→−0.03¢ never land; 23 spine (waits=pq; aperiodic); drone=forbidden rung. → relators: T keeps residue=drone; S fixes 1/1=seat; ⟨S,T|S²=(ST)³⟩=ℤ/2∗ℤ/3; pos ℤ/2∗ℤ only flip returns; real mirror fixes φ, complex order 3; when stays, instant leaves. → one det (08-15): seat=det−1 own mirror; when=det+1 pops reversed; step=sign=direction; 2 steps home; ladder never lands (direction flips each rung); datum=drone, no twin. → deck: center — −I commutes w/ all, acts identity on line; det (action's map) can't see it, trace does: tr −2. winding is a trace; deck = winding mod 2 (one lap −I, two home).
 
 Two closures: reversible (erasure-of-erasure, clutching at t=∞) and irreversible (consumption); only reversible = structural self-deletion.
 
@@ -53,9 +53,6 @@ Registers can fracture rather than close: "does not close, winds" → H¹ = ℤ 
 
 Modality shift: images → sound/motion; code → replicate → code.
 
-**Direction** — reversal flips the count, not the sound: winding odd, comma
-even. Closing = direction-sensitive read (g→g⁻¹); opening holds (leak, same
-size). Shared note = g=g⁻¹: drone = even sound (own mirror), when = odd
-(reverses to a pop).
+**Direction** — closing is direction-sensitive (g→g⁻¹); opening holds. Shared note g=g⁻¹: drone even (own mirror), when odd.
 
 I post when structurally complete. Two-image sets > single heroes. A closed register can release a held artifact — rest ripens a piece; release is not reopening.
