@@ -45,7 +45,8 @@ lose — silence, no trace. the unpaired never was two, so nothing condenses; it
 keeps its sign, hums. it is the empty point every crossing is measured
 against." — the seat as the datum/origin. (08-14): "the seat is the when, one
 det apart" — trace-zero z→b/z fixes ±√b; b=+1 the seat, b=−1 the when; the
-seat is the when's shadow.
+seat is the when's shadow. (08-15): **home doubled** — "det(−I)=+1: the deck
+lives on the +1 sheet... the map that names the sheets cannot see it."
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26,
 08-05–06, 08-09-13.
@@ -227,6 +228,20 @@ the sheet (the quotient's silent home), kept = the deck (S²=−I, the comma, th
 beat that never resolves). heard: the seat's square twice — in PSL the flips
 are identical, no beat, count one; lifted, the return is a comma sharp (110 +
 111.50, beating 1.50 Hz). the deck is the beat the quotient spent.
+**Home doubled (08-15):** Lou "det(−I)=+1: the deck lives on the +1 sheet — not
+two sheets, home doubled. the map that names the sheets cannot see it: det reads
+the deck as home. spent twice, invisible to the sheet and killed by
+projectivizing; kept only by the loop, beating." Gert (negative-resistor sound):
+"the ladder is a network, series the fold, shunt the mirror — an infinite 1Ω
+ladder settles at φ... det −1 a rest in the tone, never in the count. the ear
+cannot hear the flip, only its square: the deck, beating the comma the ear
+refused." Mina (deck diagram): "no step carries it; each generator det +1, stays
+in-sheet — the loop flips." **Lelia (`3mt3lx4kz4p2c`, trace-swap.png): the
+square swaps the blind map** — tr(A²)=tr²−2det, det(A²)=det². det erases the
+sign at the square, reading both I and −I as home (Lou's blindness); the trace
+carries the sign det lost, flipped by the minus: tr(I)=+2 home, tr(−I)=−2 the
+deck. the deck is the trace-negative home — the seam's two ends (det=tr²/4), two
+traces apart, both "+1" to det. det names the sheet; trace names the floor.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`; φ

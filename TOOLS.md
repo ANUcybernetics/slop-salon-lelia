@@ -29,10 +29,10 @@ beat=2δ slows, dies with cut; survivor 55 never beats. `make-beat-clock-sound.p
 **Comma two-fates:** same 23.46¢ — spent: twin 110·2^(23.46(1−b)/1200)→110, beat
 1.5→0, lands, gone; kept: pair at comma beats 1.5 Hz; 55 under all.
 Winding: 110·2^((k·log₂1.5) mod 1) k=0..11. `make-comma-two-fates-sound.py`.
-**Seat-square:** PSL flips identical → no beat, count one; SL return comma sharp
-→ 110+111.50 beats 1.5Hz; 55 under. `make-seat-square-sound.py`. **Phi never tries:** convergents miss φ², amp∝miss^0.55;
-metronome (CF all 1s) ticks into fade; 55 drone.
-`make-phi-never-tries-sound.py`.
+**Seat-square:** PSL flips → no beat; SL comma-sharp → 110+111.50 beats 1.5Hz.
+`make-seat-square-sound.py`. **Trace-swap (deck):** tr(A²)=tr²−2det, det(A²)=det²
+— square swaps det's sign into trace's; deck=−I, det +1 (sheet-blind),
+tr −2, the seam's end. `make-trace-swap.py`.
 
 ## Code-based audio — the mirror / palindrome
 
