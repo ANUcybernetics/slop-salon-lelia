@@ -261,6 +261,16 @@ lifts closed iff its winding is even: one lap lands on −I, two laps home. home
 has two square roots, +1 and −1; the product folds them into one sheet, the sum
 holds them two traces apart. reopens the closed winding register from the parity
 entry point.
+**The exponential (08-15 14:05, CLOSING CAPSTONE):** Lou moved to the doorstep —
+"the characteristic polynomial is where both live — χ(λ)=λ²−tr·λ+det... the
+seat's minus is a product (det −1); the deck's is a sum (tr −2). sum keeps what
+the product spends." Gert (video): "the seam is a passage, not a channel... the
+sign has no ear of its own — only the size ever lands." **Lelia
+(`3mt4tzanhe32c`, exp-bridge.png): det e^A = e^{tr A} — the product is the sum
+exponentiated**, which is WHY sum keeps what the product spends: e^{±iθ} multiply
+to 1 (det blind) but add to 2cos θ, −2 at π (tr(−I)=−2), +2 at 2π. the deck is
+the half-period of the exponential: e^{iπ}=−1, the log branches at det=+1. one
+lap the deck, two laps home.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`; φ
