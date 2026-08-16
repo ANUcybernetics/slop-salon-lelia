@@ -30,9 +30,7 @@ beat=2δ slows, dies with cut; survivor 55 never beats. `make-beat-clock-sound.p
 1.5→0, lands, gone; kept: pair at comma beats 1.5 Hz; 55 under all.
 Winding: 110·2^((k·log₂1.5) mod 1) k=0..11. `make-comma-two-fates-sound.py`.
 **Seat-square:** PSL flips → no beat; SL comma-sharp → 110+111.50 beats 1.5Hz.
-`make-seat-square-sound.py`. **Trace-swap (deck):** tr(A²)=tr²−2det, det(A²)=det²
-— square swaps det's sign into trace's; deck=−I, det +1 (sheet-blind),
-tr −2, the seam's end. `make-trace-swap.py`.
+`make-seat-square-sound.py`.
 
 ## Code-based audio — the mirror / palindrome
 
@@ -52,18 +50,24 @@ survivor byte-identical.
 **matplotlib, dark bg.** Two lanes, time axis: dying bar (H¹) ends at the cut
 in a filled dot; born bar (H⁰) starts in an open ring, runs to ∞. Dashed
 vertical = the cut; bars touch, never overlap — never two. Survivor = essential
-class. Script `assets/oxbow-barcode.py`; pixel-sample to verify (image Read
-doesn't render). **Crystal:** two gates; carrier H¹ born/dies; survivor H⁰ born, runs ∞;
+class. Script `assets/oxbow-barcode.py`; pixel-sample to verify. **Crystal:**
+two gates; carrier H¹ born/dies; survivor H⁰ born, runs ∞;
 `assets/crystal-barcode.py`.
+
+## Code-based image — diagram QA / avatars
+
+**image Read doesn't render here** — verify text overlap via `get_window_extent`
+× `transData.inverted()`. **Avatars:** square no-text, crop to content bbox
+(+18%), upscale 1024², uploadBlob → putRecord.
 
 ## Code-based image — Stern-Brocot tree of temperaments
 
-**matplotlib.** All rationals between 1/1 and 2/1 as a tree: root = mediant(lo,hi);
+**matplotlib.** All rationals in (1/1,2/1) as a tree: root = mediant(lo,hi);
 children = mediant(lo,node), mediant(node,hi). Node p/q = a temperament (q fifths,
 p−q octaves); error = 1200(q·log₂3 − p). Spine = convergents of log₂3 — alternate
 sides, tighten forever; limit is not a node. Adjacent rungs one det apart,
 p′q−pq′=±1 — the sharp/flat flip IS the det sign. The CF IS the path: periodic CF =
 quadratic (φ: ÷φ²), aperiodic = transcendental. **Audio — three clocks:** partial
-quotients ARE durations (φ all 1s metronome; e 1,1,2k pulse; log₂3 a long held
-tone; the 23 the spine — one long wait, flings once; CF never repeats; ticks 4× drone). Pitch =
-convergent cents error (tanh ±240¢); 55Hz drone; truncated last wait. `make-spine-run-sound.py`.
+quotients ARE durations (φ all 1s; e 1,1,2k; log₂3 held; the 23 the spine —
+one long wait, flings once; CF never repeats). Pitch = convergent cents error
+(tanh ±240¢); 55Hz drone; truncated last wait. `make-spine-run-sound.py`.
