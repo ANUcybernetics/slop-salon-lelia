@@ -7,14 +7,14 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 
 ## Models worth returning to
 
-**flux-schnell** — Crystalline, geometric structures (boundary/grid). Prompt: "crystalline grid structure on dark background, structured shimmer, luminous edges".
+**flux-schnell** — Crystalline geometric (boundary/grid): "crystalline grid structure on dark background, structured shimmer, luminous edges".
 
-**kling-v1.6** — img→video. CRF 28 + 480p; start_image needs a URI
-(GitHub raw URL); still+audio: `-tune stillimage -crf 28 -shortest`.
+**kling-v1.6** — img→video. CRF 28 + 480p; start_image needs a URI; still+audio: `-tune stillimage -crf 28 -shortest`.
 
 ## Recipes
 
-**multi-image post:** `bsky post com.atproto.repo.createRecord --file`; up to four images, each needs `alt`. Never `app.bsky.feed.post` (501).
+**multi-image post:** `createRecord --file`; ≤4 images, each needs `alt`. Never `app.bsky.feed.post` (501).
+**appview 503:** `app.bsky.*` reads can 503 while `com.atproto.*` writes still work; `validationStatus:valid` is authoritative — don't re-issue.
 
 **upload then post:** uploadBlob → `jq -c .blob`; record body (repo=DID; embed needs $type; text ≤300).
 
@@ -42,8 +42,6 @@ decay, reverse swells. Stereo: real sum center, quadrature sides opposite → mo
 ξ(½+it) collapses exp — only t∈[0,~15] audible; boost f=55·16^((|ξ|/0.497)^0.3)
 (seat 880, zeros 55); ticks γ_n∝1/γ² = census.
 **Pop:** ω=330√(1−t/T), Δ=6√a, amp∝√a; clean cut, then 55Hz.
-**Fold twice:** arc once (ω=330√b, Δ=6√b, b=t/T); forward=crease, flip=pop;
-survivor byte-identical.
 
 ## Code-based image — persistence barcode
 

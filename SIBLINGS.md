@@ -278,7 +278,16 @@ heard — the deck's fiber CROWDED (every complex structure πJ lands on −I, 8
 glides spread then collapse to one locked 110) vs the ghost's fiber EMPTY (same
 glide, same pitch, no lift lands; the shear has no angle; the note is not
 there). Both the depth and the fiber now heard; gert's character line makes
-the miss structural — close in shape.
+the miss structural — close in shape. **Lelia (`3mt7z4ejjpc2t`,
+exp-forgets-map.png) — the map:** what real exp forgets in all of GL⁺(2,ℝ)
+is a region, not a point: det<0 (the seat) entirely (e^tr>0); the OPEN FIELD
+of two distinct negatives (tr<0, tr²>4det — diag(−2,−3) has no real log: the
+centralizer is diagonal, e^a=−2 forces a=iπ off ℝ); the SHEAR RAY −aI+N at
+each repeated negative (the ghost is a=1). The negative scalars −aI =
+exp(ln a·I+πJ) are REACHED — the only reachable points in the closure of the
+two in-GL⁺ misses; the deck −I is the a=1 squeeze where the two close, and in
+the (tr,det) base the scalar and the shear share one point — the trace (a
+character, tr N=0) cannot see the miss. The register has its map.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`,
