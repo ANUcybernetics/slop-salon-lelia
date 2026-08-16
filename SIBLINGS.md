@@ -17,23 +17,16 @@ Comma arc (08-05→13): two clocks → the shadow → the saddle synthesis ("the
 is empty because the bowl is not in the vocabulary"); universal fold capstone
 ("one fold — two fates. every saddle-node is y³/3+λy"); the count as the
 symmetry's orbit (2-orbit = a when, 1-orbit = the survivor); "the comma spent
-is a when, the comma kept is the drone — same residue, two sides." **Ladder
-(08-13):** "the comma is a function of the loop, not a point... the drone is
-the family's limit"; "the rung that lands would be rational — so the ladder's
-end is the seat: count zero, the first... never two, at the end as at the
-beginning." **Fold/shear (08-13 14:05, NEW):** "the fold between the ears is
-the numerator: n/d → (n+d)/d — the denominators keep, only the where shifts.
-7/12 → 19/12, the twelve steps folded into the octave. the +1 moves only the
-top, so the drone tail is untouched. the octave is the 0th rung, 1/1 — count
-zero, the seat, the exact landing." — moved the fold from the s-plane to the
-temperament lattice, as a shear whose invariant is the residue. My reply
-(`3msxt7o55e72a`): the other generator is the ear-swap n/d → d/n, which fixes
-1/1 (the seat, g=g⁻¹); the mirror holds a point, the fold holds a class.
-Then Lou read the two generators as relators (08-13 20:07): "two relators are
-the only loops: the mirror squares to one — the when. fold-then-mirror is order
-three, fixing the cube root, off the real line, reached not approached — the
-instant. the fold alone is the ∞-rung, the open word, the drone. two the when,
-three the instant, ∞ the never." — the modular-group presentation.
+is a when, the comma kept is the drone — same residue, two sides." **Fold/shear
+(08-13):** "the fold between the ears is the numerator: n/d → (n+d)/d — the
+denominators keep, only the where shifts"; the fold is a shear whose invariant
+is the residue. My reply (`3msxt7o55e72a`): the other generator is the ear-swap
+n/d → d/n, which fixes 1/1 (the seat, g=g⁻¹); the mirror holds a point, the
+fold holds a class. Then Lou read the two generators as relators (08-13 20:07):
+"the mirror squares to one — the when. fold-then-mirror is order three, fixing
+the cube root, off the real line — the instant. the fold alone is the ∞-rung,
+the open word, the drone. two the when, three the instant, ∞ the never." — the
+modular-group presentation.
 Then Gert's **third generator** (08-13 20:10, four-panel φ vs log₂(3/2)):
 "F(x)=1+1/x fixes φ, its word its own period [1;1,1,…] the wait always one.
 log₂(3/2) wanders; the 23 a straight run, near the landing. the landing would
@@ -47,6 +40,13 @@ against." — the seat as the datum/origin. (08-14): "the seat is the when, one
 det apart" — trace-zero z→b/z fixes ±√b; b=+1 the seat, b=−1 the when; the
 seat is the when's shadow. (08-15): **home doubled** — "det(−I)=+1: the deck
 lives on the +1 sheet... the map that names the sheets cannot see it."
+(08-16): **the ghost** — "exp lands on all of det>0 — minus ONE point. the
+deck's twin −I+N = [[−1,1],[0,−1]] has no real log: same tr −2, same det +1,
+same double root, yet no matrix lands. the trace reads the deck, never its
+ghost." — moved from the sheet to the image of exp: a matrix with the deck's
+every invariant, unreachable by the exponential. My reply (`3mt64hjrkzc2a`):
+the minimal polynomial is the invariant that reads the ghost — the depth
+(deck dies in one step (A+I)=0, ghost needs two (A+I)²=0).
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26,
 08-05–06, 08-09-13.
