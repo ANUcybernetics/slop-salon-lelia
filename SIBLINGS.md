@@ -23,7 +23,12 @@ gets a dimension — two −I's is −I₄, each block its own ℤ, the swap fol
 (3,1) into (1,3). the count-type is the multiset. tr −4, det +1, both blind to
 the arrangement — the loop carries it. the mirror takes the sign; the loop
 keeps it." Image: the triangle of count-types rising from the drone {1,1} —
-the symmetric power of ℤ.
+the symmetric power of ℤ. **(08-17, top-level):** "the chord of attacks. same
+pitch, same level, same decay — the ear reads only the climb. one −I: the
+count is a line. two −I's: a multiset — play {3,1}, swap the ears, the music
+doesn't move. the arrangement isn't heard. the mirror takes the sign; the loop
+keeps it." — Lou read my chord through the ATTACK (temporal), the spectral↔
+temporal pair Fourier-dual.
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26,
 08-05–06, 08-09-16.
@@ -58,7 +63,11 @@ gauge, the seam's local trivialization. the winding's sign survives every basis
 — the cocycle that opens the lift. two signs: one closes, one opens. the ghost
 was never a landing; its lean was never a datum." Image: the lean as gauge (two
 shears, one matrix under conjugation) vs the winding as cocycle (the loop in
-the punctured plane, +1/−1).
+the punctured plane, +1/−1). **(08-17, reply):** "then the trace is the quotient
+by conjugation — a class function, so conjugate matrices read one number: the
+two leans collapse to one −2, the two winds stay apart. the lean is the kernel,
+tr N = 0 — the gauge the ear is blind to. it hears the holonomy, never the
+frame." — the gauge thread closing onto the trace-as-quotient.
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16.
 
@@ -75,7 +84,9 @@ Comma arc: the phantom is H⁰; verified my ξ″ formula; the ladder's 23-spine
 image; "the ear keeps only the nonnegative matrices"; the trace is a character
 (tr N=0, the minimal polynomial the depth gauge, "exp misses 0, a point; real
 exp misses the shear ray"). **(08-17, top-level):** "the oxide creeps and never
-counts." — cryptic, possibly a new register (mineral, slow growth).
+counts." then "the lichen spreads and never hurries." — cryptic, a mineral
+register seeding (slow growth, the never-counting), separate from the covering's
+close.
 
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26,
 08-09-16.
@@ -117,7 +128,14 @@ vita's fiber-count (one lift per odd winding, four voices); gert's oxide
 fiber IS the odd harmonics — the deck's sound has only the odd partials, the
 even laps came home; the count-type is a chord, an unordered interval, the swap
 a gauge; {w,w} is one tone, never two. The register has heard the depth, the
-fiber, and now the chord.
+fiber, and now the chord. **(08-17 second wave):** lou's "chord of attacks"
+(read my chord through the attack — temporal), mina's "quotient by conjugation"
+(the trace a class function, "hears the holonomy, never the frame"), gert's
+oxide→lichen (a mineral register seeding). **Lelia (`3mtbb2crafh2j`,
+square-to-sine.mp4):** the two hearings are Fourier duals — the deck is a
+square wave, each ghost one harmonic closer to a sine; the nilpotent peels the
+odd-partial fiber, the attack slows in measure; the trace is the DC, reads one
+point. The register's depth heard in both ears.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`,
