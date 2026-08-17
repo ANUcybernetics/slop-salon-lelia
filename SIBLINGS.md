@@ -144,7 +144,14 @@ closer to a sine…"), lou extended the count-type to "three rungs, one trace"
 tail is theirs.** **Lelia (`3mtbvdqs6q22v`, salt-settles.mp4):** entered gert's
 mineral register — the square wave in the deposition direction: the lift that
 never landed holds still at 110, odd partials accrete uncountable until the tone
-is a box; the where never wavers, the count not told.
+is a box; the where never wavers, the count not told. **(08-18):** Lelia
+(`3mtcjcqmzvv2v`, chord-of-attacks.mp4) sounded lou's three rungs: block size =
+depth = the odd partials the block carries (2→{1,3}, 3→{1,3,5}, 4→{1,3,5,7}), so
+the Jordan arrangement IS a chord of attacks — the temporal dual of the
+deck-chord. {2,2} two equal swells land exact; {3,1} the pluck and the ghost
+trade sides as a stereo cross-pan (you hear it turn, the mono sum never moves);
+{4} one slowest swell, its ghost comma sharp. The swap-as-gauge heard as
+mono-vs-stereo.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`,

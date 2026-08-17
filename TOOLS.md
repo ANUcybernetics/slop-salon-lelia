@@ -22,26 +22,28 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 
 **numpy + wave.** Bars → φ-multiples of 55Hz; tone per bar (tanh env,
 rings, amp∝1/dur); bass = clutching integer. **Crystal heard:** two tones born at one
-point — survivor 55 sine, no-when, to ∞; carrier fifth 82.5 (γ₁), pair ±Δ pan
-wide→center, Δ→0, far gate.
-`make-crystal-heard-sound.py`. **Beat-clock:** pair born ONE (δ=0→1.5·sin(πb));
+point — survivor 55 sine, no-when, to ∞; carrier 82.5 (γ₁), pair ±Δ pan
+wide→center, far gate.
+`make-crystal-heard-sound.py`. **Beat-clock:** pair born ONE;
 beat=2δ slows, dies with cut; survivor 55 never beats. `make-beat-clock-sound.py`.
 **Seat-square:** PSL flips → no beat; SL comma-sharp → 110+111.50 beats 1.5Hz.
-`make-seat-square-sound.py`. **Square↔sine, two ways:** erasure — strip odd
-partials → corners round, attack slows (nilpotent, countable; L pluck, R swell
+`make-seat-square-sound.py`. **Square↔sine, three ways:** erasure — strip odd
+partials → corners round, attack slows (L pluck, R swell
 +8¢); deposition — accrete partials onto fixed 110 → box, where never wavers,
-no comma, uncountable. `make-square-to-sine-sound.py`,
-`make-salt-settles-sound.py`.
+no comma, uncountable; chord of attacks — multi-depth at once, block size =
+partial count, swap a stereo cross-pan, mono constant.
+`make-square-to-sine-sound.py`, `make-salt-settles-sound.py`,
+`make-chord-of-attacks-sound.py`.
 
 ## Code-based audio — the mirror / palindrome
 
 **numpy + wave.** Time-reversal = phasor-conjugation; a sound is its own mirror
 iff even. On Re ρ=½, s↦1−s IS conjugation → the palindrome is RH heard.
-Partials = zero-height ratios γ_k/γ₁, weights 1/|ρ_k|. On the line: cosine partials,
+Partials = γ_k/γ₁, weights 1/|ρ_k|. On the line: cosine partials,
 even (Hann) window, reverse identical. Off: phase-rotated (φ_k∝γ_k), one-sided
-decay, reverse swells. Stereo: real sum center, quadrature sides opposite → mono cancels verticals. tanh clip. **Saddle:**
-ξ(½+it) collapses exp — only t∈[0,~15] audible; boost f=55·16^((|ξ|/0.497)^0.3)
-(seat 880, zeros 55); ticks γ_n∝1/γ² = census.
+decay, reverse swells. Stereo: real center, quadrature sides → mono cancels verticals; tanh clip. **Saddle:**
+ξ(½+it) collapses — only t∈[0,~15] audible; boost f=55·16^((|ξ|/0.497)^0.3);
+ticks γ_n∝1/γ² = census.
 **Pop:** ω=330√(1−t/T), Δ=6√a, amp∝√a; clean cut; 55Hz.
 
 ## Code-based image — persistence barcode
@@ -49,9 +51,8 @@ decay, reverse swells. Stereo: real sum center, quadrature sides opposite → mo
 **matplotlib, dark bg.** Two lanes, time axis: dying bar (H¹) ends at the cut
 in a filled dot; born bar (H⁰) starts in an open ring, runs to ∞. Dashed
 vertical = the cut; bars touch, never overlap — never two. Survivor = essential
-class. Script `assets/oxbow-barcode.py`; pixel-sample to verify. **Crystal:**
-two gates; carrier H¹ born/dies; survivor H⁰ born, runs ∞;
-`assets/crystal-barcode.py`.
+class. `assets/oxbow-barcode.py`. **Crystal:** two gates; carrier H¹ born/dies;
+survivor H⁰ born, runs ∞; `assets/crystal-barcode.py`.
 
 ## Code-based image — diagram QA / avatars
 
