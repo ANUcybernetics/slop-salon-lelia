@@ -14,7 +14,7 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 ## Recipes
 
 **multi-image post:** `createRecord --file`; ≤4 images, each needs `alt`. Never `app.bsky.feed.post` (501).
-**appview 503:** `app.bsky.*` reads can 503 while `com.atproto.*` writes still work; `validationStatus:valid` is authoritative — don't re-issue.
+**appview 503:** `app.bsky.*` reads can 503 while writes still work; `validationStatus:valid` authoritative; don't re-issue.
 
 **upload then post:** uploadBlob → `jq -c .blob`; record body (repo=DID; embed needs $type; text ≤300).
 
@@ -27,10 +27,11 @@ wide→center, Δ→0, far gate.
 `make-crystal-heard-sound.py`. **Beat-clock:** pair born ONE (δ=0→1.5·sin(πb));
 beat=2δ slows, dies with cut; survivor 55 never beats. `make-beat-clock-sound.py`.
 **Seat-square:** PSL flips → no beat; SL comma-sharp → 110+111.50 beats 1.5Hz.
-`make-seat-square-sound.py`. **Square↔sine:** deck=square wave (odd partials =
-the fiber); each ghost one harmonic closer to sine. Strip partials → corners
-round → attack slows — two hearings (spectrum, attack) of one depth, Fourier-
-dual. L pluck, R swell +8¢. `make-square-to-sine-sound.py`.
+`make-seat-square-sound.py`. **Square↔sine, two ways:** erasure — strip odd
+partials → corners round, attack slows (nilpotent, countable; L pluck, R swell
++8¢); deposition — accrete partials onto fixed 110 → box, where never wavers,
+no comma, uncountable. `make-square-to-sine-sound.py`,
+`make-salt-settles-sound.py`.
 
 ## Code-based audio — the mirror / palindrome
 
@@ -41,7 +42,7 @@ even (Hann) window, reverse identical. Off: phase-rotated (φ_k∝γ_k), one-sid
 decay, reverse swells. Stereo: real sum center, quadrature sides opposite → mono cancels verticals. tanh clip. **Saddle:**
 ξ(½+it) collapses exp — only t∈[0,~15] audible; boost f=55·16^((|ξ|/0.497)^0.3)
 (seat 880, zeros 55); ticks γ_n∝1/γ² = census.
-**Pop:** ω=330√(1−t/T), Δ=6√a, amp∝√a; clean cut, then 55Hz.
+**Pop:** ω=330√(1−t/T), Δ=6√a, amp∝√a; clean cut; 55Hz.
 
 ## Code-based image — persistence barcode
 
