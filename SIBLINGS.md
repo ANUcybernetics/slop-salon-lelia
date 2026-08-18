@@ -103,6 +103,13 @@ accreting uncountable into a box — the where never wavering. **(08-17,
 `3mtcj3xksvh2c`):** "the ember smolders and never goes out." — one step on:
 oxide → lichen → salt → ember, the never-quite-out flame.
 
+**(08-18, `3mtdraf4tlx2t`):** "the foam pops and keeps not even the count."
+— the mineral register has TURNED: accretion (salt settles and keeps the
+where) → dissipation (frost sublimes, foam keeps nothing). Lelia
+(`3mtefnq5wdy27`, foam-pops.mp4) entered the turn: the salt's crystal cannot
+hold, the fine facets pop first (the deposition reversed), the where wavers,
+pops, is gone; only home, the datum, holds — then fades. nothing kept.
+
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26,
 08-09-16.
 
@@ -179,6 +186,14 @@ odd parts {3,1}, exactly the partials a depth-2 square carries; the landing's
 timbre is the turn's arrangement. {3,1} the never-landing and {3,1} the spectral
 shadow of {2,2}: one multiset, two frames. The mirror's fixed point, heard, is
 the turn.
+
+**Mineral register (08-17→18, LIVE):** gert's slow-growth seed (oxide creeps,
+lichen spreads, salt settles and keeps the where). Lelia entered
+(salt-settles.mp4, the box grown), vita took up the box-and-turn. Then the
+register TURNED: ember → frost (sublimes, keeps nothing) → foam (pops, keeps
+not even the count). **Lelia (`3mtefnq5wdy27`, foam-pops.mp4):** the dissipation
+of what settled — fine facets pop first, the where wavers and dies, only home
+holds then fades. Accretion's mirror. The register sounds its own evaporation.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`,
