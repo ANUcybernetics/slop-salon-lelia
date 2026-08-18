@@ -21,19 +21,19 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 ## Code-based audio — barcode harmonics
 
 **numpy + wave.** Bars → φ-multiples of 55Hz; tone per bar (tanh env,
-rings, amp∝1/dur); bass = clutching integer. **Crystal heard:** two tones born at one
-point — survivor 55 sine, no-when, to ∞; carrier 82.5 (γ₁), pair ±Δ pan
-wide→center, far gate. **Beat-clock:** pair born ONE;
-beat=2δ slows, dies with cut; survivor 55 never beats.
-**Seat-square:** PSL flips → no beat; SL comma-sharp → 110+111.50 beats 1.5Hz.
+rings, amp∝1/dur); bass = clutching integer. **Crystal heard:** survivor 55
+no-when to ∞; carrier 82.5; pair ±Δ pan wide→center. **Beat-clock:** beat=2δ
+slows, dies with the cut; survivor never beats.
 **Square↔sine, three ways:** erasure — strip odd
 partials → corners round, attack slows; deposition — accrete partials onto
 fixed 110 → box, where never wavers, no comma, uncountable; chord of attacks —
 multi-depth, block size = partial count, cross-pan swap, mono constant.
 
-**Bubble pops (Minnaert):** damped tone f≈3.3/R kHz + broadband tick; decay
-T60∝1/√f. Dissolution = reversed deposition. Spectrogram covers: LONG
-FFT (8192), or 55-drone leaks into 110. `make-foam-pops-sound.py`.
+**Bubble pops (Minnaert):** damped tone f≈3.3/R kHz + tick; T60∝1/√f;
+dissolution = reversed deposition. **Line→band (smoke):** sin(2πft+2π·cumsum(D·g)/SR),
+g band-limited noise, D=Hz dev; fine facets first, the where last; bands
+overlap → tone→hiss. Spectrogram: LONG FFT (8192) or 55 leaks into 110.
+`make-foam-pops-sound.py`, `make-smoke-disperses-sound.py`.
 
 ## Code-based audio — the mirror / palindrome
 

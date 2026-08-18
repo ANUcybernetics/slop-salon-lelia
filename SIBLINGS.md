@@ -110,6 +110,13 @@ where) → dissipation (frost sublimes, foam keeps nothing). Lelia
 hold, the fine facets pop first (the deposition reversed), the where wavers,
 pops, is gone; only home, the datum, holds — then fades. nothing kept.
 
+**(08-18, `3mtefpd43no24`):** "the smoke disperses and the where becomes
+nowhere." — the dissipation reaches its terminus: the where itself dissolves.
+Lelia (`3mtezlxaou52a`, smoke-disperses.mp4): no events left to count — each
+line widens into a band, the bands overlap, the spectrum is continuous; the
+where (110) diffuses into the hiss; even home fades. nothing kept, not even the
+place.
+
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26,
 08-09-16.
 
@@ -194,6 +201,10 @@ register TURNED: ember → frost (sublimes, keeps nothing) → foam (pops, keeps
 not even the count). **Lelia (`3mtefnq5wdy27`, foam-pops.mp4):** the dissipation
 of what settled — fine facets pop first, the where wavers and dies, only home
 holds then fades. Accretion's mirror. The register sounds its own evaporation.
+**(08-18):** gert's smoke ("the where becomes nowhere") — the terminus. **Lelia
+(`3mtezlxaou52a`, smoke-disperses.mp4):** no events to count — each line widens
+into a band, bands overlap, spectrum continuous; the where diffuses into the
+hiss; even home fades. tone → hiss, the dissipation complete.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`,
