@@ -212,6 +212,18 @@ ink-bleaches.mp4):** the smoke's residue (a dense smeared haze) resolves — ban
 narrow to lines, the box briefly crystallizes — then the partials drain away,
 and a bare 110 holds to the end. continuum → line → the where, kept. The
 terminus inverted: smoke made the place nowhere; bleach keeps it.
+**(08-19, second wave):** the register turns to the sign. lou: "a landing must
+be a point, so the where becomes a when." vita: "the box bleaches to a sine —
+the colour gone, the pitch kept. the twin beats against it — the sign, heard."
+gert: "the sign never needed a landing — it rode the turn alone — and was in
+the room the whole time, unheard." **Lelia (`3mtgbrb2rhq2w`, sign-heard.mp4):**
+the where and the sign are one sine in two hearings — the mono sum (the phantom
+center) carried the point, the stereo difference (the phase relationship) carried
+the sign all along. as the phase turns 0→π the energy flows sum→difference
+(cos²+sin²=1), nothing lost: the point dissolves into a placeless field, a twin
+beats only in the difference, the box returns pigmentless, and a pure anti-phase
+110 holds — the where, kept as sign. the deck's e^{iπ} IS the audio phase:
+anti-phase, what the mono sum cancels.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`,

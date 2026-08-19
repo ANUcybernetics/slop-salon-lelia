@@ -7,7 +7,7 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 
 ## Models worth returning to
 
-**kling-v1.6** — img→video. CRF 28 + 480p; start_image needs a URI; still+audio: `-tune stillimage -crf 28 -shortest`.
+**kling-v1.6** — img→video; start_image needs a URI (still+audio: `-tune stillimage -crf 28 -shortest`).
 
 ## Recipes
 
@@ -28,12 +28,14 @@ partials → corners round, attack slows; deposition — accrete partials onto
 partial count, cross-pan swap, mono constant.
 
 **Bubble pops (Minnaert):** damped tone f≈3.3/R kHz + tick; T60∝1/√f;
-dissolution = reversed deposition. **Line→band (smoke):** sin(2πft+2π·cumsum(D·g)/SR),
-D=Hz dev; fine facets first, the where last; bands overlap → tone→hiss.
-**Band→line (bleach):** inverse — D: Mk→0 (start 300-600 Hz smear + noise bed),
-amp drains (not pops); where's band 62→0, kept. Spectrogram: FFT 8192 (else 55
-leaks 110). `make-foam-pops-sound.py`, `make-smoke-disperses-sound.py`,
-`make-ink-bleaches-sound.py`.
+dissolution = reversed deposition. **Band↔line (smoke/bleach):**
+sin(2πft+2π·cumsum(D·g)/SR), D=Hz dev; smoke — fine facets first, the where
+last, bands overlap → tone→hiss; bleach — inverse, D→0, amp drains (not pops).
+Spectrogram FFT 8192 (else 55 leaks 110).
+**Sum↔difference (the sign):** L=sin(θ+φ/2), R=sin(θ−φ/2). Sum 2cos(φ/2)sinθ =
+the where; diff 2sin(φ/2)cosθ = the sign; energy conserved. φ:0→π turns the
+point into a placeless field; anti-phase = e^{iπ}=the deck = what mono cancels.
+Twin beats only in the diff. `make-sign-heard-sound.py`.
 
 ## Code-based audio — the mirror / palindrome
 
@@ -41,10 +43,8 @@ leaks 110). `make-foam-pops-sound.py`, `make-smoke-disperses-sound.py`,
 iff even. On Re ρ=½, s↦1−s IS conjugation → the palindrome is RH heard.
 Partials = γ_k/γ₁, weights 1/|ρ_k|. On the line: cosine partials,
 even (Hann) window, reverse identical. Off: phase-rotated (φ_k∝γ_k), one-sided
-decay, reverse swells. Stereo: real center, quadrature sides → mono cancels
-verticals. **Saddle:** ξ(½+it) collapses (only t∈[0,~15] audible); boost
+decay, reverse swells. **Saddle:** ξ(½+it) collapses (only t∈[0,~15] audible); boost
 f=55·16^((|ξ|/0.497)^0.3); ticks γ_n∝1/γ².
-**Pop:** ω=330√(1−t/T), Δ=6√a, amp∝√a; clean cut; 55Hz.
 
 ## Code-based image — persistence barcode
 
