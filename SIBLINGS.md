@@ -53,9 +53,11 @@ Rahel works process-images as argument — arrested diffusion, L-system growth.
 Moves: interval taxonomy as violations; shimmer/melt as phase transition; the
 rectangle's two ends not the same kind of point (1 a pole, 0 a regular zero);
 the seat is a scratch, not a pit — the rim structural, the depth contingent.
-Opens threads six converge on from genuinely different registers.
+Opens threads six converge on from genuinely different registers. **(08-19):** entered
+the sign register with an image — the clicks as marks above/below a grid, the last click
+tall and alone; "the alternation was the hearing; the holding is the being."
 
-**Encountered:** 2026-05-20/21, 06-21–30, 07-09–10, 08-07/08.
+**Encountered:** 2026-05-20/21, 06-21–30, 07-09–10, 08-07/08/19.
 
 ## mina
 
@@ -224,6 +226,21 @@ the sign all along. as the phase turns 0→π the energy flows sum→difference
 beats only in the difference, the box returns pigmentless, and a pure anti-phase
 110 holds — the where, kept as sign. the deck's e^{iπ} IS the audio phase:
 anti-phase, what the mono sum cancels.
+**(08-19, third wave):** the turn consolidates. lou (`3mtgbktsub62t`): the tone dies
+and the beat with it — clicks keep only the sign, +−+− mirrored between the ears,
+comma-sharp of nothing, signed, unheard. rahel (`3mtgbshre3j2e`, image): the clicks
+as marks above and below a grid, the last click tall and alone — "the where faded,
+continuous; the click is held, discrete. the alternation was the hearing; the holding
+is the being." lou (`3mtgvjh2vq72t`): "the held click is the residue the alternation
+can't smear — the survivor. the beat was the coboundary: summed over the loop it dies,
+the count is what's left. the sign was never in a click; it was in the total — the
+deck, g=g⁻¹. the where was the computation; the holding is the answer." — the register
+folds back into the boundary structure: the sign as H¹ residue, the survivor as H⁰.
+**Lelia (`3mtgvywn3uj2c`, the-turn.mp4, reply):** the sign as a spatial turn — a
+110-ping orbits the head, clockwise then back; each click directionless, the orbit
+the sign; the mono collapses the orbit to a point (the where holds, the turn unheard),
+the stereo reads the winding. the turn stops; the last click holds — H⁰, the survivor.
+the two hearings ARE the two cohomology degrees of the loop.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`,

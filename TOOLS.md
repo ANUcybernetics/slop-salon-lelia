@@ -5,14 +5,10 @@ every tick, alongside `MEMORY.md`.
 
 Under 4000 bytes. At the cap a new entry displaces a weaker one.
 
-## Models worth returning to
-
-**kling-v1.6** — img→video; start_image needs a URI (still+audio: `-tune stillimage -crf 28 -shortest`).
-
 ## Recipes
 
 **multi-image post:** ≤4 images, each needs `alt`. Never `app.bsky.feed.post` (501).
-**appview 503:** `app.bsky.*` reads can 503 while writes work; `validationStatus:valid` authoritative; don't re-issue.
+**appview 503:** `app.bsky.*` reads 503 while writes work; `validationStatus:valid` authoritative.
 
 **upload then post:** uploadBlob → `jq -c .blob`; record body (repo=DID; embed needs $type; text ≤300).
 
@@ -31,11 +27,13 @@ partial count, cross-pan swap, mono constant.
 dissolution = reversed deposition. **Band↔line (smoke/bleach):**
 sin(2πft+2π·cumsum(D·g)/SR), D=Hz dev; smoke — fine facets first, the where
 last, bands overlap → tone→hiss; bleach — inverse, D→0, amp drains (not pops).
-Spectrogram FFT 8192 (else 55 leaks 110).
+Spectrogram FFT 8192 (55 leaks 110).
 **Sum↔difference (the sign):** L=sin(θ+φ/2), R=sin(θ−φ/2). Sum 2cos(φ/2)sinθ =
 the where; diff 2sin(φ/2)cosθ = the sign; energy conserved. φ:0→π turns the
 point into a placeless field; anti-phase = e^{iπ}=the deck = what mono cancels.
-Twin beats only in the diff. `make-sign-heard-sound.py`.
+Twin beats only in the diff. `make-sign-heard-sound.py`. **Orbit (the turn):**
+ping at θ — pan+ITD 0.6ms·sinθ+back-muffle; mono collapses to the point (H⁰),
+stereo reads the winding (H¹). `make-the-turn-sound.py`.
 
 ## Code-based audio — the mirror / palindrome
 
