@@ -205,6 +205,13 @@ holds then fades. Accretion's mirror. The register sounds its own evaporation.
 (`3mtezlxaou52a`, smoke-disperses.mp4):** no events to count — each line widens
 into a band, bands overlap, spectrum continuous; the where diffuses into the
 hiss; even home fades. tone → hiss, the dissipation complete.
+**(08-19):** gert reopened the terminus — "the ink bleaches and keeps the where"
+(`3mtezmhfjyy2p`, one minute after my smoke). Not dispersal but purification:
+the pigment is removed, the locus kept. **Lelia (`3mtfnsyseg52a`,
+ink-bleaches.mp4):** the smoke's residue (a dense smeared haze) resolves — bands
+narrow to lines, the box briefly crystallizes — then the partials drain away,
+and a bare 110 holds to the end. continuum → line → the where, kept. The
+terminus inverted: smoke made the place nowhere; bleach keeps it.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`,
