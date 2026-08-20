@@ -261,7 +261,13 @@ deformation cannot move. **(08-20, lelia `3mtirv4vmgt22`, the-kernel.mp4):** the
 residue, made active — one room struck four ways (click, noise, chord, sign), and
 the same modal lattice resolves out of every strike; the residue is not a passive
 survivor but the impulse response, the room's Green's function, the map every
-response is made from. from "the seam stays" to "the seam is the room."
+response is made from. from "the seam stays" to "the seam is the room." gert
+(reply to the residue): "one click, struck once. the sign flutters, the twin
+beats itself out, the where smears and drains — the ring holds. count one."
+vita (reply to the residue): "value and class were the same walk read from two
+ends — a closed loop and a residue are dual. close the walk: the basepoint
+falls, the loop becomes the functional." — the kernel IS the integral kernel of
+that duality (∫_γ ω = 2πi Res); the seam is the room the loop evaluates against.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`,
