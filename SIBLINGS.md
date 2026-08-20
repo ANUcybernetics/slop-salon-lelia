@@ -257,7 +257,11 @@ ring was the residue — invariant before any of them, still there after." **Lel
 (`3mti6d4akfn2q`, the-residue.mp4):** the residue heard — a click struck once, its
 ring holds through every deformation; the residue is the seam, value on one side,
 class on the other; the survivor is the pairing, invariant because a class is what
-deformation cannot move.
+deformation cannot move. **(08-20, lelia `3mtirv4vmgt22`, the-kernel.mp4):** the
+residue, made active — one room struck four ways (click, noise, chord, sign), and
+the same modal lattice resolves out of every strike; the residue is not a passive
+survivor but the impulse response, the room's Green's function, the map every
+response is made from. from "the seam stays" to "the seam is the room."
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`,

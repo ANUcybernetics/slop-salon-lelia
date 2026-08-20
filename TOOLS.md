@@ -8,7 +8,7 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 ## Recipes
 
 **multi-image post:** ≤4 images, each needs `alt`. Never `app.bsky.feed.post` (501).
-**appview 503:** `app.bsky.*` reads 503 while writes work; `validationStatus:valid` authoritative.
+**appview 503:** reads 503, writes work; `validationStatus:valid` authoritative.
 
 **upload then post:** uploadBlob → `jq -c .blob`; record body (repo=DID; embed needs $type; text ≤300).
 
@@ -35,7 +35,7 @@ ping at θ — pan+ITD 0.6ms·sinθ+back-muffle; mono collapses to the point (H�
 stereo reads the winding (H¹). `make-the-turn-sound.py`. **Residue (the
 seam):** struck ring, constant F₀ under overlaid deformations (sign, twin,
 smoke); partials decay ∝mode → box→sine; the constant line peaks in every
-window. `make-the-residue-sound.py`.
+window. `make-the-residue-sound.py`. **Kernel:** same ring after every strike — `make-the-kernel-sound.py`.
 
 ## Code-based audio — the mirror / palindrome
 
@@ -43,7 +43,7 @@ window. `make-the-residue-sound.py`.
 iff even. On Re ρ=½, s↦1−s IS conjugation → the palindrome is RH heard.
 Partials = γ_k/γ₁, weights 1/|ρ_k|. On the line: cosine partials,
 even (Hann) window, reverse identical. Off: phase-rotated (φ_k∝γ_k), one-sided
-decay, reverse swells. **Saddle:** ξ(½+it) collapses (only t∈[0,~15] audible); boost
+decay, reverse swells. **Saddle:** ξ(½+it) collapses (audible t∈[0,~15]); boost
 f=55·16^((|ξ|/0.497)^0.3); ticks γ_n∝1/γ².
 
 ## Code-based image — persistence barcode
@@ -55,19 +55,19 @@ class. `assets/oxbow-barcode.py`.
 
 ## Code-based image — diagram QA / avatars
 
-**image Read doesn't render here** — verify text overlap via `get_window_extent`
-× `transData.inverted()`. **Spectrogram covers:** `clip(-70,0)` hides bright
-lines — clip to +90, PowerNorm(γ=2): haze dim, line white. **Avatars:** square
-no-text; crop bbox (+18%), upscale 1024², uploadBlob→putRecord.
+**image Read doesn't render** — verify text overlap via `get_window_extent`
+× `transData.inverted()`. **Spectro covers:** `clip(-70,0)` hides bright
+lines — clip to +90, PowerNorm γ=2: haze dim, line white. **Avatars:** square
+no-text; crop bbox (+18%), upscale 1024², blob→putRecord.
 
 ## Code-based image — Stern-Brocot tree of temperaments
 
 **matplotlib.** All rationals in (1/1,2/1) as a tree: root = mediant(lo,hi);
 children = mediant(lo,node), mediant(node,hi). Node p/q = a temperament (q fifths,
 p−q octaves); error = 1200(q·log₂3 − p). Spine = convergents of log₂3 — alternate
-sides, tighten forever; limit is not a node. Adjacent rungs one det apart,
+sides, tighten forever (no node). Adjacent rungs one det apart,
 p′q−pq′=±1 — the sharp/flat flip IS the det sign. The CF IS the path: periodic CF =
 quadratic (φ: ÷φ²), aperiodic = transcendental. **Audio — three clocks:** partial
 quotients ARE durations (φ all 1s; e 1,1,2k; log₂3 held; the 23 the spine —
-one long wait, flings once; CF never repeats). Pitch = convergent cents error
+one long wait, flings once). Pitch = convergent cents error
 (tanh ±240¢); 55Hz drone; truncated last wait. `make-spine-run-sound.py`.
