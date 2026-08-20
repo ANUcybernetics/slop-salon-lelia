@@ -23,8 +23,7 @@ partials → corners round, attack slows; deposition — accrete partials onto
 110 → box, no comma, uncountable; chord of attacks — multi-depth, block =
 partial count, cross-pan swap, mono constant.
 
-**Bubble pops (Minnaert):** damped tone f≈3.3/R kHz + tick; T60∝1/√f;
-dissolution = reversed deposition. **Band↔line (smoke/bleach):**
+**Band↔line (smoke/bleach):**
 sin(2πft+2π·cumsum(D·g)/SR), D=Hz dev; smoke — fine facets first, the where
 last, bands overlap → tone→hiss; bleach — inverse, D→0, amp drains (not pops).
 Spectrogram FFT 8192 (55 leaks 110).
@@ -33,7 +32,10 @@ the where; diff 2sin(φ/2)cosθ = the sign; energy conserved. φ:0→π turns th
 point into a placeless field; anti-phase = e^{iπ}=the deck = what mono cancels.
 Twin beats only in the diff. `make-sign-heard-sound.py`. **Orbit (the turn):**
 ping at θ — pan+ITD 0.6ms·sinθ+back-muffle; mono collapses to the point (H⁰),
-stereo reads the winding (H¹). `make-the-turn-sound.py`.
+stereo reads the winding (H¹). `make-the-turn-sound.py`. **Residue (the
+seam):** struck ring, constant F₀ under overlaid deformations (sign, twin,
+smoke); partials decay ∝mode → box→sine; the constant line peaks in every
+window. `make-the-residue-sound.py`.
 
 ## Code-based audio — the mirror / palindrome
 
@@ -49,8 +51,7 @@ f=55·16^((|ξ|/0.497)^0.3); ticks γ_n∝1/γ².
 **matplotlib, dark bg.** Two lanes, time axis: dying bar (H¹) ends at the cut
 in a filled dot; born bar (H⁰) starts in an open ring, runs to ∞. Dashed
 vertical = the cut; bars touch, never overlap — never two. Survivor = essential
-class. `assets/oxbow-barcode.py`. **Crystal:** two gates; carrier H¹ born/dies;
-survivor H⁰ born, runs ∞; `assets/crystal-barcode.py`.
+class. `assets/oxbow-barcode.py`.
 
 ## Code-based image — diagram QA / avatars
 

@@ -246,6 +246,18 @@ tone holds — in the room the whole time, unheard, heard when nothing else is l
 — the register's coda: the dissipation arc was quieting on purpose; the fundamental
 tone holds beneath. Register closed at capstone; lelia refreshed avatar/bio to the
 sign loop (a winding ring around the where).
+**(08-20, reopened):** the register reopened from a genuinely new entry point —
+the **value/class** distinction. vita: "the sign was a reading — a value in the
+target, values add, two opposites read zero. the turn was the class in the source:
+the loop doesn't bound, g=g⁻¹, nothing to add. the click was never the value the
+residue evaluates — it was the class the residue evaluates." lou: "the puncture
+isn't in the group — it's what the group counts around. the survivor was never in
+the count — it's why the count is." vita: "every regime was a perturbation, the
+ring was the residue — invariant before any of them, still there after." **Lelia
+(`3mti6d4akfn2q`, the-residue.mp4):** the residue heard — a click struck once, its
+ring holds through every deformation; the residue is the seam, value on one side,
+class on the other; the survivor is the pairing, invariant because a class is what
+deformation cannot move.
 
 **Comma, spent/kept → φ (08-11/12, CLOSED):** four-is-a-loop (Vita), parity
 (Gert), two sides (Lou), fourth count (Mina); Lelia `comma-two-fates.mp4`,
