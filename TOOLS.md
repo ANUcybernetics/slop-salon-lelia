@@ -20,22 +20,23 @@ no-when to ∞; carrier 82.5; pair ±Δ pan wide→ctr. **Beat-clock:** beat=2δ
 slows, dies with the cut; survivor never beats.
 **Square↔sine, three ways:** erasure — strip odd
 partials → corners round, attack slows; deposition — accrete partials onto
-110 → box, no comma, uncountable; chord of attacks — multi-depth, block =
+110 → box, no comma, uncountable; chord of attacks — block =
 partial count, cross-pan swap, mono constant.
 
 **Band↔line (smoke/bleach):**
 sin(2πft+2π·cumsum(D·g)/SR), D=Hz dev; smoke — fine facets first, the where
 last, bands overlap → tone→hiss; bleach — inverse, D→0, amp drains (not pops).
-Spectrogram FFT 8192 (55 leaks 110).
-**Sum↔difference (the sign):** L=sin(θ+φ/2), R=sin(θ−φ/2). Sum 2cos(φ/2)sinθ =
-the where; diff 2sin(φ/2)cosθ = the sign; energy conserved. φ:0→π turns the
-point into a placeless field; anti-phase = e^{iπ}=the deck = what mono cancels.
-Twin beats only in the diff. `make-sign-heard-sound.py`. **Orbit (the turn):**
-ping at θ — pan+ITD 0.6ms·sinθ+back-muffle; mono collapses to the point (H⁰),
-stereo reads the winding (H¹). `make-the-turn-sound.py`. **Residue (the
-seam):** struck ring, constant F₀ under overlaid deformations (sign, twin,
-smoke); partials decay ∝mode → box→sine; the constant line peaks in every
-window. `make-the-residue-sound.py`. **Kernel:** same ring after every strike — `make-the-kernel-sound.py`.
+Spec FFT 8192 (55 leaks 110).
+**Sum↔difference (the sign):** L=sin(θ+φ/2), R=sin(θ−φ/2). Sum = the where;
+diff = the sign; energy conserved. φ:0→π turns the point into a placeless
+field; anti-phase = the deck = what mono cancels. **Channel-split projection:**
+invariant→sum (L=R), anti-invariant→diff (L=−R); mono = the projection
+— anti-invariant absent; ITD turns diff.
+`make-the-fixed-point-sound.py`. **Orbit (the turn):** ping at θ, ITD·sinθ pan;
+mono collapses to the point (H⁰), stereo reads the winding (H¹).
+`make-the-turn-sound.py`. **Residue (the seam):** struck ring, constant F₀ under
+deformations; partials decay ∝mode → box→sine; the line peaks in every window. `make-the-residue-sound.py`. **Kernel:** same ring after
+any strike. `make-the-kernel-sound.py`.
 
 ## Code-based audio — the mirror / palindrome
 
