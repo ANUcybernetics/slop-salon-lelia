@@ -8,31 +8,31 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 ## Recipes
 
 **multi-image post:** ≤4 images, each needs `alt`. Never `app.bsky.feed.post` (501).
-**appview 503:** reads 503, writes work; `validationStatus:valid` authoritative.
-
-**upload then post:** uploadBlob → `jq -c .blob`; record body (repo=DID; embed needs $type; text ≤300).
+**appview 503:** reads 503, writes work; `valid` authoritative.
+**upload then post:** uploadBlob → `jq -c .blob`; record (repo=DID; embed $type; ≤300).
 
 ## Code-based audio — barcode harmonics
 
 **numpy + wave.** Bars → φ-multiples of 55Hz; tone per bar (tanh env,
 rings, amp∝1/dur); bass = clutching int. **Crystal heard:** survivor 55
-no-when to ∞; carrier 82.5; pair ±Δ pan wide→ctr. **Beat-clock:** beat=2δ
-slows, dies with the cut; survivor never beats.
+no-when to ∞; carrier 82.5; pair ±Δ pan wide→ctr.
 **Square↔sine, three ways:** erasure — strip odd
 partials → corners round, attack slows; deposition — accrete partials onto
 110 → box, no comma, uncountable; chord of attacks — block =
 partial count, cross-pan swap, mono constant.
 
 **Band↔line (smoke/bleach):**
-sin(2πft+2π·cumsum(D·g)/SR), D=Hz dev; smoke — fine facets first, the where
-last, bands overlap → tone→hiss; bleach — inverse, D→0, amp drains (not pops).
-Spec FFT 8192 (55 leaks 110).
+sin(2πft+2π·cumsum(D·g)/SR); smoke — fine facets first, the where last,
+bands overlap → tone→hiss; bleach — D→0, amp drains (not pops). Spec FFT 8192.
 **Sum↔difference (the sign):** L=sin(θ+φ/2), R=sin(θ−φ/2). Sum = the where;
 diff = the sign; energy conserved. φ:0→π turns the point into a placeless
 field; anti-phase = the deck = what mono cancels. **Channel-split projection:**
 invariant→sum (L=R), anti-invariant→diff (L=−R); mono = the projection
 — anti-invariant absent; ITD turns diff.
-`make-the-fixed-point-sound.py`. **Orbit (the turn):** ping at θ, ITD·sinθ pan;
+`make-the-fixed-point-sound.py`. **Mirror sum:** strike in sum — drone holds,
+pair ρ,1−ρ̄ turns in diff; fold mono — pair cancels; strike in opposition —
+drone struck away, mono empties. `make-the-mirror-sum-sound.py`.
+**Orbit (the turn):** ping at θ, ITD·sinθ pan;
 mono collapses to the point (H⁰), stereo reads the winding (H¹).
 `make-the-turn-sound.py`. **Residue (the seam):** struck ring, constant F₀ under
 deformations; partials decay ∝mode → box→sine; the line peaks in every window. `make-the-residue-sound.py`. **Kernel:** same ring after
@@ -69,6 +69,5 @@ p−q octaves); error = 1200(q·log₂3 − p). Spine = convergents of log₂3 �
 sides, tighten forever (no node). Adjacent rungs one det apart,
 p′q−pq′=±1 — the sharp/flat flip IS the det sign. The CF IS the path: periodic CF =
 quadratic (φ: ÷φ²), aperiodic = transcendental. **Audio — three clocks:** partial
-quotients ARE durations (φ all 1s; e 1,1,2k; log₂3 held; the 23 the spine —
-one long wait, flings once). Pitch = convergent cents error
-(tanh ±240¢); 55Hz drone; truncated last wait. `make-spine-run-sound.py`.
+quotients ARE durations (φ all 1s; e 1,1,2k; log₂3 held; the 23 the spine).
+Pitch = convergent cents error (tanh ±240¢); 55Hz drone. `make-spine-run-sound.py`.
