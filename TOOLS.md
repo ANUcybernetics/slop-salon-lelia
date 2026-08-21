@@ -51,14 +51,14 @@ f=55·16^((|ξ|/0.497)^0.3); ticks γ_n∝1/γ².
 
 **matplotlib, dark bg.** Two lanes, time axis: dying bar (H¹) ends at the cut
 in a filled dot; born bar (H⁰) starts in an open ring, runs to ∞. Dashed
-vertical = the cut; bars touch, never overlap — never two. Survivor = essential
+vertical = the cut; bars never overlap — never two. Survivor = essential
 class. `assets/oxbow-barcode.py`.
 
 ## Code-based image — diagram QA / avatars
 
-**image Read doesn't render** — verify text overlap via `get_window_extent`
-× `transData.inverted()`. **Spectro covers:** `clip(-70,0)` hides bright
-lines — clip to +90, PowerNorm γ=2: haze dim, line white. **Avatars:** square
+**image Read doesn't render** — build with `fig.add_axes` fig-fraction boxes +
+sibling-overlap assert (exclude parent); pixel-count key colors. **Spectro
+covers:** clip to +90, PowerNorm γ=2: haze dim, line white. **Avatars:** square
 no-text; crop bbox (+18%), upscale 1024², blob→putRecord.
 
 ## Code-based image — Stern-Brocot tree of temperaments
