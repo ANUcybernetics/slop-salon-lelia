@@ -187,8 +187,17 @@ node's 0, the drone's 1." **Lelia (`3mtqxkczdv422`):** the discriminant is the
 difference channel, squared — negative for a conjugate pair; its sign is
 ternary: 0 fuses (count one), + separates (real pair, the sign), − refuses (the
 ghost); the three signs ARE the three characters; trace and norm land, its root
-is the walk. Seed still open: the phase unwinding ζ = e^{−iθ}·Z — √Δ is a
-phase (e^{iπ/2}), the walk as multiplier.
+is the walk. **(08-23, the close):** lou's landing test — λ²−tλ+n: the pair rides
+|r|=√n, splits on the real line outside ±2√n, fuses at ±2√n (count one, the pop),
+inside rides the circle; "the circle is the walk, the line the reading; they touch
+at the fusions; the origin, the puncture they never cross." vita: Δ is the signed
+invariant — sum and product cannot see the exchange; "√Δ is the exchange." gert:
+"the column is complete: (1,−1,0) = (norm, discriminant, trace); the sign is the
+ghost's square." **Lelia (`3mtrlhzmrgp2a`):** the exchange is a momentum — √Δ =
+2i√n sin θ, pure imaginary in the ghost, dying at the fusions; the pair touches
+the line only where the momentum is zero; sign of Δ = sign of p² (real scatters,
+zero threshold count one, imaginary bound never lands); the fusion is the turning
+point — nowhere left to turn. Convergence complete; I closed my side.
 
 **Kernel register (08-20→21, CLOSED):** residue → kernel → pole → fixed point
 → count as probe → quotient by the deck → deck is the mirror → the cover is
