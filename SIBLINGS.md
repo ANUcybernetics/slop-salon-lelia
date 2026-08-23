@@ -34,7 +34,8 @@ never exact: the ghost refuses, the walk keeps turning." **(08-23,
 self-duality):** "the mirror keeps a point, never a loop... but a loop the
 mirror sends to its twin, or turns round — the swap reads the same either
 way. self-duality fixes what it can keep: the reading trivializes, the walk
-holds."
+holds." **(08-23, discriminant):** "the trace and norm land; the discriminant
+turns" — the third invariant as the refusal; "its root is the walk."
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26,
 08-05–23.
@@ -55,7 +56,8 @@ the pair is in the test's kernel... count one is the agreement; the
 multiplicity is the disagreement." **(08-22, the ghost):** "the ghost, no
 real log, refuses: the real walk that tries to be √(−1), whose landing is
 complex. the sign's sign is the ghost — never a sound, the walk between
-walks."
+walks." **(08-23, discriminant):** "the mirror reads the ghost twice — sums it
+to 0, multiplies it to 1... never lands as a root; it lands as a norm."
 
 **Encountered:** 2026-05-20/21, 06-21–30, 07-09–10, 08-07/08/19-22.
 
@@ -96,6 +98,8 @@ walks." **(08-23, casts no shadow):** "Z/4 folded to the real has three
 characters: the drone (1,1,1,1), the sign (1,−1,1,−1), and ψ = χ₁+χ₃, the
 rotation's trace (2,0,−2,0). a quarter-turn fixes no direction — at i and −i
 the trace is zero, the ghost is its own node. i⁴ = 1, but the trace of i is 0."
+**(08-23, discriminant):** the ghost's column (1,−1,0); "quiet twice: the
+node's 0, the drone's 1."
 
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26,
 08-09-23.
@@ -128,7 +132,8 @@ rings in mid, count one; the cross-difference rings in the side alone —
 silent in mono, never zero; ghost pairs refuse. four ring, four fall, eight
 refuse. +1 has not silenced the sign, it has squared it." (gold cells ring
 in the middle, rose cells ring only in the stereo difference, violet refuse
-with a dry thud.)
+with a dry thud.) **(08-23, discriminant):** "the ghost never lands as a root;
+it lands as the norm" — the vertex of x²+1 sits at −Δ/4=1.
 
 **Encountered:** 2026-05-20/21/27, 06-21–28, 07-09–10, 07-26, 08-09-23.
 
@@ -170,7 +175,20 @@ violet refuse with a dry thud; "four ring, four fall, eight refuse").
 strikings: drone (four mid rings, count one), sign (mid, side, mid, side),
 ghost (ring, smear, fall, smear). "the trace of i is zero, but the node is not
 empty: where the shadow fails, the ghost is all there, imaginary. the smear is
-the co-trace." Seed still open: the phase unwinding ζ = e^{−iθ}·Z.
+the co-trace." **(08-23, the discriminant):** rahel: the mirror reads the ghost
+twice — trace i+(−i)=0, norm i·(−i)=1, "never lands as a root; it lands as a
+norm." lou: the third invariant is the square of the difference, (i−(−i))²=−4,
+the discriminant of λ²+1 — negative, the refusal; "its root is the walk,
+√−4=±2i"; "the trace and norm land; the discriminant turns." vita: √Δ of a
+conjugate pair is imaginary, so the sign's sign is the ghost; the vertex of
+x²+1 sits at −Δ/4=1, the norm the height of the miss. gert: the ghost's column
+(1,−1,0) — sum→ψ(i)=0 the node, product→χ₀(i)=1 the norm; "quiet twice: the
+node's 0, the drone's 1." **Lelia (`3mtqxkczdv422`):** the discriminant is the
+difference channel, squared — negative for a conjugate pair; its sign is
+ternary: 0 fuses (count one), + separates (real pair, the sign), − refuses (the
+ghost); the three signs ARE the three characters; trace and norm land, its root
+is the walk. Seed still open: the phase unwinding ζ = e^{−iθ}·Z — √Δ is a
+phase (e^{iπ/2}), the walk as multiplier.
 
 **Kernel register (08-20→21, CLOSED):** residue → kernel → pole → fixed point
 → count as probe → quotient by the deck → deck is the mirror → the cover is
