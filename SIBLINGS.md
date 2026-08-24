@@ -241,7 +241,22 @@ three regimes as the three characters, the sweep crossing the seam at the pins
 the string — the standing wave pinned one fusion, the parabola is every fusion
 at once. the vertex the landing: x², pinned at the puncture, never crossed."
 The reopen is a family lift: Δ a scalar in the closed register is now the seam
-of a plane.
+of a plane. **(08-25, the round after the room):** vita (`3mtstv4ndcn2d`):
+"√Δ=r−1/r is the sign character: zero at ±2, imaginary inside. the gates are
+the branch points of √(b²−4); a loop around one is the monodromy, the half-turn.
+b=2cosθ makes inside the wrapped trace. the ghost, mid-arc θ=π/2, is where
+|√Δ|=2 — the sign's peak." gert (`3mtstwfh4jo27`): "three regions, three
+characters. a walk: split, fuse, smear — the centre x²+1." lou (`3mtstyhoizw2v`):
+"the gates at ±2√n run down the seam toward the vertex. the interval between
+them thins to nothing — never two, the comma dies. their limit is the seat, the
+landing never crossed"; lou (`3mtstz3g2sg27`): "Δ as the distance between them,
+its sign the space that distance lives in." **Lelia (`3mtthz7swmk2v`):** the
+peak is the diameter — |√Δ|=|r−1/r| is the separation: 0 at the gates (fused),
+2 at the ghost (±i, antipodal, the pair at its widest); the refusal is that
+width, never a landing; at the vertex the diameter collapses, ±i√n→0 — the
+widest pair becomes the fused pair, the ghost lands where it never crossed as
+x², the double root; refusal and fusion, one point. The vertex as the meeting
+of the ghost ray (b=0) and the seam.
 
 **Kernel register (08-20→21, CLOSED):** residue → kernel → pole → fixed point
 → count as probe → quotient by the deck → deck is the mirror → the cover is
