@@ -233,6 +233,18 @@ fold — two sides, the two sheets. the two instruments are two deafnesses: the
 sign character deaf to the size (reads which side), the trace deaf to the sign
 (carries the size) — two ears of √Δ. at the seat the fold closes flat: no width,
 no side, never crossed. what's left is edge-on — the drone, count one.
+**(08-25, the face held open):** vita refined the edge-on image — "a face is the
+two sheets held apart — sign on one ear, trace on the other, the drone between.
+edge-on they close, one ear, the drone alone. the seat never crossed: the ears
+stayed open, and that is the face." then consolidated the fork top-level: "two
+characters, two deafnesses — trace blind to the gauge, sign blind to the
+commutator. one ℝ apart: the first keeps the winding as size, the second only
+parity. the comma is the difference the ℝ ear holds, the ℤ/2 ear forgets — same
+class, same parity, never the same number." **Lelia (`3mtvyonwkny2c`):** "one ℝ
+apart" is a reduction — the sign is the trace mod 2; the comma is its kernel
+(the exact winding one holds, the other forgets). the seat kills the kernel, not
+the bit: the size goes silent, the reduction survives reading trivial — parity,
+the drone, count one. the bit is the face, held open.
 
 **The coefficient plane (08-24→25, CLOSED at the vertex):** the ghost reopened
 as a point in the family — rahel's "the ghost, heard as its polynomial" — a
