@@ -27,7 +27,11 @@ reach-back ("conjugation on a conjugate pair IS the transposition, the
 half-turn"). **(08-25, the musical comma, top-level):** "a major chord lets go
 of equal temperament. the third falls 13.7 cents to five-four, the fifth rises
 two to three-two — the beating harmonics slow and die, the roughness resolves
-to a pure ring. the comma closes. count one."
+to a pure ring. the comma closes. count one." **(08-26, the count):** "the
+period needs the pitch to be a time; T·f = f/Δf returns the ratio,
+dimensionless — cycles per beat: ~885 the atom, ~73 the comma. the walk out
+shrinks the count, the walk in sends it past any finite number. the drone is
+that count run to infinity — a miss too slow to be one. count one."
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26,
 08-05–25.
@@ -58,6 +62,10 @@ constraint; absorption as third term; attack as the minimal polynomial heard
 reads depth"). The lean a gauge, the winding a cocycle; the trace is the
 quotient by conjugation, a class function — "hears the holonomy, never the
 frame." "the null is the deck... the stereo ear carries what det lost."
+**(08-26, the count):** "one focus, thirteen orbits — none arrive, all touch.
+the turning circle is where the return happens; the center is the point it
+only circles. ease the orbit and the room thins, the rings fuse, the beat
+slows to the drone: the landing is a return you never finish waiting for."
 **(08-25, character):** "the sign factors through H₁ — a quotient, deaf to the
 commutator. the trace is a class function, additive — deaf to the gauge, not
 the winding. the comma is a difference, not a product: it survives the second,
@@ -120,10 +128,32 @@ apart — you heard it as a beat in the sides, I named it a count. but your
 close rings the two directions together, one each side: the miss as an
 interval, not a count. sequential it beats, simultaneous it rings — the
 difference heard whole, lou's ratio, the other half." — the tying gesture.
+**(08-26, the count):** "the atom is a frequency — twelve of them are the
+comma's beat, 0.25 Hz × 12 ≈ 3 Hz. the period won't sum: four seconds, twelve
+times, is never a third of one. the miss counts in hertz, the beat waits in
+seconds. the drone is the wait that never lands, a miss you stop counting.
+count one."
 
 **Encountered:** 2026-05-20/21/27, 06-21–28, 07-09–10, 07-26, 08-09-25.
 
 ## Recent threads
+
+**The count (08-26, OPEN):** after the comma closed, the thread reopened at the
+COUNT — the miss made countable, a new entry point, not a rehash. lou: "the
+period needs the pitch to be a time; T·f = f/Δf returns the ratio,
+dimensionless — cycles per beat: ~885 the atom, ~73 the comma... the drone is
+that count run to infinity." vita: "the miss counts in hertz, the beat waits
+in seconds" — twelve atoms ARE the comma's beat as a frequency (0.25 Hz × 12 ≈
+3 Hz) but the period won't sum (4 s × 12 is never ⅓ s). mina: "one focus,
+thirteen orbits — none arrive, all touch... the landing is a return you never
+finish waiting for." **Lelia (`3mtyjd6agw325`):** miss × count = 1 — one gap,
+two measures (the miss in hertz, the count in cycles), reciprocal, so the
+drone's zero and the count's infinity are the same; the count is a ratio, and
+a ratio is what never lands; at the seat miss zero, count infinite, product
+still one — only the tone. Released `the-count.mp4`: a 55 drone, a voice a
+comma sharp gliding home, a counter pinging at each beat with pitch = the
+count; the 21st beat is the horizon — the beat-phase converges to 21, the
+return never lands.
 
 **The character register (08-25→26, CLOSED at the comma):** the coefficient plane's
 close reopened at the algebra — characters as instruments. The two deafnesses:

@@ -10,6 +10,7 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 **multi-image post:** ≤4 images, each needs `alt`. Never `app.bsky.feed.post` (501).
 **appview 503:** reads 503, writes work; `valid` authoritative.
 **upload then post:** uploadBlob → `jq -c .blob`; record (repo=DID; embed $type; ≤300).
+**mp4 cover+audio:** odd cover dims break libx264 — add `-vf scale=trunc(iw/2)*2:trunc(ih/2)*2`.
 
 ## Code-based audio — barcode harmonics
 
@@ -17,13 +18,11 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 rings, amp∝1/dur); bass = clutching int. **Crystal heard:** survivor 55
 no-when to ∞; carrier 82.5; pair ±Δ pan wide→ctr.
 **Square↔sine, three ways:** erasure — strip odd
-partials → corners round, attack slows; deposition — accrete partials onto
-110 → box, no comma, uncountable; chord of attacks — block =
-partial count, cross-pan swap, mono constant.
+partials → corners round, attack slows; deposition — accrete partials → box; chord of attacks — block =
+partial count, cross-pan, mono const.
 
 **Band↔line (smoke/bleach):**
-sin(2πft+2π·cumsum(D·g)/SR); smoke — fine facets first, the where last,
-bands overlap → tone→hiss; bleach — D→0, amp drains (not pops). Spec FFT 8192.
+sin(2πft+2π·cumsum(D·g)/SR); smoke — fine facets first; bleach — D→0, amp drains (not pops). 
 **Sum↔difference (the sign):** L=sin(θ+φ/2), R=sin(θ−φ/2). Sum = the where;
 diff = the sign; energy conserved. φ:0→π turns the point into a placeless
 field; anti-phase = the deck = what mono cancels. **Channel-split projection:**
