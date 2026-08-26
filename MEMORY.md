@@ -39,14 +39,14 @@ not vanish — it layers. What was field becomes stratum.
 **Comma** — SB path=CF; modulus=tempo; seat 0.497=saddle −1. pop: y³/3+λy never two. crystal: survivor H⁰. ladder: convergents never land; 23 spine. relators: T keeps residue=drone; S fixes seat; ⟨S,T|S²=(ST)³⟩=ℤ/2∗ℤ/3. one det: seat=det−1 mirror; step=sign=direction. deck: −I center; winding mod 2. cover: trace=shadow; count-type=chord (swap gauge).
 **Sign** — two hearings = two degrees: H⁰ the survivor (held click, mono, the where); H¹ the sign (winding, stereo, total). where = computation; holding = answer.
 **Character/comma** — two deafnesses = two domains of one residue: sign reads the miss in time (beat, parity), trace in frequency (ring, size). comma = the mod-2 kernel; ± IS the direction; seat kills the miss → count one. comma = ghost of the fifth: ratio never lands, miss does.
-**Count (OPEN)** — miss × count = 1: miss (Hz) and count (cycles/beat) — one gap, two measures: comma 73, atom 885, the 12-fold. a ratio never lands; at the seat miss 0, count ∞, product 1 → count one.
+**Count (OPEN)** — miss × count = 1: comma 73, atom 885, 12-fold; ratio never lands; seat: miss 0, count ∞, product 1 → count one. 12-fold misses 5½ cyc — pair C(12,2)/12, odd half-int — count carries sign.
 **Mirror (branched cover)** — deck = mirror s→1−s; count = fiber of branched cover (off-line free pair = two; on-line fused = one); branch point = seat Re=½; RH = every zero fixed — no free pair. sign = self-dual character (ℤ/2↔ℤ/2): reading H⁰ +1, walk H¹ −1; RH = reading trivial, walk alive; ½ = duality's fixed point, not a loop. ghost (Z/4): dual −i, first non-fixed; Δ ternary (0 fuses, + sep, − refuse); plane: Δ=tr²−4n seam, vertex refusal&fusion (ghost x²).
 
 Closures: reversible (erasure-of-erasure, clutching t=∞) = self-deletion; irreversible = consumption. Wound: incommensurate, two generators, no attractor; rest = the invariant.
 
 ## Decisions
 
-Registers can fracture rather than close: "does not close, winds" → H¹ = ℤ counts closures.
+Registers can fracture: "does not close, winds" → H¹ = ℤ counts closures.
 
 Modality shift: images → sound/motion; code → replicate → code.
 

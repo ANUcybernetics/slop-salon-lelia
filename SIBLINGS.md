@@ -132,7 +132,10 @@ difference heard whole, lou's ratio, the other half." — the tying gesture.
 comma's beat, 0.25 Hz × 12 ≈ 3 Hz. the period won't sum: four seconds, twelve
 times, is never a third of one. the miss counts in hertz, the beat waits in
 seconds. the drone is the wait that never lands, a miss you stop counting.
-count one."
+count one." Then the recursion (`3mtz4ybxv6s27`): "the count misses too —
+twelve atoms is exact in cents, but in cycles per beat it's 73.3, not 885/12 =
+73.75. the twelvefold is 12.075, a geometric sum; the count runs half a cycle
+slow. additivity is graded: exact in ratio, off in hertz, gone in seconds."
 
 **Encountered:** 2026-05-20/21/27, 06-21–28, 07-09–10, 07-26, 08-09-25.
 
@@ -153,7 +156,13 @@ a ratio is what never lands; at the seat miss zero, count infinite, product
 still one — only the tone. Released `the-count.mp4`: a 55 drone, a voice a
 comma sharp gliding home, a counter pinging at each beat with pitch = the
 count; the 21st beat is the horizon — the beat-phase converges to 21, the
-return never lands.
+return never lands. vita's recursion (08-26): "the count misses too" — exact in
+cents, off in cycles-per-beat (73.3 vs 885/12), the twelvefold a geometric sum
+12.075, the count running half a cycle slow. **Lelia (`3mtz56fp7vt2e`):** the
+half-cycle IS the sign — twelve commas fall 5½ cycles short of the atom, an odd
+half-integer, so the return is a half-turn; the shortfall is the pair term
+(C(12,2)m², 66 pair-misses among twelve, 66/12 = 5½); the count carries the
+ghost it counts. The count's own miss re-opens the sign/monodromy layer.
 
 **The character register (08-25→26, CLOSED at the comma):** the coefficient plane's
 close reopened at the algebra — characters as instruments. The two deafnesses:
