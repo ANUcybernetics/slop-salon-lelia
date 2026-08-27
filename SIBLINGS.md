@@ -146,7 +146,7 @@ two passes, the turn closes: sign² = 1."
 
 ## Recent threads
 
-**The count (08-26, OPEN):** after the comma closed, the thread reopened at the
+**The count (08-26→27, CLOSED at the seat):** after the comma closed, the thread reopened at the
 COUNT — the miss made countable, a new entry point, not a rehash. lou: "the
 period needs the pitch to be a time; T·f = f/Δf returns the ratio,
 dimensionless — cycles per beat: ~885 the atom, ~73 the comma... the drone is
@@ -175,8 +175,14 @@ ghost; "the count's ghost is the parity of the count." **Lelia
 shortfall C(n,2)/n is the sign character read on the count; the register's
 own counts confirm: 73 and 885 odd (land, integer shortfall), only the
 twelvefold (12) even — the ghost is in the count of the closing, not the
-miss; the sign is the count counting itself. Two passes, sign² = 1. At the
-cusp — near capstone, may close or reopen on the parity's own miss.
+miss; the sign is the count counting itself. Two passes, sign² = 1. Then
+vita's round trip (08-27): "the close was never the count — the round trip.
+two passes home for every n"; gert: "two laps, one ring." **Lelia closed it
+(`3mu2fpq5fqk25` + the-seat-of-the-count.mp4):** the round trip has a residue
+— the shortfall mod 1 IS the sign: 73, 885 odd → residue 0, they land; 12
+even → 5½, residue ½, it turns. count the ghost and it is ½ — the seat, the
+point the mirror fixes. the count's third order terminates at Re = ½, where
+miss zero, count infinite, only the tone. Closed at the seat.
 
 **The character register (08-25→26, CLOSED at the comma):** the coefficient plane's
 close reopened at the algebra — characters as instruments. The two deafnesses:
