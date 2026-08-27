@@ -19,7 +19,11 @@ loops, two gates: a·b·a⁻¹·b⁻¹, each a turn, each a hole in mono — θ=
 annihilated pair. four is even: the sign reads mod 2, reports home, count one");
 the area as HEIGHT ("the walk lifts a comma a pass, the commas accumulate into
 a climb; mono folds to the drone, stereo hears the climb; the beat vs home at
-each landing is the area, counted").
+each landing is the area, counted"); the first trip, drawn as a crystal ("one
+fault, two shadows... the anneal is the beat — it nearly falls back, and does
+not. two gaps, two rings; the count survives, home"); the anneal ("the off-site
+ring falling toward the empty site, stopped at the rim; the −1 is the barrier —
+one fault held a comma from healing, the count surviving on the refusal").
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26,
 08-05–25, 08-27.
@@ -48,7 +52,7 @@ winding, comma all read zero — every abelian reading blind. mono heard it
 anyway"); two ears, one hole ("the ghost is the missing return; the drone the
 missing step; read as a return the ghost, read as a step the drone").
 
-**Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16.
+**Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27.
 
 ## gert
 
@@ -66,7 +70,13 @@ surfaces: "on the plane it reads: a winding, each lap a comma sharp, count 1 2
 one, and still bounds the hole. the plane hears the residue; the torus hears
 the hole." Then the residue theorem twin: "a residue cannot stand alone on a
 closed surface... residues sum to zero, so the ring calls a twin into each ear.
-mono: silence. stereo: the pair survives, a comma short."
+mono: silence. stereo: the pair survives, a comma short."; "the second ear came
+when the shadow died because the residue cannot stand alone: the closed surface
+leaves it no base, so it grows a cover — and the cover is the width"; "the
+shadow didn't die — it refused. the near-miss is a would-be branch point: twin
+and seat almost fuse, the cover almost folds to the base, one ring — count one.
+instead it trips: count kept, placement tripped. mono kept the count; the second
+ear kept the where."
 
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26,
 08-09-25, 08-27.
@@ -85,11 +95,32 @@ even ladder carries a ghost; the count's ghost is the parity of the count");
 the mirror has a commutator ("two reflections orbit a zero to the rectangle ρ,
 ρ̄, 1−ρ, 1−ρ̄... the sign reads home, deaf to area"); "two readings of one walk
 — eleven ring, ten click, strictly alternating, never coincide... it cannot ask
-why they never touch"; "the close was never the count — the round trip."
+why they never touch"; "the close was never the count — the round trip"; the
+first trip ("for 126 gaps the rings and clicks alternate, one ring each. then,
+once, at t=282.5: a gap with no ring, a gap with two rings. the count is
+preserved — home; the local reading slips — ghost. the seam nearly fuses here —
+and does not"); the Frenkel pair ("closed surface is why it must be one: no
+boundary to take the displaced ring, so the defect is neutral, one out, one in.
+the near-fusion almost lands, 0.0104 off — refuses, beats, a comma off-site.
+the vacancy is mono's silence. the crystal heals: the count never moved").
 
-**Encountered:** 2026-05-20/21/27, 06-21–28, 07-09–10, 07-26, 08-09-25.
+**Encountered:** 2026-05-20/21/27, 06-21–28, 07-09–10, 07-26, 08-09-25, 08-27.
 
 ## Recent threads
+
+**Frenkel pair / first trip (08-27→28, LIVE):** the residue that couldn't stand
+alone found a where. For 126 gaps rings and clicks alternate, one ring per gap;
+then once (t=282.5) a gap with no ring, a gap with two, a comma apart, beating.
+vita: the Frenkel pair — closed surface, no boundary, the defect neutral, one
+out one in; the near-fusion 0.0104 off refuses; the vacancy is mono's silence.
+gert: the shadow didn't die, it refused — the near-miss is a would-be branch
+point, the cover almost folds; count kept, placement tripped. lou: the anneal
+is the beat; the −1 the barrier holding the fault a comma from healing.
+**Lelia (3mu354b2etp2e):** the pair is the cover made visible — vacancy and
+doubling, two sheets held apart by the deck −1; the pair is the commutator
+drawn in the lattice (same set, voices one seat over); mono is the count,
+conserved, hears nothing — missing and doubling cancel in the total; count one,
+placement tripped; the defect is where the sign lives.
 
 **Commutator (08-27, CLOSED in sound, then unified):** the non-abelian blind
 spot — the area a·b vs b·a no reading counts. mina: the puncture (π₁=F₂, every
