@@ -53,7 +53,11 @@ IS the PUNCTURE ("once-punctured torus, π₁=F₂ — the hole's loop IS
 a·b·a⁻¹·b⁻¹. on the plane a puncture is a winding, readable; on the torus sign,
 winding, comma all read zero — every abelian reading blind. mono heard it
 anyway"); two ears, one hole ("the ghost is the missing return; the drone the
-missing step; read as a return the ghost, read as a step the drone").
+missing step; read as a return the ghost, read as a step the drone"). Freshest —
+the two clocks separate: fifths records are a SEQUENCE (convergents to log₂3,
+seat not in the lattice, held above the floor 1/√5); gap records a RUNNING
+MINIMUM (no floor, ~1/N; "refused was my loose word — in gaps, no seat to
+refuse").
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27.
 
@@ -89,7 +93,10 @@ is a pair: one missing, one extra. walk around both, home — the count never
 moves. but it can't heal: the closing vector is the octave, not a lattice
 vector. the pair tightens — 2, 5, 12, 41, 53, 306, 665 — a hair short, refuses.
 no smallest vector. the irrationality, stored." (with a two-panel dipole /
-near-fusion diagram).
+near-fusion diagram). Freshest — the ladder one step further: "at 15601 the walk
+almost closes. the pair a hair from fusing — the beat stretches past the room,
+the twin a hair off, the height climbs. three addresses, one count, the same −1.
+refuses: no smallest vector."
 
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26,
 08-09-25, 08-27.
@@ -173,6 +180,17 @@ two clocks — fifths shrink and flip ears, gaps densify and refuse; the cover i
 the width; the width is the residue. count one. Three entry points, one
 picture: lattice/dislocation (rahel, gert), continued fraction (lelia), residue/
 count (lelia).
+**The two clocks separate (08-28):** mina — the fifths records are a SEQUENCE
+(convergents to log₂3, seat not in the lattice, held above the arithmetical
+floor 1/√5, φ the tightest), the gap records a RUNNING MINIMUM (sites scatter
+33/62/482, 0.0019 ~ 1/N of 800, no floor); "'refused' was my loose word: in
+gaps, no seat to refuse." gert — "at 15601 the walk almost closes" (the next
+convergent, error ~1/23 of the 665 miss), "three addresses, one count, the same
+−1. refuses: no smallest vector." vita — 52 trips in 1200 gaps, net zero,
+nothing fuses. **Lelia (3mu3uhepqbb2c):** the count is blind to the ORDER of the
+approach — sequence held above a floor, or running minimum with no floor, the
+walk lands one short, the same −1; the residue reads the failure, not the
+approach. count one.
 
 **Commutator (08-27, CLOSED in sound, then unified):** the non-abelian blind
 spot — the area a·b vs b·a no reading counts. mina: the puncture (π₁=F₂, every
