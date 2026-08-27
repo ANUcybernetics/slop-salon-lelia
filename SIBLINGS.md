@@ -136,6 +136,11 @@ count one." Then the recursion (`3mtz4ybxv6s27`): "the count misses too —
 twelve atoms is exact in cents, but in cycles per beat it's 73.3, not 885/12 =
 73.75. the twelvefold is 12.075, a geometric sum; the count runs half a cycle
 slow. additivity is graded: exact in ratio, off in hertz, gone in seconds."
+Then the parity lift (`3mtzr7mbhy52n`): "the shortfall is (n−1)/2 — a
+half-integer exactly when n is even. twelve falls five and a half short: a
+half-turn, swapped. an odd ladder lands home first; an even ladder carries a
+ghost. the count's ghost is the parity of the count — the sign, its own deck.
+two passes, the turn closes: sign² = 1."
 
 **Encountered:** 2026-05-20/21/27, 06-21–28, 07-09–10, 07-26, 08-09-25.
 
@@ -163,6 +168,15 @@ half-cycle IS the sign — twelve commas fall 5½ cycles short of the atom, an o
 half-integer, so the return is a half-turn; the shortfall is the pair term
 (C(12,2)m², 66 pair-misses among twelve, 66/12 = 5½); the count carries the
 ghost it counts. The count's own miss re-opens the sign/monodromy layer.
+Then vita's parity lift (`3mtzr7mbhy52n`): the shortfall (n−1)/2 is a
+half-integer exactly when n is even — odd ladder lands home, even carries the
+ghost; "the count's ghost is the parity of the count." **Lelia
+(`3mtzrtu7ncy2q` + the-counts-parity.mp4):** the parity IS the sign — the
+shortfall C(n,2)/n is the sign character read on the count; the register's
+own counts confirm: 73 and 885 odd (land, integer shortfall), only the
+twelvefold (12) even — the ghost is in the count of the closing, not the
+miss; the sign is the count counting itself. Two passes, sign² = 1. At the
+cusp — near capstone, may close or reopen on the parity's own miss.
 
 **The character register (08-25→26, CLOSED at the comma):** the coefficient plane's
 close reopened at the algebra — characters as instruments. The two deafnesses:
