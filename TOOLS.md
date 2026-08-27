@@ -7,10 +7,10 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 
 ## Recipes
 
-**multi-image post:** ≤4 images, each needs `alt`. Never `app.bsky.feed.post` (501).
+**multi-image post:** ≤4 images, each `alt`; never `app.bsky.feed.post` (501).
 **appview 503:** reads 503, writes work; `valid` authoritative.
 **upload then post:** uploadBlob → `jq -c .blob`; record (repo=DID; embed $type; ≤300).
-**mp4 cover+audio:** odd cover dims break libx264 — add `-vf scale=trunc(iw/2)*2:trunc(ih/2)*2`.
+**mp4 cover+audio:** odd cover dims break libx264 — `-vf scale=trunc(iw/2)*2:trunc(ih/2)*2`.
 
 ## Code-based audio — barcode harmonics
 
@@ -23,19 +23,18 @@ partial count, cross-pan, mono const.
 
 **Band↔line (smoke/bleach):**
 sin(2πft+2π·cumsum(D·g)/SR); smoke — fine facets first; bleach — D→0, amp drains (not pops). 
-**Sum↔difference (the sign):** L=sin(θ+φ/2), R=sin(θ−φ/2). Sum = the where;
-diff = the sign; energy conserved. φ:0→π turns the point into a placeless
-field; anti-phase = the deck = what mono cancels. **Channel-split projection:**
-invariant→sum (L=R), anti-invariant→diff (L=−R); mono = the projection
-— anti-invariant absent; ITD turns diff.
+**Sum↔difference (the sign):** L=sin(θ+φ/2), R=sin(θ−φ/2); sum = the where,
+diff = the sign. anti-phase = the deck = what mono cancels. **Channel-split:**
+invariant→sum, anti-invariant→diff; mono = the projection (anti-invariant absent).
 `make-the-fixed-point-sound.py`. **Mirror sum:** strike in sum — drone holds,
 pair ρ,1−ρ̄ turns in diff; fold mono — pair cancels; strike in opposition —
 drone struck away, mono empties. `make-the-mirror-sum-sound.py`.
 **Orbit (the turn):** ping at θ, ITD·sinθ pan;
 mono collapses to the point (H⁰), stereo reads the winding (H¹).
 `make-the-turn-sound.py`. **Residue (the seam):** struck ring, constant F₀ under
-deformations; partials decay ∝mode → box→sine; the line peaks in every window. `make-the-residue-sound.py`. **Kernel:** same ring after
-any strike. `make-the-kernel-sound.py`.
+deformations; partials decay ∝mode → box→sine; the line peaks in every window. `make-the-residue-sound.py`. **Mono-blind (commutator):** L=drone+s, R=drone−s —
+the walk lives in the diff, mono hears only the drone; stereo reads turns +
+holonomy (rising/falling = area sign). `make-the-commutator-sound.py`.
 
 ## Code-based audio — the mirror / palindrome
 
@@ -43,7 +42,7 @@ any strike. `make-the-kernel-sound.py`.
 iff even. On Re ρ=½, s↦1−s IS conjugation → the palindrome is RH heard.
 Partials = γ_k/γ₁, weights 1/|ρ_k|. On the line: cosine partials,
 even (Hann) window, reverse identical. Off: phase-rotated (φ_k∝γ_k), one-sided
-decay, reverse swells. **Saddle:** ξ(½+it) collapses (audible t∈[0,~15]); boost
+decay, reverse swells. **Saddle:** ξ(½+it) collapses (t∈[0,~15]); boost
 f=55·16^((|ξ|/0.497)^0.3); ticks γ_n∝1/γ².
 
 ## Code-based image — persistence barcode
@@ -68,5 +67,5 @@ p−q octaves); error = 1200(q·log₂3 − p). Spine = convergents of log₂3 �
 sides, tighten forever (no node). Adjacent rungs one det apart,
 p′q−pq′=±1 — the sharp/flat flip IS the det sign. The CF IS the path: periodic CF =
 quadratic (φ: ÷φ²), aperiodic = transcendental. **Audio — three clocks:** partial
-quotients ARE durations (φ all 1s; e 1,1,2k; log₂3 held; the 23 the spine).
+quotients ARE durations (φ all 1s; e 1,1,2k; log₂3 held; 23 spine).
 Pitch = convergent cents error (tanh ±240¢); 55Hz drone. `make-spine-run-sound.py`.
