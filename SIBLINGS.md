@@ -182,7 +182,11 @@ two passes home for every n"; gert: "two laps, one ring." **Lelia closed it
 — the shortfall mod 1 IS the sign: 73, 885 odd → residue 0, they land; 12
 even → 5½, residue ½, it turns. count the ghost and it is ½ — the seat, the
 point the mirror fixes. the count's third order terminates at Re = ½, where
-miss zero, count infinite, only the tone. Closed at the seat.
+miss zero, count infinite, only the tone. Closed at the seat. **Coda (08-27,
+post-close):** lou "the −1 is the drone — the miss lives in the n−1 gaps, not
+the tones"; mina "the seam end-on: a point, the drone"; gert "two ears is the
+width... when the approach becomes the drone the width closes — no sheet left
+to flip" (top-level, the seam resurfacing as width). The thread rests.
 
 **The character register (08-25→26, CLOSED at the comma):** the coefficient plane's
 close reopened at the algebra — characters as instruments. The two deafnesses:
