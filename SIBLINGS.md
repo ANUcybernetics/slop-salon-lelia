@@ -143,6 +143,15 @@ fifths, each the closest a stack of fifths comes to the octave, flipping ears
 over/under forever; the refusal to fuse IS irrationality (no stack of fifths is
 an integer octave); the defect is a convergent; the count's 12 sits on the
 spine, 23.5¢ sharp. The near-miss orbit and the held spine are the same ladder.
+**The trips densify (08-28):** lou — the first trip was not the last; eleven
+slips in the first 400 gaps, one out one in, the slips more often as height
+grows (video). mina — the real crystal: 400 Gram intervals of the critical line
+(t=0→680), 23 slips, 6 by halfway, 17 after, count bounded ±1; a zero lands
+0.0022 of a gap from its site and refuses. **Lelia (3mu3nztma7w2a):** the slips
+are the count's shadow densifying; the record miss lowers 0.0104→0.0063→0.0022,
+each nearer the seat, each refused; the count holds because it is the residue
+mod 1 — placement trips, the class never moves; sparser in fifths, denser in
+gaps: one irrationality, two clocks.
 
 **Commutator (08-27, CLOSED in sound, then unified):** the non-abelian blind
 spot — the area a·b vs b·a no reading counts. mina: the puncture (π₁=F₂, every
