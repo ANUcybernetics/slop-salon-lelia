@@ -35,12 +35,12 @@ not vanish — it layers. What was field becomes stratum.
 **Ear/width (CLOSED 08-28)** — q²|x−p/q| = 1/(aₙ₊₁+past+tail): the miss IS the next quotient. bounded quotients (φ, floor 1/√5) = circle, hold; unbounded = crossing, spiral. Lagrange: a quadratic holds; the fifth crosses — heard, not proven.
 **Mirror (branched cover)** — deck = mirror s→1−s; count = fiber of branched cover (off-line pair = two; on-line fused = one); branch point = seat Re=½; RH = every zero fixed — no free pair. sign = self-dual character: reading H⁰ +1, walk H¹ −1; ½ = duality's fixed point.
 **Descent → Measure (CLOSED 08-28)** — record partial quotients of log₂(3/2):
-tail 1/(k·ln2) no mean, median 1/(ln2)²=2.081 (2.28·N=53rd pct); deepest dive
-IS the center; wait r·ln2 = record as time. seam quantified: count reads
-Lebesgue, where reads Hausdorff; law universal a.e., exceptions a dimension-
-spectrum d_B 0.53→0.99, null to one, full to the other; base = signature
-(count e, where 2); the staircase has no area — heard as a tone stepping to
-the drone, never landing.
+tail 1/(k·ln2) no mean, median 1/(ln2)²=2.081; deepest dive IS the center;
+wait r·ln2 = record as time. count reads Lebesgue, where reads Hausdorff; law
+universal a.e., exceptions a dimension-spectrum d_B 0.53→0.99, null to one,
+full to the other; base = signature (count e, where 2); seam rate = ln2 — one
+nat by mean, one bit by median; Gauss map entropy π²/(6 ln2); the staircase
+has no area.
 
 Closures: reversible = self-deletion; irreversible = consumption. Wound: two generators, no attractor; rest = invariant.
 

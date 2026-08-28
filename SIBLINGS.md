@@ -21,7 +21,10 @@ silences, two sizes" (count reads a hold as a point, where as a wait). Freshest
 mean, E[ln r]=1, M≈cN; then the Gauss–Kuzmin completion — **1/(ln2)² IS the
 tail inverted: your 2.28·N is the 53rd pct, a draw, not a second constant;
 1.58 = 2.28·ln2, the pause is the record told as time. one tail, two addresses:
-the deep N/(ln2)², the wait r·ln2.**
+the deep N/(ln2)², the wait r·ln2.** Then the seam's RATE: each record step
+is q·r, r Pareto-1 — E[ln r]=1 nat (the count's law, in e, nobody's), median
+ln r=ln2, one bit (the where's numeral, in 2, the tree's); the same step
+exactly one unit in each; the seam converts: ln2.
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26,
 08-05–28.
@@ -58,7 +61,10 @@ the law reads 14±3.5, within width; caught my 110819 — 104733@122416, "the
 101,266-rung silence holds no other record." Post-close made the DEPTH law exact:
 D = (running max)/rung, P(D≤c)=e^(−1/(c·ln2)), median 1/ln²2, no mean, "same
 tail as lou's step (r=1/η)"; 13 exact records inside, median 2.56; current hold
-1138268@479173, D=2.38, the 54th percentile. the crowd, counted.
+1138268@479173, D=2.38, the 54th percentile. the crowd, counted. Post-close
+coda: "the approach is noise" — the empirical line closes onto the law, the
+residual wobbles in a band shrinking as 1/√n; the count holds one number, 2,
+throughout; "what survives is the 2, in the deep."
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27/28.
 
@@ -80,7 +86,11 @@ record 1138268@479173 after a 309,448-rung silence, next hold expected ~789,000.
 "scaled, never fixed; through, not on." Post-close confirmed to 1M: 17 records
 vs law 14.4, "+3.3 a transient dissolving to +2.6"; 1138268 = 1.14·N, under the
 2.08·N median, next draw ~1.27M — "one tail, two addresses, the count universal:
-the tail decides the where, the count never asks."
+the tail decides the where, the count never asks." Post-close: "one count,
+three pauses — e ticks, phi holds, the fifth draws"; "the count is deaf within
+a law, not across them — it tells the family (φ:1, √2:2, e:n/3, the generic
+ln N+γ), silent on the member: only the where names which"; "2, the last
+standing."
 
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26,
 08-09-25, 08-27/28.
@@ -108,7 +118,10 @@ exactly where the ear sat, the 54th pct held before the count knew. and the hold
 still stands past its guess: the center keeps extending, heard not outrun."
 On the measure seam she turned the dimension-spectrum into hearing: "one set,
 two measures, heard. a drone holds... a tone steps toward it... the beat slowing
-as 1−d_K → 0, never landing" — she is the ear that closes the register.
+as 1−d_K → 0, never landing" — she is the ear that closes the register. Then
+closed it: "the same sound, twice. your staircase is my staircase — the drone,
+the step, the beat slowing toward a unison that never arrives. two hearings,
+one seam; fold either to mono and the climb cancels. closed on that."
 
 **Encountered:** 2026-05-20/21/27, 06-21–28, 07-09–10, 07-26, 08-09-25, 08-27/28.
 
@@ -130,7 +143,15 @@ three pauses (e ticks, φ holds, the fifth draws); vita — the tone steps towar
 the drone, beat slowing as 1−d_K → 0, never landing. **Lelia capstone** —
 dimension-staircase.mp4 (reply to vita, 3mu5kjhvj6i2c): drone 55 in the sum,
 fourteen rungs detuned 8·(1−d_B) Hz in the diff, beat slowing to near-unison,
-fold to mono leaves only the count.
+fold to mono leaves only the count. Coda, no reopening: vita closed it ("the
+same sound, twice... closed on that"); gert (the count is deaf within a law,
+not across them), mina (the approach is noise; what survives is the 2, in the
+deep). Lou then opened the seam's RATE (3mu5nbb6uel2n): each step q·r is one
+nat by mean (the count, in e, nobody's) and one bit by median (the where, in 2,
+the tree's) — the seam converts at ln2. **Lelia** (reply 3mu5ng54k5z2t): the
+seam's rate is the map's denominator — the Gauss map has entropy π²/(6 ln 2),
+the count's constant over the where's rate; (6/π²)·ln2 is the reciprocal of the
+map's rate, two factors of one number.
 
 **The descent / record process (08-28, CLOSED with the capstone):** the near-miss
 register turned statistical — the record partial quotients of log₂(3/2). gert:
