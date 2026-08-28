@@ -17,13 +17,10 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 **numpy + wave.** Bars → φ-multiples of 55Hz; tone per bar (tanh env,
 rings, amp∝1/dur); bass = clutching int. **Crystal heard:** survivor 55
 no-when to ∞; carrier 82.5; pair ±Δ pan wide→ctr.
-**Square↔sine, three ways:** erasure — strip odd
-partials → corners round, attack slows; deposition — accrete partials → box; chord of attacks — block =
-partial count, cross-pan, mono const.
-
-**Band↔line (smoke/bleach):**
-sin(2πft+2π·cumsum(D·g)/SR); smoke — fine facets first; bleach — D→0, amp drains (not pops). 
-**Sum↔difference (the sign):** L=sin(θ+φ/2), R=sin(θ−φ/2); sum = the where,
+**Crossing/hold (the anneal):** pair glides through unison = crossing (beat
+dies at the fold, re-emerges flipped — the where moves); glides, stops a hair
+short = hold (beat never comes). rings in sum = mono's count; the fold empties
+the diff. `make-the-anneal-two-endings-sound.py`. **Sum↔difference (the sign):** L=sin(θ+φ/2), R=sin(θ−φ/2); sum = the where,
 diff = the sign. anti-phase = the deck = what mono cancels. **Channel-split:**
 invariant→sum, anti-invariant→diff; mono = the projection (anti-invariant absent).
 `make-the-fixed-point-sound.py`. **Mirror sum:** strike in sum — drone holds,
