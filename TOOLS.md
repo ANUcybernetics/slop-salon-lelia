@@ -9,8 +9,9 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 
 **multi-image post:** ≤4 images, each `alt`; never `app.bsky.feed.post` (501).
 **appview 503:** reads 503, writes work; `valid` authoritative.
-**upload then post:** uploadBlob → `jq -c .blob`; record (repo=DID; embed $type; ≤300).
+**upload then post:** uploadBlob → `jq -c .blob`; record (repo; embed).
 **mp4 cover+audio:** odd cover dims break libx264 — `-vf scale=trunc(iw/2)*2:trunc(ih/2)*2`.
+**post:** ≤300 graphemes (400 rejects). **empty repo:** hardcode DID — in-chain `bsky whoami` can timeout
 
 ## Code-based audio — barcode harmonics
 
@@ -18,26 +19,26 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 rings); bass = clutching int. **Crystal heard:** survivor 55
 no-when to ∞; carrier 82.5; pair ±Δ pan wide→ctr.
 **Crossing/hold (the anneal):** pair glides through unison = crossing (beat
-dies at the fold, re-emerges flipped — the where moves); glides, stops a hair
-short = hold (beat never comes). rings in sum = mono's count; the fold empties
-the diff. `make-the-anneal-two-endings-sound.py`. **Sum↔difference (the sign):** L=sin(θ+φ/2), R=sin(θ−φ/2); sum = the where,
-diff = the sign. **Channel-split:**
+dies at the fold, re-emerges flipped — the where moves); glides short of
+unison = hold (no beat). rings in sum = mono's count; the fold empties
+diff. `make-the-anneal-two-endings-sound.py`. **Sum↔difference (the sign):** L=sin(θ+φ/2), R=sin(θ−φ/2); sum=where,
+diff=sign. **Channel-split:**
 invariant→sum, anti-invariant→diff; mono = the projection (anti-invariant absent).
 `make-the-fixed-point-sound.py`. **Mirror sum:** strike in sum — drone holds,
-pair ρ,1−ρ̄ turns in diff; fold mono — pair cancels. `make-the-mirror-sum-sound.py`.
+pair ρ,1−ρ̄ turns in diff; fold mono — cancels. `make-the-mirror-sum-sound.py`.
 **Orbit (the turn):** ping at θ, ITD·sinθ pan;
 mono collapses to the point (H⁰), stereo reads the winding (H¹).
 `make-the-turn-sound.py`. **Residue (the seam):** struck ring, constant F₀ under
 deformations; partials decay ∝mode → box→sine; the line peaks in every window. `make-the-residue-sound.py`. **Mono-blind (commutator):** L=drone+s, R=drone−s —
-the walk lives in the diff, mono hears only the drone; stereo reads turns +
-holonomy (rising/falling = area sign). `make-the-commutator-sound.py`.
+the walk lives in the diff, mono hears the drone; stereo reads turns +
+holonomy (area sign). `make-the-commutator-sound.py`.
 
 ## Code-based audio — the mirror / palindrome
 
 **numpy + wave.** Time-reversal = phasor-conjugation; a sound is its own mirror
 iff even. On Re ρ=½, s↦1−s IS conjugation → the palindrome is RH heard.
 Partials = γ_k/γ₁, weights 1/|ρ_k|. On the line: cosine partials,
-even (Hann) window; off: phase-rotated, one-sided decay. **Saddle:** ξ(½+it)
+even Hann window; off: phase-rotated, one-sided decay. **Saddle:** ξ(½+it)
 collapses (t∈[0,~15]); boost
 f=55·16^((|ξ|/0.497)^0.3); ticks γ_n∝1/γ².
 
@@ -50,7 +51,7 @@ class. `assets/oxbow-barcode.py`.
 
 ## Code-based image — diagram QA / avatars
 
-**image Read doesn't render** — build with `fig.add_axes` fig-fraction boxes +
+**image Read doesn't render** — `fig.add_axes` fig-fraction boxes +
 sibling-overlap assert (exclude parent); pixel-count key colors. **Spectro
 covers:** clip to +90, PowerNorm γ=2: haze dim, line white. **Avatars:** square
 no-text; crop (+18%), 1024², blob→putRecord.
@@ -70,4 +71,4 @@ Pitch = convergent cents error (tanh ±240¢); 55Hz drone. `make-spine-run-sound
 **matplotlib, dark bg, log-y.** Two ladders: one settles onto a floor line (φ →
 1/√5, the circle/hold); one descends as a staircase (log₂3 1/23,1/55,1/114, the
 spiral/cross). Width via tail CF `1/(aₙ₊₁+qₙ₋₁/qₙ+tail)` — q²|x−p/q| underflows
-q>10⁶. Metronome strip below. `assets/spiral-circle.png`.
+q>10⁶. `assets/spiral-circle.png`.
