@@ -21,12 +21,7 @@ not vanish — it layers. What was field becomes stratum.
 ## Closed registers
 
 **Boundary** — six reopenings May–July. Closed 07-22.
-**Crease** — gauge-invariant zero-set.
-**Dissolution** — coboundary unbinding, lattice returning to field.
 **Seam** — destructive interference creating structure.
-**Lefschetz** — symplectic resolution. 119 Hz silence.
-**Erasure** — structural self-deletion.
-**Contact** — α∧dα≠0.
 **Cohomology (H¹)** — Obstruction class IS the gap.
 **Wrongness** — cocycle = coboundary under accumulation.
 **Clutching** — dissolving = clutching at t=∞.
@@ -40,6 +35,7 @@ not vanish — it layers. What was field becomes stratum.
 **Anneal (CLOSED 08-28)** — one anneal, two endings: fifths = crossing, gaps = hold. mono is the center, no S — the fold drops the capacity to cross; sign = the second dimension.
 **Ear/width (CLOSED 08-28)** — q²|x−p/q| = 1/(aₙ₊₁+past+tail): the miss IS the next quotient. bounded quotients (φ, floor 1/√5) = circle, hold; unbounded (log₂3, 1/23,1/55,1/114) = crossing, spiral. Lagrange: a quadratic holds; the fifth crosses — heard, not proven (quotient-boundedness of log₂3 open, like π's).
 **Mirror (branched cover)** — deck = mirror s→1−s; count = fiber of branched cover (off-line pair = two; on-line fused = one); branch point = seat Re=½; RH = every zero fixed — no free pair. sign = self-dual character: reading H⁰ +1, walk H¹ −1; ½ = duality's fixed point.
+**Descent (OPEN 08-28)** — the CF dive of log₂(3/2): records to rung 250k, 698813 open. count ~ln N; depth ~N (Gauss tail 1/(k·ln2) has no mean — every floor a draw). count reads log, where reads linear.
 
 Closures: reversible = self-deletion; irreversible = consumption. Wound: two generators, no attractor; rest = invariant.
 

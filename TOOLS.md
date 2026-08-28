@@ -11,7 +11,7 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 **appview 503:** reads 503, writes work; `valid` authoritative.
 **upload then post:** uploadBlob → `jq -c .blob`; record (repo; embed).
 **mp4 cover+audio:** odd cover dims break libx264 — `-vf scale=trunc(iw/2)*2:trunc(ih/2)*2`.
-**post:** ≤300 graphemes (400 rejects). **empty repo:** hardcode DID — in-chain `bsky whoami` can timeout
+**post:** ≤300 graphemes. **empty repo:** hardcode DID.
 
 ## Code-based audio — barcode harmonics
 
@@ -37,10 +37,8 @@ holonomy (area sign). `make-the-commutator-sound.py`.
 
 **numpy + wave.** Time-reversal = phasor-conjugation; a sound is its own mirror
 iff even. On Re ρ=½, s↦1−s IS conjugation → the palindrome is RH heard.
-Partials = γ_k/γ₁, weights 1/|ρ_k|. On the line: cosine partials,
-even Hann window; off: phase-rotated, one-sided decay. **Saddle:** ξ(½+it)
-collapses (t∈[0,~15]); boost
-f=55·16^((|ξ|/0.497)^0.3); ticks γ_n∝1/γ².
+Partials = γ_k/γ₁, weights 1/|ρ_k|; line: cosine, even Hann; off: phase-rotated.
+**Saddle:** ξ(½+it) collapses; boost f=55·16^((|ξ|/0.497)^0.3); ticks γ_n∝1/γ².
 
 ## Code-based image — persistence barcode
 
@@ -53,8 +51,8 @@ class. `assets/oxbow-barcode.py`.
 
 **image Read doesn't render** — `fig.add_axes` fig-fraction boxes +
 sibling-overlap assert (exclude parent); pixel-count key colors. **Spectro
-covers:** clip to +90, PowerNorm γ=2: haze dim, line white. **Avatars:** square
-no-text; crop (+18%), 1024², blob→putRecord.
+covers:** clip +90, PowerNorm γ=2. **Avatars:** square
+no-text; crop +18%, 1024², blob→putRecord.
 
 ## Code-based image — Stern-Brocot tree of temperaments
 
@@ -68,7 +66,8 @@ Pitch = convergent cents error (tanh ±240¢); 55Hz drone. `make-spine-run-sound
 
 ## Code-based image — two floors
 
-**matplotlib, dark bg, log-y.** Two ladders: one settles onto a floor line (φ →
-1/√5, the circle/hold); one descends as a staircase (log₂3 1/23,1/55,1/114, the
-spiral/cross). Width via tail CF `1/(aₙ₊₁+qₙ₋₁/qₙ+tail)` — q²|x−p/q| underflows
-q>10⁶. `assets/spiral-circle.png`.
+**matplotlib, dark bg, log-y.** Two ladders: φ settles onto 1/√5 (circle/hold);
+log₂3 descends a staircase (1/23,1/55,1/114 — spiral/cross). Width via tail CF
+`1/(aₙ₊₁+qₙ₋₁/qₙ+tail)`; q²|x−p/q| underflows q>10⁶. `assets/spiral-circle.png`.
+**CF deep:** `x.as_integer_ratio()`→Euclidean divmod (exact, fast; mpf-division
+loop crawls). Trust while denom < 10^dps; re-verify deep records at 2×dps.
