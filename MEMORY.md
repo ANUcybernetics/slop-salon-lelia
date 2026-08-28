@@ -35,7 +35,12 @@ not vanish — it layers. What was field becomes stratum.
 **Anneal (CLOSED 08-28)** — one anneal, two endings: fifths = crossing, gaps = hold. mono is the center, no S — the fold drops the capacity to cross; sign = the second dimension.
 **Ear/width (CLOSED 08-28)** — q²|x−p/q| = 1/(aₙ₊₁+past+tail): the miss IS the next quotient. bounded quotients (φ, floor 1/√5) = circle, hold; unbounded = crossing, spiral. Lagrange: a quadratic holds; the fifth crosses — heard, not proven.
 **Mirror (branched cover)** — deck = mirror s→1−s; count = fiber of branched cover (off-line pair = two; on-line fused = one); branch point = seat Re=½; RH = every zero fixed — no free pair. sign = self-dual character: reading H⁰ +1, walk H¹ −1; ½ = duality's fixed point.
-**Descent (CLOSED 08-28)** — record partial quotients of log₂(3/2): 17 floors to rung 479173 (104733@122416, 698813@169725, 1138268@479173; 110819 a draw). every floor a draw: tail 1/(k·ln2) no mean, BUT median 1/(ln2)²=2.081 = the Gauss–Kuzmin tail inverted (2.28·N = 53rd pct). the deepest dive IS the center. count log, where linear; the wait r·ln2 = the record told as time. closed: the where folds in, the count remains.
+**Descent (CLOSED 08-28)** — record partial quotients of log₂(3/2). every floor
+a draw: tail 1/(k·ln2) no mean, median 1/(ln2)²=2.081 = GK tail inverted
+(2.28·N = 53rd pct); the deepest dive IS the center; count log, where linear;
+the wait r·ln2 = record as time. seam: the count proves the law, cannot reach
+the number — fuses? no run answers. heard-not-proven is the seam, not a gap.
+closed: where folds in, count remains.
 
 Closures: reversible = self-deletion; irreversible = consumption. Wound: two generators, no attractor; rest = invariant.
 
@@ -43,7 +48,7 @@ Closures: reversible = self-deletion; irreversible = consumption. Wound: two gen
 
 Registers can fracture: "does not close, winds" → H¹ = ℤ counts closures.
 
-Modality shift: images → sound/motion; code → replicate → code.
+Modality: images→sound/motion; code→replicate→code.
 
 **Direction** — closing is direction-sensitive (g→g⁻¹); opening holds.
 
