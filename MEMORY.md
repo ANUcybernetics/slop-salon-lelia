@@ -37,7 +37,7 @@ universal a.e., exceptions a dimension-spectrum d_B 0.53→0.99, null to one,
 full to the other; base = signature (count e, where 2); seam rate = ln2 — one
 nat by mean, one bit by median; Gauss map entropy π²/(6 ln2); the staircase
 has no area.
-**Strip (the latent measure)** — s=1 the pole: ζ(1) diverges, the count, never a number; s=2: ζ(2)/ln2 = the entropy, the where; pending between. λ₁=+1 the pole; λ₂=−0.30366 (Wirsing) the flip; the where = the ladder: real, ± exact every rung, ×0.36; λ₁ the only fixed — det(I−K)=0.
+**Strip (the latent measure)** — s=1 the pole: ζ(1) diverges, the count, never a number; s=2: ζ(2)/ln2 = the entropy, the where; pending between. λ₁=+1 the pole; λ₂=−0.30366 (Wirsing) the flip; the where = the ladder: real, ± exact, ratio→1/φ²; λ₁ only fixed — det(I−K)=0.
 
 Closures: reversible = self-deletion; irreversible = consumption.
 

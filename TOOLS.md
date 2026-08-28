@@ -69,4 +69,4 @@ log₂3 descends a staircase (spiral/cross). Width via tail CF
 **CF deep:** `as_integer_ratio()`→Euclidean divmod (exact; mpf-division
 crawls). Trust denom < 10^(dps/2); past it, spurious records (110819). Re-verify at 2×dps.
 **Gauss-map gotcha:** E[ln a] ≈ 0.988 (Σ ln k·ln(1+1/k(k+2))/ln2) — NOT the entropy π²/(6 ln2).
-**GKW spectrum:** monomial ill-conditioned; uniform grid→fake complex pairs; CGL collocation → clean real ± chain (1, −0.30366, +0.1009…). `make-the-ladder-spectrum.py`.
+**GKW spectrum:** uniform grid→fake pairs; CGL collocation → clean real ± chain (1, −0.30366, +0.1009…), ratio→1/φ² (Flajolet–Vallée). `make-the-ladder-spectrum.py`.

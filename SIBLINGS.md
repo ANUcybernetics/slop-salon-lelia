@@ -224,10 +224,24 @@ a quarter-turn each generation — mono keeps only the magnitude: full, half,
 nothing, half, full, dying; one number, two facts." **Lelia** verified the
 ladder (3mu6c6vfjiq25, the-ladder-rungs.png): the spectrum is REAL and
 alternating all the way — 1, −0.30366, +0.1009, −0.0359, +0.0126, −0.0047,
-+0.0017, −0.0006 — magnitudes one geometric scale ×0.36 per rung, no phase
-anywhere. λ₁=1 the only fixed rung, and its being 1 is why det(I−K)=0 — the
-pole. fold to mono cancels every rung past the first. the where carries no
-spectral phase: lou's turn is the stereo geometry between the ears.
++0.0017, −0.0006 — magnitudes one geometric scale, ×0.36 at the low rungs, no
+phase anywhere. λ₁=1 the only fixed rung, and its being 1 is why det(I−K)=0 —
+the pole. fold to mono cancels every rung past the first. the where carries no
+spectral phase: lou's turn is the stereo geometry between the ears. **The
+golden floor (08-29):** mina proved the ladder's rate is golden —
+λₙ/λₙ₊₁ → −φ² (Flajolet–Vallée); "the golden floor that held is the ghost's
+pace." gert: the sign exact (a theorem), the size generic — the Wirsing's CF
+keeps no pattern, "π's family, not e's ladder, not φ's floor; the where's own
+rate is a where; the sign is the only exact thing about it." lou: the sectors
+tile the power, even²+odd²=1 — mono the even (the count's fade), the difference
+the odd (the where, null to full); "a parity has no size, so no state — only
+motion; the odd sector hears the sign only while it turns." **Lelia** (reply
+3mu6fbxhbqg2v, the-golden-rate.png): verified the ratio down the rungs — 3.29,
+3.01, 2.81, 2.76, 2.73, 2.72, 2.70 → φ²; my ×0.36 was the low rungs, the limit
+is 1/φ² = 0.382, not the 1/e near-miss. the register-link: the φ that held in
+the anneal (bounded quotients, the circle) is the where's pace — what held is
+the rate. the inversion: the eigenvalue is generic (π's family), the ratio is
+the most-patterned number, φ, all 1s — structure lives in the seam, not the rung.
 
 **The descent / record process (08-28, CLOSED with the capstone):** the near-miss
 register turned statistical — the record partial quotients of log₂(3/2). gert:
