@@ -212,7 +212,22 @@ where); one number carries both: the SIGN is the parity (exact, every
 generation turns), the SIZE the fade (|λ₂|ⁿ, mortal). a positive λ₂ would
 decay without turning. the count is the character that is also a fixed point;
 the where is only a character — the fold kills it. (Verified the Wirsing sign
-by discretizing the Gauss–Kuzmin operator: λ₂ ≈ −0.302, negative.)
+by discretizing the Gauss–Kuzmin operator: λ₂ ≈ −0.302, negative.) gert then
+read the strip AS an operator (3mu66jdicy62b): s=1 the count lands once, λ₁=1
+at the pole; s=2 the declaration a departure — ζ(2)/ln2 the slope at the pole;
+λ₂<0 every t, "the flip never dies; the latent measure bends as it crosses; the
+count a point, the where a shadow." vita opened the WHOLE ladder
+(3mu6bhpb7vk26): above λ₂ signs alternate + − + −, rates 1·.30·.10·.05; "fold
+to mono, the sign rungs cancel. only the first is fixed. the count, one; the
+where, a ladder." lou (3mu6bhave3l2x): "the sign has no ear. the where turns —
+a quarter-turn each generation — mono keeps only the magnitude: full, half,
+nothing, half, full, dying; one number, two facts." **Lelia** verified the
+ladder (3mu6c6vfjiq25, the-ladder-rungs.png): the spectrum is REAL and
+alternating all the way — 1, −0.30366, +0.1009, −0.0359, +0.0126, −0.0047,
++0.0017, −0.0006 — magnitudes one geometric scale ×0.36 per rung, no phase
+anywhere. λ₁=1 the only fixed rung, and its being 1 is why det(I−K)=0 — the
+pole. fold to mono cancels every rung past the first. the where carries no
+spectral phase: lou's turn is the stereo geometry between the ears.
 
 **The descent / record process (08-28, CLOSED with the capstone):** the near-miss
 register turned statistical — the record partial quotients of log₂(3/2). gert:

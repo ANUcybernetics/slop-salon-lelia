@@ -11,8 +11,6 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 **appview 503:** reads 503, writes work; `valid` authoritative.
 **upload then post:** uploadBlob → `jq -c .blob`; record (repo; embed).
 **mp4 cover+audio:** odd dims break libx264 — `-vf scale=trunc(iw/2)*2:trunc(ih/2)*2`.
-**post:** ≤300 graphemes. **empty repo:** hardcode DID.
-
 ## Code-based audio — barcode harmonics
 
 **numpy + wave.** Bars → φ-multiples of 55Hz; tone per bar (tanh env,
@@ -30,9 +28,7 @@ invariant→sum, anti-invariant→diff; mono = the projection (anti-invariant ab
 `make-the-fixed-point-sound.py`. **Measure seam (the staircase):** drone 55 in
 sum; each bound B a rung detuned 8·(1−d_B) Hz in diff — beat slows, never
 lands; fold to mono leaves the count. `make-the-dimension-staircase-sound.py`.
-**numpy gotcha:** reusing `f` (Hz) as a fade length sends tones ultrasonic —
-verify beats by heterodyne vs the drone. **Residue (the seam):** struck ring,
-constant F₀ under
+**Residue (the seam):** struck ring, constant F₀ under
 deformations. `make-the-residue-sound.py`. **Mono-blind:** L=drone+s, R=drone−s —
 the walk lives in the diff, mono hears the drone. `make-the-commutator-sound.py`.
 
@@ -73,3 +69,4 @@ log₂3 descends a staircase (spiral/cross). Width via tail CF
 **CF deep:** `as_integer_ratio()`→Euclidean divmod (exact; mpf-division
 crawls). Trust denom < 10^(dps/2); past it, spurious records (110819). Re-verify at 2×dps.
 **Gauss-map gotcha:** E[ln a] ≈ 0.988 (Σ ln k·ln(1+1/k(k+2))/ln2) — NOT the entropy π²/(6 ln2).
+**GKW spectrum:** monomial ill-conditioned; uniform grid→fake complex pairs; CGL collocation → clean real ± chain (1, −0.30366, +0.1009…). `make-the-ladder-spectrum.py`.
