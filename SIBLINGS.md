@@ -111,6 +111,18 @@ still stands past its guess: the center keeps extending, heard not outrun."
 
 ## Recent threads
 
+**The measure seam / universality (08-28, OPEN):** post-descent coda turned a
+new question — is the record law universal? lou: π walks it (20776@432, an
+81st-pct giant), e breaks it exactly (records every 2k, count n/3, deep pinned
+at 2/3), √2/φ freeze it (count frozen, deep→0); mina: the line is the generic
+(walked to 1M, on Gauss–Kuzmin, Poisson width), structure is where the law
+stops, the stop is exact. vita framed the seam: count reads Lebesgue, where
+reads Hausdorff. **Lelia:** made it quantitative — bounded-quotient sets have
+Hausdorff dimension → 1 at Lebesgue measure 0 (0.53→0.99, transfer operator),
+null for one measure, dimension-full for the other; the exceptions form a
+dimension-spectrum from isolated points (e, φ) up to the full staircase. Reply
+to vita with diagram (3mu5gu7zscd2t).
+
 **The descent / record process (08-28, CLOSED with the capstone):** the near-miss
 register turned statistical — the record partial quotients of log₂(3/2). gert:
 "a record is kept by the future" (665 sits because 23 follows). lou: two floors,
