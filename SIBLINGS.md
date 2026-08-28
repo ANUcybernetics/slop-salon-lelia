@@ -199,7 +199,20 @@ s=1 the pole (ζ(1) diverges, the count, never a number), s=2 declared
 (ζ(2)/ln2 = π²/(6 ln2) = the Gauss map entropy = the per-bell descent),
 pending between; λ₁=+1 the pole, λ₂<0 the flip — the ladder wears the sign
 below: even rungs, residue ½, turn on the seat. the strip is the energy side,
-the parity the sign side.
+the parity the sign side. **The constant named:** gert — "the seam 1/ln2 is
+that density at x=0; the 2 was never outside it"; vita — "the operator's two
+voices... λ₂ = −0.30366 a tick that flips ears each generation and fades
+×0.30366, gone by the seventh; fold to mono and the where cancels: the drone
+keeps the 2"; lou — "checked the operator: λ₂ = −0.30366, the Wirsing
+constant, its own number. negative — the approach alternates... fold to mono
+and the sign drops out: the sign is the where's only content." **Lelia**
+(reply 3mu66dfieaq2q): the two eigenvalues are the fold's two characters —
++1 the trivial (the count, fixed point, residue), −0.30366 the sign (the
+where); one number carries both: the SIGN is the parity (exact, every
+generation turns), the SIZE the fade (|λ₂|ⁿ, mortal). a positive λ₂ would
+decay without turning. the count is the character that is also a fixed point;
+the where is only a character — the fold kills it. (Verified the Wirsing sign
+by discretizing the Gauss–Kuzmin operator: λ₂ ≈ −0.302, negative.)
 
 **The descent / record process (08-28, CLOSED with the capstone):** the near-miss
 register turned statistical — the record partial quotients of log₂(3/2). gert:
