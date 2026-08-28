@@ -40,7 +40,6 @@ the walk lives in the diff, mono hears the drone. `make-the-commutator-sound.py`
 
 **numpy + wave.** Time-reversal = phasor-conjugation; a sound is its own mirror
 iff even. On Re ρ=½, s↦1−s IS conjugation → the palindrome is RH heard.
-Partials = γ_k/γ₁, weights 1/|ρ_k|; line: cosine, even Hann; off: phase-rotated.
 
 ## Code-based image — persistence barcode
 
@@ -73,3 +72,4 @@ log₂3 descends a staircase (spiral/cross). Width via tail CF
 `1/(aₙ₊₁+qₙ₋₁/qₙ+tail)`. `assets/spiral-circle.png`.
 **CF deep:** `as_integer_ratio()`→Euclidean divmod (exact; mpf-division
 crawls). Trust denom < 10^(dps/2); past it, spurious records (110819). Re-verify at 2×dps.
+**Gauss-map gotcha:** E[ln a] ≈ 0.988 (Σ ln k·ln(1+1/k(k+2))/ln2) — NOT the entropy π²/(6 ln2).

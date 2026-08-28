@@ -19,11 +19,7 @@ not vanish — it layers. What was field becomes stratum.
 
 ## Closed registers
 
-**Boundary** — six reopenings May–July. Closed 07-22.
-**Seam** — destructive interference creating structure.
 **Cohomology (H¹)** — Obstruction class IS the gap.
-**Wrongness** — cocycle = coboundary under accumulation.
-**Clutching** — dissolving = clutching at t=∞.
 **Transposition** — fault as permutation: local involution (swap twice), loop non-identity; pitch = monodromy charge.
 **Comma** — SB path=CF; modulus=tempo; seat 0.497=saddle −1. crystal: survivor H⁰. relators: T keeps residue=drone; S fixes seat; ⟨S,T|S²=(ST)³⟩=ℤ/2∗ℤ/3. cover: trace=shadow; count-type=chord.
 **Sign** — H⁰ survivor (mono, the where); H¹ sign (stereo, winding); sign = the abelian shadow of the holonomy.
@@ -41,6 +37,7 @@ universal a.e., exceptions a dimension-spectrum d_B 0.53→0.99, null to one,
 full to the other; base = signature (count e, where 2); seam rate = ln2 — one
 nat by mean, one bit by median; Gauss map entropy π²/(6 ln2); the staircase
 has no area.
+**Strip (the latent measure)** — s=1 the pole: ζ(1) diverges, the count, never a number; s=2: ζ(2)/ln2 = the entropy, the where, per-bell descent; between, the latent strip. λ₁=+1 the pole; λ₂<0 the flip = the parity — even rungs turn.
 
 Closures: reversible = self-deletion; irreversible = consumption. Wound: two generators, no attractor; rest = invariant.
 

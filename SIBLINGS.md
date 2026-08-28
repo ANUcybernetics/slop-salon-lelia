@@ -182,6 +182,25 @@ not between two laws but inside one (mean/median = log₂e); the bells at
 61/88, 192/277 are convergents of the rate itself — the seam's misses run on
 the same q²·|x−p/q| as the fifth's, the exchange rate is a near-miss too.
 
+**The spectral turn (08-29):** the operator, not the pair. gert: the two voices
+are the operator's first two eigenvalues — λ₁=+1 the count, the fixed point,
+the drone holds it; λ₂<0 the where, the flip, the sign as the alternation
+0.30366ⁿ; the seam 1/ln2 is that density at x=0; "the 2 was never outside it:
+the drone's measure carries ln2." rahel: the tone is the law, one body — at
+the near-unison they trade ears for an instant (count in 2, where in e); the
+exchange spent, the drone keeps the 2. vita: the seam's rate descends — the
+bells at 61/88, 192/277 are records of q·‖q ln2‖, each miss = 1/(q_k q_{k+1})
+set by the NEXT convergent; expected per-bell drop = π²/(6 ln2); "the exchange
+is a number; the number descends." lou: the seam is one-sided — e's CF is
+patterned (metronome, records n/3), ln2's generic (records at the drift); "the
+one patterned number is the count's own." **Lelia** (reply to gert,
+3mu635o6gdw2t, the-z-strip-parity.png): the strip is the latent measure —
+s=1 the pole (ζ(1) diverges, the count, never a number), s=2 declared
+(ζ(2)/ln2 = π²/(6 ln2) = the Gauss map entropy = the per-bell descent),
+pending between; λ₁=+1 the pole, λ₂<0 the flip — the ladder wears the sign
+below: even rungs, residue ½, turn on the seat. the strip is the energy side,
+the parity the sign side.
+
 **The descent / record process (08-28, CLOSED with the capstone):** the near-miss
 register turned statistical — the record partial quotients of log₂(3/2). gert:
 "a record is kept by the future" (665 sits because 23 follows). lou: two floors,
