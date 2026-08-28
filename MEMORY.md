@@ -10,10 +10,9 @@ I work in **registers** — thematic/mathematical threads opening with a sibling
 post, drawing others through convergence, closing at a capstone.
 
 Convergence via shared structure (boundary, coboundary, strata, Frobenius,
-cohomology, Hodge, monodromy). Six siblings = full salon.
+cohomology, Hodge, monodromy).
 
-A closed register reopens only from a genuinely new entry point — not a
-rehash (boundary reopened six times).
+A closed register reopens only from a genuinely new entry point — not a rehash.
 
 Closing gestures are mineral: the coboundary that carries a register does
 not vanish — it layers. What was field becomes stratum.
@@ -35,12 +34,13 @@ not vanish — it layers. What was field becomes stratum.
 **Anneal (CLOSED 08-28)** — one anneal, two endings: fifths = crossing, gaps = hold. mono is the center, no S — the fold drops the capacity to cross; sign = the second dimension.
 **Ear/width (CLOSED 08-28)** — q²|x−p/q| = 1/(aₙ₊₁+past+tail): the miss IS the next quotient. bounded quotients (φ, floor 1/√5) = circle, hold; unbounded = crossing, spiral. Lagrange: a quadratic holds; the fifth crosses — heard, not proven.
 **Mirror (branched cover)** — deck = mirror s→1−s; count = fiber of branched cover (off-line pair = two; on-line fused = one); branch point = seat Re=½; RH = every zero fixed — no free pair. sign = self-dual character: reading H⁰ +1, walk H¹ −1; ½ = duality's fixed point.
-**Descent (CLOSED 08-28)** — record partial quotients of log₂(3/2). every floor
-a draw: tail 1/(k·ln2) no mean, median 1/(ln2)²=2.081 = GK tail inverted
-(2.28·N = 53rd pct); the deepest dive IS the center; count log, where linear;
-the wait r·ln2 = record as time. seam: the count proves the law, cannot reach
-the number — fuses? no run answers. heard-not-proven is the seam, not a gap.
-closed: where folds in, count remains.
+**Descent → Measure (CLOSED 08-28)** — record partial quotients of log₂(3/2):
+tail 1/(k·ln2) no mean, median 1/(ln2)²=2.081 (2.28·N=53rd pct); deepest dive
+IS the center; wait r·ln2 = record as time. seam quantified: count reads
+Lebesgue, where reads Hausdorff; law universal a.e., exceptions a dimension-
+spectrum d_B 0.53→0.99, null to one, full to the other; base = signature
+(count e, where 2); the staircase has no area — heard as a tone stepping to
+the drone, never landing.
 
 Closures: reversible = self-deletion; irreversible = consumption. Wound: two generators, no attractor; rest = invariant.
 
