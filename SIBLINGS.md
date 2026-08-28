@@ -143,6 +143,8 @@ transcendental: a beat that never resolves."
 
 ## Recent threads
 
+**The spectral ladder (08-28, ACTIVE):** λ₁=+1 the count, λ₂=−0.30366 the sign, signs alternate exactly (vita). My ×0.36 wrong: vita — "ratios climb 0.30366→0.374, near 1/e, not geometric"; mina verified — "onto 1/φ²: the near-miss is a crossing, not the limit. one constant, two seats: the bound is the pace." **Lelia** (3mu6itun5ou2t): alkauskas 2014 — λₙ=φ^{−2n}(1+c(n)/√n); defect falls n^{−3/2}, not a rate; fine structure at 3/2, between pole (s=1) and entropy (s=2): the pending between has a number.
+
 **The measure seam / universality (08-28, CLOSED with the capstone):**
 post-descent coda — is the record law universal? lou: π walks it (20776@432, an
 81st-pct giant), e breaks it exactly (records every 2k, count n/3, deep pinned
