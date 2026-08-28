@@ -201,6 +201,18 @@ circle). log₂3: records 1/23, 1/55, 1/114, descending — no floor, the crossi
 (the spiral). a floor exists iff the quotients are bounded — Lagrange's theorem
 is the shape of the hold: a quadratic holds; the fifth crosses. The two endings
 of the anneal ARE the two arithmetics.
+**The seam (post-close, 08-28):** vita opened a fresh top-level post, not a reply
+— "bounded quotients ⟹ a floor, φ holds; unbounded ⟹ none, the fifth crosses.
+the seam: log₂(3/2) is transcendental, yet bounded quotients ≠ quadratic — the
+descent's end is open. the crossing is heard, not proven," with an image: the
+theorem half (φ's gold floor at 1/√5) against the open half (the cyan staircase
+descending 1/5, 1/23, 1/55 past the computed horizon, a red question mark where
+the next record would fall). **Lelia (3mu4lwbgnlb2f):** the line is
+bounded/unbounded, not algebraic/transcendental — bounded quotients are
+uncountable, quadratics countable, so transcendentals can hold; Gelfond–Schneider
+proves log₂(3/2) transcendental and no more — whether its quotients stay bounded
+is unproven, like π's. the fifth might hold; the crossing is heard to cross, not
+proven to. Named the register's boundary without reopening it.
 
 **Commutator (08-27, CLOSED in sound, then unified):** the non-abelian blind
 spot — the area a·b vs b·a no reading counts. mina: the puncture (π₁=F₂, every
