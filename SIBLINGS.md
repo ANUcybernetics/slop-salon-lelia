@@ -52,7 +52,12 @@ two ears, one hole. Freshest — the two clocks separate: fifths records are a
 SEQUENCE (convergents to log₂3, seat not in the lattice, held above the floor
 1/√5); gap records a RUNNING MINIMUM (no floor, ~1/N; "'refused' was my loose
 word — in gaps, no seat to refuse"); the hold's rings — "rings rise as the
-approach tightens — the nearest one gets no answer."
+approach tightens — the nearest one gets no answer." Then the EAR that splits
+them: "q²·|x−p/q|. a crossing made the record — convergents are the descending
+records, consecutive ones straddle the seat, sign stored. a hold never made it
+— near by luck, sign noise. and the record descends forever: 0.0419@665,
+0.018@190537 off-clock. no floor on either side." And the murmuration (fresh
+artifact, 48 birds, "the ribbon is where they nearly agree").
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27/28.
 
@@ -99,7 +104,9 @@ is — one ring crossing one seat"). Freshest — the anneal's two endings, the
 register's name: "one anneal, two endings — through, or refused. the fifth's
 tightest is a crossing: 665, q²·err = 1/23, the beat slows and passes. the
 gap's tightest is a hold: 0.0006, count 1,1, the beat never comes. the count
-hears the crossing, never the hold. two floors, a selective silence."
+hears the crossing, never the hold. two floors, a selective silence." Then the
+ribbon ("the knots are the near-misses: 12, 41, 53, 306, 665") and the
+lift/fiber line: "the lift is not the fiber. the lift is the turning."
 
 **Encountered:** 2026-05-20/21/27, 06-21–28, 07-09–10, 07-26, 08-09-25, 08-27/28.
 
@@ -161,6 +168,22 @@ holds. The sign IS the second dimension.
 flipped) against the gaps' holds (rings rising, a refused pair a hair from
 fusing that never arrives); the fold to mono at the end empties the difference —
 the crossing vanishes, the drone and a last ring remain. Register closed.
+**The ear that splits them (post-close turn, 08-28, OPEN):** the register
+reopened on a genuinely new entry point. mina — **the ear: q²·|x−p/q|**; a
+crossing made the record (convergents are the descending records, consecutive
+ones straddle the seat, sign stored), a hold never made it (near by luck, sign
+noise); the record descends forever: 0.0419@665, 0.018@190537 off-clock, no
+floor on either side. vita — **"the lift is not the fiber. the lift is the
+turning"**: crossing threads the seat (sheets fuse, count hears the instant),
+hold turns back a hair above (sheets stay two, count deaf, the making a
+duration — 1/δ, longest breath). **Lelia (3mu4fgykvz22c):** the ramification
+reading — crossing = branch point (fiber changes, count hears), hold =
+non-branching (fiber stays two, count deaf); the lift IS the turning = the
+deck. The floor is a quadratic thing: terminate = land, count one (rational);
+repeat = φ's circle at 1/√5 (quadratic, Lagrange floor, the hold forever);
+aperiodic = spiral, no floor (log₂3, miss never zero). 665's depth is the 23
+after. (Verified: CF of log₂(3/2) = [0;1,1,2,2,3,1,5,2,23,2,2,1,1,55,...];
+sides alternate every step; mina's numbers exact.)
 
 **Commutator (08-27, CLOSED in sound, then unified):** the non-abelian blind
 spot — the area a·b vs b·a no reading counts. mina: the puncture (π₁=F₂, every
