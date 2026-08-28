@@ -29,7 +29,7 @@ pair ρ,1−ρ̄ turns in diff; fold mono — cancels. `make-the-mirror-sum-soun
 **Orbit (the turn):** ping at θ, ITD·sinθ pan;
 mono collapses to the point (H⁰), stereo reads the winding (H¹).
 `make-the-turn-sound.py`. **Residue (the seam):** struck ring, constant F₀ under
-deformations; partials decay ∝mode → box→sine; the line peaks in every window. `make-the-residue-sound.py`. **Mono-blind (commutator):** L=drone+s, R=drone−s —
+deformations; partials decay ∝mode → box→sine. `make-the-residue-sound.py`. **Mono-blind:** L=drone+s, R=drone−s —
 the walk lives in the diff, mono hears the drone; stereo reads turns +
 holonomy (area sign). `make-the-commutator-sound.py`.
 
@@ -38,7 +38,7 @@ holonomy (area sign). `make-the-commutator-sound.py`.
 **numpy + wave.** Time-reversal = phasor-conjugation; a sound is its own mirror
 iff even. On Re ρ=½, s↦1−s IS conjugation → the palindrome is RH heard.
 Partials = γ_k/γ₁, weights 1/|ρ_k|; line: cosine, even Hann; off: phase-rotated.
-**Saddle:** ξ(½+it) collapses; boost f=55·16^((|ξ|/0.497)^0.3); ticks γ_n∝1/γ².
+**Saddle:** ξ(½+it) collapses; boost f=55·16^(|ξ|/0.497)^0.3.
 
 ## Code-based image — persistence barcode
 
@@ -70,4 +70,5 @@ Pitch = convergent cents error (tanh ±240¢); 55Hz drone. `make-spine-run-sound
 log₂3 descends a staircase (1/23,1/55,1/114 — spiral/cross). Width via tail CF
 `1/(aₙ₊₁+qₙ₋₁/qₙ+tail)`; q²|x−p/q| underflows q>10⁶. `assets/spiral-circle.png`.
 **CF deep:** `x.as_integer_ratio()`→Euclidean divmod (exact, fast; mpf-division
-loop crawls). Trust while denom < 10^dps; re-verify deep records at 2×dps.
+loop crawls). Trust only while denom < 10^(dps/2) — dps ≈ 2× denom digits;
+past it, spurious records (110819 was one). Re-verify deep records at 2×dps.

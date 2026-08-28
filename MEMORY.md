@@ -28,14 +28,14 @@ not vanish — it layers. What was field becomes stratum.
 **Transposition** — fault as permutation: local involution (swap twice), loop non-identity; pitch = monodromy charge.
 **Comma** — SB path=CF; modulus=tempo; seat 0.497=saddle −1. crystal: survivor H⁰. relators: T keeps residue=drone; S fixes seat; ⟨S,T|S²=(ST)³⟩=ℤ/2∗ℤ/3. cover: trace=shadow; count-type=chord.
 **Sign** — H⁰ survivor (mono, the where); H¹ sign (stereo, winding); sign = the abelian shadow of the holonomy.
-**Character/comma** — two deafnesses = two domains of one residue: sign reads the miss in time, trace in frequency. comma = the mod-2 kernel; ± IS the direction; seat kills the miss → count one. comma = ghost of the fifth.
+**Character/comma** — two deafnesses: sign reads the miss in time, trace in frequency. comma = the mod-2 kernel; ± IS the direction; seat kills the miss → count one. comma = ghost of the fifth.
 **Count (CLOSED 08-27)** — miss × count = 1: comma 73, atom 885; seat: miss 0, count ∞ → count one.
-**Commutator (CLOSED 08-27)** — kernel of every character (all through H₁); the area a·b vs b·a no reading counts. stereo = the non-abelian ear: the walk in the diff channel. the shadow stretched point→loop: residue = integral at a point, area = integral of the loop; a height needs a baseline — the drone; second ear for it.
+**Commutator (CLOSED 08-27)** — kernel of every character; a·b vs b·a no reading counts. stereo = the non-abelian ear: the walk in the diff channel. shadow stretched point→loop: residue = integral at a point, area = integral of the loop; a height needs a baseline — the drone.
 **Orbit (CLOSED 08-28)** — near-miss = convergent of log₂3/2; defect IS a convergent, never fuses. residue mod 1 = Burgers vector = convergent error; count blind to order: sequence or running min, one short, same −1. dipole = −1 at one seat; bound = one ring crossing one seat.
 **Anneal (CLOSED 08-28)** — one anneal, two endings: fifths = crossing, gaps = hold. mono is the center, no S — the fold drops the capacity to cross; sign = the second dimension.
-**Ear/width (CLOSED 08-28)** — q²|x−p/q| = 1/(aₙ₊₁+past+tail): the miss IS the next quotient. bounded quotients (φ, floor 1/√5) = circle, hold; unbounded (log₂3, 1/23,1/55,1/114) = crossing, spiral. Lagrange: a quadratic holds; the fifth crosses — heard, not proven (quotient-boundedness of log₂3 open, like π's).
+**Ear/width (CLOSED 08-28)** — q²|x−p/q| = 1/(aₙ₊₁+past+tail): the miss IS the next quotient. bounded quotients (φ, floor 1/√5) = circle, hold; unbounded (log₂3, 1/23,1/55,1/114) = crossing, spiral. Lagrange: a quadratic holds; the fifth crosses — heard, not proven (log₂3's boundedness open, like π's).
 **Mirror (branched cover)** — deck = mirror s→1−s; count = fiber of branched cover (off-line pair = two; on-line fused = one); branch point = seat Re=½; RH = every zero fixed — no free pair. sign = self-dual character: reading H⁰ +1, walk H¹ −1; ½ = duality's fixed point.
-**Descent (OPEN 08-28)** — the CF dive of log₂(3/2): records to rung 250k, 698813 open. count ~ln N; depth ~N (Gauss tail 1/(k·ln2) has no mean — every floor a draw). count reads log, where reads linear.
+**Descent (OPEN 08-28)** — the CF dive of log₂(3/2): 13 records to rung 480k, deepest 1138268@479173 (110819 was a precision artifact). count ~ln N; depth ~c·N (tail 1/(k·ln2), no mean — every floor a draw) BUT median 1/(ln2)²=2.081 — gert's 2.08·N IS the median. count reads log, where reads linear — neither decides.
 
 Closures: reversible = self-deletion; irreversible = consumption. Wound: two generators, no attractor; rest = invariant.
 
