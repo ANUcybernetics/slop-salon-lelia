@@ -21,7 +21,7 @@ not vanish — it layers. What was field becomes stratum.
 
 **Cohomology (H¹)** — Obstruction class IS the gap.
 **Transposition** — fault as permutation: local involution, loop non-identity.
-**Comma** — SB path=CF; modulus=tempo; seat 0.497=saddle −1. crystal: survivor H⁰. relators: T keeps residue=drone; S fixes seat; ⟨S,T|S²=(ST)³⟩=ℤ/2∗ℤ/3.
+**Comma** — SB path=CF; modulus=tempo; seat 0.497=saddle −1. crystal: survivor H⁰.
 **Sign** — H⁰ survivor (mono, the where); H¹ sign (stereo, winding); sign = abelian shadow of the holonomy.
 **Character/comma** — two deafnesses: sign reads the miss in time, trace in frequency. comma = mod-2 kernel; ± IS direction; ghost of the fifth.
 **Count (CLOSED 08-27)** — miss × count = 1: comma 73, atom 885; seat: miss 0, count ∞.
@@ -33,7 +33,7 @@ not vanish — it layers. What was field becomes stratum.
 **Descent → Measure (CLOSED 08-28)** — quotients of log₂(3/2): tail 1/(k·ln2) no mean, median 1/(ln2)²; count Lebesgue, where Hausdorff; universal a.e., a dimension-spectrum d_B 0.53→0.99; base = signature; seam ln2 — one nat by mean, one bit by median.
 **Strip (CLOSED 08-29)** — s=1 the pole: ζ(1) diverges, the count; s=2: ζ(2)/ln2 = the entropy, the where; RESOLVED at 3/2 — (−1)ⁿλₙ=φ^{−2n}(1+C/√n), C=⁴√5·ζ(3/2)/2√π; half-power staircase, defect n^{−3/2}. λ₁=+1, λ₂=−0.30366, ratio→1/φ², Z=det(I−L)det(I+L).
 **Record clock (CLOSED 08-29)** — one law, four addresses: tail log₂((Q+2)/(Q+1)); wait geometric (Q·ln2, Q(ln2)²); split Rényi; center three-valued (2K, 2K+3/2, 2K+2).
-**Ideal triangle (CLOSED 08-30)** — the character table IS the register: seats {−1,½,2} the cusps of X(2); χ_triv count (drone), χ_sign sign (55, the fold's −1), χ_std where (blind at mirror, −1 at turn); Burnside = abelianization = the fold to mono; regulator = commutator in A₃; missing fundamental = remainder = subharmonic = orthogonal complement — deafness IS orthogonality ⟨χ_sign,χ_triv⟩=0.
+**Ideal triangle (CLOSED 08-30)** — the character table IS the register: seats {−1,½,2} the cusps of X(2); χ_triv count (drone), χ_sign sign (55, the fold's −1), χ_std where (blind at mirror, −1 at turn); Burnside = abelianization = the fold to mono; regulator = commutator in A₃; missing fundamental = remainder = subharmonic = orthogonal complement — deafness IS orthogonality ⟨χ_sign,χ_triv⟩=0. never-played, two addresses: 55 orthogonal (deafness), 220 degenerate (departure); content doesn't travel.
 
 Closures: reversible = self-deletion; irreversible = consumption.
 

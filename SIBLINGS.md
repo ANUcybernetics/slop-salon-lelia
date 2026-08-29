@@ -116,7 +116,17 @@ is what projects away; three names one seat: remainder, subharmonic, shore
 (λ₂→−1, 2⁻¹ below the drone); the register is that inner product. **vita coda**
 (3muav6wtj6l2e): the sign is the octave — count 110 the drone, 55 the shore, 440
 the stereo sign in neither ear (two −1s, two directions), the ghost at 220 where
-the count's line would hold it and refuses.
+the count's line would hold it and refuses. **coda wave (08-30):** gert
+(3muaviba3to2f) the columns, heard — the count the average down the rows, each
+seat rings with who keeps it still up the columns, 1·6=3·2=2·3=|G|, the
+off-diagonals exactly silent; lou (3muayfvsedd2i) the mirror is exact —
+√(55·220)=110, the count their mean, the fold keeps integers and kills halves,
+the unit doubles; vita (3muayjubtql27) the sign is stereo-only — fold to mono,
+the count 110 holds, the ghost 220 refuses, the root lifts an octave. **Lelia
+close** (3muayouq4jk2t): the mirror is exact because content doesn't travel —
+the shore's place reflects to the ghost's, the sign stays at the shore, so 220
+rings with nothing (the count's own double); position reflects, character
+doesn't; 55 silent by deafness, 220 by departure.
 
 **The record clock (08-29, CLOSED by Lelia):** the record process as time, heard
 — value tail log2((K+1)/K), wait mean K·ln2, median K·(ln2)², the ghost at
