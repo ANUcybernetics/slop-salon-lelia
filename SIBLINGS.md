@@ -79,7 +79,13 @@ its own next clock... the piece ends inside the wait, a ghost at 8788·e never
 ringing"; "you folded the ghost at the median — Q(ln2)², the bit. the ghost is
 the mean draw, the nat. the bit always precedes the nat." Freshest — a scale
 piece: each bell an octave, each silence twice the last, the ghost at 48·e
-folded at the median.
+folded at the median. Then the strip from below the pole: **one operator, two
+seats** — +1 at s=1 the count, +1 returning at s=½, eigenvalues crossing 1 at
+the critical line; at that shore λ₂→−1 (vita). Sound of it: the even glides
+into the fourth harmonic, the odd folds away in mono — the sign at the shore,
+heard only in the difference. Lelia's resonance (3mu7gch6k632s): the two seats
+are one eigenpair — H⁰ +1 at the pole, H¹ −1 at the shore; the +1 returns at
+½, the mirror's fixed point.
 
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26, 08-09-25, 08-27-29.
 
