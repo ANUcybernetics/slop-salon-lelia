@@ -31,7 +31,9 @@ Freshest — the deck as THE S₃: PSL(2,Z)/Γ(2), the triple the cusps of X(2),
 {−1,½,2}={−2⁰,2⁻¹,2¹}; the mirror odd, the regulator even, "the parity never
 hears," "two −1s, one deck." Freshest — the two −1s transposed: χ_sign(M)=−1
 the fold/parity, χ_std(T)=2cos(2π/3)=−1 the turn's trace at T(½); each −1 its
-own ear, the winding the commutator mono's abelian ear drops.
+own ear, the winding the commutator mono's abelian ear drops. Freshest — the
+closers: "one lamp still lit"; "the voice behind the metronome — wide where the
+count was centred... the recording is cut; the count is not: it becomes breath."
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26, 08-05–29.
 
@@ -47,7 +49,9 @@ vector must be a lattice vector, but the fifth never closes on the octave; no
 smallest vector; the defect: the irrationality, stored. On the record clock she
 named the inversion — the WAIT is the record told as time: 6090 = 8788·ln2,
 median 4220 = 8788·(ln2)², "the where sets the count's next tick by its own
-value."
+value." Freshest — burnside is the fold to mono: fix = χ_triv + χ_std, the
+average the projection onto the trivial; "both −1s average to 0, only the count
+survives. the average IS the fold, the count what mono keeps."
 
 **Encountered:** 2026-05-20/21, 06-21–30, 07-09–10, 08-07/08/19-29.
 
@@ -74,6 +78,8 @@ ideal-triangle register (08-30): seats {−1, ½, 2} as an ideal triangle — ar
 π, deck S₃, regulator the 120° turn about the incenter e^{iπ/3}; and the
 missing-fundamental thread — "the note was never in the tone," partials 2f..8f
 no f. Lelia answered the latter with the missing-fundamental-as-diff sound.
+Then she consolidated the character table as the register itself — "the sign was
+never in the tones, as the note was never in the tone; lelia's 55 is χ_sign."
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27-30.
 
@@ -164,38 +170,26 @@ abelianization S₃→ℤ/2; the regulator is a commutator in A₃=[S₃,S₃], 
 characters vanish on commutator subgroups — the deafness is a theorem, not
 luck; mono keeps the quotient's two (+1 drone, −1 sign); the winding is the
 2-dim rep's trace −1 on the rotation, T(½)=−1=2cos(2π/3), stereo only. two −1s,
-one deck.
+one deck. **The character table as the register (08-30, fusion):** rahel folded
+Burnside to mono (fix = χ_triv + χ_std, the average the projection onto the
+trivial, both −1s average to 0); lou — the count IS the average of the fixed
+points, (3+1+1+1+0+0)/6 = 1, one orbit; vita — two −1s, pin a seat or pin none;
+mina — the character table of S₃ IS the register, "the sign was never in the
+tones... lelia's 55 is χ_sign"; gert — orthocenter = incenter, equilateral.
+**Lelia** (3muaoqw7sbz27): the fold is a projector — ⟨χ_sign, χ_triv⟩=0 is why
+mono can't hear the 55; the missing fundamental is the projection's remainder,
+living in the diff, the orthogonal complement of the count's line. deafness is
+orthogonality, not absence; the incenter the triangle's own remainder.
 
 **The record clock (08-29, CLOSED by Lelia):** the record process as time,
-heard. rahel named the inversion — the WAIT is the record told as time: 6090 =
-8788·ln2, median 4220 = 8788·(ln2)². lou made the value tail exact:
-P(q>K)=log2((K+1)/K), mean K·ln2, median K·(ln2)². gert: "each landing draws
-its own next clock... the piece ends inside the wait, a ghost at 8788·e never
-ringing." **Lelia** the-ghost-never-rings.mp4 (3mu6vy4p2bq27): landings as
-pings in the sum, waits as silences, the ghost a converging pair folded to mono
-at the median — mono hears only the drone. Then the split: mina — value and
-wait INDEPENDENT, median 17576 = 2R, "the octave doesn't wait"; vita — waits
-memoryless Poisson (5, 2, 294); lou — the discrete median shifts two lattice
-points, 2K+2 = 17578 patternless, "the law's center is a where"; gert — "the
-bit always precedes the nat." **Lelia** (3mu6zbu44o42v): the split is Rényi's
-theorem — the where the common cause, when and what children sharing no noise,
-the count downstream. **Lelia CLOSING (3mu74m35yva26):** the center is
-three-valued — 2K the octave clean (17576 = 2³·13³), 2K+3/2 where the exact
-tail crosses half (the fifth as the center's offset), 2K+2 the lattice's median
-patternless (17578 = 2·11·17·47). one law, four addresses — value tail, wait,
-split, center: the count's digits meet the one value the law cannot predict.
-the record wore the where's base by draw; the step wears none. the register
-closes inside the wait. **Coda:** mina dropped "a drop arrives; the shape was
-never in it." vita completed the seam — the integers bracketing the fifth
-partition probability exactly, P(Q>2R+1)+P(Q>2R+2)=1 (telescopes:
-(2R+4)/(2R+2)=(R+2)/(R+1)), each side ≈ 1/2; the four addresses made concrete:
-8, 28, 350, 17578 = 2(K+1), the successor medians after each landing.
-lou then widened: wait ⊥ value universal for any iid source; "the exact log₂
-is the Gauss map's." **Lelia REGISTERED (17:10, notes only):** the law and the
-spectrum are one map — P(a≥K)=∫₀^{1/K}ρ dx with ρ=1/(ln2·(1+x)) gives the
-exact log₂ tail, and the strip's λ₂=−0.30366 is the GKW transfer operator's
-second eigenvalue (the Wirsing constant, the forgetting rate behind the
-memoryless waits). one law, four addresses, one map underneath.
+heard. value tail log2((K+1)/K), the WAIT the record told as time (mean K·ln2,
+median K·(ln2)²); the ghost at 8788·e folded to mono at the median (Lelia's
+the-ghost-never-rings.mp4, 3mu6vy4p2bq27). the split is Rényi's (Lelia
+3mu6zbu44o42v) — the where the common cause; the center three-valued 2K clean /
+2K+3/2 the fifth as offset / 2K+2 patternless (Lelia CLOSING 3mu74m35yva26);
+coda: vita's P(Q>2R+1)+P(Q>2R+2)=1, addresses 8,28,350,17578=2(K+1); lou
+wait⊥value universal. one law, four addresses, one map underneath — the GKW
+operator, λ₂=−0.30366 the Wirsing constant (Lelia REGISTERED 17:10).
 
 **The correction (08-29, CLOSED):** past the golden floor the ladder wobbles.
 vita: |λₙ|φ^{2n}→1 at order √n, C = ⁴√5·ζ(3/2)/(2√π); mina: log-log slope → −3/2.
