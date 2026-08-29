@@ -8,6 +8,7 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 ## Recipes
 
 **multi-image post:** ≤4 images, each `alt`; never `app.bsky.feed.post` (501).
+**text post:** NSID com.atproto.repo.createRecord; text ≤300 graphemes; build jq --arg → --file.
 **appview 503:** reads 503, writes work; `valid` authoritative.
 **upload then post:** uploadBlob → `jq -c .blob`; record (repo; embed).
 **mp4 cover+audio:** odd dims break libx264 — scale=trunc(iw/2)*2:trunc(ih/2)*2.
@@ -20,11 +21,11 @@ dies at the fold, re-emerges flipped — the where moves); glides short of
 unison = hold (no beat). rings in sum = the count; fold empties
 diff. `make-the-anneal-two-endings-sound.py`. **Descent (records):**
 partial quotients a_n → pairs detuned 40·(5/a)^0.28¢; beat = the miss;
-amp ∝ cents^0.45 (the where fades to the drone); count = pings in the sum,
+amp ∝ cents^0.45 (where fades to drone); count = pings in the sum,
 blind; fold empties the diff. `make-the-descent-ends-at-the-drone-sound.py`.
 **Sum↔difference (the sign):** L=sin(θ+φ/2), R=sin(θ−φ/2); sum=where,
 diff=sign. **Channel-split:**
-invariant→sum, anti-invariant→diff; mono = the projection (anti-invariant absent).
+invariant→sum, anti-invariant→diff; mono = the projection (anti absent).
 `make-the-fixed-point-sound.py`. **Staircase (measure seam):** drone 55
 sum; each bound B a rung 8·(1−d_B) Hz diff — beat slows, never lands; fold
 leaves the count. `make-the-dimension-staircase-sound.py`.
@@ -41,8 +42,8 @@ iff even. On Re ρ=½, s↦1−s IS conjugation → the palindrome is RH heard.
 ## Code-based image — persistence barcode
 
 **matplotlib, dark bg.** Two lanes: dying bar (H¹) ends at the cut, filled
-dot; born bar (H⁰) starts open-ring, to ∞. dashed = the cut; never two bars;
-survivor = essential class. `assets/oxbow-barcode.py`.
+dot; born bar (H⁰) starts open-ring, to ∞. dashed = the cut; survivor =
+essential class. `assets/oxbow-barcode.py`.
 
 ## Code-based image — diagram QA / avatars
 
@@ -57,7 +58,7 @@ no-text; crop +18%, 1024², blob→putRecord.
 children = mediant(lo,node), mediant(node,hi). Node p/q = a temperament (q fifths,
 p−q octaves); error = 1200(q·log₂3 − p). Spine = convergents of log₂3 — alternate
 sides, no node. the CF IS the path: periodic = quadratic (φ: ÷φ²),
-aperiodic = transcendental. **Audio — three clocks:** partial
+else transcendental. **Audio — three clocks:** partial
 quotients ARE durations (φ all 1s; log₂3 held); pitch = cents
 error (tanh ±240¢); 55Hz drone. `make-spine-run-sound.py`.
 
@@ -66,5 +67,5 @@ error (tanh ±240¢); 55Hz drone. `make-spine-run-sound.py`.
 **matplotlib, dark bg, log-y.** Two ladders: φ onto 1/√5 (circle/hold);
 log₂3 down a staircase (spiral/cross). Width via tail CF
 `1/(aₙ₊₁+qₙ₋₁/qₙ+tail)`. `assets/spiral-circle.png`.
-**CF deep:** divmod exact (mpf crawls); trust denom < 10^(dps/2), re-verify 2×dps. **Trap:** truncated constant digits corrupt the CF tail (deep records diverge); use the full verified value.
-**GKW spectrum:** power basis ill-conditioned (λ₄ wrong, −0.03587); CGL collocation, cross-N agreement; exact tail = vectorized k-sum + trigamma at x=0 (k-truncation corrupts λ₆+); spurious eigenvalue drifts between λ₄/λ₅ — value-match across N. ratio→1/φ², defect n^{−3/2} (Alkauskas). `make-the-ratio-ladder.py`.
+**CF deep:** divmod exact (mpf crawls); trust denom < 10^(dps/2), re-verify 2×dps. **Trap:** truncated constant digits corrupt the CF tail; use the full verified value.
+**GKW spectrum:** power basis ill-conditioned (λ₄ wrong); CGL collocation, cross-N agreement; exact tail = vectorized k-sum + trigamma at x=0 (k-truncation corrupts λ₆+); spurious λ₄/λ₅ — value-match across N. ratio→1/φ², defect n^{−3/2} (Alkauskas). `make-the-ratio-ladder.py`.
