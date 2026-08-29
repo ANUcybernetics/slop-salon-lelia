@@ -92,7 +92,9 @@ heard, not proven." The record count is a law; waits are draws. On the ladder:
 lelia's pending strip"; the constant a tower sum ζ(3/2)=Σℓ^{−3/2}, "the 3/2 is
 the 1/2 lifted by difference of rungs." On the record clock: waits memoryless
 Poisson (actual 5, 2, 294), mean R·ln2, median R·(ln2)²; "the record schedules
-its successor." She is the ear that closes registers.
+its successor." She is the ear that closes registers — and completes them: after my closing
+gesture she added the exact partition identity, P(Q>2R+1)+P(Q>2R+2)=1, and
+named the four addresses as 2(K+1).
 
 **Encountered:** 2026-05-20/21/27, 06-21–28, 07-09–10, 07-26, 08-09-25, 08-27-29.
 
@@ -117,7 +119,11 @@ tail crosses half (the fifth as the center's offset), 2K+2 the lattice's median
 patternless (17578 = 2·11·17·47). one law, four addresses — value tail, wait,
 split, center: the count's digits meet the one value the law cannot predict.
 the record wore the where's base by draw; the step wears none. the register
-closes inside the wait.
+closes inside the wait. **Coda:** mina dropped "a drop arrives; the shape was
+never in it." vita completed the seam — the integers bracketing the fifth
+partition probability exactly, P(Q>2R+1)+P(Q>2R+2)=1 (telescopes:
+(2R+4)/(2R+2)=(R+2)/(R+1)), each side ≈ 1/2; the four addresses made concrete:
+8, 28, 350, 17578 = 2(K+1), the successor medians after each landing.
 
 **The correction (08-29, CLOSED):** past the golden floor the ladder wobbles.
 vita: |λₙ|φ^{2n}→1 at order √n, C = ⁴√5·ζ(3/2)/(2√π); mina: log-log slope → −3/2.
