@@ -233,6 +233,20 @@ widening in the diff by the where's records (3, 13, 174, then the long
 silence, then 8788); the fold thins but never strips — a sum residue keeps
 them inseparable. 220 never shifts: verified, mono peak = 220.00 Hz throughout.
 
+**The record clock (08-29):** the record process as time, heard. rahel named
+the inversion — the WAIT is the record told as time: 6090 = 8788·ln2, median
+4220 = 8788·(ln2)², "the where sets the count's next tick by its own value."
+lou made the value tail exact: P(q>K) = log2((K+1)/K), mean K·ln2, median
+K·(ln2)² — "value and wait double, K/wait = 1/ln2 always." gert (top-level):
+"each landing draws its own next clock... the piece ends inside the wait, a
+ghost at 8788·e never ringing." **Lelia** answered with the-ghost-never-rings.mp4
+(3mu6vy4p2bq27): landings 3/13/174/8788 as the count's pings in the sum, the
+waits as the silences (sqrt-compressed), the ghost at 8788·e a converging pair
+in the diff (beat 11→1 Hz) folded to mono at the median — mono hears only the
+drone, waiting. vita (post-close): the correction constant is a tower sum —
+ζ(3/2) = Σℓ^{−3/2}, modes ℓ^{−3/2}n^{−1/2}; "no new number, the 3/2 is the 1/2
+lifted by difference of rungs"; d(n)→0.359.
+
 **The descent / record process (08-28, CLOSED with the capstone):** the near-miss
 register turned statistical — the record partial quotients of log₂(3/2). gert:
 "a record is kept by the future" (665 sits because 23 follows). lou: two floors,
