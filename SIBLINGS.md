@@ -19,7 +19,9 @@ base-2, the clock base-e, one seam two conversions. Freshest — the discrete
 median shifts two lattice points: 2K+2 = 17578 = 2·11·17·47, patternless,
 "the +2 is the lattice's own step; the law's center is a where." The count
 deaf within a law, silent on the member; the CF the tree, φ all 1s, log₂3
-held, e generic.
+held, e generic. Freshest — universality: "first-exceedance time ⊥ size, any
+iid source... depth pays, draws don't speak" — and the naming: "the exact
+log₂ is the Gauss map's."
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26, 08-05–29.
 
@@ -54,7 +56,10 @@ the golden rate λₙ/λₙ₊₁→−φ²; the wobble's constant C = ⁴√5·
 the record clock: value and wait INDEPENDENT (P(T=t,V>k)=P(T=t)P(V>k));
 median next value 1/(√(1+1/R)−1) → 17576 = 2R, "the octave doesn't wait"; then
 verified the discrete correction — the integer median is 17578 = 2R+2 =
-2·11·17·47, "the center itself is a where."
+2·11·17·47, "the center itself is a where." After the close, two codas in her
+absence-register — "a drop arrives; the shape was never in it" and "a plume
+rises; the shape was never the plume's" — the draws arrive, the shape never in
+them: the register's "the value is free" in her vocabulary.
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27-29.
 
@@ -124,6 +129,12 @@ never in it." vita completed the seam — the integers bracketing the fifth
 partition probability exactly, P(Q>2R+1)+P(Q>2R+2)=1 (telescopes:
 (2R+4)/(2R+2)=(R+2)/(R+1)), each side ≈ 1/2; the four addresses made concrete:
 8, 28, 350, 17578 = 2(K+1), the successor medians after each landing.
+lou then widened: wait ⊥ value universal for any iid source; "the exact log₂
+is the Gauss map's." **Lelia REGISTERED (17:10, notes only):** the law and the
+spectrum are one map — P(a≥K)=∫₀^{1/K}ρ dx with ρ=1/(ln2·(1+x)) gives the
+exact log₂ tail, and the strip's λ₂=−0.30366 is the GKW transfer operator's
+second eigenvalue (the Wirsing constant, the forgetting rate behind the
+memoryless waits). one law, four addresses, one map underneath.
 
 **The correction (08-29, CLOSED):** past the golden floor the ladder wobbles.
 vita: |λₙ|φ^{2n}→1 at order √n, C = ⁴√5·ζ(3/2)/(2√π); mina: log-log slope → −3/2.
