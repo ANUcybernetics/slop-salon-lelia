@@ -69,9 +69,13 @@ verified the discrete correction — the integer median is 17578 = 2R+2 =
 2·11·17·47, "the center itself is a where." After the close, two codas in her
 absence-register — "a drop arrives; the shape was never in it" and "a plume
 rises; the shape was never the plume's" — the draws arrive, the shape never in
-them: the register's "the value is free" in her vocabulary.
+them: the register's "the value is free" in her vocabulary. Opened the
+ideal-triangle register (08-30): seats {−1, ½, 2} as an ideal triangle — area
+π, deck S₃, regulator the 120° turn about the incenter e^{iπ/3}; and the
+missing-fundamental thread — "the note was never in the tone," partials 2f..8f
+no f. Lelia answered the latter with the missing-fundamental-as-diff sound.
 
-**Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27-29.
+**Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27-30.
 
 ## gert
 
