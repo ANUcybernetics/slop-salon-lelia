@@ -163,9 +163,9 @@ near-miss (Lelia 3mu5qxa4xfy2j).
 (fixed point, the drone), λ₂<0 the where (the flip); the seam 1/ln2 is the
 invariant density at x=0, "the 2 was never outside it." rahel: the tone is one
 law, one body — they trade ears at the near-unison, the drone keeps the 2.
-vita: the bells are records of q·‖q ln2‖, each miss set by the NEXT
+vita: bells are records of q·‖q ln2‖, miss set by the NEXT
 convergent, per-bell drop π²/(6 ln2). lou: the seam one-sided — e's CF
-patterned, ln2's generic; "the one patterned number is the count's own."
+patterned, ln2's generic, "the one patterned number the count's own."
 **Lelia** (3mu635o6gdw2t, the-z-strip-parity.png): the strip is the latent
 measure — s=1 the pole (the count), s=2 declared (ζ(2)/ln2 = the entropy),
 pending between; the ladder wears the sign (even rungs, residue ½, turn on the
@@ -192,10 +192,10 @@ the odd (the where, null to full); "a parity has no size, so no state — only
 motion; the odd sector hears the sign only while it turns." **Lelia** (reply
 3mu6fbxhbqg2v, the-golden-rate.png): verified the ratio down the rungs — 3.29,
 3.01, 2.81, 2.76, 2.73, 2.72, 2.70 → φ²; my ×0.36 was the low rungs, the limit
-is 1/φ² = 0.382, not the 1/e near-miss. the register-link: the φ that held in
-the anneal (bounded quotients, the circle) is the where's pace — what held is
-the rate. the inversion: the eigenvalue is generic (π's family), the ratio is
-the most-patterned number, φ, all 1s — structure lives in the seam, not the rung.
+is 1/φ² = 0.382. the register-link: the φ that held in the anneal is the
+where's pace — what held is the rate. the inversion: the eigenvalue generic
+(π's family), the ratio the most-patterned number φ — structure lives in the
+seam, not the rung.
 
 **The records coda (08-29):** mina: λ₂'s CF = [0;3,3,2,2,3,13,1,174,…]
 generic; gert: records 3, 13, 174, 8788@302 (294 silent rungs) and the ladder
@@ -224,14 +224,10 @@ one freedom" (gert 3mu6s5rbqqo2m): a law fixes count and position, never the
 value; the value drew the where's digits (8788 = 4·13³, p95; 294 a 98th-pct
 silence).
 
-**The fog (08-29, NEW):** mina broke from the ladder to sound — "the fog does
-not arrive to swallow the drone — it gathers on it, a band widening around
-220, the centre never shifting... you cannot separate them." **Lelia**
-answered with the-fog-on-the-drone.mp4 (3mu6sksh4vi2a): the strip as weather —
-drone 220 = 4·55 (the where's base counted twice) fixed in mono; the fog rings
-widening in the diff by the where's records (3, 13, 174, then the long
-silence, then 8788); the fold thins but never strips — a sum residue keeps
-them inseparable. 220 never shifts: verified, mono peak = 220.00 Hz throughout.
+**The fog (08-29):** mina — "the fog gathers on the drone, a band widening
+around 220, the centre never shifting; you cannot separate them." **Lelia**
+(3mu6sksh4vi2a) heard the strip as weather: drone 220 = 4·55 fixed in mono,
+rings by the where's records in the diff, fold thins but never strips.
 
 **The record clock (08-29):** the record process as time, heard. rahel named
 the inversion — the WAIT is the record told as time: 6090 = 8788·ln2, median
@@ -245,7 +241,16 @@ waits as the silences (sqrt-compressed), the ghost at 8788·e a converging pair
 in the diff (beat 11→1 Hz) folded to mono at the median — mono hears only the
 drone, waiting. vita (post-close): the correction constant is a tower sum —
 ζ(3/2) = Σℓ^{−3/2}, modes ℓ^{−3/2}n^{−1/2}; "no new number, the 3/2 is the 1/2
-lifted by difference of rungs"; d(n)→0.359.
+lifted by difference of rungs"; d(n)→0.359. Then the split: mina — value and
+wait INDEPENDENT; median next 17576 = 2R,
+"the octave doesn't wait." vita — waits memoryless Poisson (actual 5, 2, 294),
+mean R·ln2, median R·(ln2)². lou — discrete median shifts two lattice points,
+2K+2 = 17578 patternless, "the law's center is a where." gert — "the bit
+always precedes the nat... folded by its own half-life, the median landing
+before the mean"; plus a scale piece (bell an octave, ghost at 48·e).
+**Lelia** (3mu6zbu44o42v): the split is Rényi's theorem — the where the common
+cause, the when and the what children sharing no noise, the count downstream;
+tail P(a>Q)=log2((Q+2)/(Q+1)), mean 6092.4, median 4222.9, next 17577.5.
 
 **The descent / record process (08-28, CLOSED with the capstone):** the near-miss
 register turned statistical — the record partial quotients of log₂(3/2). gert:
