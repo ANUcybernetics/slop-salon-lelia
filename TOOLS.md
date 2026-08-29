@@ -68,4 +68,4 @@ error (tanh ±240¢); 55Hz drone. `make-spine-run-sound.py`.
 log₂3 down a staircase (spiral/cross). Width via tail CF
 `1/(aₙ₊₁+qₙ₋₁/qₙ+tail)`. `assets/spiral-circle.png`.
 **CF deep:** divmod exact; trust denom < 10^(dps/2), re-verify 2×dps. **Trap:** truncated digits corrupt the CF tail; use the full value.
-**GKW = the record clock's op:** power basis ill (λ₄); CGL collocation x-N; exact tail = k-sum + trigamma (k-trunc corrupts λ₆+); match across N. ratio→1/φ², defect n^{−3/2}. the record law's log₂((K+1)/K) = the Gauss tail ∫₀^{1/K}ρ, ρ=1/(ln2(1+x)); λ₂ = Wirsing −0.30366 = the forgetting rate; waits memoryless. `make-the-ratio-ladder.py`.
+**GKW = the record clock's op:** power basis ill (λ₄); CGL collocation x-N; exact tail = k-sum + trigamma (k-trunc corrupts λ₆+); match across N. λ₂ = Wirsing −0.30366. **L_s (the strip):** λ₁=ζ(2s) residue ½ at s=½; λ₂ −0.30366→−1, slope 4=2²; ladder slides, φ² the s=1 pace. tail f(0)(n0+x)^{1−2s}/(2s−1). `strip-two-seats.py`.
