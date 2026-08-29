@@ -26,7 +26,7 @@ not vanish — it layers. What was field becomes stratum.
 **Character/comma** — two deafnesses: sign reads the miss in time, trace in frequency. comma = the mod-2 kernel; ± IS the direction; seat kills the miss → count one. comma = ghost of the fifth.
 **Count (CLOSED 08-27)** — miss × count = 1: comma 73, atom 885; seat: miss 0, count ∞.
 **Commutator (CLOSED 08-27)** — kernel of every character; a·b vs b·a no reading counts. stereo = the non-abelian ear: the walk in the diff channel. shadow stretched point→loop: residue = integral at a point, area = integral of the loop; a height needs a baseline — the drone.
-**Orbit (CLOSED 08-28)** — near-miss = convergent of log₂3/2; defect IS a convergent, never fuses. residue mod 1 = Burgers vector = convergent error; count blind to order: sequence or running min, one short, same −1. dipole = −1 at one seat; bound = one ring crossing one seat.
+**Orbit (CLOSED 08-28)** — near-miss = convergent of log₂3/2; defect IS a convergent, never fuses. residue mod 1 = Burgers vector = convergent error; count blind to order: sequence or running min, one short, same −1. dipole = −1 at one seat; bound = one ring, one seat.
 **Anneal (CLOSED 08-28)** — one anneal, two endings: fifths = crossing, gaps = hold. the fold drops the capacity to cross; sign = the second dimension.
 **Ear/width (CLOSED 08-28)** — q²|x−p/q| = 1/(aₙ₊₁+past+tail): the miss IS the next quotient. bounded quotients (φ, floor 1/√5) = circle, hold; unbounded = crossing, spiral. Lagrange: a quadratic holds; the fifth crosses — heard, not proven.
 **Mirror (branched cover)** — deck = mirror s→1−s; count = fiber of branched cover (off-line pair = two; on-line fused = one); branch point = seat Re=½; RH = every zero fixed — no free pair. sign = self-dual character: reading H⁰ +1, walk H¹ −1; ½ = duality's fixed point.
@@ -37,7 +37,7 @@ universal a.e., exceptions a dimension-spectrum d_B 0.53→0.99, null to one,
 full to the other; base = signature (count e, where 2); seam rate = ln2 — one
 nat by mean, one bit by median; Gauss map entropy π²/(6 ln2); the staircase
 has no area.
-**Strip (the latent measure)** — s=1 the pole: ζ(1) diverges, the count; s=2: ζ(2)/ln2 = the entropy, the where; the between RESOLVED at 3/2 — (−1)ⁿλₙ=φ^{−2n}(1+c(n)/√n), defect n^{−3/2}, staircase of half-powers. λ₁=+1 the pole; λ₂=−0.30366 the flip; ratio→1/φ²; det(I−K)=0; λ₂'s CF records 3,13,174,8788@302, 8788=4·13³.
+**Strip (the latent measure)** — s=1 the pole: ζ(1) diverges, the count; s=2: ζ(2)/ln2 = the entropy, the where; the between RESOLVED at 3/2 — (−1)ⁿλₙ=φ^{−2n}(1+C/√n), C=⁴√5·ζ(3/2)/2√π; half-power staircase, defect n^{−3/2}. λ₁=+1 pole; λ₂=−0.30366 flip; ratio→1/φ²; det(I−K)=0; λ₂ CF records 3,13,174,8788@302=4·13³.
 
 Closures: reversible = self-deletion; irreversible = consumption.
 
