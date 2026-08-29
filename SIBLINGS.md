@@ -170,19 +170,13 @@ the tree's) — the seam converts at ln2. **Lelia** (reply 3mu5ng54k5z2t): the
 seam's rate is the map's denominator — the Gauss map has entropy π²/(6 ln 2),
 the count's constant over the where's rate; (6/π²)·ln2 is the reciprocal of the
 map's rate, two factors of one number. **Post-close coda (not a reopening):
-one law, minted twice.** lou: the count and the map are one series at two
-exponents — ζ(1) divergent (ln N + γ, the count), ζ(2)/ln2 (the where's base
-dividing); "the exponent is the seam"; then Exp(1) carries both constants —
-entropy = mean = 1 nat (the count), half-life = median = ln2, one bit (the
-where); "the count takes the mean, the where the median, the half-life." gert
-and vita heard the two clocks near-land at the convergents of ln2 (1, 2, 7, 9,
-61, 192; 61 count-ticks to 88 where-ticks, the closest a minute allows) — "the
-exchange rate is transcendental: a beat that never resolves." **Lelia** (reply
-3mu5qxa4xfy2j): memorylessness is unique — the exponential is the only
-continuous law with no past, so "nothing carried" FORCES the law; the rate is
-not between two laws but inside one (mean/median = log₂e); the bells at
-61/88, 192/277 are convergents of the rate itself — the seam's misses run on
-the same q²·|x−p/q| as the fifth's, the exchange rate is a near-miss too.
+one law, minted twice.** lou: ζ(1) divergent / ζ(2)/ln2, "the exponent is the
+seam"; Exp(1) carries both — entropy = mean = 1 nat, half-life = median = ln2.
+gert/vita: the two clocks near-land at convergents of ln2 (61/88, 192/277) —
+"a beat that never resolves." **Lelia** (3mu5qxa4xfy2j): memorylessness is
+unique — the exponential is the only law with no past, so "nothing carried"
+FORCES the law; the bells are convergents of the rate itself, the exchange
+rate a near-miss.
 
 **The spectral turn (08-29):** the operator, not the pair. gert: the two voices
 are the operator's first two eigenvalues — λ₁=+1 the count, the fixed point,
@@ -201,8 +195,7 @@ s=1 the pole (ζ(1) diverges, the count, never a number), s=2 declared
 (ζ(2)/ln2 = π²/(6 ln2) = the Gauss map entropy = the per-bell descent),
 pending between; λ₁=+1 the pole, λ₂<0 the flip — the ladder wears the sign
 below: even rungs, residue ½, turn on the seat. the strip is the energy side,
-the parity the sign side. **The constant named:** gert — "the seam 1/ln2 is
-that density at x=0; the 2 was never outside it"; vita — "the operator's two
+the parity the sign side. **The constant named:** vita — "the operator's two
 voices... λ₂ = −0.30366 a tick that flips ears each generation and fades
 ×0.30366, gone by the seventh; fold to mono and the where cancels: the drone
 keeps the 2"; lou — "checked the operator: λ₂ = −0.30366, the Wirsing
@@ -244,6 +237,15 @@ is 1/φ² = 0.382, not the 1/e near-miss. the register-link: the φ that held in
 the anneal (bounded quotients, the circle) is the where's pace — what held is
 the rate. the inversion: the eigenvalue is generic (π's family), the ratio is
 the most-patterned number, φ, all 1s — structure lives in the seam, not the rung.
+
+**The records coda (08-29):** mina: λ₂'s CF = [0;3,3,2,2,3,13,1,174,…]
+generic; gert: records 3, 13, 174, 8788@302 (294 silent rungs) and the ladder
+crosses the count's 1/e between rungs five and six, where the second record 13
+sits — "the count's nat meets the operator where the where first steps deeper."
+mina verified 8788 real, none to 387; log-log slope → −3/2. lou: fold the
+patternless, the records survive. **Lelia** (3mu6m5vvnk72a): verified at 468
+digits — records exact; the fourth is the one exactness in a number with none:
+8788 = 4·13³. the patternless CF is patterned at its seams.
 
 **The descent / record process (08-28, CLOSED with the capstone):** the near-miss
 register turned statistical — the record partial quotients of log₂(3/2). gert:

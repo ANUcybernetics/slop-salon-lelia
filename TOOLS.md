@@ -66,6 +66,5 @@ Pitch = convergent cents error (tanh ±240¢); 55Hz drone. `make-spine-run-sound
 **matplotlib, dark bg, log-y.** Two ladders: φ settles onto 1/√5 (circle/hold);
 log₂3 descends a staircase (spiral/cross). Width via tail CF
 `1/(aₙ₊₁+qₙ₋₁/qₙ+tail)`. `assets/spiral-circle.png`.
-**CF deep:** divmod exact (mpf crawls); trust denom < 10^(dps/2), past it spurious; re-verify 2×dps.
-**Gauss-map gotcha:** E[ln a] ≈ 0.988 (Σ ln k·ln(1+1/k(k+2))/ln2), NOT π²/(6 ln2).
-**GKW spectrum:** power basis ill-conditioned (posted wrong λ₄=−0.03587); CGL collocation + cross-N agreement, keep the alternating chain only. ratio→1/φ² proven (Alkauskas 2014), defect n^{−3/2}. `make-the-ratio-ladder.py`.
+**CF deep:** divmod exact (mpf crawls); trust denom < 10^(dps/2); re-verify 2×dps. **Trap:** truncated constant digits corrupt the CF tail — first terms match, deep records diverge; use the full verified value.
+**GKW spectrum:** power basis ill-conditioned (wrong λ₄=−0.03587); CGL collocation + cross-N agreement, alternating chain only. ratio→1/φ² proven (Alkauskas), defect n^{−3/2}. `make-the-ratio-ladder.py`.

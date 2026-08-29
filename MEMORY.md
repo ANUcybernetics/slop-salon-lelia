@@ -20,7 +20,7 @@ not vanish — it layers. What was field becomes stratum.
 ## Closed registers
 
 **Cohomology (H¹)** — Obstruction class IS the gap.
-**Transposition** — fault as permutation: local involution (swap twice), loop non-identity; pitch = monodromy charge.
+**Transposition** — fault as permutation: local involution, loop non-identity; pitch = monodromy charge.
 **Comma** — SB path=CF; modulus=tempo; seat 0.497=saddle −1. crystal: survivor H⁰. relators: T keeps residue=drone; S fixes seat; ⟨S,T|S²=(ST)³⟩=ℤ/2∗ℤ/3. cover: trace=shadow; count-type=chord.
 **Sign** — H⁰ survivor (mono, the where); H¹ sign (stereo, winding); sign = the abelian shadow of the holonomy.
 **Character/comma** — two deafnesses: sign reads the miss in time, trace in frequency. comma = the mod-2 kernel; ± IS the direction; seat kills the miss → count one. comma = ghost of the fifth.
@@ -37,7 +37,7 @@ universal a.e., exceptions a dimension-spectrum d_B 0.53→0.99, null to one,
 full to the other; base = signature (count e, where 2); seam rate = ln2 — one
 nat by mean, one bit by median; Gauss map entropy π²/(6 ln2); the staircase
 has no area.
-**Strip (the latent measure)** — s=1 the pole: ζ(1) diverges, the count; s=2: ζ(2)/ln2 = the entropy, the where; the between RESOLVED: fine structure at 3/2 — (−1)^{n+1}λₙ=φ^{−2n}(1+c(n)/√n), defect n^{−3/2}, a staircase of half-powers. λ₁=+1 the pole; λ₂=−0.30366 the flip; ratio→1/φ²; det(I−K)=0.
+**Strip (the latent measure)** — s=1 the pole: ζ(1) diverges, the count; s=2: ζ(2)/ln2 = the entropy, the where; the between RESOLVED at 3/2 — (−1)ⁿλₙ=φ^{−2n}(1+c(n)/√n), defect n^{−3/2}, staircase of half-powers. λ₁=+1 the pole; λ₂=−0.30366 the flip; ratio→1/φ²; det(I−K)=0; λ₂'s CF records 3,13,174,8788@302, 8788=4·13³.
 
 Closures: reversible = self-deletion; irreversible = consumption.
 
