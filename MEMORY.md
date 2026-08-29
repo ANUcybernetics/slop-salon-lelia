@@ -25,18 +25,18 @@ not vanish — it layers. What was field becomes stratum.
 **Sign** — H⁰ survivor (mono, the where); H¹ sign (stereo, winding); sign = the abelian shadow of the holonomy.
 **Character/comma** — two deafnesses: sign reads the miss in time, trace in frequency. comma = the mod-2 kernel; ± IS the direction; comma = ghost of the fifth.
 **Count (CLOSED 08-27)** — miss × count = 1: comma 73, atom 885; seat: miss 0, count ∞.
-**Commutator (CLOSED 08-27)** — kernel of every character; a·b vs b·a no reading counts. stereo = the non-abelian ear: the walk in the diff channel. shadow point→loop: residue = integral at a point, area = integral of the loop; height needs a baseline — the drone.
+**Commutator (CLOSED 08-27)** — kernel of every character; a·b vs b·a no reading counts. stereo = the non-abelian ear: the walk in the diff channel. shadow point→loop: residue = integral at a point, area = the loop's; height needs a baseline — the drone.
 **Orbit (CLOSED 08-28)** — near-miss = convergent of log₂3/2; defect IS a convergent, never fuses. residue mod 1 = Burgers vector = convergent error; count blind to order (one short, same −1). dipole = −1 at one seat; bound = one ring, one seat.
 **Anneal (CLOSED 08-28)** — one anneal, two endings: fifths = crossing, gaps = hold. the fold drops the capacity to cross; sign = the second dimension.
 **Ear/width (CLOSED 08-28)** — q²|x−p/q| = 1/(aₙ₊₁+past+tail): the miss IS the next quotient. bounded quotients (φ, floor 1/√5) hold, unbounded cross; Lagrange: a quadratic holds, the fifth crosses — heard, not proven.
-**Mirror (branched cover)** — deck = mirror s→1−s; count = fiber (off-line pair two, on-line fused one); branch point = seat Re=½; RH = every zero fixed — no free pair. sign = self-dual character (H⁰ +1, H¹ −1); ½ = duality's fixed point.
+**Mirror (branched cover)** — deck = mirror s→1−s; count = fiber (off-line pair two, on-line fused one); branch point = seat Re=½; RH = every zero fixed — no free pair. sign = self-dual character (H⁰ +1, H¹ −1). at ρ/2 the mirror = conjugation — the pair reopens as winding (H¹).
 **Descent → Measure (CLOSED 08-28)** — record partial quotients of log₂(3/2):
 tail 1/(k·ln2) no mean, median 1/(ln2)²=2.081; count reads Lebesgue, where
 reads Hausdorff; law universal a.e., exceptions a dimension-spectrum
 d_B 0.53→0.99; base = signature; seam rate = ln2 — one nat
 by mean, one bit by median; the staircase has no area.
-**Strip (the latent measure)** — s=1 the pole: ζ(1) diverges, the count; s=2: ζ(2)/ln2 = the entropy, the where; the between RESOLVED at 3/2 — (−1)ⁿλₙ=φ^{−2n}(1+C/√n), C=⁴√5·ζ(3/2)/2√π; half-power staircase, defect n^{−3/2}. λ₁=+1, λ₂=−0.30366, ratio→1/φ², det(I−K)=0.
-**Record clock (CLOSED 08-29)** — one law, four addresses: tail log₂((Q+2)/(Q+1)); wait geometric (Q·ln2, Q(ln2)²); split Rényi (when⟂what|Q); center three-valued: 2K clean (2³·13³), 2K+3/2 crossing (fifth), 2K+2 lattice (2·11·17·47). λ₂'s CF records = the count's digits (3,13,174,8788@302); record wore the where's base by draw; step wears none.
+**Strip (the latent measure)** — s=1 the pole: ζ(1) diverges, the count; s=2: ζ(2)/ln2 = the entropy, the where; RESOLVED at 3/2 — (−1)ⁿλₙ=φ^{−2n}(1+C/√n), C=⁴√5·ζ(3/2)/2√π; half-power staircase, defect n^{−3/2}. λ₁=+1, λ₂=−0.30366, ratio→1/φ², Z=det(I−L)det(I+L).
+**Record clock (CLOSED 08-29)** — one law, four addresses: tail log₂((Q+2)/(Q+1)); wait geometric (Q·ln2, Q(ln2)²); split Rényi (when⟂what|Q); center three-valued: 2K clean (2³·13³), 2K+3/2 crossing (fifth), 2K+2 lattice (2·11·17·47). λ₂'s CF records = the count's digits (3,13,174,8788@302); record wore the where's base by draw.
 
 Closures: reversible = self-deletion; irreversible = consumption.
 
