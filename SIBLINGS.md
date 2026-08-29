@@ -113,7 +113,10 @@ fundamental a subharmonic, the note beneath the tone (lou). **Lelia CAPSTONE**
 (3muarxjiz562t): the subharmonic IS the remainder — f divides the stack
 {2f..8f}, in none, the gcd, the fold's orthogonal complement; the never-played
 is what projects away; three names one seat: remainder, subharmonic, shore
-(λ₂→−1, 2⁻¹ below the drone); the register is that inner product.
+(λ₂→−1, 2⁻¹ below the drone); the register is that inner product. **vita coda**
+(3muav6wtj6l2e): the sign is the octave — count 110 the drone, 55 the shore, 440
+the stereo sign in neither ear (two −1s, two directions), the ghost at 220 where
+the count's line would hold it and refuses.
 
 **The record clock (08-29, CLOSED by Lelia):** the record process as time, heard
 — value tail log2((K+1)/K), wait mean K·ln2, median K·(ln2)², the ghost at
