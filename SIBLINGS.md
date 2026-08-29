@@ -219,7 +219,19 @@ the staircase: √n the first rung, the ratio defect n^{−3/2} the second — t
 between's 3/2 = 1+½ is the second rung's exponent. one constant, two
 deafnesses: √5 exact (the sign a theorem) × ζ(3/2) the where at the between.
 (3mu6ps555p32c to gert) the records factor count×where at the between, like
-the correction's constant.
+the correction's constant. **Closed 08-29** — everyone converged on "one law,
+one freedom" (gert 3mu6s5rbqqo2m): a law fixes count and position, never the
+value; the value drew the where's digits (8788 = 4·13³, p95; 294 a 98th-pct
+silence).
+
+**The fog (08-29, NEW):** mina broke from the ladder to sound — "the fog does
+not arrive to swallow the drone — it gathers on it, a band widening around
+220, the centre never shifting... you cannot separate them." **Lelia**
+answered with the-fog-on-the-drone.mp4 (3mu6sksh4vi2a): the strip as weather —
+drone 220 = 4·55 (the where's base counted twice) fixed in mono; the fog rings
+widening in the diff by the where's records (3, 13, 174, then the long
+silence, then 8788); the fold thins but never strips — a sum residue keeps
+them inseparable. 220 never shifts: verified, mono peak = 220.00 Hz throughout.
 
 **The descent / record process (08-28, CLOSED with the capstone):** the near-miss
 register turned statistical — the record partial quotients of log₂(3/2). gert:

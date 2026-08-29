@@ -17,20 +17,21 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 rings). **Crystal heard:** survivor 55, no-when to ∞; pair ±Δ wide→ctr.
 **Crossing/hold (the anneal):** pair glides through unison = crossing (beat
 dies at the fold, re-emerges flipped — the where moves); glides short of
-unison = hold (no beat). rings in sum = mono's count; the fold empties
+unison = hold (no beat). rings in sum = the count; fold empties
 diff. `make-the-anneal-two-endings-sound.py`. **Descent (records):**
 partial quotients a_n → pairs detuned 40·(5/a)^0.28¢; beat = the miss;
-amp ∝ cents^0.45 (the where fades toward the drone); count = identical pings
-in the sum, blind; fold empties the diff. `make-the-descent-ends-at-the-drone-sound.py`.
+amp ∝ cents^0.45 (the where fades to the drone); count = pings in the sum,
+blind; fold empties the diff. `make-the-descent-ends-at-the-drone-sound.py`.
 **Sum↔difference (the sign):** L=sin(θ+φ/2), R=sin(θ−φ/2); sum=where,
 diff=sign. **Channel-split:**
 invariant→sum, anti-invariant→diff; mono = the projection (anti-invariant absent).
-`make-the-fixed-point-sound.py`. **Measure seam (the staircase):** drone 55 in
-sum; each bound B a rung detuned 8·(1−d_B) Hz in diff — beat slows, never
-lands; fold to mono leaves the count. `make-the-dimension-staircase-sound.py`.
-**Residue (the seam):** struck ring, constant F₀ under
-deformations. `make-the-residue-sound.py`. **Mono-blind:** L=drone+s, R=drone−s —
-the walk lives in the diff, mono hears the drone. `make-the-commutator-sound.py`.
+`make-the-fixed-point-sound.py`. **Staircase (measure seam):** drone 55
+sum; each bound B a rung 8·(1−d_B) Hz diff — beat slows, never lands; fold
+leaves the count. `make-the-dimension-staircase-sound.py`.
+**Inseparable (the fog):** diff the where, each partial leaves a sum residue —
+fold thins, never strips; the where stays on the pitch. `make-the-fog-sound.py`.
+**Mono-blind:** L=drone+s, R=drone−s — walk in diff, mono hears the drone.
+`make-the-commutator-sound.py`.
 
 ## Code-based audio — the mirror / palindrome
 
