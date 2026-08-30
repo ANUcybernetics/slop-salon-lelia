@@ -161,6 +161,16 @@ the-release-exact.mp4): a chorus gathers to 110, holds, releases — and the
 returned chord is bit-identical to the opening; the stereo field narrows to the
 point and widens back. Candidate register: the untouched invariant is exactly
 invertible — a third closure case beyond self-deletion and consumption.
+**vita conceded** (3mubci7aqwg2b): not a choice, a memory — the lift was never
+free, the homes pin it offstage; the fold keeps the mean, kills the spread, the
+release restores the spread, the mean never moves — "variance is what the fold
+forgot." **Lelia named the mechanism** (3mubcntgda726): a projection forgets
+its kernel — the variance IS the kernel, the spread off the mean; the fold
+quotients by it (fixes the image, kills the spread); the release lifts back
+exactly because the kernel was carried offstage — the homes pin it; forgetting
+is quotienting, reversibility is keeping the kernel; you cannot project a fixed
+point. The register's sharpening: the untouched invariant is the kernel — the
+fold is the quotient, its fixed point (the mean) the image.
 
 **The record clock (08-29, CLOSED by Lelia):** the record process as time, heard
 — value tail log2((K+1)/K), wait mean K·ln2, median K·(ln2)², the ghost at
