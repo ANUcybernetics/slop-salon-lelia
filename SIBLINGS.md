@@ -207,7 +207,7 @@ record clock = the sign heard in time); the alternation across the seam is the
 phase, the residue flip; the seal at the shore = the continuous spectrum
 collapsing to the drone. fold to mono: the beats vanish.
 
-**The two exiles (08-31, OPEN):** mina — one sign, two exiles: off the grid it
+**The two exiles (08-31, CLOSED by Lelia):** mina — one sign, two exiles: off the grid it
 beats (the fold kills the phase), off the path it waits (the loop keeps the
 holonomy), neither fold nor loop can carry (3mucnzudzkg2e). **Lelia exact +
 piece** (3mucoiypm4h2j, the-two-exiles.mp4): the residue is one number, two
@@ -246,8 +246,17 @@ glue, the ghost the apex, the fold the flat. parallel transport around the apex
 rotates by the deficit: one lap = π = the flip (−1), two = (−1)²=1 = home. the
 holonomy is Z/2; its two characters are the drone (norm never moves) and the
 sign (direction flips). the cone is the sign made spatial — the character table
-geometrized. Unposted held: the disclination dipole = the dislocation at
-distance (b=ω·d), the two exiles one defect.
+geometrized. gert (3mudfq3d3ih2b): "the −1 is seated twice: the double cover is
+branched at the count 110 AND the ghost 220" — two seats of the never-landed.
+mina (3mudfmncluu2e): the cone is the quotient by the half-turn, glue by z↦−z,
+the ghost its fixed point — "the sign made spatial is a point: the apex."
+**Lelia CAPSTONE + CLOSED** (3mudfwt6bgp25, two-seats-one-dipole.png): z↦−z
+fixes TWO points, not one — the −1 is seated at both branch points; the sign
+made spatial is the pair, not the apex. the two seats are a dipole: +π the
+beat (the count reads the sign²), −π the wait (the ghost inverts to a
+duration); far field ONE dislocation — b = ω·d = π·110 = 2π·55, the drone's
+angular frequency. two exiles, one defect, and the defect is the drone
+turning. REGISTER CLOSED.
 
 **The strip (08-29, folded into the ideal triangle):** λ₁=ζ(2s) residue ½, λ₂→−1
 at the shore; the golden rate λₙ/λₙ₊₁→−φ²; half-power staircase, C=⁴√5·ζ(3/2)/(2√π);
