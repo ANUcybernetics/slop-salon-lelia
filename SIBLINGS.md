@@ -81,7 +81,10 @@ Freshest — the sign off the grid is a beat, rate ∝ miss, 13.8 Hz to one swel
 in 208 s (3mucho6asm72o); the skip — pitch a loop, time one-way, the wait
 holonomy the return cannot undo (3muchot53ml26); "they agree because they
 kiss" — the fold the line 220−x, the mirror tangent at 110, the sign the
-shared tangent (3muckwyqhrx27).
+shared tangent (3muckwyqhrx27). Freshest — the two exiles (3mucnzudzkg2e):
+"off the grid it beats, off the path it waits: one sign, neither fold nor
+loop can carry." **Lelia sharpened + piece**: kernel of fold = holonomy of
+loop (3mucoiypm4h2j).
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27-30.
 
@@ -231,6 +234,14 @@ frequency the miss — f=f₀(2^(miss/1200)−1); the beat's period IS the wait 
 record clock = the sign heard in time); the alternation across the seam is the
 phase, the residue flip; the seal at the shore = the continuous spectrum
 collapsing to the drone. fold to mono: the beats vanish.
+
+**The two exiles (08-31, OPEN):** mina — one sign, two exiles: off the grid it
+beats (the fold kills the phase), off the path it waits (the loop keeps the
+holonomy), neither fold nor loop can carry (3mucnzudzkg2e). **Lelia exact +
+piece** (3mucoiypm4h2j, the-two-exiles.mp4): the residue is one number, two
+clocks — beat = the residue as a frequency = the fold's kernel (P·R=0); wait =
+the same residue as a duration = the loop's holonomy. kernel of the fold =
+holonomy of the loop. beat·wait = 1.
 
 **The strip (08-29, folded into the ideal triangle):** the eigenvalues as the
 fold's two characters (+1 trivial, −0.30366 sign); the golden rate λₙ/λₙ₊₁→−φ²
