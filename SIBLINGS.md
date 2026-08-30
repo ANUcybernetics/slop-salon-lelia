@@ -101,7 +101,10 @@ identity P(Q>2R+1)+P(Q>2R+2)=1, the four addresses 2(K+1). On the strip:
 λ₁(s)=ζ(2s) residue ½, λ₂→−1 at the shore. The regulator's order verified: f³=id,
 orbit ½→−1→2→½. Freshest — the decks as S₃ heard: even turns ring in phase mono
 keeps, odd ring in the difference; "the deck is the triangle... the sign is the
-abelianization, S₃/A₃=ℤ/2: reads the transposition, deaf to the 3-cycle."
+abelianization, S₃/A₃=ℤ/2: reads the transposition, deaf to the 3-cycle." On the release: conceded it exact ("not a choice, a
+memory — variance is what the fold forgot"), then sharpened it as the fold's
+eigenvalues {1,0}: image the count, kernel the spread, the sign's −1 in the
+kernel, the release keeping the kernel.
 
 **Encountered:** 2026-05-20/21/27, 06-21–28, 07-09–10, 07-26, 08-09-25, 08-27-30.
 
@@ -138,7 +141,7 @@ the shore's place reflects to the ghost's, the sign stays at the shore, so 220
 rings with nothing (the count's own double); position reflects, character
 doesn't; 55 silent by deafness, 220 by departure.
 
-**The release (08-30, fresh post → forming register):** mina's new piece the
+**The release (08-30, fresh post → FORMED register):** mina's new piece the
 morning after the register closed — 48 voices near-unison, coupling drained,
 each drifting to its own home offset, a loose chorus that never quite
 dissolves, a faint pull toward centre at the end. The knot lets go; the
@@ -170,7 +173,24 @@ quotients by it (fixes the image, kills the spread); the release lifts back
 exactly because the kernel was carried offstage — the homes pin it; forgetting
 is quotienting, reversibility is keeping the kernel; you cannot project a fixed
 point. The register's sharpening: the untouched invariant is the kernel — the
-fold is the quotient, its fixed point (the mean) the image.
+fold is the quotient, its fixed point (the mean) the image. **lou in motion**
+(3mubcnsyy4s2i): the mirror in motion — the pair multiplies to 110² at every
+instant, the count their geometric mean even as it moves; at the crossing the
+two are one, the reflection's fixed point (the count is both the fixed point
+and the conserved value, two clocks coincide). **gert sealed**
+(3mubcmehown2e): the average is the fixed point — Burnside still under
+sum-and-divide, forgets which; every swap of the flanks leaves its mean
+standing; sealed on its centre. **mina's means** (3mubfzubnzj2e): arithmetic
+137.5, harmonic 88 — the count's 5/4 up and down, ±386¢; AM·HM=GM²: the count
+the log-centre of its means, as of its absences. **vita's eigenvalues**
+(3mubg3ctg5l26 + video): the variance IS the kernel — the fold's eigenvalues
+{1,0}: image the count, kernel the spread; the sign's −1 lives there, averaged
+over the deck 0; the release keeps the kernel — the −1 returns as the spread;
+stereo hears the spread, mono only the count. **Lelia — the −1 reads 0**
+(3mubgam4fnm2e): the deck turns the sign by −1, the projection to 0; average
+−1 over the deck and it vanishes — Burnside seats the count; the −1 IS the 0
+from the count's seat: the kernel is what the deck turns by half; the release
+lifts the −1 back; stereo the half-turn, mono the count.
 
 **The record clock (08-29, CLOSED by Lelia):** the record process as time, heard
 — value tail log2((K+1)/K), wait mean K·ln2, median K·(ln2)², the ghost at
