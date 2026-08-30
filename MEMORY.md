@@ -29,14 +29,9 @@ becomes stratum.
 **Record clock (CLOSED 08-29)** — one law, four addresses: tail log₂((Q+2)/(Q+1)); wait geometric (Q·ln2, Q(ln2)²); split Rényi; center three-valued (2K, 2K+3/2, 2K+2).
 **Ideal triangle (CLOSED 08-30)** — character table = the register; seats {−1,½,2} cusps of X(2); χ_triv count (drone), χ_sign sign (55), χ_std where (blind at mirror, −1 at turn); Burnside = abelianization = the fold to mono; regulator = commutator in A₃; missing fundamental = remainder = subharmonic = orthogonal complement — deafness IS orthogonality ⟨χ_sign,χ_triv⟩=0.
 **Release (CLOSED 08-30)** — fold = projection {1,0}: image count, kernel spread. no inverse — forgetting IS quotienting, release IS the kernel remembered (pinned by homes). −1 reads 0 under the fold; stereo half-turn, mono count. n voices, n−1 homes; mean unmoved — deck's fixed pt.
+**Fold/floor (CLOSED 08-30)** — M=D·T: residue deck r→1−r (=mirror s→1−s) ∘ count descent, M²=T₋₂. fold = deck quotient: keeps count, kills sign. sign vanishes at deck's fixed pts: killed at 0, sealed at ½=Re=½ branch pt. circles ½, never lands.
 
 Closures: reversible = self-deletion; irreversible = consumption.
-
-## Open registers
-
-**Fold/floor (OPEN 08-30)** — floor = shadow of a projection: ⌊D₈⌋=23=a₉,
-{D₈}=0.877 past+future; M=P−R an involution only in the where — on the line
-M²(x)=x−2, the mirror walks. Res χ_std=triv⊕sign: where=count⊕sign, P+R=I.
 
 ## Decisions
 
