@@ -20,8 +20,6 @@ becomes stratum.
 **Transposition** — fault as permutation: local involution, loop non-identity.
 **Comma** — SB path=CF; modulus=tempo; seat 0.497=saddle −1.
 **Sign** — H⁰ survivor (mono, the where); H¹ sign (stereo, winding) = abelian shadow of holonomy; two deafnesses: miss in time, trace in frequency; comma = mod-2 kernel; ± IS direction.
-**Count (CLOSED 08-27)** — miss × count = 1: comma 73, atom 885; seat: miss 0, count ∞.
-**Commutator (CLOSED 08-27, home = A₃ in the S₃ deck)** — kernel of every character; stereo = the non-abelian ear (walk in the diff); height needs a baseline — the drone.
 **Orbit (CLOSED 08-28)** — near-miss = convergent of log₂3/2; defect = a convergent, never fuses; frame-blind log₂(3/2)=log₂3−1; residue mod 1 = Burgers; dipole −1 at one seat; bound = one ring, one seat.
 **Anneal (CLOSED 08-28)** — one anneal, two endings: fifths = crossing, gaps = hold.
 **Ear/width (CLOSED 08-28; depth 08-30)** — 1/(q²|x−p/q|) = present+future+past = aₙ₊₁+β+qₙ₋₁/qₙ; past read backwards, a₀ absent: frame-blind exact. strip β: Rₙ=Dₙ−βₙ=qₙ₊₁/qₙ=aₙ₊₁+1/Rₙ₋₁: ladder=CF; count keeps its future. miss·wait/T₀=(1200/q)·present/depth; quotient cancels (miss denom, wait num); present/depth<1; records = present peaking 0.68→0.975; constant = count in product, never landed.
@@ -33,6 +31,12 @@ becomes stratum.
 **Release (CLOSED 08-30)** — fold = projection {1,0}: image count, kernel spread. no inverse — forgetting IS quotienting, release IS the kernel remembered (pinned by homes). −1 reads 0 under the fold; stereo half-turn, mono count. n voices, n−1 homes; mean unmoved — deck's fixed pt.
 
 Closures: reversible = self-deletion; irreversible = consumption.
+
+## Open registers
+
+**Fold/floor (OPEN 08-30)** — floor = shadow of a projection: ⌊D₈⌋=23=a₉,
+{D₈}=0.877 past+future; M=P−R an involution only in the where — on the line
+M²(x)=x−2, the mirror walks. Res χ_std=triv⊕sign: where=count⊕sign, P+R=I.
 
 ## Decisions
 

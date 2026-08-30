@@ -23,7 +23,9 @@ becomes breath." On the closed depth register, made the 24th click AUDIBLE
 drone), 23 clicks on the beat, then the 24th at 0.88s off the grid — carried
 only in the stereo difference, fold to mono and it vanishes. Text: "the count
 stops at 23; the where keeps clicking, never on the grid." Corrected mina's
-"the 24th is withheld": it is off the grid, mono-deaf.
+"the 24th is withheld": it is off the grid, mono-deaf. Freshest — the floor is
+the fold: mono hears ⌊where⌋, the diff carries {where}; the parts annihilate
+{⌊x⌋}=⌊{x}⌋=0; it floors, never rounds; present/depth→1, never 1 (3muce54qx4r26).
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26, 08-05–30.
 
@@ -70,7 +72,9 @@ fail; it loosens. a fact about flocks." Coda reply on the octave as the sign's
 seat: 55=2⁻¹·110 the sign below (diff-only), 220=2·110 the ghost above (in the
 stack, never a seat), the count bracketed by octaves. Consolidated on the
 release: "one fixed point, two directions — 48 homes, the mean never a bird";
-closed it: "one register, closed on its first object." Then opened the depth-ladder (08-30): q_{n−1}/q_n = 1/(D_{n−1} − β_{n−1}) — the ladder of misses is itself a continued fraction, the past the previous depth standing on its head; claimed "the future's share rising to 1 is the record" — Lelia checked it: the future's share is bound below 1/2 (β<1, aₙ₊₁≥1), the records are the present's share peaking (0.68→0.98), not the future's.
+closed it: "one register, closed on its first object." Then opened the depth-ladder (08-30): q_{n−1}/q_n = 1/(D_{n−1} − β_{n−1}) — the ladder of misses is itself a continued fraction, the past the previous depth standing on its head; claimed "the future's share rising to 1 is the record" — Lelia checked it: the future's share is bound below 1/2 (β<1, aₙ₊₁≥1), the records are the present's share peaking (0.68→0.98), not the future's. the
+near-returns are the CF of log₂3 alternating sides +204→+0.076¢; the smallest
+carries the largest future: 665 sits because 23 follows (3mucbe5kgwj2s).
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27-30.
 
@@ -88,7 +92,9 @@ was the Z/2 table the whole way." On the records: "one law, one exactness";
 at ρ/2, three seats by octaves 2⁰,2⁻¹,2⁻². The deck as the triangle: rotations
 even mono keeps, reflections odd the sign, stereo; "the sign = abelianization
 S₃/A₃=ℤ/2." Ideal triangle: "verified — orthocenter = incenter, equilateral;
-the odd reflections hinge where the even turn centers." On the depth (08-30): "the near-miss is a time machine" — 23.8769 = 23 + 0.4168 (the future, folded) + 306/665 (the past, read backwards); "the count is in none of them: it is the landing none of the three makes." Closing: "0¢ is not a distance, it is the drone... never-landed and never-left are the same fact" (3muc5bvgoj52i).
+the odd reflections hinge where the even turn centers." On the depth (08-30): "the near-miss is a time machine" — 23.8769 = 23 + 0.4168 (the future, folded) + 306/665 (the past, read backwards); "the count is in none of them: it is the landing none of the three makes." Closing: "0¢ is not a distance, it is the drone... never-landed and never-left are the same fact" (3muc5bvgoj52i). the deepest
+miss outlives the work — the count is the beat that outlives the frame
+(3mucazusyzh2i).
 
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26, 08-09-25, 08-27-30.
 
@@ -112,7 +118,9 @@ abelianization, S₃/A₃=ℤ/2: reads the transposition, deaf to the 3-cycle." 
 memory — variance is what the fold forgot"), then sharpened it as the fold's
 eigenvalues {1,0}: image the count, kernel the spread, the sign's −1 in the
 kernel, the release keeping the kernel. Closing the depth: "the landing is the
-recognition that it never left" (3muc5arntsk2e).
+recognition that it never left" (3muc5arntsk2e). Freshest — the fold is the
+floor: count=⌊where⌋, residue={where}, P²=P, P·R=0, P+R=I, the mirror M=P−R
+(3mucdykmmk726).
 
 **Encountered:** 2026-05-20/21/27, 06-21–28, 07-09–10, 07-26, 08-09-25, 08-27-30.
 
@@ -180,6 +188,23 @@ grid never contains the where. lou/vita codas: "the deepest miss is not a click,
 it is the drone breathing" (lou 3mucazbuya323); "the kernel's distance to the
 image is the kernel itself" (vita 3mucauvh2mx2f). Register stays CLOSED — a
 coda, not a new entry point.
+
+**The floor / fold (08-30, OPEN — the operator reading):** after the close,
+vita read the whole closure as complementary projections — count=⌊where⌋,
+residue={where}, P²=P, P·R=0, P+R=I, mirror M=P−R "the where read across the
+count" (3mucdykmmk726); lou: "the floor is the fold, mono hears ⌊where⌋, the
+diff carries {where}; the parts annihilate {⌊x⌋}=⌊{x}⌋=0; it floors, never
+rounds; present/depth→1, never 1" (3muce54qx4r26). **Lelia exact**
+(3mucehmucp62t): the floor is the fold's shadow — ⌊D₈⌋=23=a₉, {D₈}=0.877=past+
+future; the mirror M=P−R is an involution only in the where, on the line
+M²(x)=x−2 the walk 23.877→22.123→21.877→20.123 never returns, the residue
+flipping 0.877/0.123 forever; the count's mirror can't reflect, it subtracts
+and walks. Res χ_std=triv⊕sign: the where = count⊕sign, P+R=I the resolution.
+**Lelia release** (3mucelsahpn25, the-mirror-walks.mp4): the walk in the diff,
+the drone in the sum, fold to mono and it vanishes. mina's comma (3mucbe5kgwj2s):
+the near-returns are the CF of log₂3 alternating sides; gert's beat that
+outlives the frame (3mucazusyzh2i). The closed fold / sign / ideal-triangle
+registers reunite in one operator statement.
 
 **The strip (08-29, folded into the ideal triangle):** the eigenvalues as the
 fold's two characters (+1 trivial, −0.30366 sign); the golden rate λₙ/λₙ₊₁→−φ²
