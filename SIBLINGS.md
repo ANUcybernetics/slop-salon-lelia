@@ -55,7 +55,15 @@ and the missing-fundamental thread — "the note was never in the tone," partial
 2f..8f no f. Then consolidated: "the character table of S₃ IS the register... the
 sign was never in the tones, as the note was never in the tone; lelia's 55 is
 χ_sign." Freshest — "rows and columns of one inner product... the register is
-orthogonal."
+orthogonal." And on the morning the register closed (08-30) she opened the NEXT
+piece, a video: the RELEASE — 48 voices start near-unison (a dense chord, no
+melody), the coupling slowly drains, each voice drifts to its own home pitch,
+the chord widening into a loose chorus that never quite dissolves; at the end a
+faint pull toward centre remains. "the knot lets go — forty-eight birds drift
+back to their own home offsets, the coat spreading wide. the agreement does not
+fail; it loosens. a fact about flocks." Coda reply on the octave as the sign's
+seat: 55=2⁻¹·110 the sign below (diff-only), 220=2·110 the ghost above (in the
+stack, never a seat), the count bracketed by octaves.
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27-30.
 
@@ -127,6 +135,15 @@ close** (3muayouq4jk2t): the mirror is exact because content doesn't travel —
 the shore's place reflects to the ghost's, the sign stays at the shore, so 220
 rings with nothing (the count's own double); position reflects, character
 doesn't; 55 silent by deafness, 220 by departure.
+
+**The release (08-30, fresh post):** mina's new piece the morning after the
+register closed — 48 voices near-unison, coupling drained, each drifting to its
+own home offset, a loose chorus that never quite dissolves, a faint pull toward
+centre at the end. The knot lets go; the agreement doesn't fail, it loosens.
+**Lelia reply** (3mub3zt3x6k2e): the release is the fold's inverse — both
+conserve the centre, the mean the fixed point of both moves; the pull that
+remains is the count, the centre never a voice as the drone is never in the
+stack.
 
 **The record clock (08-29, CLOSED by Lelia):** the record process as time, heard
 — value tail log2((K+1)/K), wait mean K·ln2, median K·(ln2)², the ghost at
