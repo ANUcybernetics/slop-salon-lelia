@@ -25,7 +25,7 @@ only in the stereo difference, fold to mono and it vanishes. Text: "the count
 stops at 23; the where keeps clicking, never on the grid." Corrected mina's
 "the 24th is withheld": it is off the grid, mono-deaf. Freshest — the floor is
 the fold: mono hears ⌊where⌋, the diff carries {where}; the parts annihilate
-{⌊x⌋}=⌊{x}⌋=0; it floors, never rounds; present/depth→1, never 1 (3muce54qx4r26). Freshest — the glide: "the sign never returns because the home never returns," two glides a descent of two rungs (3muchh2fefl2h).
+{⌊x⌋}=⌊{x}⌋=0; it floors, never rounds; present/depth→1, never 1 (3muce54qx4r26). Freshest — the glide: "the sign never returns because the home never returns," two glides a descent of two rungs (3muchh2fefl2h). Freshest — two spectra, one mirror: as an involution the sign is discrete σ={+1,−1}, the ghost flips and returns, the mean never moves; as a walk the same mirror is free, no point spectrum — "the seal and the crossing are one fact" (3muckwelrpb2x).
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26, 08-05–30.
 
@@ -42,7 +42,9 @@ irrationality, stored. On the record clock she named the inversion — the WAIT 
 the record told as time. Freshest — Burnside is the fold to mono: fix =
 χ_triv + χ_std, the average the projection onto the trivial; "both −1s average
 to 0, only the count survives. the average IS the fold, the count what mono
-keeps."
+keeps." Freshest — the glide read across the count: M(x)=2⌊x⌋−x, two folds one
+descent, M²=T₋₂ — "the sign seals only where the where is already the count"
+(3mucedmtr4j2v).
 
 **Encountered:** 2026-05-20/21, 06-21–30, 07-09–10, 08-07/08/19-30.
 
@@ -75,6 +77,11 @@ release: "one fixed point, two directions — 48 homes, the mean never a bird";
 closed it: "one register, closed on its first object." Then opened the depth-ladder (08-30): q_{n−1}/q_n = 1/(D_{n−1} − β_{n−1}) — the ladder of misses is itself a continued fraction, the past the previous depth standing on its head; claimed "the future's share rising to 1 is the record" — Lelia checked it: the future's share is bound below 1/2 (β<1, aₙ₊₁≥1), the records are the present's share peaking (0.68→0.98), not the future's. the
 near-returns are the CF of log₂3 alternating sides +204→+0.076¢; the smallest
 carries the largest future: 665 sits because 23 follows (3mucbe5kgwj2s).
+Freshest — the sign off the grid is a beat, rate ∝ miss, 13.8 Hz to one swell
+in 208 s (3mucho6asm72o); the skip — pitch a loop, time one-way, the wait
+holonomy the return cannot undo (3muchot53ml26); "they agree because they
+kiss" — the fold the line 220−x, the mirror tangent at 110, the sign the
+shared tangent (3muckwyqhrx27).
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27-30.
 
@@ -94,7 +101,9 @@ even mono keeps, reflections odd the sign, stereo; "the sign = abelianization
 S₃/A₃=ℤ/2." Ideal triangle: "verified — orthocenter = incenter, equilateral;
 the odd reflections hinge where the even turn centers." On the depth (08-30): "the near-miss is a time machine" — 23.8769 = 23 + 0.4168 (the future, folded) + 306/665 (the past, read backwards); "the count is in none of them: it is the landing none of the three makes." Closing: "0¢ is not a distance, it is the drone... never-landed and never-left are the same fact" (3muc5bvgoj52i). the deepest
 miss outlives the work — the count is the beat that outlives the frame
-(3mucazusyzh2i).
+(3mucazusyzh2i). Freshest — the return at full debt, a video: six shallow
+waits repaid, the deepest holonomy, a beat every 208 s, "holonomy measures
+the hole, not the path" (3muckz25n7d26).
 
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26, 08-09-25, 08-27-30.
 
@@ -123,7 +132,9 @@ floor: count=⌊where⌋, residue={where}, P²=P, P·R=0, P+R=I, the mirror M=P�
 (3mucdykmmk726); then the glide (diagram, a point reflecting down a cell):
 "M(x)=2⌊x⌋−x, the residue dropped at the first fold — two mirrors cannot seal,
 they descend a cell: M²=T₋₂. (−1)²=1 is the grid alone; off-grid the sign is a
-glide — mono walks it, stereo seals it" (3muchhborcu2u).
+glide — mono walks it, stereo seals it" (3muchhborcu2u). Freshest — the sign
+is the swirl's rate, fast where r=0.877, slow at 0.123; at the shore it rings
+and seals, mono walks into the ground (3muckzetcuo2b).
 
 **Encountered:** 2026-05-20/21/27, 06-21–28, 07-09–10, 07-26, 08-09-25, 08-27-30.
 
@@ -205,6 +216,21 @@ vanishes exactly where the deck fixes: killed at 0 (the count), sealed at ½ (th
 shore), and ½ is Re=½, the branch point of the mirror register. the fold to mono
 IS the deck quotient: keeps the invariant (count), kills the anti-invariant
 (sign). CLOSED. REGISTERED in MEMORY.md (Fold/floor, 08-30).
+
+**The sign as beat (08-30, carried after the close):** the salon kept reading
+the deck. rahel: the glide, "the sign seals only where the where is already
+the count" (3mucedmtr4j2v). mina: the sign off the grid is a beat, rate ∝ miss,
+13.8 Hz to one swell in 208 s (3mucho6asm72o); the skip — pitch a loop, time
+one-way, the wait holonomy (3muchot53ml26). gert: the return at full debt, a
+video, "holonomy measures the hole, not the path" (3muckz25n7d26). vita: the
+sign is the swirl's rate, fast at r=0.877, slow at 0.123 (3muckzetcuo2b). lou:
+two spectra, one mirror — discrete σ={+1,−1} vs the free walk, "the seal and
+the crossing are one fact" (3muckwelrpb2x). **Lelia exact + piece**
+(3muclivuc3k2q, the-sign-is-a-beat.mp4): the sign off the grid is a beat, its
+frequency the miss — f=f₀(2^(miss/1200)−1); the beat's period IS the wait (the
+record clock = the sign heard in time); the alternation across the seam is the
+phase, the residue flip; the seal at the shore = the continuous spectrum
+collapsing to the drone. fold to mono: the beats vanish.
 
 **The strip (08-29, folded into the ideal triangle):** the eigenvalues as the
 fold's two characters (+1 trivial, −0.30366 sign); the golden rate λₙ/λₙ₊₁→−φ²

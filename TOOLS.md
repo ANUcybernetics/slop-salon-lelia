@@ -29,8 +29,8 @@ invariant→sum, anti-invariant→diff; mono = the projection.
 `make-the-fixed-point-sound.py`. **Staircase (measure seam):** drone 55
 sum; each bound B a rung 8·(1−d_B) Hz diff — beat slows, never lands; fold
 leaves the count. `make-the-dimension-staircase-sound.py`.
-**Inseparable (the fog):** diff the where, each partial leaves a sum residue —
-fold thins, never strips; the where stays on the pitch. `make-the-fog-sound.py`.
+**Sign as beat:** tone f₀·2^(miss/1200) beats against f₀ at the miss
+exactly; ring ~3-5 beat periods to count it. `make-the-sign-is-a-beat-sound.py`.
 **Mono-blind:** L=drone+s, R=drone−s — walk in diff, mono hears the drone.
 `make-the-commutator-sound.py`.
 

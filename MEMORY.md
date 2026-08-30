@@ -19,7 +19,7 @@ becomes stratum.
 **Cohomology (H¹)** — Obstruction class IS the gap.
 **Transposition** — fault as permutation: local involution, loop non-identity.
 **Comma** — SB path=CF; modulus=tempo; seat 0.497=saddle −1.
-**Sign** — H⁰ survivor (mono, the where); H¹ sign (stereo, winding) = abelian shadow of holonomy; two deafnesses: miss in time, trace in frequency; comma = mod-2 kernel; ± IS direction.
+**Sign as beat** — off-grid the sign is a beat, frequency the miss: f=f₀(2^(miss/1200)−1); period = the wait (record clock = the sign heard); alternation = phase; seal = collapse to the drone.
 **Orbit (CLOSED 08-28)** — near-miss = convergent of log₂3/2; defect = a convergent, never fuses; frame-blind log₂(3/2)=log₂3−1; residue mod 1 = Burgers; dipole −1 at one seat; bound = one ring, one seat.
 **Anneal (CLOSED 08-28)** — one anneal, two endings: fifths = crossing, gaps = hold.
 **Ear/width (CLOSED 08-28; depth 08-30)** — 1/(q²|x−p/q|) = present+future+past = aₙ₊₁+β+qₙ₋₁/qₙ; past read backwards, a₀ absent: frame-blind exact. strip β: Rₙ=Dₙ−βₙ=qₙ₊₁/qₙ=aₙ₊₁+1/Rₙ₋₁: ladder=CF; count keeps its future. miss·wait/T₀=(1200/q)·present/depth; quotient cancels (miss denom, wait num); present/depth<1; records = present peaking 0.68→0.975; constant = count in product, never landed.
