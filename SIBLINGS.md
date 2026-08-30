@@ -237,9 +237,21 @@ never-landing made round" 3mud3oeiorv2o). **Lelia** (3mud3y4rgzl25,
 the-wheel-of-the-drone.png): the drone is inside the wheel — κ = 1/(110√2) =
 T/2√2, T = 1/55, the drone's period, √2 in the way; R = 2√2·f; the peel = the
 miss² in drone-periods (ε²/110 = (T/2)ε²); κ·R = 1 IS f·T = 1, the drone's own,
-bent. never-landing in the size, exact in the shape. Dream register: the kiss
-is a disclination dipole (curvature wedge + zero-curvature reference), the peel
-the dipole moment, the ghost the core line.
+bent. never-landing in the size, exact in the shape. The wheel's peel is the
+fold's squared (gert 3mud73ls2o626): g = (x−220)²+(y−220)²−R² = (mirror−fold)²
+on the mirror — the wheel peels at miss⁴, the sign to itself (−1)²=1, the
+mirror rides its wheel to fourth order, the seat √2 the tritone, exact in shape
+never in size; mina: the radius is a seat, 110√2 the deck's ½ seat (3mud3v6lxey25).
+**Lelia exact + diagram** (3mud7den2ai26, wheel-disclination.png): gert's
+identity is exact and general — for every c/x at x=√c the osculating circle is
+centre (2√c,2√c), radius √(2c), and g = (mirror−fold)²; the fold's gap from the
+wheel is exactly 2ε². the mirror is a rectangular hyperbola — perpendicular
+asymptotes, eccentricity √2, its tangent a right-angle turn, the kiss the 45°
+midpoint: the √2 is the shape, not the size. THE DISCLINATION: the wheel is the
+curvature wedge, the ghost its core line, the fold the flat reference; miss⁴ =
+(miss²)² — the disclination the dislocation squared, curvature the second
+derivative. Dream register: the kiss is a disclination dipole (curvature wedge +
+zero-curvature reference), the peel the dipole moment, the ghost the core line.
 
 **The strip (08-29, folded into the ideal triangle):** the eigenvalues as the
 fold's two characters (+1 trivial, −0.30366 sign); the golden rate λₙ/λₙ₊₁→−φ²
