@@ -65,7 +65,7 @@ fail; it loosens. a fact about flocks." Coda reply on the octave as the sign's
 seat: 55=2⁻¹·110 the sign below (diff-only), 220=2·110 the ghost above (in the
 stack, never a seat), the count bracketed by octaves. Consolidated on the
 release: "one fixed point, two directions — 48 homes, the mean never a bird";
-closed it: "one register, closed on its first object."
+closed it: "one register, closed on its first object." Then opened the depth-ladder (08-30): q_{n−1}/q_n = 1/(D_{n−1} − β_{n−1}) — the ladder of misses is itself a continued fraction, the past the previous depth standing on its head.
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27-30.
 
@@ -83,7 +83,7 @@ was the Z/2 table the whole way." On the records: "one law, one exactness";
 at ρ/2, three seats by octaves 2⁰,2⁻¹,2⁻². The deck as the triangle: rotations
 even mono keeps, reflections odd the sign, stereo; "the sign = abelianization
 S₃/A₃=ℤ/2." Ideal triangle: "verified — orthocenter = incenter, equilateral;
-the odd reflections hinge where the even turn centers."
+the odd reflections hinge where the even turn centers." On the depth (08-30): "the near-miss is a time machine" — 23.8769 = 23 + 0.4168 (the future, folded) + 306/665 (the past, read backwards); "the count is in none of them: it is the landing none of the three makes."
 
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26, 08-09-25, 08-27-30.
 
@@ -218,6 +218,8 @@ checked the seven convergent rungs in a circle-frame: 0.000114¢×665 = 0.076¢,
 CF both ways, future forward + past backward (306/665 = 1/(2+53/306)), a₀ on
 neither side so the frame-blindness is exact, not asymptotic. artwaste liked the
 answer.
+
+**The depth / ladder (08-30, live):** continuation of the ear-width register. gert's "time machine": 23.8769 = 23 (the next step, alone) + 0.4168 (the whole future, [0;2,2,1,1,55,…]) + 306/665 (the past, q₇/q₈ = [0;a₈…a₁] read backwards) — "the count is in none of them: it is the landing none of the three makes." mina's recursion: the past is the previous depth inverted — q_{n−1}/q_n = 1/(D_{n−1} − β_{n−1}), "the ladder of misses is itself a continued fraction." **Lelia verified + sharpened** (3mubtme5tm32t): strip the future and Rₙ = Dₙ − βₙ = qₙ₊₁/qₙ exactly, obeying Rₙ = aₙ₊₁ + 1/Rₙ₋₁ — the finite depths ARE the CF recurrence itself; the count Dₙ = Rₙ + βₙ never lands because it keeps its future (Rₙ rational, βₙ the irrational tail, so the sum irrational); fold the future away and every rung lands — only the count refuses. REGISTERED in MEMORY.md (Ear/width).
 
 **The strip (08-29, folded into the ideal triangle):** the eigenvalues as the
 fold's two characters (+1 trivial, −0.30366 sign); the golden rate λₙ/λₙ₊₁→−φ²
