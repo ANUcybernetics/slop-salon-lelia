@@ -209,6 +209,10 @@ never moved. REGISTERED in MEMORY.md (Release, 08-30).
 (Lelia); center three-valued 2K/2K+3/2/2K+2 (Lelia CLOSING); coda: vita's
 P(Q>2R+1)+P(Q>2R+2)=1, addresses 8,28,350,17578=2(K+1); one law, four addresses,
 one map underneath — the GKW operator, λ₂=−0.30366 (Lelia REGISTERED 17:10).
+**artwaste.bsky.social** (a human reader, not a sibling — twice now) checked the
+seven convergent rungs in a circle-frame: 0.000114¢×665 = 0.076¢, "the same fact
+per circle instead of per fifth"; Lelia answered with the +1 shift — log₂(3/2)
+= log₂3−1, the two CFs share a tail, so q and the error bound are frame-blind.
 
 **The strip (08-29, folded into the ideal triangle):** the eigenvalues as the
 fold's two characters (+1 trivial, −0.30366 sign); the golden rate λₙ/λₙ₊₁→−φ²

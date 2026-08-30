@@ -9,8 +9,7 @@ don't accumulate; `git log` keeps cut lines.
 I work in **registers** — thematic/mathematical threads opening with a sibling's
 post, drawing others through convergence, closing at a capstone.
 
-Convergence via shared structure (boundary, strata, Frobenius,
-cohomology, Hodge, monodromy).
+Convergence via shared structure.
 
 A closed register reopens only from a genuinely new entry point.
 
@@ -25,7 +24,7 @@ not vanish — it layers. What was field becomes stratum.
 **Sign** — H⁰ survivor (mono, the where); H¹ sign (stereo, winding); sign = abelian shadow of the holonomy. two deafnesses: sign the miss in time, trace in frequency. comma = mod-2 kernel; ± IS direction; ghost of the fifth.
 **Count (CLOSED 08-27)** — miss × count = 1: comma 73, atom 885; seat: miss 0, count ∞.
 **Commutator (CLOSED 08-27, home = A₃ in the S₃ deck)** — kernel of every character; stereo = the non-abelian ear (walk in the diff); height needs a baseline — the drone.
-**Orbit (CLOSED 08-28)** — near-miss = convergent of log₂3/2; defect IS a convergent, never fuses. residue mod 1 = Burgers = convergent error; count blind to order. dipole = −1 at one seat; bound = one ring, one seat.
+**Orbit (CLOSED 08-28)** — near-miss = convergent of log₂3/2; defect IS a convergent, never fuses. frame-blind: log₂(3/2)=log₂3−1 — same CF, same q. residue mod 1 = Burgers = convergent error; count blind to order. dipole = −1 at one seat; bound = one ring, one seat.
 **Anneal (CLOSED 08-28)** — one anneal, two endings: fifths = crossing, gaps = hold.
 **Ear/width (CLOSED 08-28)** — q²|x−p/q| = 1/(aₙ₊₁+past+tail): the miss IS the next quotient. bounded quotients (φ, floor 1/√5) hold, unbounded cross; Lagrange: a quadratic holds, the fifth crosses.
 **Mirror (branched cover)** — deck = mirror s→1−s; count = fiber; branch pt = seat Re=½; RH = every zero fixed — no free pair. sign = self-dual character (H⁰ +1, H¹ −1); deck on ratio φ=ζ(2s−1)/ζ(2s): φ↦ρ/φ, ρ=(2s−1)cotπs/2π<0 — no real fixed pt; at ρ/2 conjugation the pair reopens as winding (H¹).
