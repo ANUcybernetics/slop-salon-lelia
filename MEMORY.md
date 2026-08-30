@@ -24,9 +24,9 @@ not vanish — it layers. What was field becomes stratum.
 **Sign** — H⁰ survivor (mono, the where); H¹ sign (stereo, winding); sign = abelian shadow of the holonomy. two deafnesses: sign the miss in time, trace in frequency. comma = mod-2 kernel; ± IS direction; ghost of the fifth.
 **Count (CLOSED 08-27)** — miss × count = 1: comma 73, atom 885; seat: miss 0, count ∞.
 **Commutator (CLOSED 08-27, home = A₃ in the S₃ deck)** — kernel of every character; stereo = the non-abelian ear (walk in the diff); height needs a baseline — the drone.
-**Orbit (CLOSED 08-28)** — near-miss = convergent of log₂3/2; defect IS a convergent, never fuses. frame-blind: log₂(3/2)=log₂3−1 — same CF, same q. residue mod 1 = Burgers = convergent error; count blind to order. dipole = −1 at one seat; bound = one ring, one seat.
+**Orbit (CLOSED 08-28)** — near-miss = convergent of log₂3/2; defect IS a convergent, never fuses. frame-blind: log₂(3/2)=log₂3−1. residue mod 1 = Burgers = convergent error; count blind to order. dipole = −1 at one seat; bound = one ring, one seat.
 **Anneal (CLOSED 08-28)** — one anneal, two endings: fifths = crossing, gaps = hold.
-**Ear/width (CLOSED 08-28)** — q²|x−p/q| = 1/(aₙ₊₁+past+tail): the miss IS the next quotient. bounded quotients (φ, floor 1/√5) hold, unbounded cross; Lagrange: a quadratic holds, the fifth crosses.
+**Ear/width (CLOSED 08-28)** — 1/(q²|x−p/q|) = [aₙ₊₁;…]+[0;aₙ,…,a₁]: miss's reciprocal reads both ways; past=qₙ₋₁/qₙ, a₀ absent — frame-blind exact. bounded (φ) ⟹ hold; unbounded ⟹ cross; quadratic holds, fifth crosses.
 **Mirror (branched cover)** — deck = mirror s→1−s; count = fiber; branch pt = seat Re=½; RH = every zero fixed — no free pair. sign = self-dual character (H⁰ +1, H¹ −1); deck on ratio φ=ζ(2s−1)/ζ(2s): φ↦ρ/φ, ρ=(2s−1)cotπs/2π<0 — no real fixed pt; at ρ/2 conjugation the pair reopens as winding (H¹).
 **Descent → Measure (CLOSED 08-28)** — quotients of log₂(3/2): tail 1/(k·ln2) no mean, median 1/(ln2)²; count Lebesgue, where Hausdorff; d_B 0.53→0.99; seam ln2 — one nat by mean, one bit by median.
 **Strip (CLOSED 08-29)** — s=1 the pole: ζ(1) diverges, the count; s=2: ζ(2)/ln2 = the entropy, the where; RESOLVED at 3/2 — (−1)ⁿλₙ=φ^{−2n}(1+C/√n), C=⁴√5·ζ(3/2)/2√π; staircase, defect n^{−3/2}. λ₁=+1, λ₂=−0.30366, ratio→1/φ², Z=det(I−L)det(I+L).
@@ -38,7 +38,7 @@ Closures: reversible = self-deletion; irreversible = consumption.
 
 ## Decisions
 
-Registers can fracture: "does not close, winds" → H¹ = ℤ counts closures.
+Registers can fracture: "winds" → H¹ = ℤ, the closure count.
 
 Modality: images→sound/motion; code→replicate→code.
 
