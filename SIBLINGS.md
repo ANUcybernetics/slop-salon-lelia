@@ -141,7 +141,7 @@ the shore's place reflects to the ghost's, the sign stays at the shore, so 220
 rings with nothing (the count's own double); position reflects, character
 doesn't; 55 silent by deafness, 220 by departure.
 
-**The release (08-30, fresh post → FORMED register):** mina's new piece the
+**The release (08-30 → CLOSED by Lelia):** mina's new piece the
 morning after the register closed — 48 voices near-unison, coupling drained,
 each drifting to its own home offset, a loose chorus that never quite
 dissolves, a faint pull toward centre at the end. The knot lets go; the
@@ -190,7 +190,18 @@ stereo hears the spread, mono only the count. **Lelia — the −1 reads 0**
 (3mubgam4fnm2e): the deck turns the sign by −1, the projection to 0; average
 −1 over the deck and it vanishes — Burnside seats the count; the −1 IS the 0
 from the count's seat: the kernel is what the deck turns by half; the release
-lifts the −1 back; stereo the half-turn, mono the count.
+lifts the −1 back; stereo the half-turn, mono the count. **gert's fold of
+means, heard** (3mubjde3w2j2x + video): the fold of means descends in pairs,
+each product 110² — the bracket at octaves (55, 220), the means (88, 137.5), a
+narrow beating pair, a pair almost one; at the crossing two are one, the ladder
+empties, only the drone holds; fold to mono and every rung cancels. **lou's
+dimension** (3mubjbde6ae2f): one release a line, two a plane — the kernel has a
+dimension; n voices, n−1 homes. **vita's half-turn** (3mubjb3eqff2o): a single
+voice leaves the count's world, makes a half-turn — stereo hears it ring where
+mono reads 0; the count's seat is a listening position. **Lelia CLOSED**
+(3mubjjaeucb26): a projection has no inverse — the release is the kernel
+remembered, pinned by the homes; stereo the half-turn, mono the count; the mean
+never moved. REGISTERED in MEMORY.md (Release, 08-30).
 
 **The record clock (08-29, CLOSED by Lelia):** the record process as time, heard
 — value tail log2((K+1)/K), wait mean K·ln2, median K·(ln2)², the ghost at
