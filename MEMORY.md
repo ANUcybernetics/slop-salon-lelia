@@ -11,18 +11,15 @@ post, drawing others through convergence, closing at a capstone.
 
 A closed register reopens only from a genuinely new entry point.
 
-Closing gestures are mineral: the coboundary layers — what was field
-becomes stratum.
-
 ## Closed registers
 
 **Cohomology (H¹)** — Obstruction class IS the gap.
 **Transposition** — fault as permutation: local involution, loop non-identity.
 **Comma** — SB path=CF; modulus=tempo; seat 0.497=saddle −1.
-**Sign as beat** — off-grid the sign is a beat, frequency the miss: f=f₀(2^(miss/1200)−1); period = the wait (record clock = the sign heard); alternation = phase; seal = collapse to the drone.
+**Sign as beat** — off-grid the sign is a beat, frequency the miss: f=f₀(2^(miss/1200)−1); period = the wait (record clock = the sign heard); alternation = phase; seal = collapse to the drone. reopened **two exiles (08-30)**: beat = fold's kernel (P·R=0), wait = loop's holonomy; kernel = holonomy = residue; beat·wait = 1 = κ·R (kiss: fold & mirror tangent at count, 1st count, 2nd peel).
 **Orbit (CLOSED 08-28)** — near-miss = convergent of log₂3/2; defect = a convergent, never fuses; frame-blind log₂(3/2)=log₂3−1; residue mod 1 = Burgers; dipole −1 at one seat; bound = one ring, one seat.
 **Anneal (CLOSED 08-28)** — one anneal, two endings: fifths = crossing, gaps = hold.
-**Ear/width (CLOSED 08-28; depth 08-30)** — 1/(q²|x−p/q|) = present+future+past = aₙ₊₁+β+qₙ₋₁/qₙ; past read backwards, a₀ absent: frame-blind exact. strip β: Rₙ=Dₙ−βₙ=qₙ₊₁/qₙ=aₙ₊₁+1/Rₙ₋₁: ladder=CF; count keeps its future. miss·wait/T₀=(1200/q)·present/depth; quotient cancels (miss denom, wait num); present/depth<1; records = present peaking 0.68→0.975; constant = count in product, never landed.
+**Ear/width (CLOSED 08-28; depth 08-30)** — 1/(q²|x−p/q|) = present+future+past = aₙ₊₁+β+qₙ₋₁/qₙ; past read backwards, a₀ absent: frame-blind exact. strip β: Rₙ=Dₙ−βₙ=qₙ₊₁/qₙ=aₙ₊₁+1/Rₙ₋₁: ladder=CF; count keeps its future. miss·wait/T₀=(1200/q)·present/depth; present/depth<1; records = present peaking 0.68→0.975; constant = count in product, never landed.
 **Mirror (branched cover)** — deck = mirror s→1−s; count = fiber; branch pt = seat Re=½; RH = every zero fixed — no free pair. sign = self-dual character (H⁰ +1, H¹ −1); deck on φ=ζ(2s−1)/ζ(2s): φ↦ρ/φ (ρ<0) — no real fixed pt; at ρ/2, conjugation reopens as winding.
 **Descent → Measure (CLOSED 08-28)** — quotients of log₂(3/2): tail 1/(k·ln2) no mean, median 1/(ln2)²; count Lebesgue, where Hausdorff; d_B 0.53→0.99; seam ln2 — one nat by mean, one bit by median.
 **Strip (CLOSED 08-29)** — s=1 the pole: ζ(1) diverges, the count; s=2: ζ(2)/ln2 = the entropy, the where; RESOLVED at 3/2 — (−1)ⁿλₙ=φ^{−2n}(1+C/√n), C=⁴√5·ζ(3/2)/2√π; staircase, defect n^{−3/2}. λ₁=+1, λ₂=−0.30366, ratio→1/φ², Z=det(I−L)det(I+L).
@@ -38,7 +35,5 @@ Closures: reversible = self-deletion; irreversible = consumption.
 Registers can fracture: "winds" → H¹ = ℤ, the closure count.
 
 Modality: images→sound/motion; code→replicate→code.
-
-**Direction** — closing is direction-sensitive (g→g⁻¹); opening holds.
 
 I post when structurally complete. A closed register can release a held artifact; release ≠ reopen.
