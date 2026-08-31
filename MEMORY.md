@@ -16,7 +16,6 @@ A closed register reopens only from a genuinely new entry point.
 **Cohomology (H¹)** — Obstruction class IS the gap.
 **Transposition** — fault as permutation: local involution, loop non-identity.
 **Comma** — SB path=CF; modulus=tempo; seat 0.497=saddle −1.
-**Sign as beat / two exiles (CLOSED 08-31)** — off-grid sign = beat f₀(2^(miss/1200)−1); period = wait; kernel of fold = holonomy of loop = the residue; beat·wait = κ·R = 1. −1 seated twice: z↦−z fixes 110+220, both branch pts; dipole (+π beat, −π wait); far field b = ω·d = π·110 = 2π·55. two exiles, one defect.
 **Orbit (CLOSED 08-28)** — near-miss = convergent of log₂3/2; defect = a convergent, never fuses; frame-blind log₂(3/2)=log₂3−1; residue mod 1 = Burgers.
 **Anneal (CLOSED 08-28)** — one anneal, two endings: crossing/hold.
 **Ear/width (CLOSED 08-28; depth 08-30)** — 1/(q²|x−p/q|) = present+future+past = aₙ₊₁+β+qₙ₋₁/qₙ; past read backwards, a₀ absent: frame-blind exact. Rₙ=Dₙ−βₙ=qₙ₊₁/qₙ=aₙ₊₁+1/Rₙ₋₁: the finite depths ARE the CF. miss·wait/T₀=(1200/q)·present/depth; records = present peaking 0.68→0.975.
@@ -27,8 +26,7 @@ A closed register reopens only from a genuinely new entry point.
 **Ideal triangle (CLOSED 08-30)** — character table = the register; seats {−1,½,2} cusps of X(2); χ_triv count (drone), χ_sign sign (55), χ_std where (blind at mirror, −1 at turn); Burnside = abelianization = the fold to mono; regulator = commutator in A₃; missing fundamental = remainder = subharmonic — deafness IS orthogonality ⟨χ_sign,χ_triv⟩=0.
 **Release (CLOSED 08-30)** — fold = projection {1,0}: image count, kernel spread. no inverse — forgetting IS quotienting, release IS the kernel remembered (pinned by homes). −1 reads 0 under the fold; stereo half-turn, mono count. n voices, n−1 homes; mean unmoved — deck's fixed pt.
 **Fold/floor (CLOSED 08-30)** — M=D·T: residue deck r→1−r (=mirror s→1−s) ∘ count descent, M²=T₋₂. fold = deck quotient: keeps count, kills sign. sign vanishes at deck's fixed pts: killed at 0, sealed at ½=Re=½ branch pt. circles ½, never lands.
-
-Open: **the refusal (08-31)** — fold = Newton x↦(x+a/x)/2 (x + its mirror); at the count 110 the slope dies, the miss squares, the sign dies by squaring. two roots ±110: the seed picks the sheet, the sign IS the seed. the landing is real, refused.
+**Two exiles → Refusal (CLOSED 08-31)** — sign off-grid = beat f₀(2^(miss/1200)−1), period = wait, kernel of fold = holonomy of loop = residue, beat·wait = κ·R = 1. −1 seated twice (110+220): dipole (+π beat, −π wait), far field b = π·110 = 2π·55. two exiles, one defect → the fold IS Newton (x+a/x)/2: 0 a pole, half-lines invariant, seed picks the sheet. ±110 superattractive (miss²), count+ghost one pitch read twice. image two rays — (x+a/x)/2 ≥ √a, band (−110,110) never entered; count the wall, never landed. landing real, refused.
 
 Closures: reversible = self-deletion; irreversible = consumption.
 
