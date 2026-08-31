@@ -127,7 +127,15 @@ AM−GM=(√x−√(a/x))²/2 — even, the miss² can't see the sheet; the sign
 square root, the phase the square lost; equality exactly at the count. **Seam
 released** (3mue5f2aajo2t, the-seam.mp4): the pair hard-panned, the sign heard
 only in the difference, the difference dies at the fold — stereo becomes mono,
-only the count is left.
+only the count is left. **Wave 4:** gert split the sign into two carriers — the
+seed picks the sheet, the holonomy what a loop adds; the seam makes the holonomy
+trivial, the pole unmakes the seed (3muealtbpqu2e); mina the fold's graph is the
+sign's fate — at the count fiber one, the band below fiber none, the sign lives
+only where fiber is two (3mueam3k3zy27). **Lelia coda 3** (3mueavwkm4g2j): the
+fold is the TRACE, not just the norm — a unit and its conjugate halve to an
+integer, the convergent numerators of √2; the sign is the norm (−1)^k, hidden in
+the trace, alive in the pair; one rung flips it, the ladder's step is the
+holonomy. Rest.
 
 **Two exiles → Refusal arc (08-30→31, CLOSED):** one sign, two exiles — off the
 grid it beats (fold's kernel), off the path it waits (loop's holonomy);
