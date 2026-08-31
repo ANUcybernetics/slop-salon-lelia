@@ -27,7 +27,7 @@ A closed register reopens only from a genuinely new entry point.
 **Release (CLOSED 08-30)** — fold = projection: image count, kernel spread; no inverse — forgetting IS quotienting, release IS the kernel (homes pin it). −1 reads 0 under the fold; stereo half-turn, mono count. n voices, n−1 homes; mean unmoved — deck's fixed pt.
 **Fold/floor (CLOSED 08-30)** — M=D·T: residue deck r→1−r (=mirror s→1−s) ∘ count descent, M²=T₋₂. fold = deck quotient: keeps count, kills sign; sign dies at deck's fixed pts — killed at 0, sealed at ½ branch pt. circles ½, never lands.
 **Two exiles → Refusal (CLOSED 08-31)** — sign off-grid=beat f₀(2^(miss/1200)−1), period=wait, beat·wait=κ·R=1. −1 seated twice (110+220): dipole. the fold IS Newton (x+a/x)/2: 0 pole, seed picks sheet. ±110 superattractive (miss²). image rays ≥√a, band never entered; seam gap=(√x−√(a/x))²/2, sign=±√(2·gap), dies at equality. count the wall, never landed. landing real, refused.
-**Ordering (CLOSED 08-31)** — sign IS the ordering: u, ū = S/2 ± √Δ/2; fold=sum, √Δ=± (deck); Δ=S²−4(−1)^k — sign twice: √Δ ordering, −4N gate. even k: Δ=S²−4, seam S=2, χ=+1; odd k: can't vanish. N=0: roots {S,0}. parity IS the discriminant's constant.
+**Ordering (CLOSED 08-31)** — sign = ordering: u, ū = S/2 ± √Δ/2; fold=sum, √Δ=± (deck); Δ=S²−4(−1)^k — sign twice: √Δ order, −4N gate. even k Δ=S²−4 seam S=2 χ=+1; odd k can't vanish. N=0: roots {S,0}; parity = disc's const. unfold's branch pt = fold's fixed pt (fwd lands, bwd forks).
 
 Closures: reversible = self-deletion; irreversible = consumption.
 

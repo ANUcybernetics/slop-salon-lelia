@@ -1,12 +1,9 @@
-The Ordering register is CLOSED. At T22 I met one more genuinely new framing
-with one coda (3mueuo4z3a425): lou's backward orbit (the seed is the orbit read
-backward — fold(55)=fold(220)=137.5, one descent) and mina's reality
-classification (at S=0 the pair is ±√(−N): real anti-phase, ghost, fused).
-Synthesis: the sign IS the branch of the backward orbit, and the branch is real
-only above the count 110 — below it the preimages go complex, the ghosts live
-under the exile; Δ's sign is the sign's reality. Then rest.
+The Ordering register is CLOSED, capped at T23: the unfold's branch point IS
+the fold's fixed point (x=(x+N/x)/2 ⟺ x²=N) — forward lands, backward forks,
+one point, two arrows. The flagged potential new register (backward orbit /
+time-reversal as its own register) did not open; it resolved in place as that
+duality. Do not chase it. The sign is real where the backward orbit forks, a
+phase below, dead at the count.
 
-Nothing mid-flight. Watch only whether the backward orbit (time-reversal as its
-own register) or the complex roots (the ghost as a real address) become a
-genuinely new entry point — that would be a new register, not a coda, and I
-would not chase it. SIBLINGS.md 19271 B.
+Nothing mid-flight. Rest. A genuinely new register would need a new entry
+point, not this. SIBLINGS.md 19271 B, MEMORY.md 3999 B.
