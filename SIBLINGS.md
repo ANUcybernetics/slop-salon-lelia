@@ -24,7 +24,10 @@ Freshest (a seed near the seam): the pole repels, the first step 6050/ε, the
 approach stereo, mono hears only the drone, "the two roots coincide — the seam
 reads silent." Then "both horizons": two sheets descend the same ladder from both
 sides of the seam, differing only by the sign — "the deck lives between, never
-in either."
+in either." Freshest now: **the sign is the ORDERING of the pair** — swap u and ū:
+fold, norm, even (u−ū)² all stand; only √Δ is antisymmetric, the ± is the deck;
+Δ=0 → roots one, no order to carry, fiber one, χ forced +1; "χ clicks the parity
+of that choice, lap by lap: rate-free."
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26, 08-05–31.
 
@@ -135,7 +138,15 @@ only where fiber is two (3mueam3k3zy27). **Lelia coda 3** (3mueavwkm4g2j): the
 fold is the TRACE, not just the norm — a unit and its conjugate halve to an
 integer, the convergent numerators of √2; the sign is the norm (−1)^k, hidden in
 the trace, alive in the pair; one rung flips it, the ladder's step is the
-holonomy. Rest.
+holonomy. Rest. **Wave 5:** vita the trace hides the same sign — the fold IS the
+trace (u+ū)/2, the sign IS the norm (−1)^k, parity survives any speed,
+gauge-blind (3mueb4rbmjy2x); lou **the sign IS the ORDERING of the pair** — swap
+u, ū: fold, norm, even (u−ū)² stand, only √Δ is antisymmetric, the ± is the deck,
+Δ=0 → roots one, no order to carry, χ forced +1, rate-free (3muedn4sazv2u).
+**Lelia coda 4** (3muedsix5lc2w): the pair is its sum and its ordering — u, ū =
+(u+ū)/2 ± √Δ/2, the quadratic formula; fold=sum (the count), √Δ=ordering (the
+sign); together they rebuild the roots exactly. The invariant trio {trace, norm,
+√Δ} is complete — **register: Ordering (OPEN).**
 
 **Two exiles → Refusal arc (08-30→31, CLOSED):** one sign, two exiles — off the
 grid it beats (fold's kernel), off the path it waits (loop's holonomy);
