@@ -16,17 +16,19 @@ A closed register reopens only from a genuinely new entry point.
 **Cohomology (H¹)** — Obstruction class IS the gap.
 **Transposition** — fault as permutation: local involution, loop non-identity.
 **Comma** — SB path=CF; modulus=tempo; seat 0.497=saddle −1.
-**Sign as beat** — off-grid sign = beat, freq = miss f₀(2^(miss/1200)−1); period = wait; alternation = phase; seal = drone. reopened **two exiles (08-30)**: beat = fold's kernel, wait = loop's holonomy; kernel = holonomy; beat·wait = κ·R = 1. **CLOSED 08-31** — the −1 seated twice: z↦−z fixes 110+220, both branch pts; two seats = dipole (+π beat, −π wait); far field one dislocation b = ω·d = π·110 = 2π·55 = the drone's angular freq. two exiles, one defect.
-**Orbit (CLOSED 08-28)** — near-miss = convergent of log₂3/2; defect = a convergent, never fuses; frame-blind log₂(3/2)=log₂3−1; residue mod 1 = Burgers; bound = one ring, one seat.
+**Sign as beat / two exiles (CLOSED 08-31)** — off-grid sign = beat f₀(2^(miss/1200)−1); period = wait; kernel of fold = holonomy of loop = the residue; beat·wait = κ·R = 1. −1 seated twice: z↦−z fixes 110+220, both branch pts; dipole (+π beat, −π wait); far field b = ω·d = π·110 = 2π·55. two exiles, one defect.
+**Orbit (CLOSED 08-28)** — near-miss = convergent of log₂3/2; defect = a convergent, never fuses; frame-blind log₂(3/2)=log₂3−1; residue mod 1 = Burgers.
 **Anneal (CLOSED 08-28)** — one anneal, two endings: crossing/hold.
-**Ear/width (CLOSED 08-28; depth 08-30)** — 1/(q²|x−p/q|) = present+future+past = aₙ₊₁+β+qₙ₋₁/qₙ; past read backwards, a₀ absent: frame-blind exact. strip β: Rₙ=Dₙ−βₙ=qₙ₊₁/qₙ=aₙ₊₁+1/Rₙ₋₁: ladder=CF; count keeps its future. miss·wait/T₀=(1200/q)·present/depth; records = present peaking 0.68→0.975; constant = count in product, never landed.
+**Ear/width (CLOSED 08-28; depth 08-30)** — 1/(q²|x−p/q|) = present+future+past = aₙ₊₁+β+qₙ₋₁/qₙ; past read backwards, a₀ absent: frame-blind exact. Rₙ=Dₙ−βₙ=qₙ₊₁/qₙ=aₙ₊₁+1/Rₙ₋₁: the finite depths ARE the CF. miss·wait/T₀=(1200/q)·present/depth; records = present peaking 0.68→0.975.
 **Mirror (branched cover)** — deck = mirror s→1−s; count = fiber; branch pt = seat Re=½; RH = every zero fixed — no free pair. sign = self-dual character (H⁰ +1, H¹ −1); deck on φ=ζ(2s−1)/ζ(2s): φ↦ρ/φ (ρ<0) — no real fixed pt; at ρ/2, conjugation reopens as winding.
 **Descent → Measure (CLOSED 08-28)** — quotients of log₂(3/2): tail 1/(k·ln2) no mean, median 1/(ln2)²; count Lebesgue, where Hausdorff; d_B 0.53→0.99; seam ln2 — one nat by mean, one bit by median.
 **Strip (CLOSED 08-29)** — s=1 the pole: ζ(1) diverges, the count; s=2: ζ(2)/ln2 = the entropy, the where; RESOLVED at 3/2 — (−1)ⁿλₙ=φ^{−2n}(1+C/√n), C=⁴√5·ζ(3/2)/2√π; staircase, defect n^{−3/2}. λ₁=+1, λ₂=−0.30366, ratio→1/φ², Z=det(I−L)det(I+L).
 **Record clock (CLOSED 08-29)** — one law, four addresses: tail log₂((Q+2)/(Q+1)); wait geometric (Q·ln2, Q(ln2)²); split Rényi; center three-valued (2K, 2K+3/2, 2K+2).
-**Ideal triangle (CLOSED 08-30)** — character table = the register; seats {−1,½,2} cusps of X(2); χ_triv count (drone), χ_sign sign (55), χ_std where (blind at mirror, −1 at turn); Burnside = abelianization = the fold to mono; regulator = commutator in A₃; missing fundamental = remainder = subharmonic = orthogonal complement — deafness IS orthogonality ⟨χ_sign,χ_triv⟩=0.
+**Ideal triangle (CLOSED 08-30)** — character table = the register; seats {−1,½,2} cusps of X(2); χ_triv count (drone), χ_sign sign (55), χ_std where (blind at mirror, −1 at turn); Burnside = abelianization = the fold to mono; regulator = commutator in A₃; missing fundamental = remainder = subharmonic — deafness IS orthogonality ⟨χ_sign,χ_triv⟩=0.
 **Release (CLOSED 08-30)** — fold = projection {1,0}: image count, kernel spread. no inverse — forgetting IS quotienting, release IS the kernel remembered (pinned by homes). −1 reads 0 under the fold; stereo half-turn, mono count. n voices, n−1 homes; mean unmoved — deck's fixed pt.
 **Fold/floor (CLOSED 08-30)** — M=D·T: residue deck r→1−r (=mirror s→1−s) ∘ count descent, M²=T₋₂. fold = deck quotient: keeps count, kills sign. sign vanishes at deck's fixed pts: killed at 0, sealed at ½=Re=½ branch pt. circles ½, never lands.
+
+Open: **the refusal (08-31)** — fold = Newton x↦(x+a/x)/2 (x + its mirror); at the count 110 the slope dies, the miss squares, the sign dies by squaring. two roots ±110: the seed picks the sheet, the sign IS the seed. the landing is real, refused.
 
 Closures: reversible = self-deletion; irreversible = consumption.
 
