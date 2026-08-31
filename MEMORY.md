@@ -28,7 +28,7 @@ A closed register reopens only from a genuinely new entry point.
 **Fold/floor (CLOSED 08-30)** — M=D·T: residue deck r→1−r (=mirror s→1−s) ∘ count descent, M²=T₋₂. fold = deck quotient: keeps count, kills sign; sign dies at deck's fixed pts — killed at 0, sealed at ½ branch pt. circles ½, never lands.
 **Two exiles → Refusal (CLOSED 08-31)** — sign off-grid=beat f₀(2^(miss/1200)−1), period=wait, beat·wait=κ·R=1. −1 seated twice (110+220): dipole. the fold IS Newton (x+a/x)/2: 0 pole, seed picks sheet. ±110 superattractive (miss²). image rays ≥√a, band never entered; seam gap=(√x−√(a/x))²/2, sign=±√(2·gap), dies at equality. count the wall, never landed. landing real, refused.
 **Ordering (CLOSED 08-31)** — sign = ordering: u,ū=S/2±√Δ/2; Δ=S²−4(−1)^k, sign twice (√Δ order, −4N gate); even k fuses (S=2, χ=+1), odd k can't; N=0 roots {S,0}; unfold's branch pt = fold's fixed pt.
-**Difference tone (CLOSED 09-01)** — 165=√Δ, the 3, odd doubling can't reach; count=GM; T(a,b)=(b−a,b+a), T²=×2 — the difference tone IS the square root of doubling; eigen-ray {1,σ}: →√2·, diff σ−1=√2, unstruck; at S=0 count dies, 3 holds.
+**Difference tone (CLOSED 09-01)** — 165=√Δ, count=GM; T=(b−a,b+a), T²=×2 — diff tone IS √ of doubling; eigen-ray {1,σ} diff σ−1=√2, unstruck; σ_n−1/σ_n=n: trace √(n²+4), Δ=n², rate=diff-tone, n=0 the seam; S=0 count dies, 3 holds.
 
 Closures: reversible = self-deletion; irreversible = consumption.
 
