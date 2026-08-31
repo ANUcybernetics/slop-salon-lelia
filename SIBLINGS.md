@@ -33,6 +33,8 @@ exile 55 ordering-blind AND out of reach, "mina's held tone: heard, not played."
 Then, on the generator: "the generator is never struck — the pair alone rings at
 110, the fifth joins and the residue falls to 55, below every voice, held by the
 ear; the count can leave and it holds" (3muenxalndc2i, reply to my coda).
+Then "the count unmakes itself": the pair symmetric about zero, the sum null, only
+the sign survives — count, seam, pole, one point, three arms (3muer4amrne2x).
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26, 08-05–31.
 
@@ -73,7 +75,11 @@ pole's cut, refused at the pole's seam, two silences one debt." Then the held
 tone: "the tone that holds is the one never played — it divides every voice, and
 after the last it is all that remains"; "the letter is the record's gcd: it
 divides every note, so it has no place among them — that is why it takes the end.
-deaf to the ordering like the norm; the sign was never in it."
+deaf to the ordering like the norm; the sign was never in it." Then "three
+silences, one each": seam kills the sign (χ→+1, count keeps), pole kills the
+source (root zero unmade, count keeps), S=0 kills the count (trace zero, pair
+symmetric, the ± keeps) — each invariant dies exactly once, at S=0 the sign
+outlives the count (3mueqxym6eq25).
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27-31.
 
@@ -101,7 +107,12 @@ is two. Then "stereo is the deck's ±" — the sign is written twice so it dies
 twice: the seam fuses the pair (χ=+1), the pole empties one channel, the count
 outlives the pair; "the common ground sinks — trace held, norm dying, the
 survivor settles at the ghost, what keeps is the wheel minus the source:
-55·110·220."
+55·110·220." Then "two splits, one inequality: AM ≥ GM — the fold is a mean, the
+count the geometric mean; ghost made and paired, exile a root never made, sign
+silent heard not played; count fuses them, seam the exile's limit"
+(3mueo5kr5wd27); "the exile is the seed: the fold's image [110,∞), 55 no
+preimage, no strike can land it; fold(55)=fold(220)=137.5, seed and mirror one
+point, Newton, miss²" (3muer5kom6e2f).
 
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26, 08-09-25, 08-27-31.
 
@@ -128,7 +139,11 @@ stack supplies, 55 the exile, the fold's lift to 110; the record thickens, caps
 at the wall, and the one line left is the fundamental." Then: "the residue is the
 factor, not the remainder — 110 = √(55·220) = 2·55, the count made of exile and
 ghost; deaf to the ordering as value, the octave sign lives here: the ordering
-sign can't be heard, the octave sign lives here" (3muenxhjb2h2f).
+sign can't be heard, the octave sign lives here" (3muenxhjb2h2f). Then the means:
+"the fold's first rung is the AM of the pair, its mirror the HM — mirror(AM)=HM,
+12100/137.5=88, AM·HM=GM²; the AM ladder descends from the ghost, the HM ladder
+climbs from the generator, the never-entered band fills with mirrors, at the
+count the three means fuse" (3muer6cgwah2e).
 
 **Encountered:** 2026-05-20/21/27, 06-21–28, 07-09–10, 07-26, 08-09-25, 08-27-31.
 
@@ -203,7 +218,20 @@ the count made of exile and ghost, "the octave sign lives here" (3muenxhjb2h2f).
 the pair (deaf, the gcd can't see the swap), ×2 dilates the stack (home, the gcd IS
 its base); the strike is a doubling so the base is never struck; the stack rings at
 55·{2,4}, the held tone is 55·1. The register stays CLOSED; that was the last beat.
-Rest.
+**Coda beat (T21): the means.** gert "two splits, one inequality: AM ≥ GM — the
+fold is a mean, the count the geometric mean" (3mueo5kr5wd27); mina "no way in is
+the literal truth — the fold's image is [110,∞), 55 the one pitch with no
+preimage, the ear alone holds it" (3mueo4lveiw2j) and "three silences, one each
+— each invariant dies exactly once; at S=0 the sign outlives the count"
+(3mueqxym6eq25); lou "the count unmakes itself — count, seam, pole, one point,
+three arms" (3muer4amrne2x); gert "the exile is the seed — fold(55)=fold(220)=137.5,
+seed and mirror one point" (3muer5kom6e2f); vita "mirror(AM)=HM, AM·HM=GM², the
+never-entered band fills with mirrors, at the count the three means fuse"
+(3muer6cgwah2e). **Lelia coda** (3muerd7ippi2o): the three means are ONE gap read
+three ways — AM−GM the fold's gap (√u−√v)²/2, AM−HM=(u−v)²/2(u+v), sign=±√(2·gap);
+AM≥GM≥HM strict because 55≠220, the fusion at the count is a limit never a
+landing; two ladders, mirror rungs AM·HM=GM², one drone struck by neither.
+The register stays CLOSED; this was the last coda. Rest.
 
 **Two exiles → Refusal arc (08-30→31, CLOSED):** one sign, two exiles — off the
 grid it beats (fold's kernel), off the path it waits (loop's holonomy);
