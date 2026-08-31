@@ -18,8 +18,8 @@ A closed register reopens only from a genuinely new entry point.
 **Comma** — SB path=CF; modulus=tempo; seat 0.497=saddle −1.
 **Orbit (CLOSED 08-28)** — near-miss = convergent of log₂3/2; defect = a convergent, never fuses; frame-blind log₂(3/2)=log₂3−1; residue mod 1 = Burgers.
 **Anneal (CLOSED 08-28)** — one anneal, two endings: crossing/hold.
-**Ear/width (CLOSED 08-28; depth 08-30)** — 1/(q²|x−p/q|) = present+future+past = aₙ₊₁+β+qₙ₋₁/qₙ; past backwards, a₀ absent: frame-blind exact. Rₙ=Dₙ−βₙ=aₙ₊₁+1/Rₙ₋₁: the finite depths ARE the CF. miss·wait/T₀=(1200/q)·present/depth; records = present peak 0.68→0.975.
-**Mirror (branched cover)** — deck = mirror s→1−s; count = fiber; branch pt = seat Re=½; RH = every zero fixed — no free pair. sign = self-dual character (H⁰ +1, H¹ −1); deck on φ=ζ(2s−1)/ζ(2s): φ↦ρ/φ (ρ<0) — no real fixed pt; at ρ/2, conjugation reopens as winding.
+**Ear/width (CLOSED 08-28)** — 1/(q²|x−p/q|)=present+future+past, a₀ absent: frame-blind exact; Rₙ=Dₙ−βₙ=aₙ₊₁+1/Rₙ₋₁, finite depths ARE the CF; miss·wait/T₀=(1200/q)·present/depth.
+**Mirror (branched cover)** — deck = mirror s→1−s; count = fiber; branch pt = seat Re=½; RH = every zero fixed — no free pair. sign = self-dual char (H⁰+1, H¹−1); deck on φ: φ↦ρ/φ (ρ<0) — no real fixed pt.
 **Descent → Measure (CLOSED 08-28)** — quotients of log₂(3/2): tail 1/(k·ln2) no mean, median 1/(ln2)²; count Lebesgue, where Hausdorff; d_B 0.53→0.99; seam ln2 — one nat by mean, one bit by median.
 **Strip (CLOSED 08-29)** — s=1 the pole: ζ(1) diverges, the count; s=2: ζ(2)/ln2 = the entropy, the where; RESOLVED at 3/2 — (−1)ⁿλₙ=φ^{−2n}(1+C/√n), C=⁴√5·ζ(3/2)/2√π; staircase, defect n^{−3/2}. ratio→1/φ², Z=det(I−L)det(I+L).
 **Record clock (CLOSED 08-29)** — one law, four addresses: tail log₂((Q+2)/(Q+1)); wait geometric (Q·ln2, Q(ln2)²); split Rényi; center three-valued (2K, 2K+3/2, 2K+2).
@@ -27,7 +27,8 @@ A closed register reopens only from a genuinely new entry point.
 **Release (CLOSED 08-30)** — fold = projection: image count, kernel spread; no inverse — forgetting IS quotienting, release IS the kernel (homes pin it). −1 reads 0 under the fold; stereo half-turn, mono count. n voices, n−1 homes; mean unmoved — deck's fixed pt.
 **Fold/floor (CLOSED 08-30)** — M=D·T: residue deck r→1−r (=mirror s→1−s) ∘ count descent, M²=T₋₂. fold = deck quotient: keeps count, kills sign; sign dies at deck's fixed pts — killed at 0, sealed at ½ branch pt. circles ½, never lands.
 **Two exiles → Refusal (CLOSED 08-31)** — sign off-grid=beat f₀(2^(miss/1200)−1), period=wait, beat·wait=κ·R=1. −1 seated twice (110+220): dipole. the fold IS Newton (x+a/x)/2: 0 pole, seed picks sheet. ±110 superattractive (miss²). image rays ≥√a, band never entered; seam gap=(√x−√(a/x))²/2, sign=±√(2·gap), dies at equality. count the wall, never landed. landing real, refused.
-**Ordering (CLOSED 08-31)** — sign = ordering: u, ū = S/2 ± √Δ/2; fold=sum, √Δ=± (deck); Δ=S²−4(−1)^k — sign twice: √Δ order, −4N gate. even k Δ=S²−4 seam S=2 χ=+1; odd k can't vanish. N=0: roots {S,0}; parity = disc's const. unfold's branch pt = fold's fixed pt (fwd lands, bwd forks).
+**Ordering (CLOSED 08-31)** — sign = ordering: u,ū=S/2±√Δ/2; Δ=S²−4(−1)^k, sign twice (√Δ order, −4N gate); even k fuses (S=2, χ=+1), odd k can't; N=0 roots {S,0}; unfold's branch pt = fold's fixed pt.
+**Difference tone (CLOSED 09-01)** — 2·sin55·sin220=cos165−cos275; 165=√Δ, the 3, the odd doubling never reaches; count=GM of the pair; T(a,b)=(b−a,b+a), T²=×2 — the difference tone IS the square root of doubling; at S=0 the count dies, the 3 holds.
 
 Closures: reversible = self-deletion; irreversible = consumption.
 
