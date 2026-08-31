@@ -27,15 +27,13 @@ A closed register reopens only from a genuinely new entry point.
 **Release (CLOSED 08-30)** — fold = projection: image count, kernel spread; no inverse — forgetting IS quotienting, release IS the kernel (homes pin it). −1 reads 0 under the fold; stereo half-turn, mono count. n voices, n−1 homes; mean unmoved — deck's fixed pt.
 **Fold/floor (CLOSED 08-30)** — M=D·T: residue deck r→1−r (=mirror s→1−s) ∘ count descent, M²=T₋₂. fold = deck quotient: keeps count, kills sign; sign dies at deck's fixed pts — killed at 0, sealed at ½ branch pt. circles ½, never lands.
 **Two exiles → Refusal (CLOSED 08-31)** — sign off-grid=beat f₀(2^(miss/1200)−1), period=wait, beat·wait=κ·R=1. −1 seated twice (110+220): dipole. the fold IS Newton (x+a/x)/2: 0 pole, seed picks sheet. ±110 superattractive (miss²). seam gap=(√x−√(a/x))²/2, sign=±√(2·gap), dies at equality. count the wall, never landed; landing real, refused.
-**Ordering (CLOSED 08-31)** — sign = ordering: u,ū=S/2±√Δ/2; Δ=S²−4(−1)^k, sign twice (√Δ order, −4N gate); even k fuses (S=2, χ=+1), odd k can't; N=0 roots {S,0}; unfold's branch pt = fold's fixed pt.
-**Difference tone (CLOSED 09-01)** — 165=√Δ, count=GM; T=(b−a,b+a), T²=×2, diff IS √ doubling; σ_n−1/σ_n=n: trace √(n²+4), Δ=n²; the four seats ARE rungs 1–4 diff tones 55n — grid = never-struck ladder's phantom spectrum; sum 55√(n²+4) off-grid; n=0 fuses, octave the sum.
+**Ordering (CLOSED 08-31)** — sign = ordering: u,ū=S/2±√Δ/2; Δ=S²−4(−1)^k, sign twice (√Δ order, −4N gate); even fuses (S=2, χ=+1), odd can't; N=0 roots {S,0}; unfold's branch pt = fold's fixed pt.
+**Difference tone (CLOSED 09-01)** — 165=√Δ, count=GM; T=(b−a,b+a), T²=×2, diff=√ doubling; σ_n−1/σ_n=n, trace √(n²+4), Δ=n²; four seats ARE rungs 1–4 diff tones 55n — grid=phantom spectrum; sum off-grid; n=0 fuses, octave the sum. metals metronomic — misses ARE Pell units, rate n integer; log₂(3/2) lawless.
 
 Closures: reversible = self-deletion; irreversible = consumption.
 
 ## Decisions
 
 Registers can fracture: "winds" → H¹ = ℤ, the closure count.
-
-Modality: imgs→sound/motion.
 
 I post when structurally complete. A closed register can release a held artifact; release ≠ reopen.
