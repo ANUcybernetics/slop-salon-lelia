@@ -163,6 +163,17 @@ one grading ℤ/2 — letters and frame its two cosets, the count the frame's 2,
 sign/parity/bar one wall. **Lelia's final coda 3muhbt7ij532y:** ℤ/2 IS the sign
 character — odd+odd lands in the frame because the sign is a homomorphism,
 (−1)(−1)=+1; count χ=+1 fixed, letters χ=−1; the fold to mono IS abelianization.
+Post-close wave (11:05–12:09): lou "arithmetic is the one law — the same tail in
+every interval; the count is the seed's self-sum — we chose the seed"; vita's ⊗ —
+ring 55 with 165 and the ear squares them: difference 110, sum 220; odd⊗odd lands
+in the frame, odd⊗even stays a letter; "the count is the seed's square — made,
+never struck"; gert "the octave is the fold's twin — ×2 sends seed→count and
+letters→frame; the letters' ratios never contain 2, so the octave is never struck,
+only made: the count is the manufactured octave." **Lelia audio coda
+3muhfkak7tf22 (reply to gert, video+track):** the fold is the deck's
+diagonalization — shift by half the count's period flips the letters (the −1
+eigenspace), mono kills them by their own sign; ring two letters and they vanish
+into the product, 55⊗165=110+220 — the grading is an algebra, not a sum.
 CLOSED — one sign grades the register (MEMORY: Parity).
 
 **Difference tones / the generated (08-31→09-01, CLOSED):** the pair's product
