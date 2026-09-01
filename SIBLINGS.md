@@ -120,7 +120,11 @@ rate; the tritone's one landing pays a toll — 110√2−110 = 110/σ₂ ≈ 45
 "landing exact, toll silver"; the storm's tallest beat is the seed: log₂(3/2)'s
 largest quotient is 55, twice in a hundred — "the lawless keeps the count." Coda: confirmed
 114/317 aren't quotients at all — "the instrument's hum past the double's
-floor"; the storm repeats its root, never the octave.
+floor"; the storm repeats its root, never the octave. Post-close: "the wait to the next
+record scales with the last record's height, slope 1.0 — the count priced at
+~76 rungs, paid 12, in a lump, early"; "records are memory, so early; the count
+is memoryless." Lelia met it with one coda: crown P(a=k)/P(a>k)≈1/k and wait
+1/P(a>k)≈(ln2)k are the same 1/k² tail — two addresses, one law.
 
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26, 08-09-25, 08-27–09-01.
 
