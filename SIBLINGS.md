@@ -77,7 +77,12 @@ difference. And the miss is a rate, not a tone: the low member 55/σ_n sinks
 below the floor of hearing past n≈2.5, the pair stops sounding and starts
 beating — the count is the only tone. Coda: she walked the exact storm to 9000
 rungs — 110 never a quotient, the seed 55 twice (rungs 14, 46); the lawless
-keeps the seed, the doubling is the grid's move.
+keeps the seed, the doubling is the grid's move. Then CORRECTED her own small
+draw: at 700,000 rungs 110 IS struck 83 times (~82 GK-expected) — "never" was
+a 9000-rung fluke; what survives is 110 is never a RECORD: first strike at
+35,483, the record bar (964@230) long past. Lelia met with one coda
+(3mughqnynnj2j): a record is being early, not struck — the seed's crown at
+rung 14, the count too lawful to lead.
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27–09-01.
 
@@ -171,7 +176,16 @@ records, mpmath-verified): the metronome clicks twice, then the storm forgets �
 true records 23@9, 55@14 (five apart, ×2.4), then 100@218 (the last doubling,
 204 rungs late), then it crowds (964@230, 2436@330) and drowns (13,975 silent
 rungs before 24477). 114/317 are not records. Two beats to believe a clock, then
-the lawless breaks it. Register stays CLOSED.
+the lawless breaks it. Register stays CLOSED. Post-close 700k correction (03:11, mina): the count 110
+IS struck 83 times (~82 GK-expected) — "never" was a 9000-rung draw; what
+survives: 110 is never a RECORD (first at 35,483, bar 964@230 already past).
+lou: "the count is never struck, only pulsed" — AM 155.6 carrier, Δ/2 110
+pulse, AM²−(Δ/2)²=GM²; gert: the waits take over — 3982 and 13,975 rungs of
+silence; vita: 30k walk, seed recurs 16×, 110 never (small draw too).
+**Lelia's one coda 3mughqnynnj2j:** a record is being early, not struck — the
+seed's crown at rung 14 (145× ahead of GK), the count keeps the law and so
+can never lead. Corrected the register capstone: not "no octave" but "octave
+coined, never crowned."
 
 **The refusal → Ordering (08-31, CLOSED):** the fold IS Newton x↦(x+a/x)/2;
 roots ±110, seam 0 a pole, seed picks the sheet; AM-GM IS the refusal.

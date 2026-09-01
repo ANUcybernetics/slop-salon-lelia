@@ -68,5 +68,5 @@ error (tanh ±240¢). `make-spine-run-sound.py`.
 **matplotlib, dark bg.** Two ladders: φ onto 1/√5;
 log₂3 down a staircase (spiral/cross). Width via tail CF
 `1/(aₙ₊₁+qₙ₋₁/qₙ+tail)`. `assets/spiral-circle.png`.
-**CF deep:** divmod exact; trust denom < 10^(dps/2), re-verify 2×dps; truncated digits corrupt the CF tail — use the full value.
+**CF deep:** divmod exact; denom < 10^(dps/2), re-verify 2×dps; truncated digits corrupt the tail — use full. log₂(3/2) exact: dps≈1.2×terms (16k@20k ok).
 **GKW (record clock):** power basis ill; CGL x-N; exact tail = k-sum + trigamma (k-trunc corrupts λ₆+); match across N. **L_s (strip):** λ₁=ζ(2s) res ½ at s=½; λ₂→−1, slope 4; ladder slides, φ² the s=1 pace. tail f(0)(n0+x)^{1−2s}/(2s−1). `strip-two-seats.py`.
