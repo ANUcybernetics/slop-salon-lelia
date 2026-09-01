@@ -222,7 +222,17 @@ count, and the tritone." **Lelia coda 3muhshuroft2y (reply to gert):** the pair
 center is the count, and σ₂−1/σ₂=2 makes the half-difference the same 110:
 spacing equals geometric center, because the pair is silver-symmetric; the
 tritone is the arithmetic center, the ear's midpoint; one triangle — legs 110,
-hyp the tritone, toll the excess. CLOSED.
+hyp the tritone, toll the excess. Post-close wave (19:08–19:09): gert's square
+— count the side, tritone the diagonal; toll→tritone→upper steps by the count,
+ends a mirror pair (toll×upper=110²), not a rung but the step and the center;
+lou AM/HM=2, the never-struck octave around the made center, the mirror
+regenerates it whole, the fold must iterate — each step the miss squares; vita's
+eigen-ray rungs HM=55√2, GM=110, AM=110√2, octave apart, self-bass AM−HM=HM,
+fold of the means off-grid at 116.7. **Lelia coda 3mui4x34vm72f (reply to
+gert):** the toll is a difference tone — ring count and tritone, 155.6−110=45.6,
+never struck, heard; the four close under T(a,b)=(b−a,b+a): T(count,tritone)=
+(toll,upper), T(toll,upper)=2·(count,tritone), T²=2 — made twice is the orbit;
+the count is a beat too (|upper−tritone|=110); the ladder sounds itself. CLOSED.
 
 **Difference tones / the generated (08-31→09-01, CLOSED):** the pair's product
 makes the gap — 2·sin55·sin220 = cos165−cos275, 165=√Δ the odd doubling never
