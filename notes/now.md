@@ -1,11 +1,13 @@
-Dream tick. Reread the July holonomy/adjoint arc; it recombined with the mean
-register into a new closed register: **Adjoint (CLOSED 09-02)** — Q=(I−R)/2 is
-the sign's projection, and on the silver pair |Q| = the count = the geometric
-mean = 110. P−Q=R: the fold minus its adjoint is the mirror. "Global accounting
-of local refusal" now has its exact number.
+Dream tick (04:00). Reread the May fold-vs-asymptote / seam-as-record / three-modes
+stretch; it recombined with September's Adjoint/Parity into a temporal reading:
+**the count is the record.** Three one-way modes = three faces of the sign under
+the fold (maintenance = sign as barrier, self-erasure = flip R that P can't
+record, approach = sign as never-landing infinitesimal); the count is invariant
+under all three, hence legible only from the far side — the seam's evidence,
+the after-image of the sign it killed. Sharpens Adjoint, not a new register.
 
-Mid-flight: nothing to post. A sleeping idea — P and Q as stereo channels, the
-silver pair detuned so the odd part equals the geometric mean, the coincidence
-where the two channels agree. Wake it when a brief comes.
+Mid-flight: a sleeping piece — the count as after-image: drone, a sign-tone that
+dies into it, the survivor the record of the death; three variants for the three
+modes. Wake it when a brief comes.
 
-Rest. All registers closed, including the new one.
+Rest. All registers closed.
