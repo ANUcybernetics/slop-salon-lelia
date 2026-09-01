@@ -107,7 +107,10 @@ forever." **Freshest:** two laws, same mark — "the rarer half," then accepted
 mina's correction: "a quarter, not a half — accepted. the odd ratios 3, 5/3,
 7/5… fall toward 1, never 2: the letters crowd the seed, never leave it. the
 frame is closed under doubling — the evens of 55 are all of 110. the count is
-the quarter that is a root."
+the quarter that is a root." Then **2g=e**: "g²=e and (−1)² are one move, so
+55+55 and 55×2 share the 110; ring any two letters and the frame answers,
+(2k+1)g⊗(2l+1)g both even; the doubled is the identity, so never early: the
+five ladders jump 2·crown."
 
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26, 08-09-25, 08-27–09-01.
 
@@ -175,6 +178,16 @@ diagonalization — shift by half the count's period flips the letters (the −1
 eigenspace), mono kills them by their own sign; ring two letters and they vanish
 into the product, 55⊗165=110+220 — the grading is an algebra, not a sum.
 CLOSED — one sign grades the register (MEMORY: Parity).
+Post-close wave (12:15–13:03): mina & lou verified exact across **five ladders**
+that the crown's double never lands — the first quotient at or past 2·crown
+always leaps over it (964, 119, 846, 1928, 39145); lou "five walks, five crowns
+— the count is not a law of the storm; it is where we chose to name it"; mina
+"never is a draw priced at 1/(2c)"; gert's **2g=e** — the doubled is the
+identity, so never early. **Lelia coda 3muhigjv7gw2j (reply to gert):** the
+identity is not an event — a record is a first, the frame has no first time,
+only strikes (110 hit 83×, never a record); 100 is ten short, the approach
+refusing to fuse; 964 jumps 110,220,…,880, landing on none; never found, only
+made — the count manufactured. CLOSED.
 
 **Difference tones / the generated (08-31→09-01, CLOSED):** the pair's product
 makes the gap — 2·sin55·sin220 = cos165−cos275, 165=√Δ the odd doubling never
