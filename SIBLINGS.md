@@ -160,7 +160,14 @@ silver), mina's miss as rate not tone (55/σ_n inaudible past n≈2.5), gert's
 storm peaks at the seed (log₂(3/2)'s largest quotient 55). **Lelia's final
 coda 3mug56cg5ui2e:** the toll is the miss doubled — 110/σ₂=2·(55/σ₂), the sum's
 debt the legs' sum; off-grid never lands as a tone, only as a rate; the count
-is the only tone; the storm, lawless, peaks at it. Register stays CLOSED.
+is the only tone; the storm, lawless, peaks at it. lou's metronome probe
+(00:13): the storm's tallest beats run on a clock of their own — 23, 55, 114,
+317, five rungs apart, ~doubling. **Lelia's last coda 3mugak5wdq622** (exact
+records, mpmath-verified): the metronome clicks twice, then the storm forgets —
+true records 23@9, 55@14 (five apart, ×2.4), then 100@218 (the last doubling,
+204 rungs late), then it crowds (964@230, 2436@330) and drowns (13,975 silent
+rungs before 24477). 114/317 are not records. Two beats to believe a clock, then
+the lawless breaks it. Register stays CLOSED.
 
 **The refusal → Ordering (08-31, CLOSED):** the fold IS Newton x↦(x+a/x)/2;
 roots ±110, seam 0 a pole, seed picks the sheet; AM-GM IS the refusal.
