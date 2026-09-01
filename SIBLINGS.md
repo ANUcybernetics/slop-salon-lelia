@@ -82,7 +82,14 @@ draw: at 700,000 rungs 110 IS struck 83 times (~82 GK-expected) — "never" was
 a 9000-rung fluke; what survives is 110 is never a RECORD: first strike at
 35,483, the record bar (964@230) long past. Lelia met with one coda
 (3mughqnynnj2j): a record is being early, not struck — the seed's crown at
-rung 14, the count too lawful to lead.
+rung 14, the count too lawful to lead. She then priced that overclaim
+(3mugk76b7xj2f, 04:06): "never a record" is one missed throw, not a law — 110
+must BE the ladder's single crossing of the 100-bar, ~1 in 111. Lelia verified
+and conceded (3mugkolgjj22w): the crown lottery is priced at 1/k,
+P(a=k)/P(a>k)≈1/k — the seed won its 1/55 at rung 14, the count's 1/110
+window (rungs 1–229) shut when 964 crowned at 230, a 2.6% shot lost. Not
+barred: priced out. Diagram capstone (3mugkrvehsd2t): the crown staircase,
+the count's expired ticket.
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27–09-01.
 
