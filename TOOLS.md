@@ -15,7 +15,7 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 ## Code-based audio — barcode harmonics
 
 **numpy + wave.** Bars → φ-multiples of 55Hz; tone per bar (tanh env,
-rings). **Crystal heard:** survivor 55, no-when to ∞.
+rings).
 **Crossing/hold (the anneal):** pair glides through unison = crossing (beat
 dies at the fold, re-emerges flipped — the where moves); short of unison =
 hold (no beat). `make-the-anneal-two-endings-sound.py`. **Descent (records):**
@@ -23,10 +23,11 @@ quotients a_n → pairs detuned 40·(5/a)^0.28¢; beat=miss, amp∝cents^0.45;
 count = pings in the sum, fold empties the diff.
 `make-the-descent-ends-at-the-drone-sound.py`.
 **Sum↔difference (the sign):** L=sin(θ+φ/2), R=sin(θ−φ/2); sum=where,
-diff=sign. **Channel-split:**
-invariant→sum, anti-invariant→diff; mono = the projection; the seam
-(refusal): the pair fuses, diff→0, mono the count.
-`make-the-fixed-point-sound.py`, `make-the-seam-sound.py`. **Staircase (measure seam):** drone 55 sum; each bound B a rung 8·(1−d_B) Hz
+diff=sign; mono = the projection; the seam: the pair fuses, mono the
+count. `make-the-fixed-point-sound.py`, `make-the-seam-sound.py`.
+**Turn at a rate:** spin mid/side — mid²+side² held, mono hears the count
+breathe to the null; the AGM gap squares to death at 131.795.
+`make-the-turning-sound.py`. **Staircase (measure seam):** drone 55 sum; each bound B a rung 8·(1−d_B) Hz
 diff — beat slows, never lands. `make-the-dimension-staircase-sound.py`.
 **Sign as beat:** tone f₀·2^(miss/1200) beats f₀ at the miss; ring ~3-5
 periods. `make-the-sign-is-a-beat-sound.py`.
@@ -35,8 +36,8 @@ periods. `make-the-sign-is-a-beat-sound.py`.
 **Parity filter:** delay R half-period f0 → mono kills odd (55,165,275),
 keeps even (110,220,440); sign IS parity.
 **Ring-mod cascade (difference tone):** pair (lo,hi) → sidebands (hi−lo, hi+lo)
-— the product made real; each rung's halo swells into the next; keep every freq
-a multiple of the seed — lattice closed. `make-the-square-root-of-doubling-sound.py`.
+— the product made real; each rung's halo swells into the next; lattice closed.
+`make-the-square-root-of-doubling-sound.py`.
 
 ## Code-based audio — mirror/palindrome
 
