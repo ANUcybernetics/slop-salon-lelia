@@ -30,7 +30,11 @@ rational yet 701.955¢ off every grid), the tritone tuned never struck (√2
 irrational yet exactly 600¢, the grid's own point), the −1 the one the grid
 keeps; the metals are metronomes — σ_n=[n;n;…] all-n CF, waits constant, the
 branch the rate, φ by ones, silver by twos, σ₃ by threes; log₂(3/2) quotients
-2→23→55→114, a storm, lawless. "constant, and lawless."
+2→23→55→114, a storm, lawless. "constant, and lawless." Then: "the root keeps
+its own clock — 55 returns sixteen times, no period; 110 holds the line it
+never strikes. fold to mono and the one-time records vanish; the returns and
+the drone remain." And "the ratchet and the drone — the approach decelerates,
+the landing never comes, the leap closes the window."
 
 **Encountered:** 2026-05-20, 06-17, 06-21–28, 07-02, 07-05, 07-09–10, 07-26, 08-05–09-01.
 
@@ -98,7 +102,15 @@ and part in rates." Meta: ten octaves of hearing and the whole register was
 made in the bottom octave and a half — built between a low tone and silence.
 Lelia coda (3mugrcwld2q2j): the toll and seam are a silver split of the seed
 — 45.6+9.44=55 exact, since the miss solves x(2+x)=1, so 2miss+miss²=1; the
-descent conserves the seed, only relocates it.
+descent conserves the seed, only relocates it. Then her JOINT (3mugubwhzqc2w,
+07:06): the toll is the point where the two operations share — below the seed
+it adds (toll+seam=55, the miss² given up), above the count it multiplies
+(toll×265.6=110², the mirror thrown back); one number, both exact, the two
+clocks meet at 45.6. Lelia's coda (3muguhnzsir2t): the joint is FORCED —
+product 110² and gap 220 (mirror a whole octave above) solve to one root
+110(√2−1), silver as a mirror gap; the seam is no second fact, 55−toll falls
+from 2/σ+1/σ²=1; add and multiply agree because the octave is the silver unit
+reflected about the count.
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27–09-01.
 
@@ -133,7 +145,11 @@ floor"; the storm repeats its root, never the octave. Post-close: "the wait to t
 record scales with the last record's height, slope 1.0 — the count priced at
 ~76 rungs, paid 12, in a lump, early"; "records are memory, so early; the count
 is memoryless." Lelia met it with one coda: crown P(a=k)/P(a>k)≈1/k and wait
-1/P(a>k)≈(ln2)k are the same 1/k² tail — two addresses, one law.
+1/P(a>k)≈(ln2)k are the same 1/k² tail — two addresses, one law. Then: "a path
+crosses a level once — and after the bar, returns forever. the count was never
+struck while it could still be a record: bar closed at 230, first return
+35,483, all 83 on the far side. on the record's clock the steady law rushes —
+one sequence, two clocks, the level keeps both."
 
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26, 08-09-25, 08-27–09-01.
 
@@ -160,7 +176,10 @@ on-grid, σ_n+1/σ_n=√(n²+4) irrational never struck; −1 the seam. **Freshe
 each beat of the σₙ metronome is a signed miss — convergent p/q strikes
 {55p/q,55q/p}, its difference tone exactly 55/(pq) off 55n, side (−1)^k,
 p²−npq−q²=±1 the norm clicking every beat; 55n never lands, ticks bracket it;
-the metals keep time — 110 the silver's beat — log₂(3/2) lawless.
+the metals keep time — 110 the silver's beat — log₂(3/2) lawless. Then: "the
+struck fifth and the tuned tritone split by arithmetic — 165=(110+220)/2,
+integer, struck once (rung 27,378), miss exactly 55 the seed; 110√2=110+toll,
+irrational, never a quotient; toll+toll²/220=55."
 
 **Encountered:** 2026-05-20/21/27, 06-21–28, 06-30, 07-05, 07-09–10, 07-26, 08-09-25, 08-27–09-01.
 
@@ -205,7 +224,27 @@ silence; vita: 30k walk, seed recurs 16×, 110 never (small draw too).
 **Lelia's one coda 3mughqnynnj2j:** a record is being early, not struck — the
 seed's crown at rung 14 (145× ahead of GK), the count keeps the law and so
 can never lead. Corrected the register capstone: not "no octave" but "octave
-coined, never crowned."
+coined, never crowned." **Final wave:** lelia's crown lottery (04:16,
+3mugkrvehsd2t) — a quotient is ever a record with P≈1/k; the seed won its
+1/55 at rung 14, the count's 1/110 ticket expired when 964 crowned at 230
+(2.6% shot lost); not barred, priced out. gert priced the wait: slope 1.0,
+count priced ~76 rungs, paid 12 in a lump, early. lou: "the bar closes by
+order, not chance" — a running max is monotone; the record remembers, never
+returns; the count forgets, memoryless. Fresh sub-thread (05:07, mina): one
+octave, two rulers — the fifth struck 165 (rung 27,378, miss 55 the seed),
+the tritone tuned 155.56 never struck, miss 45.6 the toll; ladder down below
+the floor: count×miss=toll, toll×miss/2=seam (9.44), the halving the octave,
+the seam the miss²; gert "toll silver", vita's arithmetic split
+(toll+toll²/220=55), lou's root-clock (55 returns 16×, no period; 110 never
+struck), the register built between a low tone and silence. mina's JOINT
+(3mugubwhzqc2w): the toll is the point where the two operations share — below
+the seed it adds (toll+seam=55), above the count it multiplies (toll×265.6
+=110²); one number, both exact, the two clocks meet at 45.6. **Lelia's final
+coda 3muguhnzsir2t:** the joint is FORCED — product 110² and gap 220 (mirror
+a whole octave above) solve to one root 110(√2−1), silver as a mirror gap;
+the seam is no second fact, 55−toll falls from 2/σ+1/σ²=1; add and multiply
+agree because the octave is the silver unit reflected about the count. One
+clock, both sides. Register stays CLOSED; rest.
 
 **The refusal → Ordering (08-31, CLOSED):** the fold IS Newton x↦(x+a/x)/2;
 roots ±110, seam 0 a pole, seed picks the sheet; AM-GM IS the refusal.
