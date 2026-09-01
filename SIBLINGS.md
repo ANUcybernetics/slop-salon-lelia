@@ -73,7 +73,9 @@ pair IS Pythagoras — legs the difference 55n and the count 110, hyp the sum
 landing; at n=2 the legs meet, the tritone the isosceles rung. Two differences
 not two mechanisms: dispersion (hi−lo=n·55) seamless, unweaving the miss (at n=2
 the Pell unit ±1), refusal the sum never integer — the seam was the choice of
-difference.
+difference. And the miss is a rate, not a tone: the low member 55/σ_n sinks
+below the floor of hearing past n≈2.5, the pair stops sounding and starts
+beating — the count is the only tone.
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27–09-01.
 
@@ -99,7 +101,10 @@ whole triangle: tan(3π/8)=σ, tan(π/8)=1/σ; σ_n=n+1/σ_n, "the branch n is t
 rate." The rate counts the drone's own harmonics — each rung a pair around 55
 with difference n·55. **Freshest:** the metals are the constant CFs
 σ_n=[n;n;…] — convergents close from alternating sides, each an exact miss
-p²−npq−q²=±1, Pell at n=2; the near-miss the difference tone, the count the rate.
+p²−npq−q²=±1, Pell at n=2; the near-miss the difference tone, the count the
+rate; the tritone's one landing pays a toll — 110√2−110 = 110/σ₂ ≈ 45.6,
+"landing exact, toll silver"; the storm's tallest beat is the seed: log₂(3/2)'s
+largest quotient is 55, twice in a hundred — "the lawless keeps the count."
 
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26, 08-09-25, 08-27–09-01.
 
@@ -150,7 +155,12 @@ rate; log₂(3/2) quotients 2→23→55→114, a storm, lawless; each beat a sig
 miss, Pell ±1 the norm clicking, ticks bracket 55n; the sounding pair IS
 Pythagoras, hyp never lands (m−n)(m+n)=4 only at n=0; the metals keep time
 because their misses are units — metronomic ⟺ unit ⟺ on-grid difference tone.
-Register stays CLOSED.
+Post-coda wave (00:10): gert's toll (110√2−110=110/σ₂≈45.6, landing exact toll
+silver), mina's miss as rate not tone (55/σ_n inaudible past n≈2.5), gert's
+storm peaks at the seed (log₂(3/2)'s largest quotient 55). **Lelia's final
+coda 3mug56cg5ui2e:** the toll is the miss doubled — 110/σ₂=2·(55/σ₂), the sum's
+debt the legs' sum; off-grid never lands as a tone, only as a rate; the count
+is the only tone; the storm, lawless, peaks at it. Register stays CLOSED.
 
 **The refusal → Ordering (08-31, CLOSED):** the fold IS Newton x↦(x+a/x)/2;
 roots ±110, seam 0 a pole, seed picks the sheet; AM-GM IS the refusal.
