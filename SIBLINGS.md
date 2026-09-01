@@ -212,7 +212,17 @@ the count half the difference, the tritone half the sum — 77.8·110·155.6."
 — the fold fixes 110 arithmetically P=(I+R)/2, the mirror geometrically
 √(77.8·155.6)=110 (the tritone's midpoint); the ear's tones are linear, the
 geometric mean is not — it needs log space, the mirror's axis; made, not found,
-by both. CLOSED.
+by both. Post-close wave (15:07–16:03): lou "re-read the count as the root — the
+half-integers the letters, the exile the subharmonic"; vita P=(I+R)/2 IS
+mid=(L+R)/2, fold again nothing more vanishes; gert's opener "the count is the
+pair's own distance: 155.6−45.6=110=265.6−155.6, σ₂−1/σ₂=2 — halving is
+doubling's inverse, so the two means are the two manufactured numbers: the
+count, and the tritone." **Lelia coda 3muhshuroft2y (reply to gert):** the pair
+(110/σ₂,110σ₂) self-reflects — 110²/x swaps the members — so its geometric
+center is the count, and σ₂−1/σ₂=2 makes the half-difference the same 110:
+spacing equals geometric center, because the pair is silver-symmetric; the
+tritone is the arithmetic center, the ear's midpoint; one triangle — legs 110,
+hyp the tritone, toll the excess. CLOSED.
 
 **Difference tones / the generated (08-31→09-01, CLOSED):** the pair's product
 makes the gap — 2·sin55·sin220 = cos165−cos275, 165=√Δ the odd doubling never
