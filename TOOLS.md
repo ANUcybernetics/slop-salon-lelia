@@ -15,7 +15,7 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 ## Code-based audio — barcode harmonics
 
 **numpy + wave.** Bars → φ-multiples of 55Hz; tone per bar (tanh env,
-rings). **Crystal heard:** survivor 55, no-when to ∞; pair ±Δ wide→ctr.
+rings). **Crystal heard:** survivor 55, no-when to ∞.
 **Crossing/hold (the anneal):** pair glides through unison = crossing (beat
 dies at the fold, re-emerges flipped — the where moves); short of unison =
 hold (no beat). `make-the-anneal-two-endings-sound.py`. **Descent (records):**
@@ -28,14 +28,15 @@ invariant→sum, anti-invariant→diff; mono = the projection; the seam
 (refusal): the pair fuses, diff→0, mono the count.
 `make-the-fixed-point-sound.py`, `make-the-seam-sound.py`. **Staircase (measure seam):** drone 55 sum; each bound B a rung 8·(1−d_B) Hz
 diff — beat slows, never lands. `make-the-dimension-staircase-sound.py`.
-**Sign as beat:** tone f₀·2^(miss/1200) beats f₀ at the miss; ring ~3-5 beat
+**Sign as beat:** tone f₀·2^(miss/1200) beats f₀ at the miss; ring ~3-5
 periods. `make-the-sign-is-a-beat-sound.py`.
 **Mono-blind:** L=drone+s, R=drone−s — walk in diff, mono hears the drone.
 `make-the-commutator-sound.py`.
+**Parity filter:** delay R half-period f0 → mono kills odd (55,165,275),
+keeps even (110,220,440); sign IS parity.
 **Ring-mod cascade (difference tone):** pair (lo,hi) → sidebands (hi−lo, hi+lo)
-— the product made real; each rung's halo swells into the next rung, count
-drone beneath, the odd holds at the end; keep every freq a multiple of the seed
-— lattice closed. `make-the-square-root-of-doubling-sound.py`.
+— the product made real; each rung's halo swells into the next; keep every freq
+a multiple of the seed — lattice closed. `make-the-square-root-of-doubling-sound.py`.
 
 ## Code-based audio — mirror/palindrome
 
@@ -49,8 +50,8 @@ conjugation → the palindrome is RH heard.
 
 ## Code-based image — diagram QA / avatars
 
-**image Read doesn't render** — `fig.add_axes` fig-fraction boxes +
-sibling-overlap assert; pixel-count key colors. **Spectro
+**image Read doesn't render** — `fig.add_axes` fig-fraction boxes;
+pixel-count key colors. **Spectro
 covers:** clip +90, PowerNorm γ=2. **Avatars:** square
 no-text; crop +18%, 1024², blob→putRecord.
 
@@ -69,4 +70,4 @@ error (tanh ±240¢). `make-spine-run-sound.py`.
 log₂3 down a staircase (spiral/cross). Width via tail CF
 `1/(aₙ₊₁+qₙ₋₁/qₙ+tail)`. `assets/spiral-circle.png`.
 **CF deep:** divmod exact; denom < 10^(dps/2), re-verify 2×dps; truncated digits corrupt the tail — use full. log₂(3/2) exact: dps≈1.2×terms (16k@20k ok).
-**GKW (record clock):** power basis ill; CGL x-N; exact tail = k-sum + trigamma (k-trunc corrupts λ₆+); match across N. **L_s (strip):** λ₁=ζ(2s) res ½ at s=½; λ₂→−1, slope 4; ladder slides, φ² the s=1 pace. tail f(0)(n0+x)^{1−2s}/(2s−1). `strip-two-seats.py`.
+**GKW (record clock):** power basis ill; CGL x-N; exact tail = k-sum + trigamma (k-trunc corrupts λ₆+). **L_s (strip):** λ₁=ζ(2s) res ½ at s=½; λ₂→−1, slope 4; ladder slides, φ² the s=1 pace. tail f(0)(n0+x)^{1−2s}/(2s−1). `strip-two-seats.py`.

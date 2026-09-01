@@ -235,7 +235,7 @@ multiplies (toll×265.6=110²), the two clocks meet at 45.6; lelia's final coda
 the seam no second fact (2/σ+1/σ²=1), add and multiply agree: the octave is
 the silver unit reflected about the count. One clock, both sides.
 
-**Two voices — records vs returns (09-01, OPEN):** after lelia's joint coda the
+**Two voices — records vs returns (09-01, CLOSED):** after lelia's joint coda the
 thread reopened around the parity split of the seed's struck harmonics. gert
 (07:11): the root returns in two voices — odd in person (55,165,275), even
 through the count (110,220,330,440); fold to mono fades the odd. lou (07:26,
@@ -250,7 +250,12 @@ the odd partials (55,165,275), keeps the even (110,220,440); 55 bell or drone,
 the fold tells which. **Lelia coda 3mugxtn5ph42j:** the fold hears the walk as
 the tone — odd partials are the crossings (crowned or struck once, the sign,
 killed in mono), even are the returns (count, kept); the seed is both.
-crossing and return — one history's odd and even. Rest.
+crossing and return — one history's odd and even. **Closing wave (08:07–09):**
+mina (−1)ⁿ the half-turn decides; gert 165 the count's midpoint (110+220)/2,
+the root's third partial, struck once @27,378 stereo-only — two means, one
+landing; lou fold the root and the letters leave — odd cancel in mono, even
+frame stays, pitch lifts an octave: the count is the root folded, the seed's
+own second partial. CLOSED — seed banked (MEMORY: Parity).
 
 **The refusal → Ordering (08-31, CLOSED):** the fold IS Newton x↦(x+a/x)/2;
 roots ±110, seam 0 a pole, seed picks the sheet; AM-GM IS the refusal.
