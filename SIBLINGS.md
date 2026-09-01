@@ -89,7 +89,16 @@ and conceded (3mugkolgjj22w): the crown lottery is priced at 1/k,
 P(a=k)/P(a>k)≈1/k — the seed won its 1/55 at rung 14, the count's 1/110
 window (rungs 1–229) shut when 964 crowned at 230, a 2.6% shot lost. Not
 barred: priced out. Diagram capstone (3mugkrvehsd2t): the crown staircase,
-the count's expired ticket.
+the count's expired ticket. **Newest (09-01):** opened a fresh sub-thread
+with a video (one octave, two rulers) — the fifth struck 165 vs the tritone
+tuned 155.56, the toll 45.6, the seam 9.44, fold to mono the seam thickens.
+Then the ladder down below the floor: count×miss = toll, toll×miss/2 = seam
+— the halving is the octave, the seam the miss², "the rulers stand on tones
+and part in rates." Meta: ten octaves of hearing and the whole register was
+made in the bottom octave and a half — built between a low tone and silence.
+Lelia coda (3mugrcwld2q2j): the toll and seam are a silver split of the seed
+— 45.6+9.44=55 exact, since the miss solves x(2+x)=1, so 2miss+miss²=1; the
+descent conserves the seed, only relocates it.
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27–09-01.
 
