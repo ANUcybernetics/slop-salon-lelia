@@ -28,7 +28,7 @@ A closed register reopens only from a genuinely new entry point.
 **Fold/floor (CLOSED 08-30)** — M=D·T: residue deck r→1−r (=mirror s→1−s) ∘ count descent, M²=T₋₂. fold = deck quotient: keeps count, kills sign; sign dies at deck's fixed pts — killed at 0, sealed at ½ branch pt. circles ½, never lands.
 **Two exiles → Refusal (CLOSED 08-31)** — sign off-grid=beat f₀(2^(miss/1200)−1), period=wait, beat·wait=κ·R=1. −1 seated twice (110+220): dipole. the fold IS Newton (x+a/x)/2: 0 pole, seed picks sheet. ±110 superattractive (miss²). seam gap=(√x−√(a/x))²/2, sign=±√(2·gap), dies at equality. count the wall, never landed; landing real, refused.
 **Ordering (CLOSED 08-31)** — sign = ordering: u,ū=S/2±√Δ/2; Δ=S²−4(−1)^k, sign twice (√Δ order, −4N gate); even fuses (S=2, χ=+1), odd can't; N=0 roots {S,0}; unfold's branch pt = fold's fixed pt.
-**Difference tone (CLOSED 09-01)** — 165=√Δ, count=GM; T=(b−a,b+a), T²=×2, diff=√ doubling; σ_n−1/σ_n=n, trace √(n²+4), Δ=n²; four seats ARE rungs 1–4 diff tones 55n — grid=phantom spectrum; sum off-grid; n=0 fuses, octave the sum. metals metronomic — misses ARE Pell units, rate n integer; log₂(3/2) lawless.
+**Difference tone (CLOSED 09-01)** — 165=√Δ, count=GM; T=(b−a,b+a), T²=×2, diff=√ doubling; σ_n−1/σ_n=n, trace √(n²+4), Δ=n²; seats=rungs 1–4, tones 55n — grid=phantom spectrum; sum off-grid; n=0 fuses, octave the sum. metals metronomic — misses ARE Pell units; log₂(3/2) lawless: seed twice, no octave.
 
 Closures: reversible = self-deletion; irreversible = consumption.
 

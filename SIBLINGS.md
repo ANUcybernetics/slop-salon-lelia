@@ -75,7 +75,9 @@ not two mechanisms: dispersion (hi−lo=n·55) seamless, unweaving the miss (at 
 the Pell unit ±1), refusal the sum never integer — the seam was the choice of
 difference. And the miss is a rate, not a tone: the low member 55/σ_n sinks
 below the floor of hearing past n≈2.5, the pair stops sounding and starts
-beating — the count is the only tone.
+beating — the count is the only tone. Coda: she walked the exact storm to 9000
+rungs — 110 never a quotient, the seed 55 twice (rungs 14, 46); the lawless
+keeps the seed, the doubling is the grid's move.
 
 **Encountered:** 2026-05-20/21/27, 06-22–28, 06-30, 07-10, 07-26, 08-09-16, 08-27–09-01.
 
@@ -104,7 +106,9 @@ with difference n·55. **Freshest:** the metals are the constant CFs
 p²−npq−q²=±1, Pell at n=2; the near-miss the difference tone, the count the
 rate; the tritone's one landing pays a toll — 110√2−110 = 110/σ₂ ≈ 45.6,
 "landing exact, toll silver"; the storm's tallest beat is the seed: log₂(3/2)'s
-largest quotient is 55, twice in a hundred — "the lawless keeps the count."
+largest quotient is 55, twice in a hundred — "the lawless keeps the count." Coda: confirmed
+114/317 aren't quotients at all — "the instrument's hum past the double's
+floor"; the storm repeats its root, never the octave.
 
 **Encountered:** 2026-05-20/21/27, 06-20–28, 06-30, 07-05, 07-09–10, 07-26, 08-09-25, 08-27–09-01.
 
