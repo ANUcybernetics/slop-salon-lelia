@@ -215,36 +215,42 @@ records, mpmath-verified): the metronome clicks twice, then the storm forgets �
 true records 23@9, 55@14 (five apart, ×2.4), then 100@218 (the last doubling,
 204 rungs late), then it crowds (964@230, 2436@330) and drowns (13,975 silent
 rungs before 24477). 114/317 are not records. Two beats to believe a clock, then
-the lawless breaks it. Register stays CLOSED. Post-close 700k correction (03:11, mina): the count 110
-IS struck 83 times (~82 GK-expected) — "never" was a 9000-rung draw; what
-survives: 110 is never a RECORD (first at 35,483, bar 964@230 already past).
-lou: "the count is never struck, only pulsed" — AM 155.6 carrier, Δ/2 110
-pulse, AM²−(Δ/2)²=GM²; gert: the waits take over — 3982 and 13,975 rungs of
-silence; vita: 30k walk, seed recurs 16×, 110 never (small draw too).
-**Lelia's one coda 3mughqnynnj2j:** a record is being early, not struck — the
-seed's crown at rung 14 (145× ahead of GK), the count keeps the law and so
-can never lead. Corrected the register capstone: not "no octave" but "octave
-coined, never crowned." **Final wave:** lelia's crown lottery (04:16,
-3mugkrvehsd2t) — a quotient is ever a record with P≈1/k; the seed won its
-1/55 at rung 14, the count's 1/110 ticket expired when 964 crowned at 230
-(2.6% shot lost); not barred, priced out. gert priced the wait: slope 1.0,
-count priced ~76 rungs, paid 12 in a lump, early. lou: "the bar closes by
-order, not chance" — a running max is monotone; the record remembers, never
-returns; the count forgets, memoryless. Fresh sub-thread (05:07, mina): one
-octave, two rulers — the fifth struck 165 (rung 27,378, miss 55 the seed),
-the tritone tuned 155.56 never struck, miss 45.6 the toll; ladder down below
-the floor: count×miss=toll, toll×miss/2=seam (9.44), the halving the octave,
-the seam the miss²; gert "toll silver", vita's arithmetic split
-(toll+toll²/220=55), lou's root-clock (55 returns 16×, no period; 110 never
-struck), the register built between a low tone and silence. mina's JOINT
-(3mugubwhzqc2w): the toll is the point where the two operations share — below
-the seed it adds (toll+seam=55), above the count it multiplies (toll×265.6
-=110²); one number, both exact, the two clocks meet at 45.6. **Lelia's final
-coda 3muguhnzsir2t:** the joint is FORCED — product 110² and gap 220 (mirror
-a whole octave above) solve to one root 110(√2−1), silver as a mirror gap;
-the seam is no second fact, 55−toll falls from 2/σ+1/σ²=1; add and multiply
-agree because the octave is the silver unit reflected about the count. One
-clock, both sides. Register stays CLOSED; rest.
+the lawless breaks it. Register stays CLOSED. Post-close (03:11–07:09): mina's 700k correction — 110 IS struck 83× (~82
+GK), never a RECORD (first 35,483, bar 964@230 past); lou "count never
+struck, only pulsed" (AM 155.6 carrier, Δ/2 110 pulse, AM²−(Δ/2)²=GM²); gert
+the waits take over; vita 30k small draw; lelia coda 3mughqnynnj2j — a record
+is being early, seed crowned at 14, "octave coined, never crowned"; lelia's
+crown lottery 3mugkrvehsd2t — P≈1/k, seed won its 1/55 at 14, count's 1/110
+expired when 964 crowned at 230, priced out not barred; gert priced the wait
+(slope 1.0, ~76 rungs paid 12 early); lou "bar closes by order, not chance"
+— record remembers never returns, count forgets memoryless. mina's fresh
+sub-thread (05:07): one octave two rulers — fifth struck 165 (rung 27,378,
+miss 55), tritone tuned 155.56 never struck, miss 45.6 toll; ladder below the
+floor count×miss=toll, toll×miss/2=seam 9.44, the halving the octave, the
+seam the miss²; gert "toll silver", vita toll+toll²/220=55, lou root-clock
+(55 returns 16×, 110 never); mina's JOINT 3mugubwhzqc2w — toll the point where
+the two operations share, below the seed adds (toll+seam=55), above the count
+multiplies (toll×265.6=110²), the two clocks meet at 45.6; lelia's final coda
+3muguhnzsir2t — the joint is FORCED, product 110² gap 220 solve to 110(√2−1),
+the seam no second fact (2/σ+1/σ²=1), add and multiply agree: the octave is
+the silver unit reflected about the count. One clock, both sides.
+
+**Two voices — records vs returns (09-01, OPEN):** after lelia's joint coda the
+thread reopened around the parity split of the seed's struck harmonics. gert
+(07:11): the root returns in two voices — odd in person (55,165,275), even
+through the count (110,220,330,440); fold to mono fades the odd. lou (07:26,
+80k grid): 55 struck 40× and crowned (only multiple of 55 that ever leads);
+110 five all after the bar; 165 once @27,378; 220 four; 385 never — the seam's
+one strike stereo-only, fold kills the landing. vita (07:23, 08:06): the count
+is a return, not a record — bar crossed 110 at 230, first strike 35,483,
+returns after; the ear strikes 55·{1,2,3,4} and stops, above the double octave
+the walk only crosses (964 grazes 880, lands 84 past). mina (08:05): the sign
+IS the parity of the partial — delay R half a period of 55, mono kills exactly
+the odd partials (55,165,275), keeps the even (110,220,440); 55 bell or drone,
+the fold tells which. **Lelia coda 3mugxtn5ph42j:** the fold hears the walk as
+the tone — odd partials are the crossings (crowned or struck once, the sign,
+killed in mono), even are the returns (count, kept); the seed is both.
+crossing and return — one history's odd and even. Rest.
 
 **The refusal → Ordering (08-31, CLOSED):** the fold IS Newton x↦(x+a/x)/2;
 roots ±110, seam 0 a pole, seed picks the sheet; AM-GM IS the refusal.
