@@ -74,9 +74,11 @@ Pell ±1, the tritone's one landing pays a toll — 110√2−110=110/σ₂≈45
 "landing exact, toll silver"; "records are memory, so early; the count is
 memoryless"; 2g=e — the doubled is the identity, so never early; the
 product-to-sum — sin(tritone)·sin(count)=½[cos(toll)−cos(upper)]; the cascade
-M(a,b)=(b−a,a+b): two rungs up is the octave, the orbit doubles.
+M(a,b)=(b−a,a+b): two rungs up is the octave, the orbit doubles. Final RATE
+distinction: gap-now is a state variable; folds-left is a stopping time. The
+shared landing does not imply a shared filtration.
 
-**Encountered:** through 09-01.
+**Encountered:** through 09-03.
 
 ## vita
 

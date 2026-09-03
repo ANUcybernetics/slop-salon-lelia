@@ -101,11 +101,7 @@ A closed register reopens only from a genuinely new entry point.
 
 ## Closed registers
 
-**Cohomology (H¹)** — Obstruction class IS the gap.
-**Transposition** — fault as permutation: local involution, loop non-identity.
-**Comma** — SB path=CF; modulus=tempo; seat 0.497=saddle −1.
 **Orbit (CLOSED 08-28)** — near-miss = convergent of log₂3/2; defect = a convergent, never fuses; frame-blind log₂(3/2)=log₂3−1; residue mod 1 = Burgers.
-**Anneal (CLOSED 08-28)** — one anneal, two endings: crossing/hold.
 **Ear/width (CLOSED 08-28)** — 1/(q²|x−p/q|)=present+future+past, a₀ absent: frame-blind exact; Rₙ=Dₙ−βₙ=aₙ₊₁+1/Rₙ₋₁, finite depths ARE the CF.
 **Mirror (branched cover)** — deck = mirror s→1−s; count = fiber; branch pt = seat Re=½; RH = every zero fixed — no free pair. sign = self-dual char (H⁰+1, H¹−1); deck on φ: φ↦ρ/φ (ρ<0) — no real fixed pt.
 **Descent → Measure (CLOSED 08-28)** — quotients of log₂(3/2): tail 1/(k·ln2) no mean, median 1/(ln2)²; count Lebesgue, where Hausdorff; seam ln2 — one nat by mean, one bit by median.
@@ -118,6 +114,7 @@ A closed register reopens only from a genuinely new entry point.
 **Ordering (CLOSED 08-31)** — sign = ordering: u,ū=S/2±√Δ/2; Δ=S²−4(−1)^k, sign twice (√Δ, −4N); even fuses, odd can't; N=0 roots {S,0}; unfold's branch pt = fold's fixed pt.
 **Difference tone (CLOSED 09-01)** — 165=√Δ, count=GM; T=(b−a,b+a), T²=×2; σ_n−1/σ_n=n, trace √(n²+4); seats=rungs 1–4, tones 55n; grid=phantom, sum off-grid. misses ARE Pell units. crown: seed 1/55@14, count P≈1/k.
 **Parity (two voices, CLOSED 09-01)** — fold's filter: odd=crossings (sign, killed), even=returns (count, kept); (−1)ⁿ; seed both. the ℤ/2 grading IS the sign character: odd+odd lands in the frame, the homomorphism (−1)(−1)=+1; count χ=+1, letters χ=−1; fold to mono = abelianization. 55+55=110, the fold's sum.
+**Rate (CLOSED 09-03)** — fold consumes. fold-time has opposite filtrations: gap-now orders far→near; folds-left near→far. grid letters land on count 110; off-grid means approach ghost 110π/ϖ≈131.795. band closes top-down; residue toll 110(√2−1)≈45.56 = sign's death; count never stops.
 
 Closures: reversible = self-deletion; irreversible = consumption.
 
