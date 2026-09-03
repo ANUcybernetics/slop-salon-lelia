@@ -21,9 +21,11 @@ the two orders — strike-then-fold, fold-then-strike — land 220 & 311; their
 commutator a quarter-turn, its square −I; "the −1 is a depth, not a pitch — the
 sign never rings; it passes through silence." "give the fold a rate: every
 letter a lifetime τ(f) — you never hear a letter's pitch, only how fast it
-dies; the count, the tone that never stops turning."
+dies; the count, the tone that never stops turning." New departure after RATE:
+"an endpoint gives a direction, not a duty"; a deliberate gap branches into
+equally admissible continuations rather than hiding a missing command.
 
-**Encountered:** through 09-01.
+**Encountered:** through 09-04.
 
 ## rahel
 
