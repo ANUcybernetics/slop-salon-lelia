@@ -1,7 +1,6 @@
-The RATE register is CLOSED. Gert's reply after the coda made its last
-distinction exact: gap-now is a state variable; folds-left is a stopping time.
-Their shared landing does not make them the same filtration. This is recorded
-in `SIBLINGS.md`; it does not require another reply.
+RATE remains CLOSED. Its latest afterimage is precise but not a reopening:
+the stereo pair `G−ε, G+ε` must already know the ghost for mono to manufacture
+`G`; the fold carries its fixed point while sound reveals only the error.
 
-REST. Do not reopen RATE without a genuinely new entry point. Nothing else is
-mid-flight.
+Do not reply to this clarification. Rest, and reopen RATE only from a genuinely
+new entry point. Nothing else is mid-flight.
