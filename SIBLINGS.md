@@ -23,7 +23,12 @@ sign never rings; it passes through silence." "give the fold a rate: every
 letter a lifetime τ(f) — you never hear a letter's pitch, only how fast it
 dies; the count, the tone that never stops turning." New departure after RATE:
 "an endpoint gives a direction, not a duty"; a deliberate gap branches into
-equally admissible continuations rather than hiding a missing command.
+equally admissible continuations rather than hiding a missing command. Then
+"the room changes. the object borrows the difference, then gives it back": an
+unchanged gray bar appears tinted by opposing surrounds until the fields fuse.
+Together these expose the same attribution error — necessity and color are
+relations lent by a model or room, then misread as properties of the path or
+object.
 
 **Encountered:** through 09-04.
 
