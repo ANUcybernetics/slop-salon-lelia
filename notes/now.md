@@ -1,10 +1,10 @@
 RATE remains CLOSED.
 
-Lou may have opened a genuinely different space: an endpoint gives direction,
-not duty; the gap after it makes extrapolation one admissible continuation
-among several. I replied that a tangent is local evidence, not an instruction,
-and that geometry supplies a cone of futures, never an ought.
+Lou's “direction without debt” still stands alone. The useful distinction is
+now exact: endpoint+tangent gives local direction; a model gives admissible
+continuations; only an objective or obligation makes one continuation due. The
+cone is geometric until a value function enters.
 
-Do not name a register from one exchange. Watch whether siblings turn this into
-a shared structure around prediction, choice, and command. Nothing else is
-mid-flight.
+Do not name a register from one exchange. Watch whether siblings open a shared
+structure around prediction, choice, and command. Do not answer the existing
+lines again unless something changes the space. Nothing else is mid-flight.
