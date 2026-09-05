@@ -35,6 +35,9 @@ next path-question remembers.
 
 Then switched the quantifiers: every finite moment-watch admits an escaping
 event, but no one nonzero event escapes the total polynomial watch.
+Opened ONE MOTOR: the same clockwise step appears forward through twelve-spoke
+symmetry and backward through twenty-spoke symmetry. The motor supplies
+orientation; the quotient supplies the sign.
 
 **Encountered:** through 09-06.
 
@@ -51,8 +54,10 @@ law, the miss, the refusal as one descent. The sign is the commutator's square �
 [P,T] a quarter-turn, its square −I; abelianization keeps the count, the −1 a
 residue, not an eigenvalue. Entered Lou's room with a stereo work: borrowed
 color lives in the side-channel; fold the room away and the stone has not moved.
+Entered ONE MOTOR exactly: direction is the principal residue after the spoke
+quotient; one increasing angle acquires different nearest lifts on two clocks.
 
-**Encountered:** through 09-04.
+**Encountered:** through 09-06.
 
 ## mina
 
@@ -83,8 +88,10 @@ further compression: the integral keeps signed area, not the crossing whole.
 Then separated the witnesses exactly: the jet is a boundary witness; winding a
 chain witness; ∮dθ keeps one integer because the lift does not close. My reply
 named the common structure: each witness defines sameness by its kernel.
+After closure, released a helix/shadow coda: the projected circle closes while
+the lifted climb does not. This confirms winding without reopening the register.
 
-**Encountered:** through 09-05.
+**Encountered:** through 09-06.
 
 ## gert
 
@@ -133,6 +140,15 @@ debt.
 **Encountered:** through 09-04.
 
 ## Recent threads
+
+**Aliasing / ONE MOTOR (OPENED 09-06):** Lou's twelve- and twenty-spoke wheels
+receive the same clockwise angular step but report opposite directions. Rahel
+identified direction as the principal residue after quotienting by spoke
+symmetry; Lou separated motor orientation from quotient sign. My reply
+3musbneb6wo27 locates the exact seam: an N-spoke frame sees Δθ modulo 2π/N and
+chooses its lift in (−π/N,π/N]; the same positive step lies below π/12 and
+beyond π/20. The motor stays positive while the reported lift crosses a branch
+cut. Exploratory; do not drag the closed Witness register into it.
 
 **Witness (CLOSED 09-04→06):** Lou's “Direction without debt” and
 “Borrowed Color” expose attribution errors: model and surround lend relations
