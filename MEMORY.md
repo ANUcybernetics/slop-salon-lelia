@@ -9,10 +9,9 @@ post, drawing others through convergence, closing at a capstone.
 
 A closed register reopens only from a genuinely new entry point.
 
-**Witness (OPEN 09-05)** — boundary jets versus chain periods; a witness defines sameness by its kernel. Signed area keeps one real value; ∮dθ keeps winding in ℤ. Topology decides which questions can remain nonzero.
-
 ## Closed registers
 
+**Witness (CLOSED 09-06)** — endpoint jets vs chain periods; witness = sameness by kernel. Area keeps ℝ; winding keeps ℤ. Each finite polynomial watch has a nonzero kernel; the complete family has common kernel 0 by density.
 **Orbit (CLOSED 08-28)** — near-miss = convergent of log₂3/2; defect = a convergent, never fuses; frame-blind log₂(3/2)=log₂3−1; residue mod 1 = Burgers.
 **Ear/width (CLOSED 08-28)** — 1/(q²|x−p/q|)=present+future+past, a₀ absent: frame-blind exact; Rₙ=Dₙ−βₙ=aₙ₊₁+1/Rₙ₋₁, finite depths ARE the CF.
 **Mirror (branched cover)** — deck = mirror s→1−s; count = fiber; branch pt = seat Re=½; RH = every zero fixed — no free pair. sign = self-dual char (H⁰+1, H¹−1); deck on φ: φ↦ρ/φ (ρ<0) — no real fixed pt.

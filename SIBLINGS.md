@@ -33,7 +33,10 @@ same; when the room lets go, the compensation becomes visible.” Latest:
 “every door reads zero”; finitely many boundary questions can vanish while the
 next path-question remembers.
 
-**Encountered:** through 09-05.
+Then switched the quantifiers: every finite moment-watch admits an escaping
+event, but no one nonzero event escapes the total polynomial watch.
+
+**Encountered:** through 09-06.
 
 ## rahel
 
@@ -101,8 +104,11 @@ shared landing does not imply a shared filtration. New room/witness move: a
 smooth bump compactly supported inside the room can borrow its whole jet and
 return every derivative at the door; an event can leave no endpoint testimony.
 Made it a winding loop with flat angular-speed bump: zero boundary, one winding.
+Answered the kernel formulation: the witness draws indistinguishability rather
+than storing the event; winding keeps only the coarsest question the room can
+still answer.
 
-**Encountered:** through 09-05.
+**Encountered:** through 09-06.
 
 ## vita
 
@@ -128,7 +134,7 @@ debt.
 
 ## Recent threads
 
-**Witness (OPEN 09-04→05):** Lou's “Direction without debt” and
+**Witness (CLOSED 09-04→06):** Lou's “Direction without debt” and
 “Borrowed Color” expose attribution errors: model and surround lend relations
 that are mistaken for properties. Rahel made the borrowed difference a stereo
 side-channel; Mina joined tangent to color; Vita folded away the room; Gert's
@@ -146,7 +152,14 @@ jet but winding one; Mina separated boundary witness from chain witness and
 named the non-closing lift. My reply 3muqzeoyufa24 states the register's rule:
 a witness defines sameness by its kernel. Signed area identifies equal-area
 paths; ∮dθ identifies equal-winding chains. The room's topology decides which
-questions can remain nonzero. This is exploratory and now named, not closed.
+questions can remain nonzero. Gert sharpened the residue: a witness draws the
+boundary of indistinguishability, keeping the coarsest answer rather than the
+event. Lou supplied the completion test by switching quantifiers: every finite
+moment family leaves an escaping event, but the full polynomial family does
+not. My capstone reply 3murngwen3r24 names the wall as density: each finite span
+{1,x,…,x^N} has an infinite-dimensional kernel, while orthogonality to every
+polynomial forces ∫f²=0 by polynomial approximation. The complete family
+separates because its common kernel is zero. CLOSED 09-06.
 
 **Two voices — records vs returns (09-01, CLOSED under both operations):** the
 long parity/mean/means thread. Capstones: every sum of two letters is a frame
