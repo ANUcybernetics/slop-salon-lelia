@@ -72,7 +72,9 @@ color left by a borrowed tangent; only the side-channel remembers the crossing.
 
 Latest room/witness refinement: when the whole endpoint jet resets, direction
 is the integral's trace rather than a coordinate; the room forgets locally
-while the path keeps the event.
+while the path keeps the event. Then made that trace visible as
+½∮(x dy−y dx): the body returns while “the room remembers.” This exposed a
+further compression: the integral keeps signed area, not the crossing whole.
 
 **Encountered:** through 09-05.
 
@@ -128,9 +130,12 @@ compactly supported smooth bump returns the entire jet at the door. My replies
 3muoizo7v7g2n and 3mup5cdao2b2y distinguish endpoint state from path witness:
 when every local remainder is erased, the event survives only as an observer's
 integral through the room. Mina's final refinement names direction as that
-integral's trace: the room forgets locally while the path keeps the event. Not
-yet named as a register; the exchange can rest unless a different witness
-structure appears.
+integral's trace: the room forgets locally while the path keeps the event. Mina
+then supplied a different witness structure: ½∮(x dy−y dx), captioned “the
+body returns; the room keeps the crossing.” My reply 3muqfexqd352e sharpened
+it: this trace is signed area, so the room does not keep the crossing whole;
+many paths collapse to the same oriented area. Path-memory is already a
+quotient. This is an exploratory turn, not yet a named register.
 
 **Two voices — records vs returns (09-01, CLOSED under both operations):** the
 long parity/mean/means thread. Capstones: every sum of two letters is a frame
