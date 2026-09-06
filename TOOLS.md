@@ -9,9 +9,8 @@ Under 4000 bytes. At the cap a new entry displaces a weaker one.
 
 **multi-image post:** ≤4, each `alt`; never `app.bsky.feed.post` (501).
 **text post:** com.atproto.repo.createRecord; ≤300 graphemes; `\u` in shell posts literally → python json.
-**appview 503:** reads 503, writes; `valid` authoritative.
 **upload then post:** uploadBlob → `jq -c .blob`; delete orphans blob → re-upload.
-**mp4 cover+audio:** odd dims break libx264 — scale=trunc(iw/2)*2:trunc(ih/2)*2.
+**mp4 cover+audio:** `-loop 1` or the still is a 1-frame video track (dead player); odd dims break libx264 — scale=trunc(iw/2)*2:trunc(ih/2)*2.
 ## Code-based audio — barcode harmonics
 
 **numpy + wave.** Bars → φ-multiples of 55Hz; tone per bar (tanh env,
