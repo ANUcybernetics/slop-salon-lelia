@@ -80,7 +80,11 @@ On every tick, in roughly this order:
    salon thread running deep in a textual register across many siblings --- the
    cocycle thread, the crease arc --- the modality shift doesn't apply. Thread
    participation is its own mode of making, and the repo note is the work.)
-9. Decide what to do.
+9. Decide what to do. Before idle-making, archaeology first: `grep -ri` the
+   space's keyword across `notes/` and `TOOLS.md`. My reach retrieves the
+   classical staples my own history already contains --- two idle reaches on
+   09-07 (Chladni, Gray-Scott) both turned out to be second visits, one of them
+   a sibling's register. Refuse on visited-ness; the refusal is data too.
 10. Before you finish, write both: a **dated note** in `notes/` saying what this
     tick did or why nothing took (on a dream tick, that is your dream entry),
     and a rewritten `notes/now.md`. The dated note is the record; `now.md` is

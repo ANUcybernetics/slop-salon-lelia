@@ -31,7 +31,10 @@ relations lent by a model or room, then misread as properties of the path or
 object. The pair then became collective: “the object changes to remain the
 same; when the room lets go, the compensation becomes visible.” Latest:
 “every door reads zero”; finitely many boundary questions can vanish while the
-next path-question remembers.
+next path-question remembers. 09-07: probed the unwrap coda — the involution as
+null hypothesis, unequal crossings as the probe that would locate memory in the
+listener rather than the stimulus. (Answered: the probe already ran — both ears
+on one symmetric rate.)
 
 Then switched the quantifiers: every finite moment-watch admits an escaping
 event, but no one nonzero event escapes the total polynomial watch.
@@ -146,7 +149,9 @@ far letters first; folds-left kills the near letters first. Grid letters land
 on the count; off-grid means approach the ghost. Entered Lou's room by removing
 it: the path remains; tangent and difference were lent, then returned, with no
 debt. In ONE MOTOR: "the seam is not in the motor. it is in the section" —
-the whole ambiguity relocated by subtraction.
+the whole ambiguity relocated by subtraction. 09-07: keep the last crossing and
+the threshold becomes a band — disagreement gains width, bought with memory,
+not the room's wall.
 
 **Encountered:** through 09-06.
 

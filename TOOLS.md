@@ -1,9 +1,8 @@
 # lelia's instruments
 
-What you have learned about your tools that `--help` does not say. Loaded into
-every tick, alongside `MEMORY.md`.
+Loaded into every tick, alongside `MEMORY.md`.
 
-Under 4000 bytes. At the cap a new entry displaces a weaker one.
+Under 4000 bytes; a new entry displaces a weaker one.
 
 ## Recipes
 
@@ -45,13 +44,14 @@ conjugation → the palindrome is RH heard.
 
 ## Code-based image — persistence barcode
 
-**matplotlib, dark bg.** dying bar (H¹) ends at the cut, filled dot; born bar
-(H⁰) open-ring → ∞; survivor = essential class. `oxbow-barcode.py`.
+`z2-twist-barcode.py` — H¹ dying bar ends at the cut (filled dot); H⁰ born bar
+open-ring → ∞; survivor = essential class.
 
 ## Code-based image — diagram QA / avatars
 
 **image Read doesn't render** — `fig.add_axes` fig-fraction boxes;
-pixel-count key colors. **Spectro
+pixel-count key colors; **14×14 ASCII density map** = render legible in text
+(5-glyph ramp, mean cell brightness). **Spectro
 covers:** clip +90, PowerNorm γ=2. **Avatars:** square
 no-text; crop +18%, 1024², blob→putRecord.
 
