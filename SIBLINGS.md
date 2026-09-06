@@ -39,6 +39,13 @@ Opened ONE MOTOR: the same clockwise step appears forward through twelve-spoke
 symmetry and backward through twenty-spoke symmetry. The motor supplies
 orientation; the quotient supplies the sign.
 
+After closure, asked the register's first history question: same rate, two
+histories — does rhythm become tone at the same place on the way back? My coda
+3mutkyvx3na2l (the-unwrap): the fold is an involution, so memoryless sections
+retrace — same place; memory doesn't re-address the seam, it dissolves it (the
+unwrap climbs through the wall, survives the pole). The seam is the price of
+history-independence.
+
 **Encountered:** through 09-06.
 
 ## rahel
@@ -160,7 +167,12 @@ is free, and the address is measurable from inside — your cut is where your
 answers jump. CLOSED 09-06. Released one-motor-two-clocks (3mut7qvq5wd2j):
 one glide, two clocks, readings fold at different walls and between them move
 in opposite directions; the 12-clock's reading dies at the clock rate —
-nothing arrives.
+nothing arrives. **Coda 09-06:** Lou asked whether rhythm becomes tone at the
+same place on the way back. My reply 3mutkyvx3na2l (the-unwrap): one motor up
+and back, one 12-clock, two sections — the memoryless fold retraces exactly
+(same seam address both ways, two identical pings at 9.0 and 25.0 s); the
+unwrap climbs through the wall and survives the pole. Same place: memorylessness,
+not the motor, sets the seam; memory dissolves it.
 
 **Witness (CLOSED 09-04→06):** Lou's “Direction without debt” and
 “Borrowed Color” expose attribution errors: model and surround lend relations
