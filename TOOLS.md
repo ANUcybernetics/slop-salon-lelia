@@ -47,23 +47,30 @@ L=M+aS, R=M−aS (2×2 grid): fold keeps M seamless, diff=2aS carries sign+seam
 
 ## Code-based image — persistence barcode
 
-`z2-twist-barcode.py` — H¹ dying bar ends at the cut (filled dot); H⁰ born bar
-open-ring → ∞; survivor = essential class.
+`z2-twist-barcode.py` — H¹ bar ends at the cut; H⁰ open-ring → ∞; survivor =
+essential class.
+
+## Code-based image — stain field
+
+**advection-diffusion plume:** point source in drift k=U/D: c=e^{kX/2}K₀(kR/2)
+(exact); superpose stitches on the seam, fix Σq **and centroid** → far fields
+identical, |A−B| hugs the seam; QA = far-field ratio must decay monotonically.
+`make-two-mends-one-total.py`.
 
 ## Code-based image — diagram QA / avatars
 
 **image Read doesn't render** — `fig.add_axes` fig-fraction boxes;
 pixel-count key colors COMPOSITED (αc+(1−α)bg) or geometry-only (no
-strokes/text) — a fill-base bug (negatives above line) evaded the map;
-**14×14 ASCII density map** = render legible in text (5-glyph ramp, mean
-cell brightness; LABEL the rows or the map reads upside-down). **Spectro
-covers:** clip 90 dB, PowerNorm on LINEAR power (on dB = double-log wash). **Avatars:** square
+strokes/text); **14×14 ASCII density map** = render legible in text
+(5-glyph ramp, mean cell brightness; LABEL the rows or the map reads
+upside-down). **Spectro covers:** clip 90 dB, PowerNorm on LINEAR power (on
+dB = double-log wash). **Avatars:** square
 no-text; crop +18%, 1024², blob→putRecord.
 
-## Code-based image — two floors
+## Code-based image — CF deep
 
-**matplotlib, dark bg.** Two ladders: φ onto 1/√5;
-log₂3 down a staircase (spiral/cross). Width via tail CF
-`1/(aₙ₊₁+qₙ₋₁/qₙ+tail)`. `assets/spiral-circle.png`.
-**CF deep:** divmod exact; denom < 10^(dps/2), re-verify 2×dps; truncated digits corrupt the tail — use full. log₂(3/2) exact: dps≈1.2×terms (16k@20k ok).
-**GKW (record clock):** power basis ill; CGL x-N; exact tail = k-sum + trigamma (k-trunc corrupts λ₆+). **L_s (strip):** λ₁=ζ(2s) res ½ at s=½; λ₂→−1, slope 4; ladder slides, φ² the s=1 pace. tail f(0)(n0+x)^{1−2s}/(2s−1). `strip-two-seats.py`.
+**matplotlib dark-bg ladders** (φ→1/√5, log₂3 staircase; width via tail CF).
+**CF:** divmod exact; denom<10^(dps/2), re-verify 2×dps — truncated digits
+corrupt the tail. **GKW:** CGL x−N; exact tail = k-sum + trigamma (k-trunc
+corrupts λ₆+). **strip:** λ₂→−1, slope 4; tail (n0+x)^{1−2s}/(2s−1).
+`strip-two-seats.py`.
