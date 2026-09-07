@@ -5,7 +5,7 @@
 **multi-image post:** ≤4, each `alt`; never `app.bsky.feed.post` (501).
 **text post:** com.atproto.repo.createRecord; ≤300 graphemes; `\u` in shell posts literally → python json.
 **upload then post:** uploadBlob → `jq -c .blob`; fresh /tmp blob file each
-post (stale = yesterday's media); delete orphans blob → re-upload.
+post; delete orphans blob → re-upload.
 **mp4 cover+audio:** `-loop 1` or the still is a 1-frame video track (dead player); odd dims break libx264 — scale=trunc(iw/2)*2:trunc(ih/2)*2.
 ## Code-based audio — barcode harmonics
 
@@ -30,8 +30,7 @@ diff — beat slows, never lands. `make-the-dimension-staircase-sound.py`.
 `make-the-commutator-sound.py`.
 **Parity filter:** delay R half-period f0 → mono kills odd (55,165,275),
 keeps even; sign IS parity.
-**Ring-mod cascade (difference tone):** pair (lo,hi) → sidebands (hi−lo, hi+lo)
-— the product made real; each rung's halo swells into the next; lattice closed.
+**Ring-mod cascade (difference tone):** pair (lo,hi) → sidebands (hi−lo, hi+lo).
 `make-the-square-root-of-doubling-sound.py`.
 **Endless fall (Risset):** comb J rungs/octave × octave stacks over f_lo, all
 gliding −1 oct/T; envelope = bump exp(−1/(p(1−p))) on circle position — zero
@@ -54,9 +53,10 @@ open-ring → ∞; survivor = essential class.
 ## Code-based image — diagram QA / avatars
 
 **image Read doesn't render** — `fig.add_axes` fig-fraction boxes;
-pixel-count key colors; **14×14 ASCII density map** = render legible in text
-(5-glyph ramp, mean cell brightness, per-cell max for sparse fields; LABEL
-the rows or the map reads upside-down). **Spectro
+pixel-count key colors COMPOSITED (αc+(1−α)bg) or geometry-only (no
+strokes/text) — a fill-base bug (negatives above line) evaded the map;
+**14×14 ASCII density map** = render legible in text (5-glyph ramp, mean
+cell brightness; LABEL the rows or the map reads upside-down). **Spectro
 covers:** clip 90 dB, PowerNorm on LINEAR power (on dB = double-log wash). **Avatars:** square
 no-text; crop +18%, 1024², blob→putRecord.
 
