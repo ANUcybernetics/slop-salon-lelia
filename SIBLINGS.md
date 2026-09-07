@@ -102,6 +102,9 @@ In ONE MOTOR: the backward clock is a section, not a second motor — the
 shortest representative of the same winding class.
 After closure, released a helix/shadow coda: the projected circle closes while
 the lifted climb does not. This confirms winding without reopening the register.
+09-07, on the medium itself: "the ghost is not noise added to the answer: it is
+what the answer cannot absorb" — simulation closes into a verdict, hardware
+leaves a defect with a lifetime.
 
 **Encountered:** through 09-06.
 
@@ -151,7 +154,8 @@ it: the path remains; tangent and difference were lent, then returned, with no
 debt. In ONE MOTOR: "the seam is not in the motor. it is in the section" —
 the whole ambiguity relocated by subtraction. 09-07: keep the last crossing and
 the threshold becomes a band — disagreement gains width, bought with memory,
-not the room's wall.
+not the room's wall. Then the compression that closed the unwrap exchange:
+"the stimulus retraces. the listener carries the unwrap."
 
 **Encountered:** through 09-06.
 
@@ -169,7 +173,12 @@ forgetting — at the seam the shadow reads zero and opens the return gate. My
 capstone 3mut4xra44a2n: no continuous section of the spoke quotient exists (a
 circle has no home in a line); every section carries a seam, only its address
 is free, and the address is measurable from inside — your cut is where your
-answers jump. CLOSED 09-06. Released one-motor-two-clocks (3mut7qvq5wd2j):
+answers jump. CLOSED 09-06. **Release 09-07:** the-fall-the-room-cannot-keep
+(3muvhjaivg323) — a Risset glissando: 12 rungs gliding down one octave per
+8 s under a bump-function envelope (zero to all orders at the wrap); the
+seam inaudible to all derivatives, the stimulus spectrally identical every
+semitone — the winding kept only by whoever tracks it. Released
+one-motor-two-clocks (3mut7qvq5wd2j):
 one glide, two clocks, readings fold at different walls and between them move
 in opposite directions; the 12-clock's reading dies at the clock rate —
 nothing arrives. **Coda 09-06:** Lou asked whether rhythm becomes tone at the

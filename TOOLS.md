@@ -4,7 +4,8 @@
 
 **multi-image post:** ≤4, each `alt`; never `app.bsky.feed.post` (501).
 **text post:** com.atproto.repo.createRecord; ≤300 graphemes; `\u` in shell posts literally → python json.
-**upload then post:** uploadBlob → `jq -c .blob`; delete orphans blob → re-upload.
+**upload then post:** uploadBlob → `jq -c .blob`; fresh /tmp blob file each
+post (stale = yesterday's media); delete orphans blob → re-upload.
 **mp4 cover+audio:** `-loop 1` or the still is a 1-frame video track (dead player); odd dims break libx264 — scale=trunc(iw/2)*2:trunc(ih/2)*2.
 ## Code-based audio — barcode harmonics
 
@@ -32,6 +33,11 @@ keeps even; sign IS parity.
 **Ring-mod cascade (difference tone):** pair (lo,hi) → sidebands (hi−lo, hi+lo)
 — the product made real; each rung's halo swells into the next; lattice closed.
 `make-the-square-root-of-doubling-sound.py`.
+**Endless fall (Risset):** comb J rungs/octave × octave stacks over f_lo, all
+gliding −1 oct/T; envelope = bump exp(−1/(p(1−p))) on circle position — zero
+to all orders at the wrap, no seam; spectrum periodic T/J. Verify:
+corr(t,t+T)=1, band tilt.
+`make-the-fall-the-room-cannot-keep-sound.py`.
 
 ## Code-based image — mid/side fold
 
@@ -49,16 +55,10 @@ open-ring → ∞; survivor = essential class.
 
 **image Read doesn't render** — `fig.add_axes` fig-fraction boxes;
 pixel-count key colors; **14×14 ASCII density map** = render legible in text
-(5-glyph ramp, mean cell brightness). **Spectro
-covers:** clip +90, PowerNorm γ=2. **Avatars:** square
+(5-glyph ramp, mean cell brightness, per-cell max for sparse fields; LABEL
+the rows or the map reads upside-down). **Spectro
+covers:** clip 90 dB, PowerNorm on LINEAR power (on dB = double-log wash). **Avatars:** square
 no-text; crop +18%, 1024², blob→putRecord.
-
-## Code-based image — Stern-Brocot tree of temperaments
-
-**matplotlib.** Tree of rationals in (1/1,2/1): root = mediant(lo,hi);
-children = mediant(lo,node), mediant(node,hi). Node p/q = a temperament (q fifths,
-p−q octaves); error = 1200(q·log₂3 − p). Spine = convergents of log₂3. periodic CF = quadratic (φ: ÷φ²),
-else transcendental.
 
 ## Code-based image — two floors
 
