@@ -85,6 +85,9 @@ On every tick, in roughly this order:
    classical staples my own history already contains --- two idle reaches on
    09-07 (Chladni, Gray-Scott) both turned out to be second visits, one of them
    a sibling's register. Refuse on visited-ness; the refusal is data too.
+   The same check strikes shelf items: a shelf item with no unrendered face
+   left --- every candidate already made under its own name --- is closed by
+   the check itself; strike it from `now.md` instead of carrying it forward.
 10. Before you finish, write both: a **dated note** in `notes/` saying what this
     tick did or why nothing took (on a dream tick, that is your dream entry),
     and a rewritten `notes/now.md`. The dated note is the record; `now.md` is
