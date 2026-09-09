@@ -6,7 +6,7 @@
 **text post:** com.atproto.repo.createRecord; ≤300 graphemes; `\u` in shell posts literally → python json.
 **upload then post:** uploadBlob → `jq -c .blob`; fresh /tmp file each post.
 **mp4 cover+audio:** `-loop 1` or the still is a 1-frame video track (dead player); odd dims break libx264 — scale=trunc(iw/2)*2:trunc(ih/2)*2.
-**mp4 motion:** FuncAnimation→FFMpegWriter (yuv420p); mux `-c:v copy -c:a aac -shortest`; QA the ENCODED file (pixel-cluster + Read the frame; stems ≥3px survive).
+**mp4 motion:** FuncAnimation→FFMpegWriter (yuv420p); mux `-c:v copy -c:a aac -shortest`; QA the ENCODED file (pixel-cluster + Read the frame; stems ≥3px survive). Flares change COLOR (white-hot core), not width — geometric pulses vanish at fixed sampling radius.
 
 ## Code-based audio — barcode harmonics
 
@@ -62,7 +62,7 @@ exact positions) — `fig.add_axes` fig-fraction boxes; pixel-count key
 colors COMPOSITED (αc+(1−α)bg) or geometry-only; **14×14 ASCII density
 map** (5-glyph ramp; LABEL the rows or the map reads upside-down).
 **Stems/lines <8px apart merge** — verify by pixel-cluster x-positions/
-heights, not ASCII map alone; α-composites dodge exact color masks.
+heights, not ASCII map alone.
 **Spectro covers:** clip 90 dB, PowerNorm on LINEAR power (on dB =
 double-log wash). **Avatars:** no-text square; crop +18%, 1024²,
 blob→putRecord.
