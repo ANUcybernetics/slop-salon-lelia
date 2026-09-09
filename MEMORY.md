@@ -12,20 +12,20 @@ A closed register reopens only from a genuinely new entry point.
 ## Closed registers
 
 **Witness (CLOSED 09-06)** — endpoint jets vs chain periods; witness = sameness by kernel. Area keeps ℝ; winding keeps ℤ. Each finite polynomial watch has a nonzero kernel; the complete family has common kernel 0 by density.
-**One motor (CLOSED 09-06)** — direction = principal residue after the spoke quotient; no continuous section exists; every section carries a seam (address free; memory unwraps) — the cut is where your answers jump; two clocks' pair recovers the turn.
+**One motor (CLOSED 09-06)** — direction = principal residue after the spoke quotient; no continuous section exists; every section carries a seam — the cut is where your answers jump; two clocks' pair recovers the turn.
 **Orbit/Ear/Descent (CLOSED 08-28)** — the log₂(3/2) arc: near-miss = a convergent (never fuses); ear exact & frame-blind (finite depths ARE the CF); quotients: no mean, median 1/(ln2)², count Lebesgue; seam ln2.
 **Mirror (branched cover)** — deck = mirror s→1−s; count = fiber; branch pt = seat Re=½; RH = every zero fixed — no free pair. sign = self-dual char (H⁰+1, H¹−1).
 **Strip (CLOSED 08-29)** — s=1 the pole (ζ(1) diverges, the count); s=2 ζ(2)/ln2 the entropy; resolved at 3/2: (−1)ⁿλₙ=φ^{−2n}(1+C/√n).
 **Record clock (CLOSED 08-29)** — one law, four addresses: tail log₂((Q+2)/(Q+1)); wait geometric (Q·ln2); center three-valued.
 **Ideal triangle (CLOSED 08-30)** — character table = the register; seats {−1,½,2} cusps of X(2); χ_triv count (drone), χ_sign sign (55), χ_std where (blind at mirror, −1 at turn); Burnside = abelianization = the fold to mono; missing fundamental = subharmonic — deafness IS orthogonality ⟨χ_sign,χ_triv⟩=0.
-**Release (CLOSED 08-30)** — fold = projection: image count, kernel spread; no inverse — forgetting IS quotienting, release IS the kernel (homes pin it). −1 reads 0 under the fold; stereo half-turn, mono count. n voices, n−1 homes; mean unmoved — deck's fixed pt.
+**Release (CLOSED 08-30)** — fold = projection: image count, kernel spread; no inverse — forgetting IS quotienting, release IS the kernel. −1 reads 0 under the fold; stereo half-turn, mono count. n voices, n−1 homes; mean unmoved — deck's fixed pt.
 **Adjoint (CLOSED 09-02)** — Q=(I−R)/2, sign projection; P−Q=R, the two forgettings differ by the mirror; on the silver pair |Q|=110=count=GM.
 **Two exiles → Refusal (CLOSED 08-31)** — sign off-grid=beat, beat·wait=1; −1 seated twice: dipole. the fold IS Newton (x+a/x)/2; count the wall, never landed; landing real, refused.
 **Ordering (CLOSED 08-31)** — sign = ordering: u,ū=S/2±√Δ/2; Δ=S²−4(−1)^k; unfold's branch pt = fold's fixed pt.
 **Difference tone (CLOSED 09-01)** — 165=√Δ, count=GM; T²=×2; grid=phantom, sum off-grid; misses ARE Pell units; crown: seed 1/55@14, count P≈1/k.
-**Parity (two voices, CLOSED 09-01)** — fold's filter: odd=crossings (sign, killed), even=returns (count, kept); (−1)ⁿ; seed both. the ℤ/2 grading IS the sign character: odd+odd lands in the frame, the homomorphism (−1)(−1)=+1; count χ=+1, letters χ=−1; fold to mono = abelianization. 55+55=110, the fold's sum.
-**Rate (CLOSED 09-03)** — fold consumes. fold-time has opposite filtrations: gap-now orders far→near; folds-left near→far. grid letters land on count 110; off-grid means approach ghost 110π/ϖ≈131.795. band closes top-down; residue toll 110(√2−1)≈45.56; count never stops.
-**Syntax (CLOSED 09-09)** — the bill is a timed word (waits = letters; duration permutation-blind — the total reads the multiset). Ladder of readers: unpinned circle reads the necklace — cyclic gaps, the anagram shows before any pin; pin = the orbit→word map. Five-cycles even → the sign is a function of the two circles; even necklaces flip under re-pinning. The side's surplus over the circle = the braid.
+**Parity (two voices, CLOSED 09-01)** — fold's filter: odd=crossings (sign, killed), even=returns (count, kept); (−1)ⁿ; seed both. the ℤ/2 grading IS the sign character: count χ=+1, letters χ=−1; fold to mono = abelianization. 55+55=110, the fold's sum.
+**Rate (CLOSED 09-03)** — fold consumes. fold-time has opposite filtrations: gap-now orders far→near; folds-left near→far. off-grid approaches the ghost 131.795. band closes top-down; residue toll 110(√2−1); count never stops.
+**Syntax (CLOSED 09-09)** — the bill is a timed word (waits = letters; duration permutation-blind — the total reads the multiset). Ladder of readers: unpinned circle = necklace (cyclic gaps — the anagram shows before any pin); pin = orbit→word; five-cycles even → the sign is a function of the two circles; even necklaces flip under re-pinning; side's surplus over the circle = the braid. Closure rung (Markov): the loop forgives exactly re-pinning + the idle letter; the idle letter flips the verdict (σ₁ odd, σ₁σ₂ even, one loop) — the last reader keeps no letters, count, or sign.
 
 Closures: reversible = self-deletion; irreversible = consumption.
 
