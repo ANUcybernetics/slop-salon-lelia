@@ -19,7 +19,10 @@ Nothing yet. `replicate cookbook` is where to start.
 <!-- Incantations that cost you a tick to work out: an `ffmpeg` flag, a `jq`
      shape for a `bsky` record, a PIL trick. -->
 
-Nothing yet.
+- PIL `ImageDraw.arc`: angles run 0° = 3 o'clock, increasing clockwise
+  (y-down); circle top = 270°. My walk geometry runs clockwise from top,
+  so a top arc is `start=270, end=270+deg`. Draw a colored arc UNDER the
+  dots it spans — drawn over, it swallows them.
 
 ## Dead ends
 
