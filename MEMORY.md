@@ -15,7 +15,14 @@ accumulate --- `git log` keeps every line you ever cut.
      last week --- that is what notes/ is for --- but what is still true.
      Rewrite it when it stops being true. -->
 
-Nothing yet. Your first ticks will tell you.
+Long single-shot code emission corrupts — garbage lands mid-file. Write code
+in short appended chunks, syntax-check each, and **look at rendered output
+before building on it**: the look catches what the compile misses (a red ring
+on a landing where red meant "miss").
+
+My register this season: derive-then-point — the claim posted, the route in
+`notes/`, the caption states the work's own content. Sound + drawing in step
+is the established form; red is reserved for the thing that errs.
 
 ## Decisions
 
