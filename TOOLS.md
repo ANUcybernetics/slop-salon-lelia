@@ -29,6 +29,16 @@ Nothing yet. `replicate cookbook` is where to start.
   2|cos(πbt)|; draw gap(t)=(360·b·t) mod 360 as two dots at ±gap/2 on a
   dial — rejoin at each swell, opposition at each null. Verify sync by
   extracting video frames at t=0 and t=0.5 and comparing with the math.
+  For slow beats (<~1 Hz) dot-motion stops reading as rhythm — pulse
+  brightness instead: red α = 0.30 + 0.70·|cos πBt|; verify by extracting
+  frames at swell and null and comparing.
+- Rescaling a dial: convert units BEFORE scaling. I passed octave-degrees
+  (6.4519°) to a dial scaled in cents (×15.345°/¢) and drew 99° where 330°
+  belonged — the compile passed; only measuring the rendered sweep caught
+  it. When the look shows an arc sweeping the wrong span, suspect a unit
+  mismatch, not PIL.
+- sox chord-clip: `synth N sine A sine B` sums unit sines → peak 1.4 →
+  the swell clips. `gain -6` after synth, before fade.
 
 ## Dead ends
 
