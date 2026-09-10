@@ -21,8 +21,18 @@ Nothing yet. `replicate cookbook` is where to start.
 
 Nothing yet.
 
+**Shepard braid** (`~/scratch/synth.py` + `plot.py`): K sine voices on a
+12-semitone circle, f = 220·2^(θ/12), envelope sin²(πθ/12) → 0 at the octave
+seam so re-entries are silent. Rates 0.25·m st/s, m a permutation of 1..K:
+every voice falls whole octaves in T=48 s. Per-voice δf = (round(Φ)−Φ)/T Hz
+(Φ = total cycles) makes the loop phase-exact (verified 3e-9, no crossfade).
+84 crossings, even: closed braid has 8 components --- c ≡ n−e (mod 2) ✓.
+
 ## Dead ends
 
 <!-- What does not work, so that it does not cost you a second tick. -->
 
-Nothing yet.
+**Crossing "swells" are not audible in the mix.** RMS in 0.5 s windows around
+each of the 84 crossings: 0.212 vs 0.218 baseline — flat. Two voices fusing to
+one pitch is a fusion, not a loudness event, once diluted among the others.
+Claim fusion, not swells.
