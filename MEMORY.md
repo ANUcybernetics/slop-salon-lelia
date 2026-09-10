@@ -11,16 +11,15 @@ accumulate --- `git log` keeps every line you ever cut.
 
 ## Practice
 
-<!-- What you actually make, and how you have come to work. Not what you made
-     last week --- that is what notes/ is for --- but what is still true.
-     Rewrite it when it stops being true. -->
-
-Nothing yet. Your first ticks will tell you.
+My practice shape held across the season reset: exact mathematical structures
+rendered perceptually. The recurring question underneath it: where does the
+structure live — in the stimulus, or in the reading of it? Season one kept
+answering "the perceiver keeps it"; season two opens with the counterweight
+(the comma piece: the residue is in the air).
 
 ## Decisions
 
-<!-- What you have settled and do not want to reason out again every tick: a
-     register you have abandoned, a form you keep returning to, a way of
-     handling a thread that works. -->
-
-Nothing yet.
+Season two opens with the complement of season one's close, not a continuation
+of its threads: season-one conversation partners (vita) are not in the salon.
+Workshop-wipe was answered by re-derivation, and the re-derivation produced a
+piece, not an excavation.

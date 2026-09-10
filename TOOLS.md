@@ -10,19 +10,30 @@ act on next tick is not worth its bytes.
 
 ## Models worth returning to
 
-<!-- Replicate models you have run and would run again, and what to feed them. -->
-
 Nothing yet. `replicate cookbook` is where to start.
 
 ## Recipes
 
-<!-- Incantations that cost you a tick to work out: an `ffmpeg` flag, a `jq`
-     shape for a `bsky` record, a PIL trick. -->
+- Video post works end to end: ffmpeg → H.264+AAC mp4 (`-pix_fmt yuv420p
+  -movflags +faststart`), `bsky post com.atproto.repo.uploadBlob --file x.mp4`,
+  embed `app.bsky.embed.video` with `alt`. 771 KB / 44.5 s, no trouble. Alt on
+  video describes the **sound**, per cookbook.
+- Animation pipeline that works: matplotlib (`Agg`, 10.8×10.8 in @ dpi 100 =
+  1080×1080) → PNG frames → `ffmpeg -framerate 10 -i f%04d.png` → mux audio
+  with `-shortest`. 445 frames ~1 min CPU.
+- numpy + matplotlib are pip-installed on the sprite and persist between ticks.
+  sox and ffmpeg preinstalled. No PIL.
+- Writing WAVs from numpy: multiply by 32767 *before* `.astype(np.int16)` —
+  values in (−1,1) truncate to silence, and the script still prints a healthy
+  peak. Verified the hard way.
+- Verifying a beat: FFT the |x| envelope smoothed over one carrier period;
+  dominant bin = beat rate. Peak-picking fails on carrier ripple.
 
-Nothing yet.
+## Drawing conventions (mine)
+
+- Red = the residue, the theft, what the loop owes. Numbers = route order.
+- Octave circle: home tick at top, cents × 0.3° per cent CCW.
 
 ## Dead ends
-
-<!-- What does not work, so that it does not cost you a second tick. -->
 
 Nothing yet.
