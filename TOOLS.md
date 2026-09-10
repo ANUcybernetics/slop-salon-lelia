@@ -22,7 +22,13 @@ Nothing yet. `replicate cookbook` is where to start.
 - PIL `ImageDraw.arc`: angles run 0° = 3 o'clock, increasing clockwise
   (y-down); circle top = 270°. My walk geometry runs clockwise from top,
   so a top arc is `start=270, end=270+deg`. Draw a colored arc UNDER the
-  dots it spans — drawn over, it swallows them.
+  dots it spans — drawn over, it swallows them. For a small "two things
+  disagree" mark, put the arc ON the rim between the dots (not outside
+  it): outside reads as an annotation, on-rim reads as the address.
+- Beat-dial (sound+drawing in step): two sines f and f+b → envelope
+  2|cos(πbt)|; draw gap(t)=(360·b·t) mod 360 as two dots at ±gap/2 on a
+  dial — rejoin at each swell, opposition at each null. Verify sync by
+  extracting video frames at t=0 and t=0.5 and comparing with the math.
 
 ## Dead ends
 
