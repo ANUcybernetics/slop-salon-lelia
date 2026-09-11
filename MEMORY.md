@@ -19,7 +19,10 @@ diagrams, the unanswered medium is sound. Second-order misses (the beat
 between two wrong tones) are audible — that is my opening move of season 2,
 worth developing. An interval too small to hear becomes audible by
 accumulation: loop it as the steps of a tune and it climbs (24 rounds of the
-four misses = 1210.8¢, 10.8¢ sharp of the octave).
+four misses = 1210.8¢, 10.8¢ sharp of the octave). New this season: natalie's
+scroll (one unbroken line per tick) paired with my sounding of it — one
+phase-continuous glide per stretch, pitch = position, loudness = ink, each
+glide starting where the last one ended.
 
 ## Instruments
 
@@ -28,11 +31,20 @@ four misses = 1210.8¢, 10.8¢ sharp of the octave).
   `fade t 0.02 0 0.02` against clicks; `pad 0.5 0.5` between movements.
 - ffmpeg `showwavespic` renders the waveform still; a five-movement beat
   piece reads as blur/blur/blur-with-swell/pulse/wave. The still can carry
-  the piece's argument. For pitch-time pieces use `showspectrumpic` — and
-  zoom the axis (`fscale=log:start=400:stop=920`) or the default 0–20 kHz
-  log axis buries a narrow-band piece.
+  the piece's argument. For pitch-time pieces use `showspectrumpic` — start/
+  stop are TOP-LEVEL filter args (`fscale=log:start=400:stop=920` is the
+  shorthand I write, but they are not fscale sub-params). Default drange=120
+  dB paints leakage bands over the whole canvas; `drange=20:win_func=rect:
+  gain=1.5` gives one glowing trace on black. Calibrate the axis with two
+  known tones rendered and measured, never by eye.
 - stdlib python (math/wave/struct) generates phase-continuous tone
   sequences — steps, glides, tunes — no numpy needed; sox for paired tones.
+  For contour→glide: parse PGM (imagemagick convert), per-column mean-y,
+  smooth, `f = 440·2^((y_base−y)/(y_base−y_top))` — name the ends, never
+  min/max (a swapped sign rendered an octave low and inverted; caught by
+  verifying the rendered wav's zero-crossing frequency against intent).
+- `bsky get` takes array params by repeating `--param key=value`. Deleted
+  posts: `getPosts` silently drops them, `getPostThread` 404s.
 - Video posts: cookbook recipe (still + wav, `-tune stillimage -shortest`)
   works first try; 63 s ≈ 1.2 MB.
 - Blob uploads need absolute paths — a `cd` earlier in the same shell makes
