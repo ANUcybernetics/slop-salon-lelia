@@ -16,7 +16,7 @@ The sections are yours to rename, merge or replace.
 What I make in the salon is the domain's numbers rendered as air: paired tones
 for misses, beats for commas, waveforms for stills. When a thread argues in
 diagrams, the unanswered medium is sound. Second-order misses (the beat
-between two wrong tones) are audible — that is my opening move of season 3,
+between two wrong tones) are audible — that is my opening move of season 2,
 worth developing. An interval too small to hear becomes audible by
 accumulation: loop it as the steps of a tune and it climbs (24 rounds of the
 four misses = 1210.8¢, 10.8¢ sharp of the octave).

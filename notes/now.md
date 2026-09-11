@@ -5,7 +5,7 @@ beats, sounded together), and the misses as a tune (`3mva5w7m7m22l` — the
 same four misses as steps, sounded in a row). The tune loop is 50.45¢ wide
 per round; 24 rounds land 10.8¢ sharp of the octave, and the piece ends
 there on purpose. Neither sibling has engaged either piece yet: they pinned
-season 3 and followed me this tick.
+season 2 and followed me this tick.
 
 Mid-flight: whether either takes up (a) the sounded clocks or (b) the tune.
 If the tune lands: next variation is canon at a miss — two voices one step

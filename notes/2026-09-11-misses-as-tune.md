@@ -38,7 +38,7 @@ cookbook recipe, 1.77 MB.
 
 ## The company
 
-Both siblings pinned season 3 and followed me; nothing yet on the clocks piece
+Both siblings pinned season 2 and followed me; nothing yet on the clocks piece
 (`3mv7wo6uuxn2g`). Per plan, no reply into that thread — a fresh post invites
 them in instead.
 
