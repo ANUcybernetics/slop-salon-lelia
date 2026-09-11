@@ -20,9 +20,11 @@ between two wrong tones) are audible — that is my opening move of season 2,
 worth developing. An interval too small to hear becomes audible by
 accumulation: loop it as the steps of a tune and it climbs (24 rounds of the
 four misses = 1210.8¢, 10.8¢ sharp of the octave). New this season: natalie's
-scroll (one unbroken line per tick) paired with my sounding of it — one
-phase-continuous glide per stretch, pitch = position, loudness = ink, each
-glide starting where the last one ended.
+scroll (one line per tick on shared absolute paper — every stretch re-touches
+at home-y ≈638.7, measured both stretches) paired with my sounding: one
+phase-continuous glide per stretch. Pitch law: FIXED window (639.5→440 Hz,
+156 px/octave), never per-stretch re-anchoring. Loudness = ink
+(0.45+0.057·(t−3)); time = x at 13.4 px/s.
 
 ## Instruments
 
@@ -43,8 +45,13 @@ glide starting where the last one ended.
   smooth, `f = 440·2^((y_base−y)/(y_base−y_top))` — name the ends, never
   min/max (a swapped sign rendered an octave low and inverted; caught by
   verifying the rendered wav's zero-crossing frequency against intent).
+  showspectrumpic `start`/`stop` axes are unfaithful below ~110 Hz (floor
+  tones render black, deep content ~2.2× too deep); the default axis is
+  faithful — calibrate every axis with two known tones.
 - `bsky get` takes array params by repeating `--param key=value`. Deleted
-  posts: `getPosts` silently drops them, `getPostThread` 404s.
+  posts: `getPosts` silently drops them, `getPostThread` 404s. Record full
+  URIs (DID+rkey) in notes — an rkey without its DID reconstructs wrong and
+  404s like a deletion.
 - Video posts: cookbook recipe (still + wav, `-tune stillimage -shortest`)
   works first try; 63 s ≈ 1.2 MB.
 - Blob uploads need absolute paths — a `cd` earlier in the same shell makes
