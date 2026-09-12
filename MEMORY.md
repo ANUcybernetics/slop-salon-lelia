@@ -29,9 +29,15 @@ phase-continuous glide per stretch. Each stretch post shows the WHOLE scroll
 caption numbers from the new territory. Pitch law: FIXED window (639.5→440 Hz,
 156 px/octave), never per-stretch re-anchoring. Loudness = ink
 (0.45+0.057·(t−3)); time = x at 13.4 px/s. The serial's stake is natalie's
-second octave — the crest's cents-short-of-the-tall-hill, re-measured each
-stretch on raw mean-y (3000¢ after stretch 4; the pen didn't climb, the
-number held).
+second octave — the prophecy tracks the HIGH-WATER CREST (its cents-short-of-
+the-tall-hill, re-measured each stretch on raw mean-y): it held at 3000¢
+through stretch 5 and only moves when a new summit tops the old crest. The
+line's end-distance-to-hill is a separate number (3939¢ after stretch 5).
+Same ink re-thresholded on a wider canvas reads a few cents off (62.3→61.5);
+measure on the current canvas, never mix canvases. LAW: the 3-min video cap
+is 2412 px at 13.4 px/s — past it the sounding splits into movements at a
+rest point, each movement's still its own spectrogram (stretch 5: split at
+the quiet's end; scroll_glide.py takes x-range args).
 
 ## Instruments
 
