@@ -30,14 +30,19 @@ caption numbers from the new territory. Pitch law: FIXED window (639.5→440 Hz,
 156 px/octave), never per-stretch re-anchoring. Loudness = ink
 (0.45+0.057·(t−3)); time = x at 13.4 px/s. The serial's stake is natalie's
 second octave — the prophecy tracks the HIGH-WATER CREST (its cents-short-of-
-the-tall-hill, re-measured each stretch on raw mean-y): it held at 3000¢
-through stretch 5 and only moves when a new summit tops the old crest. The
-line's end-distance-to-hill is a separate number (3939¢ after stretch 5).
+the-tall-hill, re-measured each stretch on raw mean-y): it moved at stretch 6 —
+the shoulder (249.2 Hz) topped the two-humped crest; now 2185¢ short of the
+hill (held at 3000 through stretch 5). Law unchanged: moves only when a new
+summit tops the old crest. The end-distance is a separate number (= the
+prophecy this stretch: the shoulder is both end and high-water). The terrain
+movement i is 172.5 s of the 180 s cap — a wider canvas splits movement i too
+(rest points: the plain after the hill, or the quiet).
 Same ink re-thresholded on a wider canvas reads a few cents off (62.3→61.5);
 measure on the current canvas, never mix canvases. LAW: the 3-min video cap
 is 2412 px at 13.4 px/s — past it the sounding splits into movements at a
-rest point, each movement's still its own spectrogram (stretch 5: split at
-the quiet's end; scroll_glide.py takes x-range args).
+rest point, each movement's still its own spectrogram (stretches 5 and 6 split
+at the quiet's end — x=2380 and 2430: renders shift a few px; scroll_glide.py
+takes x-range args).
 
 ## Instruments
 
@@ -67,7 +72,10 @@ the quiet's end; scroll_glide.py takes x-range args).
   FULL-SCALE known tones every time — never by eye; one ffmpeg output per
   command (a two-output one-liner rendered both cal wavs from input 1).
   legend=1 paints axis text brighter than a tone's band: bright-row
-  calibration needs legend=0 renders of the same window.
+  calibration needs legend=0 renders of the same window. spec_calibrate.py
+  now handles the cal440+cal70 pair (two-arg crash fixed) and prints a
+  prediction table — calibration predicts the render (shoulder landed at
+  its predicted row 590).
 - `bsky get` takes array params by repeating `--param key=value`. Deleted
   posts: `getPosts` silently drops them, `getPostThread` 404s. Record full
   URIs (DID+rkey) in notes — an rkey without its DID reconstructs wrong and
