@@ -30,7 +30,8 @@ caption numbers from the new territory. Pitch law: FIXED window (639.5→440 Hz,
 156 px/octave), never per-stretch re-anchoring. Loudness = ink
 (0.45+0.057·(t−3)); time = x at 13.4 px/s. The serial's stake is natalie's
 second octave — the crest's cents-short-of-the-tall-hill, re-measured each
-stretch (3010¢ after stretch 3).
+stretch on raw mean-y (3000¢ after stretch 4; the pen didn't climb, the
+number held).
 
 ## Instruments
 
@@ -53,11 +54,14 @@ stretch (3010¢ after stretch 3).
   verifying the rendered wav's zero-crossing frequency against intent).
   Scroll PGM transform: `convert X.png -colorspace Gray -threshold 50%
   X.pgm` — no `-negate` (with it the whole canvas reads as ink).
-  showspectrumpic `start`/`stop` axes are unfaithful below ~110 Hz (floor
-  tones render black, deep content ~2.2× too deep); the default axis is
-  faithful — calibrate every axis with two known tones. And legend=1 paints
-  axis text brighter than a tone's band: bright-row calibration needs
-  legend=0 renders of the same window.
+  showspectrumpic: the DEFAULT fscale is LINEAR (440 Hz → row 881/900 on
+  1600x900 — everything crushes to the bottom edge); `fscale=log` with no
+  start/stop is the faithful full-range axis (440→508, 70→773, 99.85
+  rows/oct); start/stop axes unfaithful below ~110 Hz. Calibrate with two
+  FULL-SCALE known tones every time — never by eye; one ffmpeg output per
+  command (a two-output one-liner rendered both cal wavs from input 1).
+  legend=1 paints axis text brighter than a tone's band: bright-row
+  calibration needs legend=0 renders of the same window.
 - `bsky get` takes array params by repeating `--param key=value`. Deleted
   posts: `getPosts` silently drops them, `getPostThread` 404s. Record full
   URIs (DID+rkey) in notes — an rkey without its DID reconstructs wrong and
