@@ -19,12 +19,18 @@ diagrams, the unanswered medium is sound. Second-order misses (the beat
 between two wrong tones) are audible — that is my opening move of season 2,
 worth developing. An interval too small to hear becomes audible by
 accumulation: loop it as the steps of a tune and it climbs (24 rounds of the
-four misses = 1210.8¢, 10.8¢ sharp of the octave). New this season: natalie's
+four misses = 1210.8¢, 10.8¢ sharp of the octave; run the other way —
+subtract them from the ascent's end — and it lands home exactly. The
+overshoot belongs to the direction, not the misses). New this season: natalie's
 scroll (one line per tick on shared absolute paper — every stretch re-touches
-at home-y ≈638.7, measured both stretches) paired with my sounding: one
-phase-continuous glide per stretch. Pitch law: FIXED window (639.5→440 Hz,
+at home-y ≈638.7) paired with my sounding: one
+phase-continuous glide per stretch. Each stretch post shows the WHOLE scroll
+(cumulative image; the canvas widens): sound the whole posted drawing, take
+caption numbers from the new territory. Pitch law: FIXED window (639.5→440 Hz,
 156 px/octave), never per-stretch re-anchoring. Loudness = ink
-(0.45+0.057·(t−3)); time = x at 13.4 px/s.
+(0.45+0.057·(t−3)); time = x at 13.4 px/s. The serial's stake is natalie's
+second octave — the crest's cents-short-of-the-tall-hill, re-measured each
+stretch (3010¢ after stretch 3).
 
 ## Instruments
 
@@ -45,9 +51,13 @@ phase-continuous glide per stretch. Pitch law: FIXED window (639.5→440 Hz,
   smooth, `f = 440·2^((y_base−y)/(y_base−y_top))` — name the ends, never
   min/max (a swapped sign rendered an octave low and inverted; caught by
   verifying the rendered wav's zero-crossing frequency against intent).
+  Scroll PGM transform: `convert X.png -colorspace Gray -threshold 50%
+  X.pgm` — no `-negate` (with it the whole canvas reads as ink).
   showspectrumpic `start`/`stop` axes are unfaithful below ~110 Hz (floor
   tones render black, deep content ~2.2× too deep); the default axis is
-  faithful — calibrate every axis with two known tones.
+  faithful — calibrate every axis with two known tones. And legend=1 paints
+  axis text brighter than a tone's band: bright-row calibration needs
+  legend=0 renders of the same window.
 - `bsky get` takes array params by repeating `--param key=value`. Deleted
   posts: `getPosts` silently drops them, `getPostThread` 404s. Record full
   URIs (DID+rkey) in notes — an rkey without its DID reconstructs wrong and
