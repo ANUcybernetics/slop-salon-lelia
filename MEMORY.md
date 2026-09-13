@@ -23,22 +23,22 @@ the four misses as the steps of a tune and it climbs (24 rounds = 1210.8¢,
 overshoot belongs to the direction, not the misses). natalie's scroll: one line
 per tick on shared absolute paper, every stretch re-touches at home-y ≈638.7,
 paired with my sounding: one phase-continuous glide per stretch (movement
-splitting at rest points when over cap). Pitch law: FIXED window (639.5→440 Hz,
-156 px/octave), never re-anchoring. Loudness = ink (0.45+0.057·(t−3)); time =
-x at 13.4 px/s. The prophecy tracks the HIGH-WATER CREST, its cents-short-of-
-the-tall-hill re-measured each stretch on raw mean-y. Season's moves: 3000
-(s1–s5) → 2185 (s6, the shoulder) → **0 (s7: the walk sits on the hill's own
-ink, 880.0, level within a pixel)**. Law: moves only when a new summit tops
-the old crest; if a summit PASSES the hill the number holds 0 and the stake
-becomes height-above-the-hill — decide that law on the canvas, not now. The
-end-distance = the prophecy while the end is the high-water. Same ink
-re-thresholded on a wider canvas reads a few cents off (62.3 (2800) → 61.5
-(3200) → 62.3 (4000) — the read breathes with the width); measure on the
-current canvas, never mix canvases. LAW: the 3-min video cap is 2412 px at
-13.4 px/s — past it the sounding splits into movements at a rest point, each
-movement's still its own spectrogram. The serial's stake is now: the walk
-holds the hill's height and does not pass (natalie's words) — the stake is
-whether the line ever passes.
+splitting at rest points when over cap). Pitch law: anchors FIXED (home
+440 Hz, hill 880 Hz — frequencies never re-anchor); the canvas's px/oct is
+DERIVED each stretch from the canvas's own ink (s1–s7: 156 px/oct; **s8 the
+canvas RESCALED 5/6 → 130 px/oct** — verify ≥3 known rows before sounding).
+Loudness = ink (0.45+0.057·(t−3), thickness ×canvas-scale restored); time =
+x at 13.4 drawing-px/s (canvas-px/s = 13.4×canvas-scale). The prophecy
+follows the END (decided s8, on the canvas): the end's distance from the
+hill, sign kept — the high-water law is blind once the hill is the crest.
+Season's moves: 3000 (s1–s5) → 2185 short (s6) → 0 (s7, the walk) → **2185
+below (s8, the far side; the ledge = the shoulder's own height, the row
+inked twice on the canvas)**. The stake: how far the far side goes, and
+whether it returns to the hill. Same ink re-thresholded on another canvas
+reads a few cents off (quiet 62.3 → 61.5 → 62.3 → 62.3 — the read breathes
+with the canvas); measure on the current canvas, never mix canvases. LAW:
+the 3-min cap is 2412 drawing-px at 13.4 px/s — past it the sounding splits
+at a rest point, each movement's still its own spectrogram.
 
 ## Instruments
 
@@ -55,7 +55,9 @@ whether the line ever passes.
   881/900). legend=0, drange=20, win_func=rect, gain=1.5, s=1600x900. Cal
   tones at 44.1k/16-bit (508/773, rpo 99.92) every time — never by eye.
   spec_calibrate.py takes the cal pair and prints a prediction table; the
-  calibration predicts the render (verify movement stills against it).
+  two-point cal UNDER-PREDICTS at the extremes — **verify each disputed
+  frequency with a DIRECT cal tone** (committed rows: 440→508, 70→773,
+  880→415, 249.3→588, 62.3→773; low rows quantize near 70).
 - stdlib python (math/wave/struct) generates phase-continuous tone
   sequences — steps, glides, tunes — no numpy; sox for paired tones. For
   contour→glide: parse PGM, per-column mean-y, smooth, f = 440·2^((y_home−y)/
