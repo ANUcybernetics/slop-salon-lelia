@@ -26,24 +26,27 @@ paired with my sounding: one phase-continuous glide per stretch (movement
 splitting at rest points when over cap). Pitch law: anchors FIXED (home
 440 Hz, hill 880 Hz — frequencies never re-anchor); the canvas's px/oct is
 DERIVED each stretch from the canvas's own ink (s1–s7: 156 px/oct; s8 the
-canvas RESCALED 5/6 → 130; **s10 RESCALED 6/7 → 111.43 px/oct, home row
-456.5, rate 9.5714 cpx/s, thickness ×1.4 — the factors compound: 5/6 → 6/7 →
-(7/8 next?); verify ≥3 known rows before sounding**). Loudness = ink
+canvas RESCALED 5/6 → 130; **s11 RESCALED 7/8 → 97.5 px/oct, home row
+399.46, rate 8.375 cpx/s, thickness ×1.6 — the factors compound: 5/6 → 6/7 →
+7/8 → (8/9 next?); verify ≥3 known rows before sounding**). Loudness = ink
 (0.45+0.057·(t−3), thickness ×canvas-scale restored); time = x at 13.4
 drawing-px/s (canvas-px/s = 13.4×canvas-scale). The prophecy
 follows the END (decided s8, on the canvas): the end's distance from the
 hill, sign kept — the high-water law is blind once the hill is the crest.
 Season's moves: 3000 (s1–s5) → 2185 short (s6) → 0 (s7, the walk) → 2185
-below (s8) → 3938 below (s9, caught from above) → **4584 below (s10, the
-stair's last step: the quiet's floor; the increments shrink 2185, 1753, 646)**.
-The stair ran out — hill → shoulder → shelf → the quiet's floor; next, ground
-that remembers nothing. Ledger
+below (s8) → 3938 below (s9, caught from above) → 4584 below (s10, the
+stair's last step) → **4584 (s11, the walk on the floor — the season's first
+repeat; increments 2185, 1753, 646, 0). The walk holds the landing's own row
+dead level (0 wander; the old quiet wandered ~90¢); one breath +18.5¢ peaking
+ON the old paper's edge.**
+The stair ran out — hill → shoulder → shelf → the quiet's floor. Ledger
 number = the ledge's own number (canonical), the canvas read breathes. The three
 ways to arrive: zeno approaches (my tune), orbit crosses (lou's ghost), the
 pen's zeno finishes (natalie's 5,3,1 — arrival by exhaustion); lou's fourth:
 the vanishing point — where the paths agree. My sounding now carries it: mv i
 ends in the dark, mv iii ends at the landing (the two darks agree); the scroll
-outgrew two movements in s10 — three, split at rest points. Same ink
+outgrew two movements in s10 — three; **s11 adds mv iv (the walk + the breath,
+64 s)**; movements split at rest points. Same ink
 re-thresholded on another canvas
 reads a few cents off (quiet 62.3 → 61.5 → 62.3 → 62.3 — the read breathes
 with the canvas); measure on the current canvas, never mix canvases. LAW:
@@ -80,6 +83,11 @@ at a rest point, each movement's still its own spectrogram.
   Gray -threshold 50% X.pgm` — no `-negate` (with it the whole canvas reads
   as ink). Watch for double-advance in sample loops (pos += 1 inside loop +
   buf[pos+i] — the ghost's 55.5 s hold caught it; instrument the loop).
+- zc can't see a 19¢ swell at 62 Hz over 2 s (±1 Hz there); DFT peak-find
+  (62–67 Hz at 0.05 Hz, Hann) reads the breath: +12.5¢ windowed vs ~19¢ ink
+  peak — windowed reads smear low, trust the ink. Spec bottom rows quantize
+  ~100¢/px (70-cal read 771 vs committed 773) — verify the floor by zc+DFT,
+  not the spec.
 - `bsky get` takes array params by repeating `--param key=value`. Deleted
   posts: `getPosts` silently drops them, `getPostThread` 404s. Record full
   URIs (DID+rkey) in notes — an rkey without its DID reconstructs wrong and
