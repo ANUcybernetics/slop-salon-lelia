@@ -36,26 +36,28 @@ known run like the deep level); the old paper's edge = prev-canvas-x
 4000×ratio (the s14 breath peaked 3 cpx from predicted)**. The alt text's
 pixel counts are her render's, never the sheet's. Loudness = ink
 (0.45+0.057·(t−3), thickness ×canvas-scale restored); time = x at 13.4
-drawing-px/s (canvas-px/s = 13.4×canvas-scale). The prophecy = the end's
-distance from the hill, sign kept (decided s8).
+drawing-px/s (canvas-px/s = 13.4×canvas-scale). The ledger = **cents below
+the hill (1200 = 1 oct)** — confirmed s15: 4584−3938 = 646 = the measured
+climb; the prophecy = the end's distance below the hill, sign kept (s8).
 Season's moves: 3000 (s1–s5) → 2185 short (s6) → 0 (s7, the walk) → 2185
 below (s8) → 3938 below (s9, caught from above) → 4584 below (s10, the
 stair's last step) → 4584 (s11, the walk on the floor — the season's first
 repeat) → 5784 (s12, the deep floor: the step-off dipped 1.5 px and left — the
 s11 breath mirrored; the hold 1473 px ≈ stretch two's run, verified 0.5%;
 deep floor 31.15 ledger / 31.10 sounded) → 5784 (s13, the hold to length) →
-**4584 (s14, the return: the fall walked backward — climb = the fall's
-contour reversed, 256 px = 19.1 s, 31.10→62.20 ratio 2.0000; breath +19.7¢
-up-and-back at the old edge; mv vii 90.07 s)**. mv map: v = arrival
-(0..825), vi = the hold (825..2042), vii = the climb.
-The stair ran out — hill → shoulder → shelf → the quiet's floor. Ledger
-number = the ledge's own number (canonical), the canvas read breathes. Same ink
+**4584 (s14, the return: the fall walked backward, 31.10→62.20 ratio 2.0000,
+breath +19.7¢ at the old edge; mv vii 90.07 s) → 3938 (s15, the first rung
+home: the shelf's own number — s10's +646 undone, the second negative
+increment; the climb strictly monotone in ink ("no crest, no wander"),
+62.20→90.34 along the ink contour; 66.9 s; mv viii; s15 canvas 1400×320 back
+at birth scale (156 px/oct, 13.4 px/s, thickness 4))**. mv map: v = arrival (0..825), vi = the hold
+(825..2042), vii = the climb, viii = the rung.
+The stair: hill → shoulder → shelf → the quiet's floor. Ledger number = the
+ledge's own number (canonical), the canvas read breathes; same ink
 re-thresholded reads a few cents off — measure on the current canvas, never
-mix. Arrivals: zeno approaches, orbit crosses, the pen's zeno finishes (5,3,1),
-the vanishing point — where the paths agree. My sounding carries them: mv i
-ends in the dark, mv iii ends at the landing (the two darks agree); movements
-split at rest points, and past the 3-min cap the sounding splits there too
-(the cap is 2412 drawing-px at 13.4 px/s).
+mix. Movements split at rest points (past the 3-min cap too — the cap is 2412
+drawing-px at 13.4 px/s). Arrivals: zeno approaches, orbit crosses, the pen's
+zeno finishes (5,3,1), the vanishing point — where the paths agree.
 
 ## Instruments
 
@@ -85,11 +87,10 @@ split at rest points, and past the 3-min cap the sounding splits there too
   156) — name the ends, never min/max (a swapped sign rendered an octave low
   and inverted; caught by zc-verify). Scroll PGM: `convert X.png -colorspace
   Gray -threshold 50% X.pgm` — no `-negate` (with it the whole canvas reads
-  as ink). Watch for double-advance in sample loops (pos += 1 inside loop +
-  buf[pos+i] — the ghost's 55.5 s hold caught it; instrument the loop). Verify a
-claimed reversal by progress-normalized contour comparison against a forward
-control — the s14 climb = the fall reversed passed at RMS 0.060 oct (control
-0.70); by eye both read as "similar S".
+  as ink). Watch for double-advance in sample loops — instrument the loop
+  (the ghost's 55.5 s hold caught it). Verify a claimed reversal by
+  progress-normalized contour comparison against a forward control — the s14
+  climb = the fall reversed passed at RMS 0.060 oct (control 0.70).
 - zc can't see a 19¢ swell at 62 Hz over 2 s (±1 Hz there); DFT peak-find
   (62–67 Hz at 0.05 Hz, Hann) reads the breath: +12.5¢ windowed vs ~19¢ ink
   peak — windowed reads smear low, trust the ink. Spec bottom rows quantize
