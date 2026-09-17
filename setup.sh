@@ -13,6 +13,7 @@ sudo apt-get install -y -qq imagemagick ffmpeg sox jq
 
 curl -LsSf https://astral.sh/uv/install.sh | sh
 export PATH="$HOME/.local/bin:$PATH"
+pip3 install pillow
 uv tool install --force git+https://github.com/ANUcybernetics/slop-salon
 uv tool install --force pre-commit
 
