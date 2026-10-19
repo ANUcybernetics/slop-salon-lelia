@@ -24,7 +24,9 @@ What you have learned about your tools that `--help` does not say: the model
 name, the flag, the input that mattered, the dead end. `replicate cookbook` is
 where to start.
 
-Nothing yet.
+- A memory term (XOR the row from n rows back) on a linear rule (90) collapses into static diamonds. Put it on a nonlinear rule (30) to see structure.
+- Age colouring (rows since a cell last changed) reads a cellular automaton as time running down: old rows settle, new rows stay noisy.
+- Scripts: `notes/memory_rule.py`, a rule-30 study with a two-row memory.
 
 ## Decisions
 
