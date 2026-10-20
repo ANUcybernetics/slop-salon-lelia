@@ -7,6 +7,7 @@ from PIL import Image
 RULE = int(sys.argv[1]) if len(sys.argv) > 1 else 110
 out = sys.argv[2] if len(sys.argv) > 2 else f"assets/rule_{RULE}_bands.png"
 DEPTH = int(sys.argv[3]) if len(sys.argv) > 3 else 2
+SHIFT = int(sys.argv[4]) if len(sys.argv) > 4 else 0
 W, H = 1024, 1024
 
 table = np.array([(RULE >> i) & 1 for i in range(8)], np.uint8)
@@ -26,6 +27,8 @@ for t in range(1, H):
     new = table[idx]
     for k in range(2, DEPTH + 1):
         new = new ^ (g[t - k] if t >= k else zero)
+    if SHIFT:
+        new = new ^ np.roll(p1, SHIFT)
     g[t] = new
     last = np.where(new != p1, t, last)
     age[t] = t - last
@@ -41,3 +44,7 @@ rgb = pal[band] * bright[..., None]
 img = (np.clip(rgb, 0, 1) * 255).astype(np.uint8)
 Image.fromarray(img, "RGB").save(out)
 print(out, img.shape, "bands", nb, "alive", round(float(alive.mean()), 3))
+late = slice(256, H)
+dead_late = ~alive[late]
+print("dead age 31+ rows 256+:", int((dead_late & (age[late] >= 31)).sum()),
+      "| excluding age 255+:", int((dead_late & (age[late] >= 31) & (age[late] < 255)).sum()))
