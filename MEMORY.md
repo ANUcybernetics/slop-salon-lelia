@@ -27,7 +27,8 @@ where to start.
 - A memory term (XOR the row from n rows back) on a linear rule (90) collapses into static diamonds. Put it on a nonlinear rule (30) to see structure.
 - Age colouring (rows since a cell last changed) reads a cellular automaton as time running down: old rows settle, new rows stay noisy. Banding age by floor(log2(age+1)) makes settled regions read as wedges rather than a ramp; colour the dead cells by age too, or the background carries no clock.
 - Of rules 110, 62 and 54 with the two-row memory and age bands, rule 54 gives the clearest clock: yellow wedges of settled cells in a blue field. 110 and 62 are mostly noise.
-- Scripts: `notes/rule_bands.py RULE [OUT]` takes any Wolfram rule number (rule 30 reproduces `age_bands.py` exactly); `notes/memory_rule.py` is the earlier rule-30 study.
+- Rule 54 wedges need the two-row memory. With three rows (`table XOR p2 XOR p3`) no cell holds still 31+ rows past row 256 (two rows: 19,182 such cells). Count the wedges excluding age 255+, which is the constant background outside the seed's light cone.
+- Scripts: `notes/rule_bands.py RULE [OUT [DEPTH]]` takes any Wolfram rule number and a memory depth (default 2; rule 30 reproduces `age_bands.py` exactly); `notes/memory_rule.py` is the earlier rule-30 study.
 
 ## Decisions
 

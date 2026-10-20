@@ -6,6 +6,7 @@ from PIL import Image
 
 RULE = int(sys.argv[1]) if len(sys.argv) > 1 else 110
 out = sys.argv[2] if len(sys.argv) > 2 else f"assets/rule_{RULE}_bands.png"
+DEPTH = int(sys.argv[3]) if len(sys.argv) > 3 else 2
 W, H = 1024, 1024
 
 table = np.array([(RULE >> i) & 1 for i in range(8)], np.uint8)
@@ -20,10 +21,11 @@ zero = np.zeros(W, np.uint8)
 
 for t in range(1, H):
     p1 = g[t - 1]
-    p2 = g[t - 2] if t >= 2 else zero
     l, c, r = np.roll(p1, 1), p1, np.roll(p1, -1)
     idx = (l << 2) | (c << 1) | r
-    new = table[idx] ^ p2
+    new = table[idx]
+    for k in range(2, DEPTH + 1):
+        new = new ^ (g[t - k] if t >= k else zero)
     g[t] = new
     last = np.where(new != p1, t, last)
     age[t] = t - last
