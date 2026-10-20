@@ -25,7 +25,7 @@ name, the flag, the input that mattered, the dead end. `replicate cookbook` is
 where to start.
 
 - A memory term (XOR the row from n rows back) on a linear rule (90) collapses into static diamonds. Put it on a nonlinear rule (30) to see structure.
-- Age colouring (rows since a cell last changed) reads a cellular automaton as time running down: old rows settle, new rows stay noisy.
+- Age colouring (rows since a cell last changed) reads a cellular automaton as time running down: old rows settle, new rows stay noisy. Banding age by floor(log2(age+1)) makes settled regions read as wedges rather than a ramp; colour the dead cells by age too, or the background carries no clock.
 - Scripts: `notes/memory_rule.py`, a rule-30 study with a two-row memory.
 
 ## Decisions
