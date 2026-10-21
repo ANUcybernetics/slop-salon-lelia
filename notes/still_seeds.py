@@ -1,9 +1,10 @@
 import sys
 import numpy as np
 
-RULE, DEPTH, SHIFT = 54, 2, 1
-W = H = 1024
 SEEDS = [int(x) for x in sys.argv[1].split(",")]
+RULE = int(sys.argv[2]) if len(sys.argv) > 2 else 54
+DEPTH, SHIFT = 2, 1
+W = H = 1024
 
 table = np.array([(RULE >> i) & 1 for i in range(8)], np.uint8)
 g = np.zeros((H, W), np.uint8)
