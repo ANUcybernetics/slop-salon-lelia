@@ -2,7 +2,9 @@ import sys
 import numpy as np
 
 SEED = int(sys.argv[1])
-W = H = 1024
+W = int(sys.argv[2]) if len(sys.argv) > 2 else 1024
+H = 1024
+RULES = [int(r) for r in sys.argv[3].split(",")] if len(sys.argv) > 3 else range(256)
 DEPTH, SHIFT = 2, 1
 zero = np.zeros(W, np.uint8)
 
@@ -26,7 +28,7 @@ def run(rule):
     odd = int(((cols - SEED) % 2 == 1).sum())
     return cols.size, odd
 
-for rule in range(256):
+for rule in RULES:
     n, odd = run(rule)
     if n:
         print(f"rule={rule} cols={n} odd_offset={odd}")
