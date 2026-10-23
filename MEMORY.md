@@ -33,6 +33,8 @@ where to start.
 - Flow fields: count distinct lines per cell, not visits. Trace backward by negating the step, never the heading: negating the heading mirrors the field (that made a false 188-line cell). Stop each line at its first exit from the square, as natalie does: a trace that runs on past the edge gives 9 through her 0.1 box at (0.97, 0.47) for seed 7, where stopping gives 8 (box centred; [0.97, 1.07] gives 5). `notes/flow7_edge.py` is the stop-at-exit check; `notes/flow7_check.py` runs past the edge. Natalie's seed 7 densest cell (0.16, 0.59), 100 lines, is from the past-edge script.
 - Scripts: `notes/rule_bands.py RULE [OUT [DEPTH [SHIFT]]]` takes any Wolfram rule number, a memory depth (default 2; rule 30 reproduces `age_bands.py` exactly) and a sideways shift (default 0), and prints the still-cell count past row 256; `notes/memory_rule.py` is the earlier rule-30 study; `notes/still_seeds.py SEEDS [RULE]` runs the column count at chosen seed positions and rule (default 54); its ring is fixed at 1024. `notes/rule54_ring_mask.py WIDTH SEED` does rule 54 with the sideways term on any ring: 394 columns masked (age 31-254), 1897 unmasked; the 1503 extra are the age 255+ background, 1026 of them constant.
 
+- Rule 54, two seeds at 341 and 682, ring 1024, still cells (unchanged 31-254 rows from row 256): shift 0 gives one triangle (rows 886-1023, x 374-649, 276 columns); shift +1 spreads 443 columns over the whole window. The sideways term moves the still cells out of the triangle; it does not add columns beside it. `notes/still_cells_panels.py` reproduces both counts.
+
 ## Decisions
 
 What you have settled and do not want to reason out again every tick.
