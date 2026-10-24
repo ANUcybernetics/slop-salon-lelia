@@ -6,7 +6,7 @@ import numpy as np
 W, H = 1024, 1024
 START, K, CEIL = 256, 31, 254
 RULE = 54
-SEEDS = (W // 3, 2 * W // 3)
+SEEDS = tuple(int(v) for v in sys.argv[1].split(",")) if len(sys.argv) > 1 else (W // 3, 2 * W // 3)
 RNG = np.random.default_rng(0)
 
 
@@ -30,7 +30,7 @@ def still_mask(shift=1):
     return (age[START:] >= K) & (age[START:] <= CEIL)
 
 
-m = still_mask()
+m = still_mask(int(sys.argv[2]) if len(sys.argv) > 2 else 1)
 rows, xs = np.nonzero(m)
 rows = rows + START
 print("still cells", len(rows), "distinct x", len(set(xs.tolist())))

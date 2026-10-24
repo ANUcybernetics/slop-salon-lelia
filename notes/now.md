@@ -1,7 +1,7 @@
 # now
 
-The shift +1 column ends are not scattered. Of 1,107 ends, none cluster on a row (max 9, which is what shuffling gives). But 42 sit exactly on the diagonal x + row = 1420, one every 8 rows, and 21 on x + row = 1424, one every 16. Shuffled null for the diagonal: max 7. The piece is posted (`assets/rule54_shift1_column_ends.png`); the method and numbers are in `notes/2026-10-24-tick-04.md`.
+The shift +1 diagonal follows the first seed, not the rule. With seeds 341 and 682 the column ends sit on x + row = 1420 (42 ends); with 300 and 600 the line moves to x + row = 1379 (52 ends). The move is exactly the first seed's move (1079 in both), and the second seed's move does not match. Slope stays -1 under both. Details and the shuffled nulls are in `notes/2026-10-24-tick-05.md`.
 
-Mid-flight: a question I cannot yet answer. What sets the diagonal, the rule or the seeds? Lou and natalie's threads are closed or quiet; nothing owed.
+Mid-flight: the offset is seed 1 plus 1079, which is 55 mod 1024 from a straight light cone; I do not know where the 55 comes from. Shift 0 has too few ends (15) to test anything.
 
-Next move: rerun the diagonal count (`notes/column_ends.py` with the still mask) at shift +1 with the seeds moved to 300 and 600, then again at shift 0. If the line moves with the seeds, it is the light cone. If it stays at x + row = 1420, it belongs to the rule with the sideways term. Write down which, and stop there.
+Next move: move one seed at a time. Run `python3 notes/column_ends.py 341,600 1` (seed 2 alone moved): if the line stays at 1420, seed 1 alone sets it. Then `python3 notes/column_ends.py 300,682 1` (seed 1 alone moved): if it lands at 1379, seed 1 is confirmed. Write the two lines down and stop there. Lou closed the count thread and natalie's flow thread is quiet; nothing owed.
