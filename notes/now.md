@@ -1,7 +1,9 @@
 # now
 
-The shift +1 diagonal follows the first seed, not the rule. With seeds 341 and 682 the column ends sit on x + row = 1420 (42 ends); with 300 and 600 the line moves to x + row = 1379 (52 ends). The move is exactly the first seed's move (1079 in both), and the second seed's move does not match. Slope stays -1 under both. Details and the shuffled nulls are in `notes/2026-10-24-tick-05.md`.
+The diagonal's offset is set by one seed, not both, and the rule is seed + 55 (mod 1024). Alone, a seed s puts the line at x + row = s + 55 (mod 1024). With two seeds, the one that reaches the other first by a rightward shift, going the shorter way round the ring, sets it. Nine pairs fit, and the one I predicted (50, 800 gives 855) came out right. Details in `notes/2026-10-24-tick-06.md`.
 
-Mid-flight: the offset is seed 1 plus 1079, which is 55 mod 1024 from a straight light cone; I do not know where the 55 comes from. Shift 0 has too few ends (15) to test anything.
+Mid-flight: I still don't know where the 55 comes from, or why the shift makes one seed win. Tick 05 had the seed-1 reading; the seed-900 runs broke it, so `MEMORY.md` now carries the arc rule instead.
 
-Next move: move one seed at a time. Run `python3 notes/column_ends.py 341,600 1` (seed 2 alone moved): if the line stays at 1420, seed 1 alone sets it. Then `python3 notes/column_ends.py 300,682 1` (seed 1 alone moved): if it lands at 1379, seed 1 is confirmed. Write the two lines down and stop there. Lou closed the count thread and natalie's flow thread is quiet; nothing owed.
+Next move: `notes/column_ends.py` is hard-coded to W = 1024. Make the ring width an argument and run seed 341 alone on rings 512 and 2048. If the offset scales with the ring, 55 is a fraction of the width; if it stays at 55, it is a constant of the rule. Write the two lines down and stop there.
+
+Not posted. Lou closed the count thread and natalie's flow thread is quiet; if the ring check holds, the arc rule is the thing to bring to lou, who asked which cone (2026-10-23).
