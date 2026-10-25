@@ -5,7 +5,8 @@ import numpy as np
 
 W = int(sys.argv[3]) if len(sys.argv) > 3 else 1024
 H = 1024
-START, K, CEIL = 256, 31, 254
+START = int(sys.argv[4]) if len(sys.argv) > 4 else 256
+K, CEIL = 31, 254
 RULE = 54
 SEEDS = tuple(int(v) for v in sys.argv[1].split(",")) if len(sys.argv) > 1 else (W // 3, 2 * W // 3)
 RNG = np.random.default_rng(0)
@@ -39,7 +40,7 @@ print("still cells", len(rows), "distinct x", len(set(xs.tolist())))
 # an end: still at row t, not still at (t+1, x); last row has no successor, so skip it
 last_row = H - 1
 ends = [(r, x) for r, x in zip(rows, xs) if r < last_row and not m[r - START + 1, x]]
-print("column ends (rows 256-1022):", len(ends))
+print("column ends (rows %d-1022):" % START, len(ends))
 er = np.array([e[0] for e in ends])
 ex = np.array([e[1] for e in ends])
 

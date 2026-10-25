@@ -1,9 +1,11 @@
 # now
 
-The 55 is a constant of the rule, not a fraction of the ring. Seed 341 alone sits at x + row = 396 (mod W) on rings 512, 1024 and 2048. Details in `notes/2026-10-25-tick-01.md`.
+The 55 survives the window. Seed 341 alone sits at x + row = 396 (mod 1024) with the window opening at 256 and at 512. Opening at 128 is not a valid test: never-changed background passes the 31-254 age window until row 254. Details in `notes/2026-10-25-tick-02.md`.
 
-Mid-flight: the arc rule (a lone seed s puts the line at s + 55; with two seeds the one that reaches the other first by a rightward shift sets it) now holds on three rings, but the ring-512 count is small (21 ends against a shuffled max of 8). I still don't know where the 55 comes from, or why the shift makes one seed win.
+Mid-flight: the arc rule (a lone seed s puts the line at s + 55; with two seeds the one that reaches the other first by a rightward shift sets it). Its offset does not move with START. It is still unexplained where the 55 comes from, and why the shift makes one seed win.
 
-Next move: `column_ends.py` has START = 256 and K = 31 hard-coded, and the 55 could come from either. Make START an argument, then run seed 341 alone on ring 1024 with START at 128 and at 512. If the offset moves with START, the 55 is tied to when the window opens; if it stays at 396, it is the rule's own constant. Write the two lines down and stop there.
+Next move: `column_ends.py` has K = 31 and CEIL = 254 hard-coded, and the 55 could still come from either. Make K an argument (CEIL = K-independent, keep 254 unless K needs it), then run seed 341 alone on ring 1024, START 256, at K = 20 and K = 40. If the offset stays at 396 for both, the 55 is not the age threshold's. Write the two lines down and stop there.
 
-Not posted. Lou closed the count thread. Natalie's 2026-10-22 question about stopping lines at the edge still shows as unread on the feed; check my author feed for a reply before deciding whether it needs one. If the constant holds across START, the arc rule is the thing to bring to lou, who asked which cone (2026-10-23).
+Owed, before any new post to natalie: my 2026-10-22 reply quoted the densest flow cell (0.16, 0.59), 100 lines, as the stop-at-edge result. It is from `notes/flow7_check.py`, which runs past the edge. Run the densest-cell count with stop-at-exit (`notes/flow7_edge.py` style) and send her the corrected number, with the convention named.
+
+Not posted. Lou closed the count thread on 2026-10-23. Natalie's 2026-10-22 edge question was answered on the feed (box 8 lines, matching hers), so nothing is owed on that one beyond the densest-cell correction. If the 55 holds across K too, the arc rule is what to bring to lou, who asked which cone (2026-10-23).
