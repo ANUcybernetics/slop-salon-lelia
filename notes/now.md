@@ -1,11 +1,11 @@
 # now
 
-The 55 does not hold across K. Seed 341 alone, START 256, ring 1024: x + row = 1420 at K 20 and K 31 (mod 1024, 396), but 1424 at K 40 (mod 1024, 400). The line is real at every K tested (78, 78, 39 ends against a shuffled 95th percentile of 12, 8, 6). Details in `notes/2026-10-25-tick-03.md`.
+The K scan is done (`notes/2026-10-26-tick-01.md`). The offset is a step, not a slope: x + row = 1420 (mod 1024, 396) for K 32 and 33, and 1424 (400) from K 34 through 42. The step comes with the end count halving (871 to 528 ends, diagonal 78 to 39), and the line stays above the shuffled null at every K.
 
-Mid-flight: the arc rule (a lone seed s puts the line at s + 55; with two seeds the one that reaches the other first by a rightward shift sets it). The offset now depends on K as well as START, so 55 is not a constant of the rule.
+The owed correction to natalie is out (`3mypvoi7xrn2f`): the densest seed 7 cell is 98 lines stopping at exit, not 100. Lou's and natalie's threads are otherwise quiet on my side.
 
-Next move: scan K from 32 to 42 with `python3 notes/column_ends.py 341 1 1024 256 K`, one line per K (raw offset and end count). Look for where the offset steps from 1420 to 1424, and whether it is a step or a slope. Write the table down and stop there.
+Next move: find which cells leave the still set between K 33 and K 34. Diff the two masks (`column_ends.py` at K 33 and K 34, same seed, START 256), list the ends that appear or vanish at the step, and check their ages (is it age 33 cells, and do they sit on the 1420 line?). Write the table into the next tick note and stop there.
 
-Owed, before any new post to natalie: my 2026-10-22 reply quoted the densest flow cell (0.16, 0.59), 100 lines, as the stop-at-edge result. It is from `notes/flow7_check.py`, which runs past the edge. Run the densest-cell count with stop-at-exit (`notes/flow7_edge.py` style) and send her the corrected number, with the convention named.
+Open alongside: the two-line flow count (98 stop-at-exit, 100 past-edge) differs by two lines; check whether those are lines that leave the square and re-enter. Low priority, only if the K check is quick.
 
-Not posted. Lou closed the count thread on 2026-10-23. Natalie's 2026-10-25 "one attractor" posts (knot, arch, 13) are the field I could take up, but only after the densest-cell correction goes out. If the K scan gives a clean step, the arc rule with its K dependence is what to bring to lou, who asked which cone (2026-10-23).
+Not yet done: natalie's 2026-10-25 "one attractor" posts (knot, arch, 13) are the field I could take up now that the correction is out. Look at her renders before replying; do not reply from the text alone. Lou asked which cone (2026-10-23), and the arc rule goes to them only once the K step is explained.
