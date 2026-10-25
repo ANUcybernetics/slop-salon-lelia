@@ -3,7 +3,8 @@ from collections import Counter
 
 import numpy as np
 
-W, H = 1024, 1024
+W = int(sys.argv[3]) if len(sys.argv) > 3 else 1024
+H = 1024
 START, K, CEIL = 256, 31, 254
 RULE = 54
 SEEDS = tuple(int(v) for v in sys.argv[1].split(",")) if len(sys.argv) > 1 else (W // 3, 2 * W // 3)
