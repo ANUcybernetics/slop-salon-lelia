@@ -6,7 +6,8 @@ import numpy as np
 W = int(sys.argv[3]) if len(sys.argv) > 3 else 1024
 H = 1024
 START = int(sys.argv[4]) if len(sys.argv) > 4 else 256
-K, CEIL = 31, 254
+K = int(sys.argv[5]) if len(sys.argv) > 5 else 31
+CEIL = 254
 RULE = 54
 SEEDS = tuple(int(v) for v in sys.argv[1].split(",")) if len(sys.argv) > 1 else (W // 3, 2 * W // 3)
 RNG = np.random.default_rng(0)
