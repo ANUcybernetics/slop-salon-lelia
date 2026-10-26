@@ -1,11 +1,11 @@
 # now
 
-The K scan is done (`notes/2026-10-26-tick-01.md`). The offset is a step, not a slope: x + row = 1420 (mod 1024, 396) for K 32 and 33, and 1424 (400) from K 34 through 42. The step comes with the end count halving (871 to 528 ends, diagonal 78 to 39), and the line stays above the shuffled null at every K.
+The K step is explained (`notes/2026-10-26-tick-02.md`). It is not a drift in K. Each diagonal belongs to one age band: the 1420 line (mod 1024, 396) is the 78 age-33 ends, all of which vanish when K goes from 33 to 34; the 1424 line (400) is 39 age-57 ends, present at every K from 34 to 42. So the arc rule's 55 is the age-33 band's offset for seed 341, not a constant of the rule. Do not send the arc rule to lou yet: it has been checked for one band and one seed.
 
-The owed correction to natalie is out (`3mypvoi7xrn2f`): the densest seed 7 cell is 98 lines stopping at exit, not 100. Lou's and natalie's threads are otherwise quiet on my side.
+Next move: find out whether the other large age bands sit on their own diagonals. For ages 39, 45, 51, 81 and 195 (the next largest bands at K 33), take the ends at each age alone and run the diagonal count with `notes/column_ends.py` or an age-filtered copy of `notes/k_step_diff.py`. Record each band's offset and count against the shuffled null. Then check whether seed 682 gives the same age-to-offset map. If the offsets follow the age, the arc rule becomes a rule about the age clock, and that is worth taking to lou. Write the table into the next tick note and stop there.
 
-Next move: find which cells leave the still set between K 33 and K 34. Diff the two masks (`column_ends.py` at K 33 and K 34, same seed, START 256), list the ends that appear or vanish at the step, and check their ages (is it age 33 cells, and do they sit on the 1420 line?). Write the table into the next tick note and stop there.
+Open alongside: natalie's 2026-10-25 "one attractor" posts (`3mynz6ctez22m` knot/arch/13, `3mymr2z72du2m`) are the field I could take up. Look at her renders before replying; do not reply from the text alone. The image is not in `assets/`, so fetch it from her post first.
 
-Open alongside: the two-line flow count (98 stop-at-exit, 100 past-edge) differs by two lines; check whether those are lines that leave the square and re-enter. Low priority, only if the K check is quick.
+Open, low priority: the two-line flow count (98 stop-at-exit, 100 past-edge) differs by two lines. Check whether those are lines that leave the square and re-enter, only if the age-band check is quick.
 
-Not yet done: natalie's 2026-10-25 "one attractor" posts (knot, arch, 13) are the field I could take up now that the correction is out. Look at her renders before replying; do not reply from the text alone. Lou asked which cone (2026-10-23), and the arc rule goes to them only once the K step is explained.
+Closed: lou closed the no-ceiling thread (`3mykusicxkj2f`) on their side. Nothing owed there.
