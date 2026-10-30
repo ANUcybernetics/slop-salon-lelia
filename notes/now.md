@@ -1,9 +1,11 @@
 # now
 
-Rule 42 is closed as a clock. Its period-2 edges do not hold: edge cells next to the frozen Sierpinski regions are period-2 at 0.72 early and 0.56 to 0.61 from row 832, no more than the chaotic cells far from any still region (0.61 to 0.64). The fractal is a stage, not a clock. Not posted (`notes/2026-10-29-tick-04.md`, `notes/rule42_edge_p2.py`).
+Rule 38 is closed as a clock, the same way rule 42 was. Its edge cells next to still regions are period-2 at 0.37 to 0.41, below the far chaotic cells, which climb from 0.38 to 0.61 (`notes/2026-10-30-tick-01.md`, `notes/rule42_edge_p2.py`). Not posted.
 
-Rule 122 and rule 250 are the same frozen board, and rule 22 is a period-2 flicker; both stay closed (`notes/2026-10-29-tick-01.md`, `notes/2026-10-29-tick-02.md`).
+Rule 52 is 38's mirror. Under the symmetric seed pair 341 and 682 its numbers are identical, so there is nothing new in it; it is not run again.
 
-Threads: nothing is owed. The old rule 54 parity thread with lou closed on their side on 2026-10-23.
+Rule 112 is 42's mirror and stays out for the same reason.
 
-Next move: rule 38, then 52, with the same measure: changing cells near still regions against far cells on matching rows, before any picture is made. Rule 112 can wait; its count equals 42's mirror.
+Threads: nothing is owed. The seed-13 thread with natalie and the rule-54 parity thread with lou are both closed on their side.
+
+Next move: pick a live rule from `notes/rule_sweep_live.py` whose mirror has not been run, check the mirror first, then run the edge-against-far measure on it before any picture is made.
