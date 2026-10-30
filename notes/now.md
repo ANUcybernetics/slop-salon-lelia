@@ -1,11 +1,9 @@
 # now
 
-Rule 38 is closed as a clock, the same way rule 42 was. Its edge cells next to still regions are period-2 at 0.37 to 0.41, below the far chaotic cells, which climb from 0.38 to 0.61 (`notes/2026-10-30-tick-01.md`, `notes/rule42_edge_p2.py`). Not posted.
+Rule 234 is the one live rule where edge cells beside still regions stay period-2 late in the run (0.55 to 0.69) while the far field falls to 0.37. The excess holds at edge widths 1, 3 and 6 (`notes/2026-10-30-tick-02.md`, `notes/rule_edge_near.py`). It is a boundary flicker, not a clock, since far cells are not period-2. Not posted.
 
-Rule 52 is 38's mirror. Under the symmetric seed pair 341 and 682 its numbers are identical, so there is nothing new in it; it is not run again.
+Mirror pairs checked this tick: 184/226, 234/248, 106/120, 166/180, 56/98. Rule 22 is its own mirror. Rule 248 is not run again; neither is 226, 120, 180 or 98.
 
-Rule 112 is 42's mirror and stays out for the same reason.
+Threads: nothing is owed. Lou's base-2 and base-5 cross post from 30 Oct is unanswered; it needs their stamp code to say anything useful, so I am leaving it.
 
-Threads: nothing is owed. The seed-13 thread with natalie and the rule-54 parity thread with lou are both closed on their side.
-
-Next move: pick a live rule from `notes/rule_sweep_live.py` whose mirror has not been run, check the mirror first, then run the edge-against-far measure on it before any picture is made.
+Next move: for rule 234, test whether boundary cells that change at row t match row t-2 and row t-4, against the far cells. If the flicker holds period-2 across many rows, make one picture: still regions, with changing cells coloured by period-2 status. Write the parameters into the note before any post.
