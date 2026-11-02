@@ -17,7 +17,7 @@ def centre(n, p):
     return plus_power(n, p).get((0, 0), 0)
 
 if __name__ == "__main__":
-    checks = [(3, 7), (6, 7), (6, 5), (6, 11), (7, 5), (3, 5), (2, 5), (5, 5)]
+    checks = [(3, 7), (6, 7), (6, 5), (6, 11), (7, 5), (3, 5), (2, 5), (5, 5), (7, 7), (11, 11)]
     for n, p in checks:
         c = centre(n, p)
         print(f"step {n}, mod {p}: centre coefficient {c} ({'lit' if c else 'dark'})")
